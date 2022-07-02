@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="295784">
+  <docid>295784</docid>
+  <title>Kollektsioner</title>
+  <year>2001</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Antipenko, Albina</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>Russian</language>
+  </languages>
+  <countries>
+    <country>Russia</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="Russia">100</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Grymov, Yuri</director>
+  </directors>
+  <writers>
+    <writer>Grymov, Yuri</writer>
+    <writer>Yegorova, Tatyana</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Badalov, Karen</actor>
+      <role>Petr</role>
+    </credit>
+    <credit>
+      <actor>Mazurkevich, Irina</actor>
+      <role>Vera</role>
+    </credit>
+    <credit>
+      <actor>Petrenko, Aleksei</actor>
+      <role>The Collector</role>
+    </credit>
+    <credit>
+      <actor>Prihodko, Andrei</actor>
+      <role>Andrei</role>
+    </credit>
+    <credit>
+      <actor>Tsyganov, Yevgeni</actor>
+      <role>Ilya</role>
+    </credit>
+  </cast>
+<plot>The Collector (Petrenko) is using his massive collection of curiosities and arts to provoke and manipulate people into a different state of mind. The Collector's daughter is building her own collection, she is having an affair with three guests of her father, and they are about to make some strange discoveries.</plot><url>http://localhost:8983/solr/movie.html?295784</url></doc>

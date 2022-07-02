@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="441254">
+  <docid>441254</docid>
+  <title>Power Rangers Wild Force</title>
+  <year>2002</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bracken, Richard</editor>
+    <editor>LaVine, Ronald</editor>
+    <editor>Rainey, Eric (I)</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Thriller</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">MG6</certificate>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">9 March 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Keeter, Worth</director>
+    <director>Sakamoto, Koichi</director>
+    <director>Sakamoto, Tarou</director>
+    <director>Tzachor, Jonathan</director>
+    <director>Withrow, Terry</director>
+  </directors>
+  <producers>
+    <producer>Page-Pagter, Scott</producer>
+    <producer>Rosenthal, Paul</producer>
+    <producer>Sakamoto, Koichi</producer>
+    <producer>Tzachor, Jonathan</producer>
+  </producers>
+  <writers>
+    <writer>Bhaumik, Amit</writer>
+    <writer>Donnellan, Jill (II)</writer>
+    <writer>Rydall, Derek</writer>
+    <writer>Shimoyama, Suzi</writer>
+    <writer>Torpey, Katherine</writer>
+    <writer>Williams, Bergen</writer>
+    <writer>Winkler, William</writer>
+  </writers>
+  <composers>
+    <composer>Rosner, Lior</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adelia, Frank</actor>
+      <role>Quadra Org</role>
+    </credit>
+    <credit>
+      <actor>Aleong, Aki</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Andrew, Philip</actor>
+      <role>Merrick Baliton</role>
+    </credit>
+    <credit>
+      <actor>Andrew, Philip</actor>
+      <role>Merrick Baliton/Lunar Wolf Ranger</role>
+    </credit>
+    <credit>
+      <actor>Apostolina, Stephen</actor>
+      <role>Tombstone Org</role>
+    </credit>
+    <credit>
+      <actor>Batelaan, Kelsey</actor>
+      <role>Young Taylor</role>
+    </credit>
+    <credit>
+      <actor>Bianco, Ana</actor>
+      <role>Cole's Mother</role>
+    </credit>
+    <credit>
+      <actor>Bianco, Ana</actor>
+      <role>Elizabeth Evans</role>
+    </credit>
+    <credit>
+      <actor>Bowles, Beth (I)</actor>
+      <role>Teacher</role>
+    </credit>
+    <credit>
+      <actor>Briddell, Jon</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Bush, Kelly</actor>
+      <role>Bridesmaid</role>
+    </credit>
+    <credit>
+      <actor>Butcher, Paul</actor>
+      <role>Boy in Park</role>
+    </credit>
+    <credit>
+      <actor>Cade, Mark Daniel</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Cahill, Erin</actor>
+      <role>Jen/ Pink Time Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Cansino, Richard</actor>
+      <role>Jindrax</role>
+    </credit>
+    <credit>
+      <actor>Cardwell, Lena</actor>
+      <role>Flower Shop Girl</role>
+    </credit>
+    <credit>
+      <actor>Chukerman, Brett</actor>
+      <role>Collin</role>
+    </credit>
+    <credit>
+      <actor>Cole-Fendley, Courtney</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Copon, Michael</actor>
+      <role>Lucas Kendall/ Blue Time Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Coppola, Christopher (I)</actor>
+      <role>Joker</role>
+    </credit>
+    <credit>
+      <actor>Cramer, Rick</actor>
+      <role>Worker #3</role>
+    </credit>
+    <credit>
+      <actor>Crouch, Ann Marie</actor>
+      <role>Princess Shayla</role>
+    </credit>
+    <credit>
+      <actor>Crouch, Ann Marie</actor>
+      <role>Princess Shayla</role>
+    </credit>
+    <credit>
+      <actor>Curran, Brittany</actor>
+      <role>Young Girl</role>
+    </credit>
+    <credit>
+      <actor>Davis, Charles Gideon</actor>
+      <role>Animus</role>
+    </credit>
+    <credit>
+      <actor>Davis, Palmer</actor>
+      <role>Scotty's Mother</role>
+    </credit>
+    <credit>
+      <actor>Destro, Pat</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Doherty, Ransford</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Epcar, Richard</actor>
+      <role>Bowling Org</role>
+    </credit>
+    <credit>
+      <actor>Faunt, Jason</actor>
+      <role>Bulldozer Org</role>
+    </credit>
+    <credit>
+      <actor>Faunt, Jason</actor>
+      <role>Wes Collins/Red Time Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Ferrara, Johnny</actor>
+      <role>Store Owner</role>
+    </credit>
+    <credit>
+      <actor>Flora, Deborah</actor>
+      <role>Dancing Businesswoman</role>
+    </credit>
+    <credit>
+      <actor>Forester, Billy</actor>
+      <role>Freezer Org</role>
+    </credit>
+    <credit>
+      <actor>Forstadt, Rebecca</actor>
+      <role>Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Frank, Jason David</actor>
+      <role>Tommy Oliver/Red Zeo Ranger</role>
+    </credit>
+    <credit>
+      <actor>Gallo, Michaela</actor>
+      <role>Little Girl</role>
+    </credit>
+    <credit>
+      <actor>Ganun, John</actor>
+      <role>Military Man</role>
+    </credit>
+    <credit>
+      <actor>Gast, Gregory</actor>
+      <role>Professor</role>
+    </credit>
+    <credit>
+      <actor>Glenn, Christopher (II)</actor>
+      <role>Aurico/Red Alien Ranger</role>
+    </credit>
+    <credit>
+      <actor>Goldstein, Ryan (I)</actor>
+      <role>Kite</role>
+    </credit>
+    <credit>
+      <actor>Goldstein, Ryan (I)</actor>
+      <role>Little Boy</role>
+    </credit>
+    <credit>
+      <actor>Goodson, Barbara</actor>
+      <role>Mandilok</role>
+    </credit>
+    <credit>
+      <actor>Gruhot, Travis</actor>
+      <role>Twin #2</role>
+    </credit>
+    <credit>
+      <actor>Gruhot, Trevor</actor>
+      <role>Twin #1</role>
+    </credit>
+    <credit>
+      <actor>Gutierrez, Roberto (III)</actor>
+      <role>Tribal Boy</role>
+    </credit>
+    <credit>
+      <actor>Guzman, Jack</actor>
+      <role>Danny Delgado/Black Bison Wild Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Guzman, Jack</actor>
+      <role>Danny Delgado/Black Bison Wild Force Ranger (Iron Bison)</role>
+    </credit>
+    <credit>
+      <actor>Hall, J.D.</actor>
+      <role>Willie</role>
+    </credit>
+    <credit>
+      <actor>Hansen, Ryan (I)</actor>
+      <role>Pilot #3</role>
+    </credit>
+    <credit>
+      <actor>Harper, Andrea (I)</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>Haywood, Chad</actor>
+      <role>Pilot #2</role>
+    </credit>
+    <credit>
+      <actor>Holmes, William (IV)</actor>
+      <role>Cell Phone Org</role>
+    </credit>
+    <credit>
+      <actor>Holub, Hugh B.</actor>
+      <role>Professor</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Nikita</actor>
+      <role>Soccer Boy #1</role>
+    </credit>
+    <credit>
+      <actor>Horvitz, Richard Steven</actor>
+      <role>Alpha 7</role>
+    </credit>
+    <credit>
+      <actor>Howard, Anne Marie</actor>
+      <role>Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>Jeanmarie, Phillip (I)</actor>
+      <role>Max Cooper/Blue Shark Wild Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Jeanmarie, Phillip (I)</actor>
+      <role>Max Cooper/Blue Shark Wild Force Ranger (Surging Shark)</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Mike (XVIII)</actor>
+      <role>Dancing Boy</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Sean Cw</actor>
+      <role>Carter Grayson/Red Lightspeed Ranger</role>
+    </credit>
+    <credit>
+      <actor>Jones, Walter (I)</actor>
+      <role>Gerrok</role>
+    </credit>
+    <credit>
+      <actor>Kao, Archie</actor>
+      <role>General Venjix</role>
+    </credit>
+    <credit>
+      <actor>Kay, Dominic Scott</actor>
+      <role>Scotty</role>
+    </credit>
+    <credit>
+      <actor>Keiffer, Dennis</actor>
+      <role>Brick</role>
+    </credit>
+    <credit>
+      <actor>Kleinberg, Kevin</actor>
+      <role>Trip Regis/Green Time Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Knickerbocker, Thomas</actor>
+      <role>John Johnson</role>
+    </credit>
+    <credit>
+      <actor>Koyamada, Shin</actor>
+      <role>Force Agent</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Steve (I)</actor>
+      <role>Turbine Org</role>
+    </credit>
+    <credit>
+      <actor>LaFontaine, Luke</actor>
+      <role>Biker #3</role>
+    </credit>
+    <credit>
+      <actor>Lang, Lex</actor>
+      <role>Zen-Aku</role>
+    </credit>
+    <credit>
+      <actor>Lee, Christopher Khayman</actor>
+      <role>Andros/Red Space Ranger</role>
+    </credit>
+    <credit>
+      <actor>Leisure, David</actor>
+      <role>Bus Org</role>
+    </credit>
+    <credit>
+      <actor>Len, Michael</actor>
+      <role>Kindergarten Student #2</role>
+    </credit>
+    <credit>
+      <actor>Lodge, David (IV)</actor>
+      <role>Barbed Wire Org</role>
+    </credit>
+    <credit>
+      <actor>Lodge, David (IV)</actor>
+      <role>Takach/Kired</role>
+    </credit>
+    <credit>
+      <actor>Louwerens, Monica</actor>
+      <role>Flute Org</role>
+    </credit>
+    <credit>
+      <actor>Louwerens, Monica</actor>
+      <role>Karaoke Org</role>
+    </credit>
+    <credit>
+      <actor>Ma, Raymond</actor>
+      <role>Mr. Tasaki</role>
+    </credit>
+    <credit>
+      <actor>Mahan, Kerrigan</actor>
+      <role>Monitor Org</role>
+    </credit>
+    <credit>
+      <actor>Maleki, Christopher</actor>
+      <role>Worker #1</role>
+    </credit>
+    <credit>
+      <actor>Mallow, Dave</actor>
+      <role>Helicos</role>
+    </credit>
+    <credit>
+      <actor>Mallow, Dave</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Mallow, Dave</actor>
+      <role>Series Announcer</role>
+    </credit>
+    <credit>
+      <actor>Mallow, Dave</actor>
+      <role>Vacuum Cleaner Org</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Jack</actor>
+      <role>Cole's Father</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Jack</actor>
+      <role>Richard Evans</role>
+    </credit>
+    <credit>
+      <actor>McConnohie, Michael</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Sandra</actor>
+      <role>Kendall</role>
+    </credit>
+    <credit>
+      <actor>McKinney, Paul</actor>
+      <role>Dancing Businessman</role>
+    </credit>
+    <credit>
+      <actor>Medina Jr., Ricardo</actor>
+      <role>Cole Evans/Red Lion Wild Force Ranger</role>
+    </credit>
+    <credit>
+      <actor>Medina Jr., Ricardo</actor>
+      <role>Cole Evans/Red Lion Wild Force Ranger (Blazing Lion)</role>
+    </credit>
+    <credit>
+      <actor>Mekka, Eddie</actor>
+      <role>Don</role>
+    </credit>
+    <credit>
+      <actor>Merckx, Ken</actor>
+      <role>Nayzor</role>
+    </credit>
+    <credit>
+      <actor>Merckx, Ken</actor>
+      <role>Super Nayzor</role>
+    </credit>
+    <credit>
+      <actor>Narvy, Jason</actor>
+      <role>Eugene 'Skull' Skullovitch</role>
+    </credit>
+    <credit>
+      <actor>Okamura, Gerald</actor>
+      <role>Sensei</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Tony (I)</actor>
+      <role>Signal Org</role>
+    </credit>
+    <credit>
+      <actor>Page-Pagter, Scott</actor>
+      <role>Steelon</role>
+    </credit>
+    <credit>
+      <actor>Papenbrook, Bob</actor>
+      <role>Bell Org</role>
+    </credit>
+    <credit>
+      <actor>Papenbrook, Bob</actor>
+      <role>Mike the Clerk</role>
+    </credit>
+    <credit>
+      <actor>Plantagenet, Richard</actor>
+      <role>Toy Org</role>
+    </credit>
+    <credit>
+      <actor>Prince, Derek Stephen</actor>
+      <role>Tire Org</role>
+    </credit>
+    <credit>
+      <actor>Raz, Yaniv</actor>
+      <role>Excited Student</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Mike (I)</actor>
+      <role>Ship Org</role>
+    </credit>
+    <credit>
+      <actor>Richmond, Branscombe</actor>
+      <role>Mr. Enrile</role>
+    </credit>
+    <credit>
+      <actor>Rotolo, T.J.</actor>
+      <role>Biker #4</role>
+    </credit>
+    <credit>
+      <actor>Rotolo, T.J.</actor>
+      <role>Jindrax</role>
+    </credit>
+    <credit>
+      <actor>Rudy, Dave</actor>
+      <role>Greg</role>
+    </credit>
+    <credit>
+      <actor>Schrier, Paul</actor>
+      <role>Farkas 'Bulk' Bulkmeier</role>
+    </credit>
+    <credit>
+      <actor>Singer, Randy</actor>
+      <role>Worker #4</role>
+    </credit>
+    <credit>
+      <actor>Slavin, Danny</actor>
+      <role>Leo Corbett/Red Galaxy Ranger</role>
+    </credit>
+    <credit>
+      <actor>Snedeker, Bradley (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Sorich, Michael</actor>
+      <role>Artilla</role>
+    </credit>
+    <credit>
+      <actor>Sorich, Michael</actor>
+      <role>Camera Org</role>
+    </credit>
+    <credit>
+      <actor>Sorich, Michael</actor>
+      <role>Locomotive Org</role>
+    </credit>
+    <credit>
+      <actor>Sorich, Michael</actor>
+      <role>Retinax</role>
+    </credit>
+    <credit>
+      <actor>Southworth, Dan</actor>
+      <role>Eric Myers/Quantum Ranger</role>
+    </credit>
+    <credit>
+      <actor>St. Clair, Diego</actor>
+      <role>Little Boy</role>
+    </credit>
+    <credit>
+      <actor>St. Clair, Rico</actor>
+      <role>Little Boy</role>
+    </credit>
+    <credit>
+      <actor>St. John, Austin</actor>
+      <role>Jason Lee Scott/The Red Ranger</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Kim</actor>
+      <role>Lawnmower Org</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Kim</actor>
+      <role>Rofang</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Patrick (I)</actor>
+      <role>Juggelo</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Kirk</actor>
+      <role>Motorcycle Org</role>
+    </credit>
+    <credit>
+      <actor>Tiffany, Don</actor>
+      <role>Worker</role>
+    </credit>
+    <credit>
+      <actor>Vinson, Paul</actor>
+      <role>Blade</role>
+    </credit>
+    <credit>
+      <actor>Volok, Ilia</actor>
+      <role>Master Org</role>
+    </credit>
+    <credit>
+      <actor>Volok, Ilia</actor>
+      <role>Master Org</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Dave (I)</actor>
+      <role>Automon</role>
+    </credit>
+    <credit>
+      <actor>Ward, Selwyn</actor>
+      <role>Theodore J. Jarvis 'T.J.' Johnson/Red Turbo Ranger</role>
+    </credit>
+    <credit>
+      <actor>Wayne, Danny (I)</actor>
+      <role>Human Jindrax</role>
+    </credit>
+    <credit>
+      <actor>Wayne, Danny (I)</actor>
+      <role>Jindrax</role>
+    </credit>
+    <credit>
+      <actor>Weisz, Ezra (III)</actor>
+      <role>Mandilok</role>
+    </credit>
+    <credit>
+      <actor>Wells, Vernon (I)</actor>
+      <role>Ransik</role>
+    </credit>
+    <credit>
+      <actor>Woren, Dan</actor>
+      <role>Onikage</role>
+    </credit>
+    <credit>
+      <actor>Woren, Dan</actor>
+      <role>Zen-Aku</role>
+    </credit>
+    <credit>
+      <actor>Wright, Wendell</actor>
+      <role>Tribal Leader</role>
+    </credit>
+    <credit>
+      <actor>Wyner, Tom</actor>
+      <role>Lion Tamer Org</role>
+    </credit>
+    <credit>
+      <actor>Wyner, Tom</actor>
+      <role>Plug Org</role>
+    </credit>
+    <credit>
+      <actor>Wyner, Tom</actor>
+      <role>Samurai Org</role>
+    </credit>
+  </cast>
+<plot>Power Rangers Wild Force takes place in a city known as Turtle Lake, where evil creatures of the past called The Orgs have returned from their long slumber to cause havoc on earth! As The Orgs return, Princess Shayla of the floating sky island, Animarium, summons forth a group of young adults to call forth the powers of - Power Rangers Wild Force! Together, the Rangers and their Zords must save the planet from Master Org and his minions.</plot><url>http://localhost:8983/solr/movie.html?441254</url></doc>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="018117">
+  <docid>018117</docid>
+  <title>A Wee Bit of Scotland</title>
+  <year>1949</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>narration</keyword>
+    <keyword>scotland</keyword>
+    <keyword>travel</keyword>
+    <keyword>fitzpatrick-traveltalks</keyword>
+    <keyword>title-spoken-by-character</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">7 December 1949</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>FitzPatrick, James A.</producer>
+  </producers>
+  <composers>
+    <composer>Mayfield, James</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>FitzPatrick, James A.</actor>
+      <role>Narrator/Himself</role>
+    </credit>
+  </cast>
+<plot>In this Traveltalks visit to Scotland, we visit several places with familiar names, including Inverness, capital of the ancient Pictish Kingdom; Loch Ness, home of the famous elusive monster; and Saint Andrews, the birthplace of golf.</plot><url>http://localhost:8983/solr/movie.html?018117</url></doc>

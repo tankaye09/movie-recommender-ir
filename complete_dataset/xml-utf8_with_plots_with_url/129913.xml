@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="129913">
+  <docid>129913</docid>
+  <title>Data Stream</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ray, Jon (I)</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>future</keyword>
+    <keyword>android</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">17 February 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">4</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Ray, Jon (I)</director>
+  </directors>
+  <producers>
+    <producer>DeCicco, Chris (II)</producer>
+    <producer>Ray, Jon (I)</producer>
+  </producers>
+  <writers>
+    <writer>Ray, Jon (I)</writer>
+  </writers>
+  <composers>
+    <composer>Ray, Jon (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Crosby, Rhett Ashley</actor>
+      <role>Bounty Hunter</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Melvin</actor>
+      <role>Jay</role>
+    </credit>
+    <credit>
+      <actor>Ke, Joanna</actor>
+      <role>Female Lab Technician</role>
+    </credit>
+    <credit>
+      <actor>Pigott, Niko</actor>
+      <role>Male Lab Technician</role>
+    </credit>
+    <credit>
+      <actor>Ray, James (VII)</actor>
+      <role>Steve</role>
+    </credit>
+  </cast>
+<plot>Steve finds his dream job, however, to work for the company, they require all employees to get an RFID (Radio Frequency Identification) chip embedded in their hands. Data Stream is an Sci-Fi exploration in existentialism of what it means to be human.</plot><url>http://localhost:8983/solr/movie.html?129913</url></doc>

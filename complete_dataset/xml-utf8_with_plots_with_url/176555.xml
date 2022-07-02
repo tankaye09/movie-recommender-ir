@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="176555">
+  <docid>176555</docid>
+  <title>Emit</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Baldovi, Victor</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <keywords>
+    <keyword>cervantes</keyword>
+    <keyword>time-travel</keyword>
+  </keywords>
+  <languages>
+    <language>Spanish</language>
+  </languages>
+  <countries>
+    <country>Spain</country>
+  </countries>
+  <certificates>
+    <certificate country="Spain">T</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Spain">15 November 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Spain">5</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Baldovi, Victor</director>
+  </directors>
+  <producers>
+    <producer>Baldovi, Victor</producer>
+  </producers>
+  <writers>
+    <writer>Baldovi, Victor</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Baldovi, Alex</actor>
+      <role>Cinema keeper</role>
+    </credit>
+    <credit>
+      <actor>Baldovi, Victor</actor>
+      <role>Cervantes</role>
+    </credit>
+  </cast>
+<plot>During a stormy night a cinema keeper is reading the book "Don Quijote de la Mancha". Suddenly, after turning on a microwave oven to cook a lasagna, the cinema keeper travels accidentally trough time and space to meet Cervantes in the past.</plot><url>http://localhost:8983/solr/movie.html?176555</url></doc>

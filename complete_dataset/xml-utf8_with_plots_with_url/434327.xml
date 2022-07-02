@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="434327">
+  <docid>434327</docid>
+  <title>Pizzacato</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+  </genres>
+  <languages>
+    <language>Italian</language>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">29 October 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">35</runningtime>
+    <runningtime country="USA">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Mednikow, Jeff</director>
+  </directors>
+  <producers>
+    <producer>Martinez-Joffre, Miguel</producer>
+    <producer>Plijnaar, Wilbert</producer>
+    <producer>Mednikow, Jeff</producer>
+    <producer>Mednikow, Jeff</producer>
+  </producers>
+  <writers>
+    <writer>Mednikow, Jeff</writer>
+  </writers>
+  <composers>
+    <composer>Grace, Jeff (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>DeLoach, Marcus</actor>
+      <role>Chef/Cricket</role>
+    </credit>
+  </cast>
+<plot>A mock-operetta about a lowly pizza chef who aspires to be a famous opera singer. He finally gets his shot when a famous conductor enters his restaurant. While performing the audition of a lifetime, a cricket becomes angrily determined to ruin his chances.</plot><url>http://localhost:8983/solr/movie.html?434327</url></doc>

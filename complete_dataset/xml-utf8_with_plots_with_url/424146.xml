@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="424146">
+  <docid>424146</docid>
+  <title>Parlez-moi d'amour</title>
+  <year>1994</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Schneider, Inge</editor>
+    <editor>Tsitos, Fillipos</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>emigration</keyword>
+  </keywords>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Tsitos, Fillipos</director>
+  </directors>
+  <writers>
+    <writer>Overberg, Calle</writer>
+    <writer>Spengler, Jannis</writer>
+    <writer>Tsitos, Fillipos</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Overberg, Calle</actor>
+      <role>Russe (Russian)</role>
+    </credit>
+    <credit>
+      <actor>Spengler, Jannis</actor>
+      <role>Grieche (Greek)</role>
+    </credit>
+  </cast>
+<plot>Two emigrants in Germany, one from Russia and the other from Greece, who meet in a bar and do not speak a common language try to maintain a conversation.</plot><url>http://localhost:8983/solr/movie.html?424146</url></doc>

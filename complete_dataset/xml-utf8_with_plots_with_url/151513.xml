@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="151513">
+  <docid>151513</docid>
+  <title>Dirty Test</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Vogler, Marc</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">11 September 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">14</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bauer, Mercedes</director>
+  </directors>
+  <producers>
+    <producer>Perez-Bode, Prisco</producer>
+    <producer>Karamchandani, Shefali</producer>
+  </producers>
+  <writers>
+    <writer>Bauer, Mercedes</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Affinito, Maria Grazia</actor>
+      <role>Esther</role>
+    </credit>
+    <credit>
+      <actor>Bowles, Chili Jay</actor>
+      <role>Methadone counselor</role>
+    </credit>
+    <credit>
+      <actor>Haynes, Anthony</actor>
+      <role>Vic</role>
+    </credit>
+    <credit>
+      <actor>Lischinsky, David</actor>
+      <role>Neil</role>
+    </credit>
+    <credit>
+      <actor>Maciel, Rosemary</actor>
+      <role>Homeless woman</role>
+    </credit>
+  </cast>
+<plot>It's a hard chapter in Esther's life as she improvises to salvage what's left of her family. She has to get her father off drugs before his next parole appointment. She takes to extreme measures to get him through and in doing so realizes the struggle is far from over.</plot><url>http://localhost:8983/solr/movie.html?151513</url></doc>

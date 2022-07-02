@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="609037">
+  <docid>609037</docid>
+  <title>Tiny Toon Adventures</title>
+  <year>1990</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Breitenbach, Al</editor>
+    <editor>Foley, Kelly Ann</editor>
+    <editor>Gilroy-Nielsen, Theresa</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>road-runner</keyword>
+    <keyword>bugs-bunny</keyword>
+    <keyword>foghorn-leghorn</keyword>
+    <keyword>young-versions-of-characters</keyword>
+    <keyword>cat</keyword>
+    <keyword>hollywood</keyword>
+    <keyword>cult-cartoon</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>daffy-duck</keyword>
+    <keyword>goopy-geer</keyword>
+    <keyword>imagination</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>acme-brand</keyword>
+    <keyword>duck</keyword>
+    <keyword>road-runner-coyote</keyword>
+    <keyword>bosko</keyword>
+    <keyword>spoof</keyword>
+    <keyword>tweety</keyword>
+    <keyword>gremlin</keyword>
+    <keyword>tasmanian-devil</keyword>
+    <keyword>marc-anthony</keyword>
+    <keyword>rabbit</keyword>
+    <keyword>self-referential</keyword>
+    <keyword>foxy</keyword>
+    <keyword>breaking-the-fourth-wall</keyword>
+    <keyword>christmas</keyword>
+    <keyword>wile-e-coyote</keyword>
+    <keyword>bird</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="UK">U</certificate>
+    <certificate country="USA">TV-G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">11 April 1992</releasedate>
+    <releasedate country="UK">14 September 1991</releasedate>
+    <releasedate country="USA">22 October 1990</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">30</runningtime>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arons, Rich</director>
+    <director>Boyer, Ken (I)</director>
+    <director>Butterworth, Kent</director>
+    <director>Fitzgerald, Eddie (II)</director>
+    <director>Gimeno, Alfred</director>
+    <director>Kennedy, Glen (I)</director>
+    <director>Leonardi, Art</director>
+    <director>Marshall, Dave (I)</director>
+    <director>McCabe, Norm</director>
+    <director>McClenahan, Jon</director>
+    <director>Reyna, Greg</director>
+    <director>Vitello, Art</director>
+    <director>West, David (I)</director>
+  </directors>
+  <producers>
+    <producer>Gimeno, Alfred</producer>
+    <producer>Spielberg, Steven</producer>
+    <producer>Ruegger, Tom</producer>
+    <producer>Stoner, Sherri</producer>
+    <producer>Kennedy, Kathleen (I)</producer>
+    <producer>Marshall, Frank (I)</producer>
+    <producer>Ruegger, Tom</producer>
+  </producers>
+  <writers>
+    <writer>Adler, Charles (I)</writer>
+    <writer>Bornstein, Beth</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Carrau, Bob</writer>
+    <writer>Carter, Renee</writer>
+    <writer>Cleef, Sarah</writer>
+    <writer>Crosby, Amy (I)</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Fitzgerald, Eddie (II)</writer>
+    <writer>Hastings, Peter</writer>
+    <writer>Hibbert, Stephen</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>Kaatz, Wayne</writer>
+    <writer>Kazaleh, Mike</writer>
+    <writer>Kent, Gordon</writer>
+    <writer>Kress, Earl</writer>
+    <writer>McCarthy, Douglas (I)</writer>
+    <writer>McGrath, George (I)</writer>
+    <writer>Menville, Chuck</writer>
+    <writer>Milstein, Beth</writer>
+    <writer>Minton, Tom</writer>
+    <writer>Noble, Maurice</writer>
+    <writer>Oliver, Deanna</writer>
+    <writer>Reardon, Jim (I)</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Semel, Terry</writer>
+    <writer>Sorkin, Arleen</writer>
+    <writer>Stoner, Sherri</writer>
+    <writer>Sweeney, M.D.</writer>
+    <writer>Timm, Bruce W.</writer>
+    <writer>Vitello, Art</writer>
+    <writer>Wolf, Garin</writer>
+    <writer>Zbornak, Kent</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Cohen, David Steven</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>Kaatz, Wayne</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Schulman, Roger</writer>
+    <writer>Sorkin, Arleen</writer>
+    <writer>Stoner, Sherri</writer>
+    <writer>Allee, Pat</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Dougherty, Don</writer>
+    <writer>Goren, Rowby</writer>
+    <writer>Hale, Dale</writer>
+    <writer>Hickey, Pamela</writer>
+    <writer>Hollander, Nicholas</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>Hurst, Ben (I)</writer>
+    <writer>Janson, Len</writer>
+    <writer>Langford, Stephen</writer>
+    <writer>McCoy, Dennys</writer>
+    <writer>Minton, Tom</writer>
+    <writer>Mueller, Richard (I)</writer>
+    <writer>Reardon, Jim (I)</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Stoner, Sherri</writer>
+  </writers>
+  <composers>
+    <composer>Bramson, Steven</composer>
+    <composer>Broughton, Bruce</composer>
+    <composer>Davis, Don (I)</composer>
+    <composer>Grant, Ron (I)</composer>
+    <composer>Hooper, Les</composer>
+    <composer>Kaplan, Elliot</composer>
+    <composer>Kempel, Arthur</composer>
+    <composer>Kessler, Ralph</composer>
+    <composer>Mann, Hummie</composer>
+    <composer>McCarthy, Dennis (I)</composer>
+    <composer>McNeely, Joel</composer>
+    <composer>Myers, Peter T.</composer>
+    <composer>Olson, Albert Lloyd</composer>
+    <composer>Ross, William (I)</composer>
+    <composer>Rubinstein, Arthur B.</composer>
+    <composer>Schmidt, J. Eric</composer>
+    <composer>Steiner, Fred</composer>
+    <composer>Stevens, Morton (I)</composer>
+    <composer>Stone, Richard (I)</composer>
+    <composer>Taylor, Steve (XXXI)</composer>
+    <composer>Watters, Mark (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Angry Bear</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Babs's Father/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Biff Blasé</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Brainey Domes/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Burl</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Cave Buster</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Dr. Anne T. Dote</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Eddy Cougar</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Grovelly</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Guard/Batman</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Locker</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Maitre D</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Manager</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Manager/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Mutant Bear</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Octopus Pirate</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Pasadena Jones</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Pencil Teacher</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Pirate/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Presenter</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Question Mark/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Robin Hare/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Roderick Rat</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Roderick Rat/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Roderick Rat/Maître d'</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Roustabout/Devil</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Sergeant Roach</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Tad</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/The Boss</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Various</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Buster Bunny/Yosemite Sam/Father</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Batduck</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Capt. James T. Kirk</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Capt. Quirk</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Dan Dogma</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Dignitary</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Duck Dodgers</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Ed Sullivan</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Fancy Flea</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Friar Pluck/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Marvin the Martian/George Washington</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Narrator</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Pluck Twacy/Mosquito</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Plucky's Father</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Presto</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Speedy Gonzales/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Steven Spielberg/Bobbo Acme/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Sylvester</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Sylvester</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Toxic Revenger</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Toxic Revenger/Doctor</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Trash Bag Dispenser/Turtle</role>
+    </credit>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Plucky Duck/Wile E. Coyote/Stork</role>
+    </credit>
+    <credit>
+      <actor>Altman, Jeff (I)</actor>
+      <role>Dr. Gene Splicer</role>
+    </credit>
+    <credit>
+      <actor>Altman, Jeff (I)</actor>
+      <role>Lloyd</role>
+    </credit>
+    <credit>
+      <actor>Archer, Beverly</actor>
+      <role>Kleinerman</role>
+    </credit>
+    <credit>
+      <actor>Asami, Junko</actor>
+      <role>Fifi Le Fume</role>
+    </credit>
+    <credit>
+      <actor>Bean, Orson</actor>
+      <role>Gepetto</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Batman</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Kevin Costner</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Warhol</role>
+    </credit>
+    <credit>
+      <actor>Bergen, Bob (I)</actor>
+      <role>Porky Pig</role>
+    </credit>
+    <credit>
+      <actor>Bergen, Bob (I)</actor>
+      <role>Porky Pig/Tweety Bird</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Daffy Duck</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Daffy Duck/Foghorn Leghorn</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Daffy Duck/Tweety/Others</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Foghorn Leghorn/Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Taz</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Bugs Bunny/Yosemite Sam/Foghorn Leghorn</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Daffy Duck</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Duck Dodgers/Dr. I.Q. Hi</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Duck Vader/Foghorn Leghorn</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Elmer Fudd/Fuddonna</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Elmer Fudd/Sylvester</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Foghorn Leghorn</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Foghorn Leghorn</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Foghorn Leghorn/Sylvester/Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Foghorn Leghorn/Yosemite Sam</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Tweety</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jeff (I)</actor>
+      <role>Yosemite Sam/Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Bishop, Stephen (I)</actor>
+      <role>Mailman</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>Chef</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>Porky Pig</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>Porky Pig</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>Taz</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>The Principal</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Noel</actor>
+      <role>The Principal</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Sphinx</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Sphinxy</role>
+    </credit>
+    <credit>
+      <actor>Bromfield, Valri</actor>
+      <role>Fran</role>
+    </credit>
+    <credit>
+      <actor>Bromfield, Valri</actor>
+      <role>Lady Di/Suzette</role>
+    </credit>
+    <credit>
+      <actor>Bromfield, Valri</actor>
+      <role>Mary Hartless</role>
+    </credit>
+    <credit>
+      <actor>Brown, Julie (I)</actor>
+      <role>Julie Bruin</role>
+    </credit>
+    <credit>
+      <actor>Bumpass, Rodger</actor>
+      <role>Ronald Grump/Snowman</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Cupid/God</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd/Pinchi</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Elmer Fudd/others</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Pepé Le Pew</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Porky Pig</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Bicycle Bob</role>
+    </credit>
+    <credit>
+      <actor>Camp, Hamilton</actor>
+      <role>Scottish Flea</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Harvey</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Jeffries</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Cave Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max/Montiarity</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max/Sheriff of Naughtyham</role>
+    </credit>
+    <credit>
+      <actor>Cooksey, Danny</actor>
+      <role>Montana Max/Wex Wuther/Horace Goulash</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Chef/Mike Tyson/Jack Nicholson/Various</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Iodizer/Elk</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Melvin the Monster</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Papa</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Papa Flea/Bedbug</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Singer/Knuckles Cutlet/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Curry, Tim (I)</actor>
+      <role>Prince Charles/Reginald</role>
+    </credit>
+    <credit>
+      <actor>DuArt, Louise</actor>
+      <role>Barbara Walters</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Granny</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Granny</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Granny</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Granny</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Pen Pal/French Spoon</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Travel Agent</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Junyer Bear</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Junyer Bear</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Pete Puma</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Pete Puma</role>
+    </credit>
+    <credit>
+      <actor>Frewer, Matt</actor>
+      <role>Mac Duff</role>
+    </credit>
+    <credit>
+      <actor>Frewer, Matt</actor>
+      <role>Mac Duff</role>
+    </credit>
+    <credit>
+      <actor>Frye, Soleil Moon</actor>
+      <role>Amanda Duff</role>
+    </credit>
+    <credit>
+      <actor>Frye, Soleil Moon</actor>
+      <role>Amanda Duff</role>
+    </credit>
+    <credit>
+      <actor>Ganger, Ben Ryan</actor>
+      <role>Duncan</role>
+    </credit>
+    <credit>
+      <actor>Gans, Danny</actor>
+      <role>Johnny Carson</role>
+    </credit>
+    <credit>
+      <actor>Gerber, Joan</actor>
+      <role>Gotcha Grabmore</role>
+    </credit>
+    <credit>
+      <actor>Glasser, Phillip</actor>
+      <role>Pedro</role>
+    </credit>
+    <credit>
+      <actor>Gross, Edan</actor>
+      <role>Tyrone</role>
+    </credit>
+    <credit>
+      <actor>Gross, Edan</actor>
+      <role>Tyrone</role>
+    </credit>
+    <credit>
+      <actor>Guigui, Joëlle</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Guigui, Joëlle</actor>
+      <role>Shirley the Loon/Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Guigui, Joëlle</actor>
+      <role>Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Guigui, Joëlle</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Hamet, Luq</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Hartman, Phil (I)</actor>
+      <role>Octavius</role>
+    </credit>
+    <credit>
+      <actor>Hayashibara, Megumi</actor>
+      <role>Little Sneezer</role>
+    </credit>
+    <credit>
+      <actor>Hertford, Whit</actor>
+      <role>Duncan Duff</role>
+    </credit>
+    <credit>
+      <actor>Hertford, Whit</actor>
+      <role>Duncan Duff</role>
+    </credit>
+    <credit>
+      <actor>Hertford, Whit</actor>
+      <role>Flio</role>
+    </credit>
+    <credit>
+      <actor>Hertford, Whit</actor>
+      <role>Fliorello</role>
+    </credit>
+    <credit>
+      <actor>Hillner, John</actor>
+      <role>Michigan J. Frog</role>
+    </credit>
+    <credit>
+      <actor>Hillner, John</actor>
+      <role>Michigan J. Frog</role>
+    </credit>
+    <credit>
+      <actor>Ishino, Ryûzô</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Kanai, Mika</actor>
+      <role>Shirley 'The Loon' McLoon</role>
+    </credit>
+    <credit>
+      <actor>Kanai, Mika</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Kane, Carol (I)</actor>
+      <role>Ollie</role>
+    </credit>
+    <credit>
+      <actor>Kasem, Casey</actor>
+      <role>Flakey Fakem</role>
+    </credit>
+    <credit>
+      <actor>Kassir, John</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Kassir, John</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Bottomly Buttfield</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil/Pig</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil/Taz</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzy Devil/The Jackster/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dizzysaurus</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dragon/Troll/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Ghost/Abe Lincoln</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Parum-Pum Man</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Babs' Mother</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Banshee/Fanny Buttfield</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Bernice</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Cave Babs</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Cher/Rosanne Barr/Various</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Flotsam/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Grandma/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Itchy/Mama Flea</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Maid Babs</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mama Bear/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mama Bear/Secretary</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Marcia the Martian</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Max's Mother</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mitzi</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mitzi/Arnolda</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mother</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Mrs. Duff</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Pedro's Mother</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Pig</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Rhubella Rat</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Rhubella Rat/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/Secretary</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babs Bunny/SuperBabs</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Mom</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Screaming Woman</role>
+    </credit>
+    <credit>
+      <actor>Mars, Kenneth</actor>
+      <role>Flavio</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Shirley the Loon/Mitzi</role>
+    </credit>
+    <credit>
+      <actor>McClurg, Edie</actor>
+      <role>Winnie</role>
+    </credit>
+    <credit>
+      <actor>McGee, Cindy</actor>
+      <role>Mary Melody</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Cave Hamton</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Award Presenter</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Bosko</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Decoy</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Dog</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Frog</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Little Ham</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Mr. Spork</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Pedro's Father</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/TV Executive</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Various</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Hamton J. Pig/Warden</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Sweetie Pie</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Brian (VII)</actor>
+      <role>Vinnie</role>
+    </credit>
+    <credit>
+      <actor>Morse, Robert (I)</actor>
+      <role>Goopy</role>
+    </credit>
+    <credit>
+      <actor>Nakao, Ryûsei</actor>
+      <role>Buster Bunny</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Amby</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog/Concord Condor/Grandma Moses</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog/Dan Blabber</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog/Dr. Fritz</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold Dog/Porky Pig/Vendor</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Arnold the Pit Bull</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Bird</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Blink Winkleman</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Blink Winkleman/Concord Condor/General</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Concord Condor</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Concord Condor/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Concord Condor/Arnold Dog</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Cooper DaVille/Bus Driver/Dr. McCoy/Various</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Danforth Duck</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Dr. Furrball</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Fowlmouth</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Fowlmouth</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Fowlmouth/Arnold Dog/Concord Condor/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Fowlmouth/Arnold Dog/Concord Condor/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Jason</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Lobster</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Mr. Bughari/Candy Monster</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Rocky/Mr. Bughari</role>
+    </credit>
+    <credit>
+      <actor>Pope, Tony</actor>
+      <role>God</role>
+    </credit>
+    <credit>
+      <actor>Price, Vincent (I)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Rayle, Hal</actor>
+      <role>Coast Guard Captain</role>
+    </credit>
+    <credit>
+      <actor>Revill, Clive</actor>
+      <role>Shakespeare/King Lear</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Announcer/Ninja Turtle/Picasso/Rockwell</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>David Letterman</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>John Face/Indiana Jones</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Taxi Driver</role>
+    </credit>
+    <credit>
+      <actor>Ruegger, Nathan</actor>
+      <role>Little Plucky</role>
+    </credit>
+    <credit>
+      <actor>Spielberg, Steven</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Spielberg, Steven</actor>
+      <role>White Rabbit</role>
+    </credit>
+    <credit>
+      <actor>Sugawara, Junichi (I)</actor>
+      <role>Hamton J. Pig</role>
+    </credit>
+    <credit>
+      <actor>Tomiyama, Kei</actor>
+      <role>Bugs Bunny</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Babszilla/Parrot/Seal</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Barky Marky</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Boxcars/Ticklepuss</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Calamity Coyote/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Calamity Coyote/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Chewcudda/Elder</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Coyote Kid</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Baby Whale/Mother Whale</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Byron Basset</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Dog</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Dragon/Stork/Eagle</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Frog</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Gogo Dodo/Wolverine</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Guard Dog</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Furrball/Papa Bear/Chairman/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Animator</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Book Worm</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Calamity Coyote/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Furrball/Mugsy/Judge Whopper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Furrball/Uncle Stinky Pig/Byron Basset/Calamity Coyote/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Furrball/Uncle Stinky Pig/Byron Basset/Calamity Coyote/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Little Beeper</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Ralph the Guard/Announcer/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Silas Wonder/Dragon</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gogo Dodo/Various</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gossamer/Abominable Snowman</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gremlin/Furrball</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Jules</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Little Beeper/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Little Beeper/Charlie Dog/Mac Duff/Lone Ant/Chief Ant/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Moe/Squito</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Papa Bear/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Ralph the Guard/Larry</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Rover</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>X-Bird</role>
+    </credit>
+    <credit>
+      <actor>Winters, Jonathan (I)</actor>
+      <role>Sappy Stanley</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Narrator/Cake</role>
+    </credit>
+    <credit>
+      <actor>Yamadera, Kôichi</actor>
+      <role>Plucky Duck</role>
+    </credit>
+    <credit>
+      <actor>Youngman, Henny</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>In this series, a new generation of Looney Toon characters study at Acme Acres Looniversity under the instruction of the original characters. The leading characters are Buster and Babs Bunny (no relation) who, with their classmates, have a variety of adventures that are a mix of original stories, film and TV parodies and modern remakes of classic WB shorts.</plot><url>http://localhost:8983/solr/movie.html?609037</url></doc>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="102470">
+  <docid>102470</docid>
+  <title>Chicago</title>
+  <year>2002</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Walsh, Martin (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Musical</genre>
+    <genre>Comedy</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>radio-broadcasting</keyword>
+    <keyword>marionette</keyword>
+    <keyword>sororicide</keyword>
+    <keyword>based-on-true-story</keyword>
+    <keyword>unfaithful-wife</keyword>
+    <keyword>jazz-age</keyword>
+    <keyword>nudity</keyword>
+    <keyword>warden</keyword>
+    <keyword>publicity</keyword>
+    <keyword>laundry</keyword>
+    <keyword>theater</keyword>
+    <keyword>media-circus</keyword>
+    <keyword>show-business</keyword>
+    <keyword>rival</keyword>
+    <keyword>police</keyword>
+    <keyword>celebrity</keyword>
+    <keyword>dance</keyword>
+    <keyword>reporter</keyword>
+    <keyword>nightclub</keyword>
+    <keyword>based-on-musical-based-on-film</keyword>
+    <keyword>press-conference</keyword>
+    <keyword>chorus-girl</keyword>
+    <keyword>jazz</keyword>
+    <keyword>prison</keyword>
+    <keyword>hanging</keyword>
+    <keyword>bribery</keyword>
+    <keyword>defense-lawyer</keyword>
+    <keyword>faked-pregnancy</keyword>
+    <keyword>musician</keyword>
+    <keyword>tap-dancing</keyword>
+    <keyword>mechanic</keyword>
+    <keyword>city-name-in-title</keyword>
+    <keyword>trial</keyword>
+    <keyword>unethical-doctor</keyword>
+    <keyword>satire</keyword>
+    <keyword>jail</keyword>
+    <keyword>murder-trial</keyword>
+    <keyword>women's-prison</keyword>
+    <keyword>eavesdropping</keyword>
+    <keyword>restaurant</keyword>
+    <keyword>urination</keyword>
+    <keyword>execution</keyword>
+    <keyword>metaphor</keyword>
+    <keyword>crimes-of-passion</keyword>
+    <keyword>newsreel-footage</keyword>
+    <keyword>murder-by-gunshot</keyword>
+    <keyword>sex</keyword>
+    <keyword>vaudeville</keyword>
+    <keyword>murder</keyword>
+    <keyword>ventriloquist</keyword>
+    <keyword>bad-girl</keyword>
+    <keyword>lie</keyword>
+    <keyword>diary</keyword>
+    <keyword>based-on-adaptation</keyword>
+    <keyword>evidence-tampering</keyword>
+    <keyword>flashlight</keyword>
+    <keyword>cuckold</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>newspaper</keyword>
+    <keyword>femme-fatale</keyword>
+    <keyword>murder-of-husband</keyword>
+    <keyword>interrogation</keyword>
+    <keyword>audition</keyword>
+    <keyword>puppet-master</keyword>
+    <keyword>extortion</keyword>
+    <keyword>place-name-in-title</keyword>
+    <keyword>fame</keyword>
+    <keyword>prosecutor</keyword>
+    <keyword>based-on-play</keyword>
+    <keyword>crooked-lawyer</keyword>
+    <keyword>ambition</keyword>
+    <keyword>backstage</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>1920s</keyword>
+    <keyword>based-on-musical</keyword>
+    <keyword>chicago-illinois</keyword>
+    <keyword>lifting-person-in-air</keyword>
+    <keyword>scandal</keyword>
+    <keyword>lesbian-subtext</keyword>
+    <keyword>confession</keyword>
+    <keyword>prison-matron</keyword>
+    <keyword>columnist</keyword>
+    <keyword>singer</keyword>
+    <keyword>tango</keyword>
+    <keyword>perjury</keyword>
+    <keyword>faithful-husband</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>cynicism</keyword>
+    <keyword>prison-warden</keyword>
+    <keyword>extramarital-affair</keyword>
+    <keyword>title-spoken-by-character</keyword>
+  </keywords>
+  <languages>
+    <language>Hungarian</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Brazil">12</certificate>
+    <certificate country="Netherlands">MG6</certificate>
+    <certificate country="UK">12</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Greece">K-13</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Iceland">12</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-11</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="USA">PG-13</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">28 February 2003</releasedate>
+    <releasedate country="Peru">6 March 2003</releasedate>
+    <releasedate country="Argentina">6 March 2003</releasedate>
+    <releasedate country="Portugal">21 February 2003</releasedate>
+    <releasedate country="Turkey">7 March 2003</releasedate>
+    <releasedate country="Brazil">7 March 2003</releasedate>
+    <releasedate country="Netherlands">13 February 2003</releasedate>
+    <releasedate country="Japan">19 April 2003</releasedate>
+    <releasedate country="Ecuador">25 April 2003</releasedate>
+    <releasedate country="Israel">6 February 2003</releasedate>
+    <releasedate country="UK">17 January 2003</releasedate>
+    <releasedate country="Taiwan">14 March 2003</releasedate>
+    <releasedate country="Bulgaria">15 April 2005</releasedate>
+    <releasedate country="Greece">21 February 2003</releasedate>
+    <releasedate country="Germany">27 February 2003</releasedate>
+    <releasedate country="Belgium">26 February 2003</releasedate>
+    <releasedate country="Chile">20 February 2003</releasedate>
+    <releasedate country="France">26 February 2003</releasedate>
+    <releasedate country="Uruguay">14 March 2003</releasedate>
+    <releasedate country="Hungary">13 March 2003</releasedate>
+    <releasedate country="Hong Kong">13 February 2003</releasedate>
+    <releasedate country="Estonia">28 March 2003</releasedate>
+    <releasedate country="Czech Republic">24 April 2003</releasedate>
+    <releasedate country="Iceland">7 February 2003</releasedate>
+    <releasedate country="Mexico">28 February 2003</releasedate>
+    <releasedate country="South Korea">21 March 2003</releasedate>
+    <releasedate country="Poland">14 March 2003</releasedate>
+    <releasedate country="Spain">7 March 2003</releasedate>
+    <releasedate country="Bolivia">15 May 2003</releasedate>
+    <releasedate country="Egypt">12 March 2003</releasedate>
+    <releasedate country="Australia">23 January 2003</releasedate>
+    <releasedate country="Lithuania">14 March 2003</releasedate>
+    <releasedate country="Canada">7 February 2003</releasedate>
+    <releasedate country="Russia">13 March 2003</releasedate>
+    <releasedate country="Finland">21 March 2003</releasedate>
+    <releasedate country="Kazakhstan">14 March 2003</releasedate>
+    <releasedate country="Austria">27 February 2003</releasedate>
+    <releasedate country="Philippines">12 March 2003</releasedate>
+    <releasedate country="Italy">20 February 2003</releasedate>
+    <releasedate country="New Zealand">6 February 2003</releasedate>
+    <releasedate country="Colombia">21 March 2003</releasedate>
+    <releasedate country="USA">24 January 2003</releasedate>
+    <releasedate country="Venezuela">26 March 2003</releasedate>
+    <releasedate country="Denmark">4 April 2003</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Turkey">80</runningtime>
+    <runningtime country="default">113</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Marshall, Rob (I)</director>
+  </directors>
+  <producers>
+    <producer>Carmody, Don</producer>
+    <producer>Berman, Jennifer (I)</producer>
+    <producer>Crothers, Sam</producer>
+    <producer>Goldstein, Julie (II)</producer>
+    <producer>Meron, Neil</producer>
+    <producer>Poster, Meryl</producer>
+    <producer>Weinstein, Bob</producer>
+    <producer>Weinstein, Harvey</producer>
+    <producer>Zadan, Craig</producer>
+    <producer>Eckert, John M.</producer>
+    <producer>Richards, Martin (I)</producer>
+  </producers>
+  <writers>
+    <writer>Condon, Bill</writer>
+    <writer>Ebb, Fred</writer>
+    <writer>Fosse, Bob</writer>
+    <writer>Watkins, Maurine Dallas</writer>
+  </writers>
+  <composers>
+    <composer>Elfman, Danny</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Amyot, Shaun</actor>
+      <role>'Gun' Reporter #3/Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Andrew, Karen</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Ard, Ken</actor>
+      <role>Wilbur/Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Asbury, Cleve</actor>
+      <role>'Gun' Reporter #1/Hospital Reporter/Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Baisley, Stacy Clark</actor>
+      <role>Acrobat</role>
+    </credit>
+    <credit>
+      <actor>Banfalvi, Ted</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Baranski, Christine</actor>
+      <role>Mary Sunshine</role>
+    </credit>
+    <credit>
+      <actor>Barlow, Roxane</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Beal, Harrison</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Beaton, Bruce</actor>
+      <role>Police Photographer</role>
+    </credit>
+    <credit>
+      <actor>Becker, Paul (II)</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Behal, Steve</actor>
+      <role>Prison Clerk</role>
+    </credit>
+    <credit>
+      <actor>Britt, Bill</actor>
+      <role>Auctioneer</role>
+    </credit>
+    <credit>
+      <actor>Calamia, Marc</actor>
+      <role>Hunyak's Husband/Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Calitri, Dana</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Rod (I)</actor>
+      <role>Jury Foreman</role>
+    </credit>
+    <credit>
+      <actor>Caruso, Brett</actor>
+      <role>Harrison's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Chace, Kelsey</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Chiarelli, Catherine</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Chtchelkanova, Ekaterina</actor>
+      <role>Hunyak</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Jeff (I)</actor>
+      <role>Court Clerk</role>
+    </credit>
+    <credit>
+      <actor>Coffman-Lloyd, Kate</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Collins, Dennis (II)</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Coombe, Theresa</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Corsair, Bill</actor>
+      <role>Newsreel Announcer</role>
+    </credit>
+    <credit>
+      <actor>Crawford, Eve (I)</actor>
+      <role>Billy's Secretary</role>
+    </credit>
+    <credit>
+      <actor>Côté, Jean-Luc</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Dean, Laura (I)</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Diggs, Taye</actor>
+      <role>Bandleader</role>
+    </credit>
+    <credit>
+      <actor>Dorn, Margaret</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Dowling, Jocelyn (I)</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Doyle, Sean Wayne</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Conrad</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Eastwood, Jayne</actor>
+      <role>Mrs. Borusewicz</role>
+    </credit>
+    <credit>
+      <actor>Falk, Willie</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Faye, Denise (I)</actor>
+      <role>Annie</role>
+    </credit>
+    <credit>
+      <actor>Fehlberg, Megan</actor>
+      <role>Acrobat</role>
+    </credit>
+    <credit>
+      <actor>Feore, Colm</actor>
+      <role>Harrison</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Lisa (III)</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Fiorini, Gerry</actor>
+      <role>Sailor</role>
+    </credit>
+    <credit>
+      <actor>Flerangile, Melissa</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Fowler, Scott (I)</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Gage, Melanie A.</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Galati, Michelle</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Ganderton, Monique</actor>
+      <role>Bare Woman #1</role>
+    </credit>
+    <credit>
+      <actor>Gere, Richard</actor>
+      <role>Billy Flynn</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Sheri</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Godineaux, Edgar</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Goodwin, Deidre</actor>
+      <role>June</role>
+    </credit>
+    <credit>
+      <actor>Gray, Brittany</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Hartung, Bill</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Holness, Karen</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Tara Nicole</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Rachel (III)</actor>
+      <role>Acrobat</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Capathia</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Johnston, Michelle (I)</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>King, Charley</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>King, Curtis</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>La Cause, Sebastian</actor>
+      <role>Al Lipschitz/Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Lamb, Mary Ann</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Vicky</actor>
+      <role>Female Dancer/Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Latifah, Queen</actor>
+      <role>Matron Mama Morton</role>
+    </credit>
+    <credit>
+      <actor>Law, Elizabeth (III)</actor>
+      <role>Perfume Lady</role>
+    </credit>
+    <credit>
+      <actor>Lee, Darren (I)</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Lelliott, Alice</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Leonard, Rebecca (I)</actor>
+      <role>Acrobat</role>
+    </credit>
+    <credit>
+      <actor>Liddell, Troy</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Liu, Lucy</actor>
+      <role>Kitty Baxter</role>
+    </credit>
+    <credit>
+      <actor>Mackereth, Amber-Kelly</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Martells, Audrey</actor>
+      <role>Female Ensemble</role>
+    </credit>
+    <credit>
+      <actor>McCann, Sean (I)</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>McFadden, Jody-Lynn</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>McGrath, Blake</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Michie, Erin</actor>
+      <role>Acrobat</role>
+    </credit>
+    <credit>
+      <actor>Misner, Susan</actor>
+      <role>Liz</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Gregory (I)</actor>
+      <role>Charlie/Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Montano, Robert (I)</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Moreau, Marty</actor>
+      <role>Groin Reporter</role>
+    </credit>
+    <credit>
+      <actor>Negron, Rick</actor>
+      <role>'Gun' Reporter #2/Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Palmer, Sean (I)</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Pizzi, Joey</actor>
+      <role>Bernie/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Podhora, Roman</actor>
+      <role>Sergeant Fogarty</role>
+    </credit>
+    <credit>
+      <actor>Pustil, Jeff</actor>
+      <role>Club Owner</role>
+    </credit>
+    <credit>
+      <actor>Reilly, John C. (I)</actor>
+      <role>Amos Hart</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Desmond</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Rox, Robbie</actor>
+      <role>Prison Guard</role>
+    </credit>
+    <credit>
+      <actor>Salvagna, Patrick</actor>
+      <role>Newsboy</role>
+    </credit>
+    <credit>
+      <actor>Samuel, Martin (II)</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Saunders, Cliff (II)</actor>
+      <role>Stage Manager</role>
+    </credit>
+    <credit>
+      <actor>Scoren, Joseph</actor>
+      <role>Harry</role>
+    </credit>
+    <credit>
+      <actor>Sermonia, Jason</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Shew, Timothy</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Siebert, Jeff (I)</actor>
+      <role>Male Dancer/Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Smith, Rob (XXI)</actor>
+      <role>Newspaper Photographer</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Fronzi</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Torlage, Leigh</actor>
+      <role>Female Dancer</role>
+    </credit>
+    <credit>
+      <actor>Troyer, Eric</actor>
+      <role>Male Ensemble</role>
+    </credit>
+    <credit>
+      <actor>Trujillo, Sergio (I)</actor>
+      <role>Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>Wall, Brendan (I)</actor>
+      <role>Billy's Assistant</role>
+    </credit>
+    <credit>
+      <actor>West, Dominic</actor>
+      <role>Fred Casely</role>
+    </credit>
+    <credit>
+      <actor>Whittaker, Jonathan</actor>
+      <role>Bailiff</role>
+    </credit>
+    <credit>
+      <actor>Wise, Scott</actor>
+      <role>Ezekial Young/Male Dancer</role>
+    </credit>
+    <credit>
+      <actor>de Haas, Darius</actor>
+      <role>Male Ensemble</role>
+    </credit>
+  </cast>
+<plot>Murderesses Velma Kelly (a chanteuse and tease who killed her husband and sister after finding them in bed together) and Roxie Hart (who killed her boyfriend when she discovered he wasn't going to make her a star) find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.</plot><url>http://localhost:8983/solr/movie.html?102470</url></doc>

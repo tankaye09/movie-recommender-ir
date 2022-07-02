@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="540601">
+  <docid>540601</docid>
+  <title>The Aquanauts</title>
+  <year>1960</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Adventure</genre>
+  </genres>
+  <keywords>
+    <keyword>diver</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>ocean</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">21 December 1960</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Conrad, William (I)</director>
+    <director>Hamilton, Fred (I)</director>
+    <director>Hoffman, Herman (I)</director>
+    <director>Marton, Andrew (I)</director>
+  </directors>
+  <writers>
+    <writer>Arthur, Art</writer>
+    <writer>Crawford, Oliver (II)</writer>
+    <writer>Levitt, Gene</writer>
+    <writer>Meltzer, Lewis</writer>
+    <writer>Parsons, E.M.</writer>
+    <writer>Ward, Al C.</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Albertson, Frank (I)</actor>
+      <role>Mr. Linden</role>
+    </credit>
+    <credit>
+      <actor>Allen, Valerie (I)</actor>
+      <role>Consuelo</role>
+    </credit>
+    <credit>
+      <actor>Alzamora, Armand</actor>
+      <role>Pete Vertiz</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, David (III)</actor>
+      <role>Coast Guard Officer</role>
+    </credit>
+    <credit>
+      <actor>Bari, Lynn</actor>
+      <role>Ann Nincel</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Alan (I)</actor>
+      <role>Frank Lester</role>
+    </credit>
+    <credit>
+      <actor>Binns, Ed</actor>
+      <role>Ed Barron</role>
+    </credit>
+    <credit>
+      <actor>Blair, June (I)</actor>
+      <role>June Noreen</role>
+    </credit>
+    <credit>
+      <actor>Blake, Whitney (I)</actor>
+      <role>Ruth Cheney</role>
+    </credit>
+    <credit>
+      <actor>Bower, Antoinette</actor>
+      <role>Linda Liggett</role>
+    </credit>
+    <credit>
+      <actor>Bramley, William</actor>
+      <role>Mr. Wesson</role>
+    </credit>
+    <credit>
+      <actor>Brennen, Claire</actor>
+      <role>Charlotte</role>
+    </credit>
+    <credit>
+      <actor>Bronson, Charles</actor>
+      <role>Hector Morrison</role>
+    </credit>
+    <credit>
+      <actor>Burton, Julian</actor>
+      <role>Police Pilot</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Dyan</actor>
+      <role>Diana Hogarth</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Dyan</actor>
+      <role>Thelma</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Richard (I)</actor>
+      <role>Ross Porter</role>
+    </credit>
+    <credit>
+      <actor>Charles, Lewis</actor>
+      <role>Gino</role>
+    </credit>
+    <credit>
+      <actor>Chiles, Linden</actor>
+      <role>Stan</role>
+    </credit>
+    <credit>
+      <actor>Coburn, James (I)</actor>
+      <role>Joe Casey</role>
+    </credit>
+    <credit>
+      <actor>Conrad, William (I)</actor>
+      <role>Corey</role>
+    </credit>
+    <credit>
+      <actor>Considine, John</actor>
+      <role>Chris Curtis</role>
+    </credit>
+    <credit>
+      <actor>Conway, Russ (I)</actor>
+      <role>Commander</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Charles (I)</actor>
+      <role>Del Curtis</role>
+    </credit>
+    <credit>
+      <actor>Couch, Chuck (II)</actor>
+      <role>Pinky</role>
+    </credit>
+    <credit>
+      <actor>Craig, Yvonne</actor>
+      <role>Kathy</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Ken (I)</actor>
+      <role>Head Waiter</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Ken (I)</actor>
+      <role>Horton</role>
+    </credit>
+    <credit>
+      <actor>Cutts, Patricia</actor>
+      <role>Christiana Waverly</role>
+    </credit>
+    <credit>
+      <actor>Dalton, Audrey</actor>
+      <role>Sylvia Jurgen</role>
+    </credit>
+    <credit>
+      <actor>Dana, Leora</actor>
+      <role>Viviam</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jim (I)</actor>
+      <role>Sam Hogarth</role>
+    </credit>
+    <credit>
+      <actor>Dehner, John</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Dexter, Brad</actor>
+      <role>Carney</role>
+    </credit>
+    <credit>
+      <actor>Dierkes, John</actor>
+      <role>Inspector Crail</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donna (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donna (I)</actor>
+      <role>Nancy Gard</role>
+    </credit>
+    <credit>
+      <actor>Drake, Ken (I)</actor>
+      <role>Elmer Burnside</role>
+    </credit>
+    <credit>
+      <actor>Drake, Pauline</actor>
+      <role>Mrs. Fraser</role>
+    </credit>
+    <credit>
+      <actor>Dunn, George (I)</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Eastham, Richard</actor>
+      <role>Sinclair</role>
+    </credit>
+    <credit>
+      <actor>Eden, Chana</actor>
+      <role>Saska Fayez</role>
+    </credit>
+    <credit>
+      <actor>Eitner, Don</actor>
+      <role>Ollie</role>
+    </credit>
+    <credit>
+      <actor>Elhardt, Kaye</actor>
+      <role>Nancy Wilson</role>
+    </credit>
+    <credit>
+      <actor>Ely, Ron</actor>
+      <role>Mike Madison (1960-1961)</role>
+    </credit>
+    <credit>
+      <actor>Falk, Peter (I)</actor>
+      <role>Angel</role>
+    </credit>
+    <credit>
+      <actor>Falk, Peter (I)</actor>
+      <role>Jeremiah Wilson</role>
+    </credit>
+    <credit>
+      <actor>Fell, Norman</actor>
+      <role>Oliver Pappas</role>
+    </credit>
+    <credit>
+      <actor>Fiedler, John (I)</actor>
+      <role>Mr. Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Gillespie, Gina</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Gist, Robert</actor>
+      <role>Darrell Willoughby</role>
+    </credit>
+    <credit>
+      <actor>Glass, Ned</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gomez, Thomas (I)</actor>
+      <role>Hakim</role>
+    </credit>
+    <credit>
+      <actor>Gothie, Robert</actor>
+      <role>Allan Royal</role>
+    </credit>
+    <credit>
+      <actor>Greer, Dabbs</actor>
+      <role>Haber</role>
+    </credit>
+    <credit>
+      <actor>Greer, Dabbs</actor>
+      <role>Oscar</role>
+    </credit>
+    <credit>
+      <actor>Hackett, John (I)</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Hal</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Joseph (I)</actor>
+      <role>Philip Wells</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Neil (I)</actor>
+      <role>Larry La Beau</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Ray (I)</actor>
+      <role>Todd Baylor</role>
+    </credit>
+    <credit>
+      <actor>Hayden, Naura</actor>
+      <role>Susan Rand</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Annelle</actor>
+      <role>Gloria Turner</role>
+    </credit>
+    <credit>
+      <actor>Helm, Anne (I)</actor>
+      <role>Frankie Lester</role>
+    </credit>
+    <credit>
+      <actor>Henreid, Paul</actor>
+      <role>Richard Nincel</role>
+    </credit>
+    <credit>
+      <actor>Hill, Phyllis</actor>
+      <role>Mrs. Willoughby</role>
+    </credit>
+    <credit>
+      <actor>Holland, Tom (II)</actor>
+      <role>Boatman</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Ann</actor>
+      <role>Ellie</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Kay (I)</actor>
+      <role>Paula</role>
+    </credit>
+    <credit>
+      <actor>Hunnicutt, Arthur</actor>
+      <role>Jim Turrell</role>
+    </credit>
+    <credit>
+      <actor>Ingels, Marty (I)</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Jewell, Isabel</actor>
+      <role>Miss Port</role>
+    </credit>
+    <credit>
+      <actor>Jones, Dean (I)</actor>
+      <role>John Anderson</role>
+    </credit>
+    <credit>
+      <actor>Keene, Mike</actor>
+      <role>Dr. Ralph Roger</role>
+    </credit>
+    <credit>
+      <actor>Knapp, Robert (I)</actor>
+      <role>Joe Tydell</role>
+    </credit>
+    <credit>
+      <actor>Larsen, Keith</actor>
+      <role>Drake Andrews</role>
+    </credit>
+    <credit>
+      <actor>Larsen, Keith</actor>
+      <role>Drake Andrews (1960-1961)</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Linda (I)</actor>
+      <role>Wilva</role>
+    </credit>
+    <credit>
+      <actor>Layne, Shary</actor>
+      <role>Judy</role>
+    </credit>
+    <credit>
+      <actor>Levene, Sam (I)</actor>
+      <role>Lieutenant Maderas</role>
+    </credit>
+    <credit>
+      <actor>Lupton, John</actor>
+      <role>Wes Halley</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Ken</actor>
+      <role>Captain Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Marley, John</actor>
+      <role>Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Marlowe, Scott (I)</actor>
+      <role>Ernie Baron</role>
+    </credit>
+    <credit>
+      <actor>Maross, Joe</actor>
+      <role>Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Sarah (I)</actor>
+      <role>Doris</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Sirus</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Frank (V)</actor>
+      <role>Joe Curtis</role>
+    </credit>
+    <credit>
+      <actor>McGiver, John (I)</actor>
+      <role>Professor Orlando Twamley</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Joyce</actor>
+      <role>Adrian</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Joyce</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Millay, Diana</actor>
+      <role>Peg Knight</role>
+    </credit>
+    <credit>
+      <actor>Mills, Mort</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mohr, Gerald</actor>
+      <role>Pete Burdett</role>
+    </credit>
+    <credit>
+      <actor>Moore, Mary Tyler</actor>
+      <role>Dana March</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Ed (I)</actor>
+      <role>Chris Garland</role>
+    </credit>
+    <credit>
+      <actor>Nype, Russell</actor>
+      <role>Norvel Jones</role>
+    </credit>
+    <credit>
+      <actor>O'Toole, Ollie</actor>
+      <role>Delivery Man</role>
+    </credit>
+    <credit>
+      <actor>Parker, Cecil</actor>
+      <role>Dr. Cattermole</role>
+    </credit>
+    <credit>
+      <actor>Penn, Leo</actor>
+      <role>Moe</role>
+    </credit>
+    <credit>
+      <actor>Pennell, Larry</actor>
+      <role>Tyler Stack</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Barney</actor>
+      <role>Captain Markle</role>
+    </credit>
+    <credit>
+      <actor>Prohaska, James</actor>
+      <role>Crawford</role>
+    </credit>
+    <credit>
+      <actor>Pyle, Denver</actor>
+      <role>Captain Leo Stohl</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Alan (I)</actor>
+      <role>Captain</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Burt (I)</actor>
+      <role>Jimmy</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Burt (I)</actor>
+      <role>Leo</role>
+    </credit>
+    <credit>
+      <actor>Riggio, Jerry</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Kenny</actor>
+      <role>Willy</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Stephen (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ruscio, Al</actor>
+      <role>Emilio Romero</role>
+    </credit>
+    <credit>
+      <actor>Ruscio, Al</actor>
+      <role>Ralph D'Amico</role>
+    </credit>
+    <credit>
+      <actor>Ryder, Alfred</actor>
+      <role>Nico Kofie</role>
+    </credit>
+    <credit>
+      <actor>Savalas, Telly</actor>
+      <role>Paul Price</role>
+    </credit>
+    <credit>
+      <actor>Selzer, Milton</actor>
+      <role>Lieutenant Jamison</role>
+    </credit>
+    <credit>
+      <actor>Selzer, Milton</actor>
+      <role>Ray Parker</role>
+    </credit>
+    <credit>
+      <actor>Serrano, Manuel (I)</actor>
+      <role>Boat Captain</role>
+    </credit>
+    <credit>
+      <actor>Sherman, Fred (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Slate, Jeremy (I)</actor>
+      <role>Larry Lahr</role>
+    </credit>
+    <credit>
+      <actor>Slate, Jeremy (I)</actor>
+      <role>Larry Lahr (1960-1961)</role>
+    </credit>
+    <credit>
+      <actor>Sloane, Everett</actor>
+      <role>James Stonehill</role>
+    </credit>
+    <credit>
+      <actor>Smith, Kent (I)</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Soble, Ron (I)</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Steen, Mike (I)</actor>
+      <role>Motorcycle Cop</role>
+    </credit>
+    <credit>
+      <actor>Stehli, Edgar</actor>
+      <role>Homer Dean</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Harvey (I)</actor>
+      <role>Dr. Connolly</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Harvey (I)</actor>
+      <role>Hank</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Robert (I)</actor>
+      <role>Ben Penfield</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Robert (I)</actor>
+      <role>Goodtime Charlie</role>
+    </credit>
+    <credit>
+      <actor>Sutton, John (I)</actor>
+      <role>Tony Randolph</role>
+    </credit>
+    <credit>
+      <actor>Swenson, Karl</actor>
+      <role>Rainbow</role>
+    </credit>
+    <credit>
+      <actor>Tafur, Robert</actor>
+      <role>Luis Monzill</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Vaughn (I)</actor>
+      <role>Mr. Roberts</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Charles S.</actor>
+      <role>The Captain (1961)</role>
+    </credit>
+    <credit>
+      <actor>Tobin, Dan (I)</actor>
+      <role>Danton Spangler</role>
+    </credit>
+    <credit>
+      <actor>Tobin, Dan (I)</actor>
+      <role>Lew Finley</role>
+    </credit>
+    <credit>
+      <actor>Townes, Harry</actor>
+      <role>Robert L. Radcliffe</role>
+    </credit>
+    <credit>
+      <actor>Turkel, Joe</actor>
+      <role>Danny</role>
+    </credit>
+    <credit>
+      <actor>Vaughn, Robert (I)</actor>
+      <role>Wes Grayson</role>
+    </credit>
+    <credit>
+      <actor>Walcott, Gregory</actor>
+      <role>Stan Cheney</role>
+    </credit>
+    <credit>
+      <actor>Walston, Ray</actor>
+      <role>Carl Friendly</role>
+    </credit>
+    <credit>
+      <actor>Whitney, Peter (I)</actor>
+      <role>Moses Teel</role>
+    </credit>
+    <credit>
+      <actor>Williams, John (II)</actor>
+      <role>Sanders</role>
+    </credit>
+    <credit>
+      <actor>Wynn, Keenan</actor>
+      <role>George Morrisey</role>
+    </credit>
+  </cast>
+<plot>Professional salvage divers Larry and Drake (later replaced by Mike) made their livings braving the dangers of the deep recovering sunken wrecks off the Southern California coast. Frequently, these assignments brought them into conflict with more human dangers from people who wanted to reach the wrecks first, or who had a vested interest in seeing that what had been sent to the bottom stayed there. Midway through the program's run, the divers moved their shop to Malibu, and name of the show became "Malibu Run".</plot><url>http://localhost:8983/solr/movie.html?540601</url></doc>

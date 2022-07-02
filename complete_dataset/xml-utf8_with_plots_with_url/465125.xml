@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="465125">
+  <docid>465125</docid>
+  <title>Roadrunner a Go-Go</title>
+  <year>1965</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Brown, Treg</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>merrie-melodies</keyword>
+    <keyword>road-runner</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>road-runner-coyote</keyword>
+    <keyword>reverse-footage</keyword>
+    <keyword>wile-e-coyote</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1965</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">6</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Jones, Chuck (I)</director>
+  </directors>
+  <writers>
+    <writer>Dunn, John W.</writer>
+  </writers>
+  <composers>
+    <composer>Franklyn, Milt</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Wile E. Coyote</role>
+    </credit>
+    <credit>
+      <actor>Julian, Paul</actor>
+      <role>Road Runner</role>
+    </credit>
+  </cast>
+<plot>Wile E. Coyote uses slow motion photography to record his failures at catching the Road Runner in hopes of detecting where exactly he went wrong and avoiding the same pratfalls in the future.</plot><url>http://localhost:8983/solr/movie.html?465125</url></doc>

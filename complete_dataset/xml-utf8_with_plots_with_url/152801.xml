@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="152801">
+  <docid>152801</docid>
+  <title>Django sfida Sartana</title>
+  <year>1970</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Western</genre>
+  </genres>
+  <keywords>
+    <keyword>sartana</keyword>
+    <keyword>django</keyword>
+    <keyword>spaghetti-western</keyword>
+    <keyword>crossover</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>Italian</language>
+  </languages>
+  <countries>
+    <country>Italy</country>
+  </countries>
+  <releasedates>
+    <releasedate country="France">11 October 1972</releasedate>
+    <releasedate country="Denmark">22 February 1971</releasedate>
+  </releasedates>
+  <directors>
+    <director>Squitieri, Pasquale</director>
+  </directors>
+  <producers>
+    <producer>Bessi, Roberto</producer>
+  </producers>
+  <writers>
+    <writer>Squitieri, Pasquale</writer>
+  </writers>
+  <composers>
+    <composer>Umiliani, Piero</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alvar, John</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Alvarado, Tania</actor>
+      <role>Mexican girl</role>
+    </credit>
+    <credit>
+      <actor>Ardisson, George</actor>
+      <role>Sartana</role>
+    </credit>
+    <credit>
+      <actor>Arena, Fortunato</actor>
+      <role>Bandit</role>
+    </credit>
+    <credit>
+      <actor>Billa, Salvatore</actor>
+      <role>Singer's man</role>
+    </credit>
+    <credit>
+      <actor>Boido, Federico</actor>
+      <role>1st gunman</role>
+    </credit>
+    <credit>
+      <actor>Corrà, Teodoro</actor>
+      <role>Crow</role>
+    </credit>
+    <credit>
+      <actor>Farber, Bernard</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Gray, Adler</actor>
+      <role>Singer's niece</role>
+    </credit>
+    <credit>
+      <actor>Kendall, Tony (I)</actor>
+      <role>Django</role>
+    </credit>
+    <credit>
+      <actor>Mingozzi, Fulvio</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Pescarini, Augusto</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Squitieri, Pasquale</actor>
+      <role>2nd killer</role>
+    </credit>
+    <credit>
+      <actor>Torres, José (I)</actor>
+      <role>Mute</role>
+    </credit>
+    <credit>
+      <actor>Trionfi, Claudio</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Framed for a bank robbery, bounty killer Django's brother, Steve is lynched. Django hunts down Sartana, Steve's supposed accomplice, but finds him innocent also. The two men seek out the real robbers.</plot><url>http://localhost:8983/solr/movie.html?152801</url></doc>

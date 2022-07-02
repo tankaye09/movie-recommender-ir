@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="241723">
+  <docid>241723</docid>
+  <title>Hitch</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>McNab, Walter J.G.</editor>
+    <editor>Takaki, Troy</editor>
+    <editor>Wadmore-Smith, Tracey</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>new-york-city</keyword>
+    <keyword>dancing</keyword>
+    <keyword>ellis-island-new-york</keyword>
+    <keyword>interracial-romance</keyword>
+    <keyword>wedding-reception</keyword>
+    <keyword>bar</keyword>
+    <keyword>scene-during-end-credits</keyword>
+    <keyword>food</keyword>
+    <keyword>reporter</keyword>
+    <keyword>whistling</keyword>
+    <keyword>hudson-river</keyword>
+    <keyword>basketball</keyword>
+    <keyword>fantasy-sequence</keyword>
+    <keyword>drugstore</keyword>
+    <keyword>secret</keyword>
+    <keyword>chrysler-building-new-york</keyword>
+    <keyword>accountant</keyword>
+    <keyword>dating</keyword>
+    <keyword>restaurant</keyword>
+    <keyword>stockbroker</keyword>
+    <keyword>dance-lesson</keyword>
+    <keyword>gossip</keyword>
+    <keyword>actor</keyword>
+    <keyword>brooklyn-new-york</keyword>
+    <keyword>asthmatic</keyword>
+    <keyword>statue</keyword>
+    <keyword>messenger</keyword>
+    <keyword>advice</keyword>
+    <keyword>premarital-sex</keyword>
+    <keyword>friendship</keyword>
+    <keyword>martial-arts</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>newspaper</keyword>
+    <keyword>speed-dating</keyword>
+    <keyword>reference-to-michelangelo</keyword>
+    <keyword>voice-over</keyword>
+    <keyword>courtship</keyword>
+    <keyword>heiress</keyword>
+    <keyword>allergy</keyword>
+    <keyword>serial-killer</keyword>
+    <keyword>quitting-job</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>body-waxing</keyword>
+    <keyword>male-female-relationship</keyword>
+    <keyword>judo</keyword>
+    <keyword>gay-kiss</keyword>
+    <keyword>editor</keyword>
+    <keyword>jet-ski</keyword>
+    <keyword>flirting</keyword>
+    <keyword>breaking-the-fourth-wall</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>empire-state-building-new-york</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Ireland</country>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">Btl</certificate>
+    <certificate country="Indonesia">Dewasa</certificate>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Netherlands">MG6</certificate>
+    <certificate country="Brazil">10</certificate>
+    <certificate country="UK">12A</certificate>
+    <certificate country="Taiwan">PG-12</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">o.Al.</certificate>
+    <certificate country="Chile">TE</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Ireland">12A</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="South Korea">12</certificate>
+    <certificate country="Spain">7</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">7</certificate>
+    <certificate country="Canada">G</certificate>
+    <certificate country="Finland">S</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="USA">TV-14</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">11 March 2005</releasedate>
+    <releasedate country="South Africa">25 February 2005</releasedate>
+    <releasedate country="Peru">3 March 2005</releasedate>
+    <releasedate country="Indonesia">2 March 2005</releasedate>
+    <releasedate country="Argentina">7 April 2005</releasedate>
+    <releasedate country="Nigeria">1 April 2005</releasedate>
+    <releasedate country="Portugal">10 March 2005</releasedate>
+    <releasedate country="Latvia">11 March 2005</releasedate>
+    <releasedate country="Turkey">18 March 2005</releasedate>
+    <releasedate country="Serbia">17 March 2005</releasedate>
+    <releasedate country="Netherlands">26 January 2006</releasedate>
+    <releasedate country="Brazil">18 February 2005</releasedate>
+    <releasedate country="Japan">4 June 2005</releasedate>
+    <releasedate country="Ecuador">8 April 2005</releasedate>
+    <releasedate country="Croatia">3 March 2005</releasedate>
+    <releasedate country="Slovenia">3 March 2005</releasedate>
+    <releasedate country="Israel">24 February 2005</releasedate>
+    <releasedate country="India">18 March 2005</releasedate>
+    <releasedate country="UK">27 April 2007</releasedate>
+    <releasedate country="Taiwan">25 February 2005</releasedate>
+    <releasedate country="Bulgaria">4 March 2005</releasedate>
+    <releasedate country="Lebanon">3 March 2005</releasedate>
+    <releasedate country="Thailand">6 April 2005</releasedate>
+    <releasedate country="United Arab Emirates">9 March 2005</releasedate>
+    <releasedate country="Singapore">3 March 2005</releasedate>
+    <releasedate country="Romania">25 March 2005</releasedate>
+    <releasedate country="Greece">25 March 2005</releasedate>
+    <releasedate country="Germany">6 August 2006</releasedate>
+    <releasedate country="Belgium">9 March 2005</releasedate>
+    <releasedate country="Chile">24 March 2005</releasedate>
+    <releasedate country="France">4 November 2006</releasedate>
+    <releasedate country="Malaysia">17 March 2005</releasedate>
+    <releasedate country="Panama">25 February 2005</releasedate>
+    <releasedate country="Uruguay">1 April 2005</releasedate>
+    <releasedate country="Puerto Rico">10 February 2005</releasedate>
+    <releasedate country="Hungary">10 March 2005</releasedate>
+    <releasedate country="Hong Kong">3 March 2005</releasedate>
+    <releasedate country="Estonia">25 March 2005</releasedate>
+    <releasedate country="Oman">9 March 2005</releasedate>
+    <releasedate country="Ireland">12 October 2005</releasedate>
+    <releasedate country="Qatar">9 March 2005</releasedate>
+    <releasedate country="Czech Republic">31 March 2005</releasedate>
+    <releasedate country="Iceland">4 March 2005</releasedate>
+    <releasedate country="Mexico">18 February 2005</releasedate>
+    <releasedate country="Slovakia">31 March 2005</releasedate>
+    <releasedate country="South Korea">11 March 2005</releasedate>
+    <releasedate country="Poland">4 March 2005</releasedate>
+    <releasedate country="Kenya">11 March 2005</releasedate>
+    <releasedate country="Spain">4 November 2006</releasedate>
+    <releasedate country="Bolivia">31 March 2005</releasedate>
+    <releasedate country="Egypt">2 March 2005</releasedate>
+    <releasedate country="Australia">3 March 2005</releasedate>
+    <releasedate country="Switzerland">11 March 2005</releasedate>
+    <releasedate country="Lithuania">4 March 2005</releasedate>
+    <releasedate country="Norway">11 March 2005</releasedate>
+    <releasedate country="Russia">3 March 2005</releasedate>
+    <releasedate country="Finland">11 March 2005</releasedate>
+    <releasedate country="Austria">4 March 2005</releasedate>
+    <releasedate country="Jordan">9 March 2005</releasedate>
+    <releasedate country="Italy">11 March 2005</releasedate>
+    <releasedate country="Philippines">2 March 2005</releasedate>
+    <releasedate country="New Zealand">24 March 2005</releasedate>
+    <releasedate country="Colombia">18 March 2005</releasedate>
+    <releasedate country="USA">11 February 2005</releasedate>
+    <releasedate country="Bahrain">9 March 2005</releasedate>
+    <releasedate country="Kuwait">9 March 2005</releasedate>
+    <releasedate country="Venezuela">25 March 2005</releasedate>
+    <releasedate country="Denmark">11 March 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="UK">4</runningtime>
+    <runningtime country="default">118</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Duffy, Mik</director>
+    <director>Tennant, Andy</director>
+  </directors>
+  <writers>
+    <writer>Duffy, Mik</writer>
+    <writer>Bisch, Kevin</writer>
+  </writers>
+  <composers>
+    <composer>Fenton, George</composer>
+    <composer>Palmer, Louise (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Afflack, Marlyne</actor>
+      <role>Stephanie</role>
+    </credit>
+    <credit>
+      <actor>Aguirre, Douglas J.</actor>
+      <role>Sports Fan in Mercedes Benz</role>
+    </credit>
+    <credit>
+      <actor>Almindo, Michalina</actor>
+      <role>Club Girl</role>
+    </credit>
+    <credit>
+      <actor>Andreas, Casper</actor>
+      <role>Sebastian</role>
+    </credit>
+    <credit>
+      <actor>Arkin, Adam</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Barbusca, Brielle</actor>
+      <role>Class Trip</role>
+    </credit>
+    <credit>
+      <actor>Benedetti, Caprice</actor>
+      <role>Gorgeous Wife</role>
+    </credit>
+    <credit>
+      <actor>Bertocci, Adam</actor>
+      <role>Preppy College Student</role>
+    </credit>
+    <credit>
+      <actor>Binje, Henry</actor>
+      <role>Zak</role>
+    </credit>
+    <credit>
+      <actor>Blair, Andre</actor>
+      <role>Hitch's Friend</role>
+    </credit>
+    <credit>
+      <actor>Bonnel, Aneikit</actor>
+      <role>Coca Cola Girl</role>
+    </credit>
+    <credit>
+      <actor>Bosco, Philip (I)</actor>
+      <role>Mr. O'Brian</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Jeffrey (II)</actor>
+      <role>Egon</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Keith</actor>
+      <role>Bartender #2</role>
+    </credit>
+    <credit>
+      <actor>Coba, Valbona</actor>
+      <role>Bar Girl</role>
+    </credit>
+    <credit>
+      <actor>Colgan, Michael (IV)</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Cross, Ryan (I)</actor>
+      <role>Charles Wellington</role>
+    </credit>
+    <credit>
+      <actor>Daniel, Thomas (I)</actor>
+      <role>Bar Patron</role>
+    </credit>
+    <credit>
+      <actor>Davo, Maria-Jose</actor>
+      <role>Club Girl</role>
+    </credit>
+    <credit>
+      <actor>De Paul, Vincent (I)</actor>
+      <role>Amp Lounge Man</role>
+    </credit>
+    <credit>
+      <actor>Di Parra, Cesar</actor>
+      <role>Flyers Guy</role>
+    </credit>
+    <credit>
+      <actor>DiBenedetti, Michelle</actor>
+      <role>First Date Couple</role>
+    </credit>
+    <credit>
+      <actor>Donovan, Jeffrey</actor>
+      <role>Vance Munson</role>
+    </credit>
+    <credit>
+      <actor>Emery, Julie Ann</actor>
+      <role>Casey Sedgewick</role>
+    </credit>
+    <credit>
+      <actor>Essandoh, Ato</actor>
+      <role>Tanis</role>
+    </credit>
+    <credit>
+      <actor>Foster, Darrell</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Gizela, Alexandra</actor>
+      <role>Bridesmaid</role>
+    </credit>
+    <credit>
+      <actor>Graham, Nathan Lee</actor>
+      <role>Geoff</role>
+    </credit>
+    <credit>
+      <actor>Haile, Henry</actor>
+      <role>Zak</role>
+    </credit>
+    <credit>
+      <actor>Hartnett, Jack</actor>
+      <role>Tom Reda</role>
+    </credit>
+    <credit>
+      <actor>Hatfield, Scott</actor>
+      <role>Albert's Wedding Guest</role>
+    </credit>
+    <credit>
+      <actor>Hohn, Amy</actor>
+      <role>Marla</role>
+    </credit>
+    <credit>
+      <actor>Huege, Janet</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Irizarry, Lou</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>James, Kahan</actor>
+      <role>Guy Nearby</role>
+    </credit>
+    <credit>
+      <actor>James, Kevin (III)</actor>
+      <role>Albert Brennaman</role>
+    </credit>
+    <credit>
+      <actor>Kain, Rick (I)</actor>
+      <role>Party Goer</role>
+    </credit>
+    <credit>
+      <actor>Kim, Arnold Y.</actor>
+      <role>Deli Worker</role>
+    </credit>
+    <credit>
+      <actor>Koizumi, Niels</actor>
+      <role>Sous Chef</role>
+    </credit>
+    <credit>
+      <actor>Kotsatos, Bill</actor>
+      <role>Paparazzi #1</role>
+    </credit>
+    <credit>
+      <actor>Krausz, Monika</actor>
+      <role>Bar Girl</role>
+    </credit>
+    <credit>
+      <actor>Lane, Alexa (I)</actor>
+      <role>Yoga Student</role>
+    </credit>
+    <credit>
+      <actor>Lang, Debbie</actor>
+      <role>Restaurant Patron</role>
+    </credit>
+    <credit>
+      <actor>LeFevre, Adam</actor>
+      <role>Speed Dating Guy</role>
+    </credit>
+    <credit>
+      <actor>Lee, Robinne</actor>
+      <role>Cressida Baylor</role>
+    </credit>
+    <credit>
+      <actor>Leone, Evan</actor>
+      <role>Wedding Guest</role>
+    </credit>
+    <credit>
+      <actor>Llana, Jose</actor>
+      <role>Ross</role>
+    </credit>
+    <credit>
+      <actor>Lo Truglio, Joe</actor>
+      <role>Music Lover Guy</role>
+    </credit>
+    <credit>
+      <actor>Lu, Joanna (I)</actor>
+      <role>Elevator Girl</role>
+    </credit>
+    <credit>
+      <actor>Lysy, Austin</actor>
+      <role>Magnus Forrester</role>
+    </credit>
+    <credit>
+      <actor>Mader, Rebecca</actor>
+      <role>Kim</role>
+    </credit>
+    <credit>
+      <actor>Malloy, Matt (I)</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Mendes, Eva</actor>
+      <role>Sara Melas</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Tanda</actor>
+      <role>Fan Leaving MSG</role>
+    </credit>
+    <credit>
+      <actor>Metroka, Amy</actor>
+      <role>Female Speed Dater</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Kevin Kean</actor>
+      <role>Member of the Board</role>
+    </credit>
+    <credit>
+      <actor>Nelson, John O.</actor>
+      <role>Statistician</role>
+    </credit>
+    <credit>
+      <actor>O'Neal, Dwight Allen</actor>
+      <role>Female 3 Best Friend</role>
+    </credit>
+    <credit>
+      <actor>Oswalt, Trevor</actor>
+      <role>Messenger</role>
+    </credit>
+    <credit>
+      <actor>Owens, Frederick B.</actor>
+      <role>Larry</role>
+    </credit>
+    <credit>
+      <actor>Pancholy, Maulik</actor>
+      <role>Raoul</role>
+    </credit>
+    <credit>
+      <actor>Quilter, Nicolas</actor>
+      <role>Barfly</role>
+    </credit>
+    <credit>
+      <actor>Rapaport, Michael (I)</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Trevor</actor>
+      <role>Groomsman</role>
+    </credit>
+    <credit>
+      <actor>Salama, Amro</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Selma, Remy K.</actor>
+      <role>Newsguy</role>
+    </credit>
+    <credit>
+      <actor>Servitto, Matt</actor>
+      <role>Eddie</role>
+    </credit>
+    <credit>
+      <actor>Sia, Beau</actor>
+      <role>Drugstore Clerk</role>
+    </credit>
+    <credit>
+      <actor>Slocum, Ptolemy</actor>
+      <role>Ron</role>
+    </credit>
+    <credit>
+      <actor>Smith, Will (I)</actor>
+      <role>Alex 'Hitch' Hitchens</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Cameron (I)</actor>
+      <role>Rower</role>
+    </credit>
+    <credit>
+      <actor>Sussman, Kevin</actor>
+      <role>Neil</role>
+    </credit>
+    <credit>
+      <actor>Travis, Tony (I)</actor>
+      <role>Nebishy Husband</role>
+    </credit>
+    <credit>
+      <actor>Truvillion, Tobias</actor>
+      <role>Kurt</role>
+    </credit>
+    <credit>
+      <actor>Tyrrell, Tim</actor>
+      <role>Speed Dater #14</role>
+    </credit>
+    <credit>
+      <actor>Wike, David (I)</actor>
+      <role>Chip</role>
+    </credit>
+    <credit>
+      <actor>Willshire, Kyle</actor>
+      <role>Man Exiting Madison Square Garden</role>
+    </credit>
+    <credit>
+      <actor>Wissler, Joe</actor>
+      <role>Wedding Guest</role>
+    </credit>
+    <credit>
+      <actor>Wraith, Alexander</actor>
+      <role>Bartender</role>
+    </credit>
+  </cast>
+<plot>Alex Hitchens is "The Date Doctor." He helps men to land dates. Sara is a gossip columnist for a New York City tabloid. Both are very guarded around the opposite sex. Despite their natures, Alex and Sara begin a relationship. Complications ensue when Sara's latest scoop happens to be one of Alex's clients.</plot><url>http://localhost:8983/solr/movie.html?241723</url></doc>

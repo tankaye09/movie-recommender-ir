@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="035500">
+  <docid>035500</docid>
+  <title>Amin</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Alonso Casale, Nathalie</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>French</language>
+  </languages>
+  <countries>
+    <country>France</country>
+    <country>Netherlands</country>
+    <country>Germany</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Netherlands">25 March 2007</releasedate>
+    <releasedate country="Finland">20 September 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Netherlands">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Dusa, David</director>
+  </directors>
+  <producers>
+    <producer>Alonso Casale, Nathalie</producer>
+    <producer>von Saucken, Elena</producer>
+    <producer>Dusa, David</producer>
+  </producers>
+  <writers>
+    <writer>Dusa, David</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Berger, Romain</actor>
+      <role>Policeman 1</role>
+    </credit>
+    <credit>
+      <actor>Bettahar, Tariq</actor>
+      <role>Father Amin</role>
+    </credit>
+    <credit>
+      <actor>Bouaia, Ramzi</actor>
+      <role>Amin</role>
+    </credit>
+    <credit>
+      <actor>Deslandres, Vincent</actor>
+      <role>Policeman 2</role>
+    </credit>
+  </cast>
+<plot>An Algerian is driving with his little son through Paris. He is stopped by the police, apparently because his headlamp is broken. The policemen start badgering him, the tension rises, until an outburst comes from an unexpected corner. Amin is a sensitive drama about injustice and power relationships, not just between authorities and individuals, but also between father and son.</plot><url>http://localhost:8983/solr/movie.html?035500</url></doc>

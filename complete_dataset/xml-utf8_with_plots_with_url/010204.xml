@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="010204">
+  <docid>010204</docid>
+  <title>A Favorita</title>
+  <year>2008</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ferreira, Fabrício</editor>
+    <editor>Leite, André</editor>
+  </editors>
+  <genres>
+    <genre>Mystery</genre>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <keywords>
+    <keyword>ex-convict</keyword>
+    <keyword>revenge</keyword>
+    <keyword>wrongful-conviction</keyword>
+    <keyword>vengeance</keyword>
+    <keyword>murder</keyword>
+  </keywords>
+  <languages>
+    <language>Portuguese</language>
+  </languages>
+  <countries>
+    <country>Brazil</country>
+  </countries>
+  <certificates>
+    <certificate country="Brazil">12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Brazil">25 November 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Brazil">37</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fernández, Gustavo (I)</director>
+    <director>Naar, Roberto</director>
+    <director>Rodrigo, Marco</director>
+    <director>Secchim, Isabela</director>
+    <director>Silvestrini, Paulo</director>
+    <director>Vasconcelos, Pedro (I)</director>
+    <director>Vaz, Roberto</director>
+    <director>Waddington, Ricardo</director>
+  </directors>
+  <producers>
+    <producer>Tumscitz, Durval</producer>
+    <producer>Azevedo, Suzana</producer>
+    <producer>Waddington, Ricardo</producer>
+  </producers>
+  <writers>
+    <writer>Bandeira, Denise</writer>
+    <writer>Carneiro, João Emanuel</writer>
+    <writer>Galvão, Fausto</writer>
+    <writer>Prates, Márcia</writer>
+    <writer>Villari, Vincent</writer>
+  </writers>
+  <composers>
+    <composer>Rosenblit, Alberto</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Andreazza, João Carlos</actor>
+      <role>Durval</role>
+    </credit>
+    <credit>
+      <actor>Antunes, Jackson</actor>
+      <role>Leonardo</role>
+    </credit>
+    <credit>
+      <actor>Antunes, Jackson</actor>
+      <role>Leonardo</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Emanuelle</actor>
+      <role>Manu</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Emanuelle</actor>
+      <role>Manu</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Emanuelle</actor>
+      <role>Manu</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Taís</actor>
+      <role>Alicia</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Taís</actor>
+      <role>Alicinha Rosa</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Taís</actor>
+      <role>Alícia</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Taís</actor>
+      <role>Alícia</role>
+    </credit>
+    <credit>
+      <actor>Arbex, Eduardo</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bacceli, Luís</actor>
+      <role>Darcy Queiroz</role>
+    </credit>
+    <credit>
+      <actor>Bacceli, Luís</actor>
+      <role>Darcy Queiroz</role>
+    </credit>
+    <credit>
+      <actor>Benício, Murilo</actor>
+      <role>Dodi Fontana</role>
+    </credit>
+    <credit>
+      <actor>Benício, Murilo</actor>
+      <role>Dodi Fontana</role>
+    </credit>
+    <credit>
+      <actor>Biff, Magali</actor>
+      <role>Gislaine</role>
+    </credit>
+    <credit>
+      <actor>Boliveira, Fabricio</actor>
+      <role>Diduzinho Rosa</role>
+    </credit>
+    <credit>
+      <actor>Boliveira, Fabricio</actor>
+      <role>Diduzinho Rosa</role>
+    </credit>
+    <credit>
+      <actor>Brunis, Jorge</actor>
+      <role>Medeiros</role>
+    </credit>
+    <credit>
+      <actor>Burlamaqui, Paula</actor>
+      <role>Estela</role>
+    </credit>
+    <credit>
+      <actor>Cabral, Lília</actor>
+      <role>Catarina</role>
+    </credit>
+    <credit>
+      <actor>Cabral, Lília</actor>
+      <role>Catarina</role>
+    </credit>
+    <credit>
+      <actor>Cabral, Lília</actor>
+      <role>Catarina</role>
+    </credit>
+    <credit>
+      <actor>Campos, Rosi</actor>
+      <role>Tuca</role>
+    </credit>
+    <credit>
+      <actor>Carla, Andréa</actor>
+      <role>Júnia</role>
+    </credit>
+    <credit>
+      <actor>Chagas, Walmor</actor>
+      <role>Dr. Salvatore</role>
+    </credit>
+    <credit>
+      <actor>Cochrane, Theodoro</actor>
+      <role>Bruninho Aguiar</role>
+    </credit>
+    <credit>
+      <actor>Coentro, Cyria</actor>
+      <role>Bianca</role>
+    </credit>
+    <credit>
+      <actor>Cunha, João</actor>
+      <role>Repórter</role>
+    </credit>
+    <credit>
+      <actor>Dalla Vecchia, Carmo</actor>
+      <role>Zé Bob</role>
+    </credit>
+    <credit>
+      <actor>Damascena, Alexandre</actor>
+      <role>Pimentel</role>
+    </credit>
+    <credit>
+      <actor>Duarte, Bertrand</actor>
+      <role>Nestor</role>
+    </credit>
+    <credit>
+      <actor>Díaz, Chico</actor>
+      <role>Átila</role>
+    </credit>
+    <credit>
+      <actor>Egrei, Selma</actor>
+      <role>Dulce</role>
+    </credit>
+    <credit>
+      <actor>Egrei, Selma</actor>
+      <role>Dulce</role>
+    </credit>
+    <credit>
+      <actor>Elizângela</actor>
+      <role>Cilene</role>
+    </credit>
+    <credit>
+      <actor>Elizângela</actor>
+      <role>Cilene</role>
+    </credit>
+    <credit>
+      <actor>Ewbank, Giovanna</actor>
+      <role>Sharon</role>
+    </credit>
+    <credit>
+      <actor>Ewbank, Giovanna</actor>
+      <role>Sharon</role>
+    </credit>
+    <credit>
+      <actor>Ewbank, Giovanna</actor>
+      <role>Sharon</role>
+    </credit>
+    <credit>
+      <actor>Falcão, Clarice</actor>
+      <role>Mariana</role>
+    </credit>
+    <credit>
+      <actor>Falcão, Clarice</actor>
+      <role>Mariana</role>
+    </credit>
+    <credit>
+      <actor>Faíni, Suzana</actor>
+      <role>Iolanda</role>
+    </credit>
+    <credit>
+      <actor>Fernandes, Christine</actor>
+      <role>Rita</role>
+    </credit>
+    <credit>
+      <actor>Fontoura, Ary</actor>
+      <role>Silveirinha</role>
+    </credit>
+    <credit>
+      <actor>Fontoura, Ary</actor>
+      <role>Silveirinha</role>
+    </credit>
+    <credit>
+      <actor>Fontoura, Ary</actor>
+      <role>Silveirinha</role>
+    </credit>
+    <credit>
+      <actor>Frambach, André Luiz</actor>
+      <role>Boy playing soccer</role>
+    </credit>
+    <credit>
+      <actor>Franco, Suely</actor>
+      <role>Geralda</role>
+    </credit>
+    <credit>
+      <actor>Franco, Suely</actor>
+      <role>Geralda</role>
+    </credit>
+    <credit>
+      <actor>Fróes, Gisele</actor>
+      <role>Lorena</role>
+    </credit>
+    <credit>
+      <actor>Fróes, Gisele</actor>
+      <role>Lorena</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Raquel</actor>
+      <role>Melissa</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Raquel</actor>
+      <role>Melissa</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Raquel</actor>
+      <role>Melissa</role>
+    </credit>
+    <credit>
+      <actor>Gam, Giulia</actor>
+      <role>Diva</role>
+    </credit>
+    <credit>
+      <actor>Gam, Giulia</actor>
+      <role>Diva</role>
+    </credit>
+    <credit>
+      <actor>Gam, Giulia</actor>
+      <role>Diva</role>
+    </credit>
+    <credit>
+      <actor>Gomes, Mário (I)</actor>
+      <role>Gurgel</role>
+    </credit>
+    <credit>
+      <actor>Gonçalves, Milton</actor>
+      <role>Romildo Rosa</role>
+    </credit>
+    <credit>
+      <actor>Gonçalves, Milton</actor>
+      <role>Romildo Rosa</role>
+    </credit>
+    <credit>
+      <actor>Gonçalves, Milton</actor>
+      <role>Romildo Rosa</role>
+    </credit>
+    <credit>
+      <actor>Gonçalves, Milton</actor>
+      <role>Romildo Rosa</role>
+    </credit>
+    <credit>
+      <actor>Gualda, Ana Roberta</actor>
+      <role>Greice</role>
+    </credit>
+    <credit>
+      <actor>Gualda, Ana Roberta</actor>
+      <role>Greice</role>
+    </credit>
+    <credit>
+      <actor>Hermeto, Mário</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Inacio, Gui</actor>
+      <role>Michel</role>
+    </credit>
+    <credit>
+      <actor>Ivo, Paulo</actor>
+      <role>Sinval</role>
+    </credit>
+    <credit>
+      <actor>Kutner, Bel</actor>
+      <role>Amelinha</role>
+    </credit>
+    <credit>
+      <actor>Kutner, Bel</actor>
+      <role>Amelinha</role>
+    </credit>
+    <credit>
+      <actor>Maia, Thiare</actor>
+      <role>Luma</role>
+    </credit>
+    <credit>
+      <actor>Maia, Thiare</actor>
+      <role>Luma</role>
+    </credit>
+    <credit>
+      <actor>Maia, Thiare</actor>
+      <role>Luma</role>
+    </credit>
+    <credit>
+      <actor>Malfitano, Iran</actor>
+      <role>Orlandinho</role>
+    </credit>
+    <credit>
+      <actor>Malfitano, Iran</actor>
+      <role>Orlandinho Queiroz</role>
+    </credit>
+    <credit>
+      <actor>Mauro, Lúcio</actor>
+      <role>Sabiá</role>
+    </credit>
+    <credit>
+      <actor>Mayer, José</actor>
+      <role>Augusto César</role>
+    </credit>
+    <credit>
+      <actor>Mayer, José</actor>
+      <role>Augusto César</role>
+    </credit>
+    <credit>
+      <actor>Mayer, José</actor>
+      <role>Augusto César</role>
+    </credit>
+    <credit>
+      <actor>Mayer, Renan</actor>
+      <role>Tiago</role>
+    </credit>
+    <credit>
+      <actor>Mayer, Renan</actor>
+      <role>Tiago</role>
+    </credit>
+    <credit>
+      <actor>Medeiros, Leonardo</actor>
+      <role>Elias</role>
+    </credit>
+    <credit>
+      <actor>Medeiros, Leonardo</actor>
+      <role>Elias</role>
+    </credit>
+    <credit>
+      <actor>Meira, Tarcísio</actor>
+      <role>Copola</role>
+    </credit>
+    <credit>
+      <actor>Meira, Tarcísio</actor>
+      <role>Copola</role>
+    </credit>
+    <credit>
+      <actor>Meira, Tarcísio</actor>
+      <role>Copola</role>
+    </credit>
+    <credit>
+      <actor>Mello, Eduardo</actor>
+      <role>Domenico</role>
+    </credit>
+    <credit>
+      <actor>Mello, Eduardo</actor>
+      <role>Domenico</role>
+    </credit>
+    <credit>
+      <actor>Mello, Eduardo</actor>
+      <role>Domenico</role>
+    </credit>
+    <credit>
+      <actor>Mendonça, Mauro</actor>
+      <role>Gonçalo</role>
+    </credit>
+    <credit>
+      <actor>Mendonça, Mauro</actor>
+      <role>Gonçalo Fontini</role>
+    </credit>
+    <credit>
+      <actor>Mendonça, Mauro</actor>
+      <role>Gonçalo Fontini</role>
+    </credit>
+    <credit>
+      <actor>Mendonça, Mauro</actor>
+      <role>Gonçalo Fontini</role>
+    </credit>
+    <credit>
+      <actor>Menezes, Glória</actor>
+      <role>Irene Fontini</role>
+    </credit>
+    <credit>
+      <actor>Menezes, Glória</actor>
+      <role>Irene Fontini</role>
+    </credit>
+    <credit>
+      <actor>Menezes, Glória</actor>
+      <role>Irene Fontini</role>
+    </credit>
+    <credit>
+      <actor>Missura, Cláudia</actor>
+      <role>Fafá</role>
+    </credit>
+    <credit>
+      <actor>Monteiro, Amilton</actor>
+      <role>Dr.Machado</role>
+    </credit>
+    <credit>
+      <actor>Nero, Alexandre</actor>
+      <role>Vanderlei</role>
+    </credit>
+    <credit>
+      <actor>Nero, Alexandre</actor>
+      <role>Vanderlei</role>
+    </credit>
+    <credit>
+      <actor>Noher, Jean Pierre</actor>
+      <role>Pepe Molinos</role>
+    </credit>
+    <credit>
+      <actor>Noher, Jean Pierre</actor>
+      <role>Pepe Molinos</role>
+    </credit>
+    <credit>
+      <actor>Pinotti, Giácomo</actor>
+      <role>Mário</role>
+    </credit>
+    <credit>
+      <actor>Porto, Aury</actor>
+      <role>Marconi</role>
+    </credit>
+    <credit>
+      <actor>Ramalho, Luiz</actor>
+      <role>Baiano</role>
+    </credit>
+    <credit>
+      <actor>Resende, Rui</actor>
+      <role>Pereira</role>
+    </credit>
+    <credit>
+      <actor>Resende, Rui</actor>
+      <role>Pereira</role>
+    </credit>
+    <credit>
+      <actor>Reymond, Cauã</actor>
+      <role>Halley</role>
+    </credit>
+    <credit>
+      <actor>Reymond, Cauã</actor>
+      <role>Halley</role>
+    </credit>
+    <credit>
+      <actor>Rodrigues, Thiago</actor>
+      <role>Cassiano</role>
+    </credit>
+    <credit>
+      <actor>Rodrigues, Thiago</actor>
+      <role>Cassiano</role>
+    </credit>
+    <credit>
+      <actor>Romera, Rogério</actor>
+      <role>Darlei</role>
+    </credit>
+    <credit>
+      <actor>Rômulo, Miguel</actor>
+      <role>Shiva Lênin</role>
+    </credit>
+    <credit>
+      <actor>Rômulo, Miguel</actor>
+      <role>Shiva Lênin</role>
+    </credit>
+    <credit>
+      <actor>Rômulo, Miguel</actor>
+      <role>Shiva Lênin</role>
+    </credit>
+    <credit>
+      <actor>Salvador, Malvino</actor>
+      <role>Damião</role>
+    </credit>
+    <credit>
+      <actor>Schumacher, Alexandre</actor>
+      <role>Norton</role>
+    </credit>
+    <credit>
+      <actor>Schumacher, Alexandre</actor>
+      <role>Norton</role>
+    </credit>
+    <credit>
+      <actor>Silva, Fausto</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Strasburger, Lui</actor>
+      <role>Delegado</role>
+    </credit>
+    <credit>
+      <actor>Tolezani, Flávio</actor>
+      <role>Marcelo Fontini</role>
+    </credit>
+    <credit>
+      <actor>Trindade, Aramis</actor>
+      <role>Clemente</role>
+    </credit>
+    <credit>
+      <actor>Trindade, Aramis</actor>
+      <role>Clemente</role>
+    </credit>
+    <credit>
+      <actor>Xavier, Nelson</actor>
+      <role>Edivaldo</role>
+    </credit>
+    <credit>
+      <actor>Xavier, Nelson</actor>
+      <role>Edivaldo</role>
+    </credit>
+    <credit>
+      <actor>da Penha, Mariah</actor>
+      <role>Jurema</role>
+    </credit>
+    <credit>
+      <actor>de Barros, Genésio</actor>
+      <role>Pedro</role>
+    </credit>
+  </cast>
+<plot>Flora was imprisoned for 18 years for the murder of the lover, Marcelo. She has always pleaded not guilty, and now that her sentence is finished, she wants revenge. Her main target is Donatella, her former partner in a country music duo and the widow of Marcelo. Flora blames Donatella not only for killing her own husband, but also for taking away Lara, the daughter Flora had with the killed man. In the meantime, Lara grows aware that her natural mother is a murderer and cares for Donatella as her actual mom, despite having a strong temper and very different personality. Everything is set in a small town nearby São Paulo, where the main powerful figure is that of Gonçalo Fontini, Marcelo's father and owner of a paper-mill plant.</plot><url>http://localhost:8983/solr/movie.html?010204</url></doc>

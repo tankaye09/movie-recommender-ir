@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="060911">
+  <docid>060911</docid>
+  <title>Batman Forever</title>
+  <year>1995</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Stevens, Mark (III)</editor>
+    <editor>Virkler, Dennis</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Action</genre>
+    <genre>Fantasy</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>happy-ending</keyword>
+    <keyword>street-gang</keyword>
+    <keyword>revenge</keyword>
+    <keyword>based-on-comic</keyword>
+    <keyword>buddy-comedy</keyword>
+    <keyword>sequel-to-cult-favorite</keyword>
+    <keyword>forensic-psychologist</keyword>
+    <keyword>coin-flipping-in-the-air</keyword>
+    <keyword>dc-comics</keyword>
+    <keyword>coin-tossing</keyword>
+    <keyword>theremin</keyword>
+    <keyword>concept-car</keyword>
+    <keyword>death-by-falling</keyword>
+    <keyword>superhero</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>sidekick</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>father-figure</keyword>
+    <keyword>see-you-in-hell</keyword>
+    <keyword>based-on-comic-book</keyword>
+    <keyword>loss-of-father</keyword>
+    <keyword>mask</keyword>
+    <keyword>criminal</keyword>
+    <keyword>black-comedy</keyword>
+    <keyword>campy</keyword>
+    <keyword>split-personality</keyword>
+    <keyword>surprise-ending</keyword>
+    <keyword>disfigurement</keyword>
+    <keyword>double-life</keyword>
+    <keyword>super-villain</keyword>
+    <keyword>abnormal-psychology</keyword>
+    <keyword>asylum</keyword>
+    <keyword>number-in-character's-name</keyword>
+    <keyword>disfigured-face</keyword>
+    <keyword>fictional-city</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>flashback</keyword>
+    <keyword>gotham</keyword>
+    <keyword>haunted-by-past</keyword>
+    <keyword>circus</keyword>
+    <keyword>gadget-car</keyword>
+    <keyword>secret-identity</keyword>
+    <keyword>sequel</keyword>
+    <keyword>exploding-car</keyword>
+    <keyword>fall-from-height</keyword>
+    <keyword>repressed-memory</keyword>
+    <keyword>acid-attack</keyword>
+    <keyword>butler</keyword>
+    <keyword>district-attorney</keyword>
+    <keyword>acrobat</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>lifting-person-in-air</keyword>
+    <keyword>homoeroticism</keyword>
+    <keyword>mind-reading</keyword>
+    <keyword>riddle</keyword>
+    <keyword>insanity</keyword>
+    <keyword>crime-fighter</keyword>
+    <keyword>security-guard</keyword>
+    <keyword>loss-of-mother</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>altered-version-of-studio-logo</keyword>
+    <keyword>batman</keyword>
+    <keyword>genius</keyword>
+    <keyword>mission</keyword>
+    <keyword>loss-of-brother</keyword>
+    <keyword>third-part</keyword>
+    <keyword>inkblot</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Iceland">10</certificate>
+    <certificate country="Netherlands">6</certificate>
+    <certificate country="Brazil">10</certificate>
+    <certificate country="South Korea">All</certificate>
+    <certificate country="Spain">13</certificate>
+    <certificate country="UK">PG</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Norway">11</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Finland">K-12</certificate>
+    <certificate country="Italy">T</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="Chile">TE</certificate>
+    <certificate country="USA">PG-13</certificate>
+    <certificate country="France">U</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Uruguay">30 June 1995</releasedate>
+    <releasedate country="Puerto Rico">29 June 1995</releasedate>
+    <releasedate country="Sweden">14 July 1995</releasedate>
+    <releasedate country="Hungary">1 September 1995</releasedate>
+    <releasedate country="Hong Kong">29 June 1995</releasedate>
+    <releasedate country="Estonia">25 August 1995</releasedate>
+    <releasedate country="South Africa">30 June 1995</releasedate>
+    <releasedate country="Indonesia">15 August 1995</releasedate>
+    <releasedate country="Peru">27 July 1995</releasedate>
+    <releasedate country="Argentina">20 July 1995</releasedate>
+    <releasedate country="Portugal">4 August 1995</releasedate>
+    <releasedate country="Czech Republic">28 September 1995</releasedate>
+    <releasedate country="Turkey">30 August 1995</releasedate>
+    <releasedate country="Mexico">14 July 1995</releasedate>
+    <releasedate country="Netherlands">24 August 1995</releasedate>
+    <releasedate country="Brazil">7 July 1995</releasedate>
+    <releasedate country="Japan">17 June 1995</releasedate>
+    <releasedate country="Slovakia">21 September 1995</releasedate>
+    <releasedate country="Trinidad And Tobago">17 August 1995</releasedate>
+    <releasedate country="Croatia">21 September 1995</releasedate>
+    <releasedate country="South Korea">15 July 1995</releasedate>
+    <releasedate country="Poland">22 September 1995</releasedate>
+    <releasedate country="Slovenia">24 August 1995</releasedate>
+    <releasedate country="Israel">4 August 1995</releasedate>
+    <releasedate country="India">15 August 1995</releasedate>
+    <releasedate country="Spain">23 June 1995</releasedate>
+    <releasedate country="Bolivia">18 July 1995</releasedate>
+    <releasedate country="UK">14 July 1995</releasedate>
+    <releasedate country="Taiwan">1 July 1995</releasedate>
+    <releasedate country="Australia">29 June 1995</releasedate>
+    <releasedate country="Switzerland">28 July 1995</releasedate>
+    <releasedate country="Bulgaria">13 October 1995</releasedate>
+    <releasedate country="Norway">14 July 1995</releasedate>
+    <releasedate country="Canada">16 June 1995</releasedate>
+    <releasedate country="Thailand">17 July 1995</releasedate>
+    <releasedate country="Singapore">9 August 1995</releasedate>
+    <releasedate country="Finland">21 July 1995</releasedate>
+    <releasedate country="Austria">4 August 1995</releasedate>
+    <releasedate country="Greece">27 October 1995</releasedate>
+    <releasedate country="Philippines">26 July 1995</releasedate>
+    <releasedate country="Italy">20 July 1995</releasedate>
+    <releasedate country="Germany">3 August 1995</releasedate>
+    <releasedate country="Belgium">28 June 1995</releasedate>
+    <releasedate country="New Zealand">30 June 1995</releasedate>
+    <releasedate country="Chile">6 July 1995</releasedate>
+    <releasedate country="Colombia">7 July 1995</releasedate>
+    <releasedate country="USA">31 August 2009</releasedate>
+    <releasedate country="France">19 July 1995</releasedate>
+    <releasedate country="Venezuela">19 July 1995</releasedate>
+    <releasedate country="Denmark">4 August 1995</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">121</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schumacher, Joel</director>
+  </directors>
+  <producers>
+    <producer>Dauterive, Mitchell E.</producer>
+    <producer>Messick, Kevin J.</producer>
+    <producer>Melniker, Benjamin</producer>
+    <producer>Uslan, Michael E.</producer>
+    <producer>Burton, Tim (I)</producer>
+    <producer>Macgregor-Scott, Peter</producer>
+  </producers>
+  <writers>
+    <writer>Batchler, Janet Scott</writer>
+    <writer>Batchler, Lee</writer>
+    <writer>Goldsman, Akiva</writer>
+    <writer>Kane, Bob (I)</writer>
+  </writers>
+  <composers>
+    <composer>Goldenthal, Elliot</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Arden, Noby</actor>
+      <role>Trapeze Act</role>
+    </credit>
+    <credit>
+      <actor>Auberjonois, Rene</actor>
+      <role>Dr. Burton</role>
+    </credit>
+    <credit>
+      <actor>Barrymore, Drew (I)</actor>
+      <role>Sugar</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Fred Stickley</role>
+    </credit>
+    <credit>
+      <actor>Betts, Jack</actor>
+      <role>Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Bologna, Marlene</actor>
+      <role>Trapeze Act</role>
+    </credit>
+    <credit>
+      <actor>Budig, Rebecca</actor>
+      <role>Teenage Girl</role>
+    </credit>
+    <credit>
+      <actor>Carrey, Jim</actor>
+      <role>Riddler/Dr. Edward Nygma</role>
+    </credit>
+    <credit>
+      <actor>Caso, Christopher</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Castle, Danny</actor>
+      <role>Trapeze Act</role>
+    </credit>
+    <credit>
+      <actor>Chan, Michael Paul</actor>
+      <role>Executive</role>
+    </credit>
+    <credit>
+      <actor>Clayton, Gary (II)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Coyne, Ria</actor>
+      <role>Socialite</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Jed</actor>
+      <role>Chubby Businessman</role>
+    </credit>
+    <credit>
+      <actor>Dillon, Oscar</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Ramsey</actor>
+      <role>Young Bruce Wayne</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Terry (I)</actor>
+      <role>Girl on Corner #2</role>
+    </credit>
+    <credit>
+      <actor>Favreau, Jon</actor>
+      <role>Assistant</role>
+    </credit>
+    <credit>
+      <actor>Fink, John (I)</actor>
+      <role>Deputy</role>
+    </credit>
+    <credit>
+      <actor>Fioramonti, Glory</actor>
+      <role>Mom Grayson</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Katrina (I)</actor>
+      <role>Wig Lady</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Andrea (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Gassner-Clayton, Nancy</actor>
+      <role>Solo Singer</role>
+    </credit>
+    <credit>
+      <actor>Gough, Michael (I)</actor>
+      <role>Alfred Pennyworth</role>
+    </credit>
+    <credit>
+      <actor>Graham, Keith (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Grevioux, Kevin</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Grifasi, Joe</actor>
+      <role>Bank Guard</role>
+    </credit>
+    <credit>
+      <actor>Guest, Timothy</actor>
+      <role>Lab Techician</role>
+    </credit>
+    <credit>
+      <actor>Gómez, Marga</actor>
+      <role>Journalist</role>
+    </credit>
+    <credit>
+      <actor>Herron, Cindy</actor>
+      <role>Girl on Corner #3</role>
+    </credit>
+    <credit>
+      <actor>Hicks, Mark (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Hingle, Pat</actor>
+      <role>Commissioner James Gordon</role>
+    </credit>
+    <credit>
+      <actor>Hodges, David U.</actor>
+      <role>Shooter</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Tim (I)</actor>
+      <role>Municipal Police Guard</role>
+    </credit>
+    <credit>
+      <actor>Jones, Maxine</actor>
+      <role>Girl on Corner #1</role>
+    </credit>
+    <credit>
+      <actor>Jones, Tommy Lee</actor>
+      <role>Two-Face/Harvey Dent</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Corey</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Kasper, Gary</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Kidman, Nicole</actor>
+      <role>Dr. Chase Meridian</role>
+    </credit>
+    <credit>
+      <actor>Kilmer, Val</actor>
+      <role>Batman/Bruce Wayne</role>
+    </credit>
+    <credit>
+      <actor>Lamb, Randy</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Lamont, Maurice</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Lauren, Greg</actor>
+      <role>Aide</role>
+    </credit>
+    <credit>
+      <actor>Lee, Larry A.</actor>
+      <role>Dad Grayson</role>
+    </credit>
+    <credit>
+      <actor>Liufau, Sidney S.</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Martin, Brad (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Mazar, Debi</actor>
+      <role>Spice</role>
+    </credit>
+    <credit>
+      <actor>McBee, Deron</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Mesnik, William</actor>
+      <role>Bald Guy</role>
+    </credit>
+    <credit>
+      <actor>Minckler, Sydney D.</actor>
+      <role>Teen Gang Member</role>
+    </credit>
+    <credit>
+      <actor>Moon, Philip</actor>
+      <role>Male Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Mugavero, Mario</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Joey (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>O'Donnell, Chris (I)</actor>
+      <role>Robin/Dick Grayson</role>
+    </credit>
+    <credit>
+      <actor>Paladino, Dennis</actor>
+      <role>Crime Boss Moroni</role>
+    </credit>
+    <credit>
+      <actor>Palmer, Jim (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Piemonte, Pee Wee</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Powell, Robert (II)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Radon, Peter</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Reichert, Daniel</actor>
+      <role>Ringmaster</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Bruce (IV)</actor>
+      <role>Handsome Reporter</role>
+    </credit>
+    <credit>
+      <actor>Rodrigue, François</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Sabatino, Joe</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Sabatino, Michael</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Samra, Ofer</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Scranton, Michael</actor>
+      <role>Thomas Wayne</role>
+    </credit>
+    <credit>
+      <actor>Sigloch, Matt</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Smith, Mike (I)</actor>
+      <role>Harvey's Thug</role>
+    </credit>
+    <credit>
+      <actor>Wallace, George (II)</actor>
+      <role>The Mayor</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Don 'The Dragon'</actor>
+      <role>Gang Leader</role>
+    </credit>
+    <credit>
+      <actor>Wolfe, Troy S.</actor>
+      <role>Trapeze Act</role>
+    </credit>
+    <credit>
+      <actor>Zmuda, Bob</actor>
+      <role>Electronic Store Owner</role>
+    </credit>
+  </cast>
+<plot>The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face incorrectly believes Batman caused the courtroom accident which left him disfigured on one side; he has unleashed a reign of terror on the good people of Gotham. Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist; as The Riddler he perfects a device for draining information from all the brains in Gotham, including Bruce Wayne's knowledge of his other identity. Batman/Wayne is/are the love focus of Dr. Chase Meridan. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne's ward and Batman's new partner Robin the Boy Wonder.</plot><url>http://localhost:8983/solr/movie.html?060911</url></doc>

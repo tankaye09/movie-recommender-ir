@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="439072">
+  <docid>439072</docid>
+  <title>Popular Science</title>
+  <year>1940</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Carlisle, Robert (I)</director>
+  </directors>
+  <writers>
+    <writer>Anthony, Walter (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Greenspoon, Reuben</actor>
+      <role>Himself (contact lens specialist)</role>
+    </credit>
+    <credit>
+      <actor>Whitman, Gayne</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>High-tech wind tunnel and other testing of new aircraft at Langley Field, Virginia. Also, a dental school training dummy; compacting gadgets fit a home into one room.</plot><url>http://localhost:8983/solr/movie.html?439072</url></doc>

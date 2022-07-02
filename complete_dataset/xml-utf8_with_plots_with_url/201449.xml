@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="201449">
+  <docid>201449</docid>
+  <title>Four Corners</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Mueller, Douglas</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">38</runningtime>
+    <runningtime country="USA">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Mueller, Douglas</director>
+  </directors>
+  <producers>
+    <producer>Her, Soua</producer>
+    <producer>Leis, Darren P.</producer>
+    <producer>Bias, Dusty</producer>
+    <producer>Mueller, Douglas</producer>
+  </producers>
+  <writers>
+    <writer>Bias, Dusty</writer>
+  </writers>
+  <composers>
+    <composer>De Rouen, Paul</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Hoeffner, Glenn</actor>
+      <role>Bearded Handyman</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, James R.</actor>
+      <role>Cyclist</role>
+    </credit>
+  </cast>
+<plot>A cyclist's cross-country ride comes to a halt when an out of place traffic light on a desolate, desert road remains red. The only way to cross successfully is by the help of a bearded handyman, whose enlightened skills send the cyclist on his path.</plot><url>http://localhost:8983/solr/movie.html?201449</url></doc>

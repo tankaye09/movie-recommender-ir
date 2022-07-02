@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="368669">
+  <docid>368669</docid>
+  <title>Mickey's Service Station</title>
+  <year>1935</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>auto-repair</keyword>
+    <keyword>cat</keyword>
+    <keyword>pegleg-pete</keyword>
+    <keyword>donald-duck</keyword>
+    <keyword>cartoon-cat</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>mickey-mouse</keyword>
+    <keyword>service-station</keyword>
+    <keyword>gas-station</keyword>
+    <keyword>duck</keyword>
+    <keyword>goofy-the-character</keyword>
+    <keyword>mouse</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">16 March 1935</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Sharpsteen, Ben</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <composers>
+    <composer>Harline, Leigh</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bletcher, Billy</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Colvig, Pinto</actor>
+      <role>Goofy</role>
+    </credit>
+    <credit>
+      <actor>Disney, Walt</actor>
+      <role>Mickey Mouse</role>
+    </credit>
+    <credit>
+      <actor>Nash, Clarence</actor>
+      <role>Donald Duck</role>
+    </credit>
+  </cast>
+<plot>Pegleg Pete drops his car off at Mickey's service station and gives him 10 minutes to remove the squeaking noise (it squeaks "Yankee Doodle", seemingly from every part.) That's plenty of time for our team to reduce the car to a pile of parts (and, eventually, find the source of the squeak).</plot><url>http://localhost:8983/solr/movie.html?368669</url></doc>

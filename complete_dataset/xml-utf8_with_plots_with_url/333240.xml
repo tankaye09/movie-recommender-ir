@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="333240">
+  <docid>333240</docid>
+  <title>Let It Be</title>
+  <year>1970</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lenny, Tony</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Music</genre>
+  </genres>
+  <keywords>
+    <keyword>john-lennon</keyword>
+    <keyword>actor-playing-himself</keyword>
+    <keyword>beatles</keyword>
+    <keyword>title-based-on-song</keyword>
+    <keyword>paul-mccartney</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">Btl</certificate>
+    <certificate country="UK">U</certificate>
+    <certificate country="Finland">S</certificate>
+    <certificate country="USA">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">14 September 1970</releasedate>
+    <releasedate country="West Germany">20 July 1970</releasedate>
+    <releasedate country="UK">20 May 1970</releasedate>
+    <releasedate country="Finland">21 August 1970</releasedate>
+    <releasedate country="USA">13 May 1970</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">81</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lindsay-Hogg, Michael</director>
+  </directors>
+  <producers>
+    <producer>Swimmer, Saul</producer>
+    <producer>Harrison, George (I)</producer>
+    <producer>Lennon, John (I)</producer>
+    <producer>McCartney, Paul</producer>
+    <producer>Starr, Ringo</producer>
+    <producer>Aspinall, Neil</producer>
+    <producer>Evans, Mal</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Evans, Mal</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harrison, George (I)</actor>
+      <role>Himself (The Beatles)</role>
+    </credit>
+    <credit>
+      <actor>Lennon, John (I)</actor>
+      <role>Himself (The Beatles)</role>
+    </credit>
+    <credit>
+      <actor>Lindsay-Hogg, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Martin, George (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCartney, Heather</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McCartney, Paul</actor>
+      <role>Himself (The Beatles)</role>
+    </credit>
+    <credit>
+      <actor>Preston, Billy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Starr, Ringo</actor>
+      <role>Himself (The Beatles)</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Derek (I)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>A documentary showing both how 'The Beatles' (qv) made music together, and how they split up. Hundreds of hours of raw footage was condensed into the final product. The rooftop performance ending the film remains a rock-n-roll archetype.</plot><url>http://localhost:8983/solr/movie.html?333240</url></doc>

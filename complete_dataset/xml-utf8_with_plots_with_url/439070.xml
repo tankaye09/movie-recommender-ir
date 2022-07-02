@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="439070">
+  <docid>439070</docid>
+  <title>Popular Science</title>
+  <year>1938</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Carlisle, Robert (I)</director>
+  </directors>
+  <writers>
+    <writer>Whitman, Gayne</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Bell, J.H.</actor>
+      <role>Himself (plastic surgeon)</role>
+    </credit>
+    <credit>
+      <actor>Carlisle, Mary</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Patton, H.L.</actor>
+      <role>Himself (oil firefighter)</role>
+    </credit>
+    <credit>
+      <actor>Waring, Fred (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whitman, Gayne</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>At March Field, the U.S. Army Air Corps tests hardware including the Link Trainer. A plastic surgeon injects permanent "make-up"; humorous hat patents; finger paint; bandleader Fred Waring invents his Blender.</plot><url>http://localhost:8983/solr/movie.html?439070</url></doc>

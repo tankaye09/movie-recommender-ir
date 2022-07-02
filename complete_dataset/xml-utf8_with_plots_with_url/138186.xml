@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="138186">
+  <docid>138186</docid>
+  <title>Der Hund von Baskerville</title>
+  <year>1914</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Mystery</genre>
+    <genre>Horror</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-novel</keyword>
+    <keyword>detective</keyword>
+    <keyword>sherlock-holmes</keyword>
+    <keyword>animal-in-title</keyword>
+    <keyword>place-name-in-title</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Germany">12 June 1914</releasedate>
+    <releasedate country="USA">March 1915</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">65</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Meinert, Rudolf</director>
+  </directors>
+  <writers>
+    <writer>Doyle, Arthur Conan</writer>
+    <writer>Oswald, Richard (I)</writer>
+  </writers>
+  <composers>
+    <composer>Bärenz, Joachim</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Fichtner, Erwin</actor>
+      <role>Lord Henry</role>
+    </credit>
+    <credit>
+      <actor>Kühne, Friedrich</actor>
+      <role>Stapleton</role>
+    </credit>
+    <credit>
+      <actor>Neuß, Alwin</actor>
+      <role>Sherlock Holmes</role>
+    </credit>
+    <credit>
+      <actor>Van Horn, Andreas</actor>
+      <role>The Butler</role>
+    </credit>
+  </cast>
+<plot>In this early version the classic "Hound of the Baskervilles" mystery is faithfully adapted, although Watson's character is absent. Holmes' foe is called Stapleton and he menaces Holmes' client Lord Henry and his fiancée, Laura Lyons.</plot><url>http://localhost:8983/solr/movie.html?138186</url></doc>

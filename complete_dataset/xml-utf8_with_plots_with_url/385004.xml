@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="385004">
+  <docid>385004</docid>
+  <title>My Tomato</title>
+  <year>1943</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Fazan, Adrienne</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>wwii</keyword>
+    <keyword>victory-garden</keyword>
+    <keyword>rationing</keyword>
+    <keyword>tomato</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">4 December 1943</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Jason, Will</director>
+  </directors>
+  <writers>
+    <writer>Baerwitz, Sam</writer>
+    <writer>Smith, Paul Girard</writer>
+  </writers>
+  <composers>
+    <composer>Duncan, Ted (III)</composer>
+    <composer>Terr, Max</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Benchley, Robert</actor>
+      <role>Joseph A. Doakes</role>
+    </credit>
+    <credit>
+      <actor>Butler, John (I)</actor>
+      <role>Cornelius Gidge</role>
+    </credit>
+    <credit>
+      <actor>Collins, Monte (I)</actor>
+      <role>Neighbor</role>
+    </credit>
+    <credit>
+      <actor>Dilson, John</actor>
+      <role>Neighbor</role>
+    </credit>
+    <credit>
+      <actor>Lee, Ruth (I)</actor>
+      <role>Mrs. Doakes</role>
+    </credit>
+    <credit>
+      <actor>McAvoy, May</actor>
+      <role>Gidge's Customer</role>
+    </credit>
+    <credit>
+      <actor>Yule, Joe</actor>
+      <role>Hardware store man</role>
+    </credit>
+  </cast>
+<plot>Joe Doakes hasn't had stewed tomatoes for so long, he thinks they have been rationed like butter, eggs, and meat. After he decides to grow his own tomatoes, everyone he meets gives him conflicting advice as to the proper method for getting the best results.</plot><url>http://localhost:8983/solr/movie.html?385004</url></doc>

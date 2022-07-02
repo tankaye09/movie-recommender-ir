@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="031121">
+  <docid>031121</docid>
+  <title>All a Bir-r-r-rd</title>
+  <year>1950</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Brown, Treg</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>sylvester</keyword>
+    <keyword>cat</keyword>
+    <keyword>cartoon-cat</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>train</keyword>
+    <keyword>looney-tunes</keyword>
+    <keyword>tweety</keyword>
+    <keyword>tweety-sylvester</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Canada">G</certificate>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">24 June 1950</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Freleng, Friz</director>
+  </directors>
+  <producers>
+    <producer>Selzer, Edward</producer>
+  </producers>
+  <writers>
+    <writer>Pierce, Tedd</writer>
+  </writers>
+  <composers>
+    <composer>Stalling, Carl W.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Benaderet, Bea</actor>
+      <role>Granny</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Sylvester/Tweety/Conductor/Dog</role>
+    </credit>
+  </cast>
+<plot>Sylvester Cat, Tweety Bird, and a bulldog are passengers on a train. Sylvester's attempts to catch Tweety are thwarted by the bulldog and a conscientious conductor.</plot><url>http://localhost:8983/solr/movie.html?031121</url></doc>

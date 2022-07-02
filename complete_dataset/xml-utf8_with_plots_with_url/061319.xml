@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="061319">
+  <docid>061319</docid>
+  <title>Battlestar Galactica</title>
+  <year>1978</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Berman, Michael (I)</editor>
+    <editor>Dumas, John J.</editor>
+    <editor>Elias, John (I)</editor>
+    <editor>Howe, David (III)</editor>
+    <editor>Kimble, Robert L.</editor>
+    <editor>Knudtson, Frederic (II)</editor>
+    <editor>Ortiz-Gil, Leon</editor>
+    <editor>Potter, George (II)</editor>
+    <editor>Schreyer, John F.</editor>
+    <editor>Strong, Larry (I)</editor>
+  </editors>
+  <genres>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>captain</keyword>
+    <keyword>robot</keyword>
+    <keyword>robot-as-menace</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>space</keyword>
+    <keyword>mormon</keyword>
+    <keyword>space-carrier</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>commander</keyword>
+    <keyword>spaceship-name-in-title</keyword>
+    <keyword>refugee</keyword>
+    <keyword>colonel</keyword>
+    <keyword>cult-sci-fi</keyword>
+    <keyword>lieutenant</keyword>
+    <keyword>aircraft-carrier</keyword>
+    <keyword>futuristic</keyword>
+    <keyword>corporal</keyword>
+    <keyword>diaspora</keyword>
+    <keyword>orchestral-music-score</keyword>
+    <keyword>interracial-relationship</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>fugitive</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Hungary">28 May 2009</releasedate>
+    <releasedate country="Netherlands">24 July 1981</releasedate>
+    <releasedate country="UK">4 September 1980</releasedate>
+    <releasedate country="USA">21 January 1979</releasedate>
+    <releasedate country="France">4 July 1981</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+    <runningtime country="USA">120</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bellisario, Donald P.</director>
+    <director>Colla, Richard A.</director>
+    <director>Edwards, Vince (I)</director>
+    <director>Haller, Daniel (I)</director>
+    <director>Holcomb, Rod</director>
+    <director>Kolbe, Winrich</director>
+    <director>Levi, Alan J.</director>
+    <director>Nyby II, Christian I.</director>
+  </directors>
+  <producers>
+    <producer>Kolbe, Winrich</producer>
+    <producer>Phinney, David G.</producer>
+    <producer>Winter, Gary B.</producer>
+  </producers>
+  <writers>
+    <writer>Arthur, David G.</writer>
+    <writer>Bellisario, Donald P.</writer>
+    <writer>Carlson, Jim (I)</writer>
+    <writer>Groves, Herman</writer>
+    <writer>Larson, Glen A.</writer>
+    <writer>McDonnell, Terrence</writer>
+    <writer>Pettus, Ken</writer>
+    <writer>Phinney, David G.</writer>
+    <writer>Sloan, Michael (I)</writer>
+  </writers>
+  <composers>
+    <composer>Phillips, Stu</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abercrombie, Ian</actor>
+      <role>Forger 7</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Newell (I)</actor>
+      <role>Elias</role>
+    </credit>
+    <credit>
+      <actor>Alicia, Ana</actor>
+      <role>Aurora</role>
+    </credit>
+    <credit>
+      <actor>Alyn, Kirk</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Melody</actor>
+      <role>Brenda Maxwell</role>
+    </credit>
+    <credit>
+      <actor>Ashmore, Frank</actor>
+      <role>Flight Sgt. Ortega</role>
+    </credit>
+    <credit>
+      <actor>Astaire, Fred</actor>
+      <role>Chameleon/Captain Dimitri</role>
+    </credit>
+    <credit>
+      <actor>Ayres, Lew</actor>
+      <role>President Adar</role>
+    </credit>
+    <credit>
+      <actor>Balin, Ina</actor>
+      <role>Siress Tinia</role>
+    </credit>
+    <credit>
+      <actor>Barton, Dan (I)</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Carol</actor>
+      <role>Macy</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Carol</actor>
+      <role>Woman in Elevator</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Flight Sgt. Greenbean</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Flight Sgt. Greenbean</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Flight Sgt. Greenbean</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Flight Sgt. Greenbean</role>
+    </credit>
+    <credit>
+      <actor>Belford, Christine</actor>
+      <role>Leda</role>
+    </credit>
+    <credit>
+      <actor>Benedict, Dirk</actor>
+      <role>Lt. Starbuck</role>
+    </credit>
+    <credit>
+      <actor>Benedict, Dirk</actor>
+      <role>Lt. Starbuck</role>
+    </credit>
+    <credit>
+      <actor>Binney, Geoffrey</actor>
+      <role>Second Warrior</role>
+    </credit>
+    <credit>
+      <actor>Bloom, Charles</actor>
+      <role>Kyle</role>
+    </credit>
+    <credit>
+      <actor>Bochner, Lloyd</actor>
+      <role>Commandant Leiter</role>
+    </credit>
+    <credit>
+      <actor>Bochner, Lloyd</actor>
+      <role>Commandant Leiter</role>
+    </credit>
+    <credit>
+      <actor>Bolger, Ray</actor>
+      <role>Vector</role>
+    </credit>
+    <credit>
+      <actor>Bridges, Lloyd</actor>
+      <role>Commander Cain</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Pattie</actor>
+      <role>Tucana Singer</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>Fire Leader</role>
+    </credit>
+    <credit>
+      <actor>Burgdorf, Diane</actor>
+      <role>Ovion Queen</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Katherine</actor>
+      <role>Vella</role>
+    </credit>
+    <credit>
+      <actor>Carter, Terry (I)</actor>
+      <role>Col. Tigh</role>
+    </credit>
+    <credit>
+      <actor>Carter, Terry (I)</actor>
+      <role>Col. Tigh</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Cadet Shields</role>
+    </credit>
+    <credit>
+      <actor>Clute, Sidney</actor>
+      <role>Stone</role>
+    </credit>
+    <credit>
+      <actor>Colicos, John</actor>
+      <role>Baltar</role>
+    </credit>
+    <credit>
+      <actor>Colicos, John</actor>
+      <role>Baltar</role>
+    </credit>
+    <credit>
+      <actor>Coufos, Paul</actor>
+      <role>2nd Guard</role>
+    </credit>
+    <credit>
+      <actor>Coufos, Paul</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Coufos, Paul</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Credel, Curtis</actor>
+      <role>Haals</role>
+    </credit>
+    <credit>
+      <actor>Crisp, Millicent</actor>
+      <role>3rd Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Crisp, Millicent</actor>
+      <role>3rd Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Janet Lynn</actor>
+      <role>Sorrell</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Janet Lynn</actor>
+      <role>Sorrell</role>
+    </credit>
+    <credit>
+      <actor>Cutter, Rex</actor>
+      <role>Red Eye</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Vickers</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Vickers</role>
+    </credit>
+    <credit>
+      <actor>De Banzie, Lois</actor>
+      <role>Lizz baur</role>
+    </credit>
+    <credit>
+      <actor>De Longis, Anthony</actor>
+      <role>Taba</role>
+    </credit>
+    <credit>
+      <actor>De Longis, Anthony</actor>
+      <role>Taba</role>
+    </credit>
+    <credit>
+      <actor>DeCarl, Nancy</actor>
+      <role>Slayer</role>
+    </credit>
+    <credit>
+      <actor>DeWindt, Sheila</actor>
+      <role>Lieutenant Deitra</role>
+    </credit>
+    <credit>
+      <actor>DeWindt, Sheila</actor>
+      <role>Lieutenant Deitra</role>
+    </credit>
+    <credit>
+      <actor>Donahue, Jay</actor>
+      <role>Jason</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Dr. Wilker</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Dr. Wilker</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Dr. Wilker</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Dr. Wilker</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Dr. Wilker</role>
+    </credit>
+    <credit>
+      <actor>Durock, Dick</actor>
+      <role>Imperious Leader</role>
+    </credit>
+    <credit>
+      <actor>Eckstein, Nora</actor>
+      <role>Heavenly Body</role>
+    </credit>
+    <credit>
+      <actor>Ekland, Britt</actor>
+      <role>Tenna</role>
+    </credit>
+    <credit>
+      <actor>Feero, Robert</actor>
+      <role>Bora</role>
+    </credit>
+    <credit>
+      <actor>Feero, Robert</actor>
+      <role>Bora</role>
+    </credit>
+    <credit>
+      <actor>Fimple, Dennis</actor>
+      <role>Duggy</role>
+    </credit>
+    <credit>
+      <actor>Fink, John (I)</actor>
+      <role>Dr. Payne</role>
+    </credit>
+    <credit>
+      <actor>Fix, Paul</actor>
+      <role>Commander Kronus</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Lester</actor>
+      <role>Donner</role>
+    </credit>
+    <credit>
+      <actor>Frank, Ben (I)</actor>
+      <role>Chella/Riftis</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Nogow</role>
+    </credit>
+    <credit>
+      <actor>Gehring, Ted</actor>
+      <role>Croad</role>
+    </credit>
+    <credit>
+      <actor>Gimpel, Sandra Lee</actor>
+      <role>Seetol</role>
+    </credit>
+    <credit>
+      <actor>Glover, Bruce (I)</actor>
+      <role>Megan</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Bridge officer</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Officer Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Officer Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greenan, David</actor>
+      <role>Omega</role>
+    </credit>
+    <credit>
+      <actor>Greene, Gillian</actor>
+      <role>Melanie</role>
+    </credit>
+    <credit>
+      <actor>Greene, Lorne</actor>
+      <role>Commander Adama</role>
+    </credit>
+    <credit>
+      <actor>Greene, Lorne</actor>
+      <role>Commander Adama</role>
+    </credit>
+    <credit>
+      <actor>Haase, Rod</actor>
+      <role>Tolan</role>
+    </credit>
+    <credit>
+      <actor>Halpern, Lynn</actor>
+      <role>Dealer</role>
+    </credit>
+    <credit>
+      <actor>Hamaguchi, Ted</actor>
+      <role>3rd Crewman</role>
+    </credit>
+    <credit>
+      <actor>Hamaguchi, Ted</actor>
+      <role>Helmsman</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Kelly</actor>
+      <role>Sarah</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jonathan (I)</actor>
+      <role>Lucifer</role>
+    </credit>
+    <credit>
+      <actor>Hatch, Richard (I)</actor>
+      <role>Capt. Apollo</role>
+    </credit>
+    <credit>
+      <actor>Hatch, Richard (I)</actor>
+      <role>Capt. Apollo</role>
+    </credit>
+    <credit>
+      <actor>Hathaway, Noah</actor>
+      <role>Boxey</role>
+    </credit>
+    <credit>
+      <actor>Hathaway, Robert (II)</actor>
+      <role>Enforcer</role>
+    </credit>
+    <credit>
+      <actor>Holland, John (I)</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Holt, Nick (I)</actor>
+      <role>Charka</role>
+    </credit>
+    <credit>
+      <actor>Horsley, Michael</actor>
+      <role>Mutineer #2</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rance</actor>
+      <role>Farnes</role>
+    </credit>
+    <credit>
+      <actor>Hoyt, John (I)</actor>
+      <role>Sire Domra</role>
+    </credit>
+    <credit>
+      <actor>Hunley, Leann</actor>
+      <role>1st Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Hunley, Leann</actor>
+      <role>1st Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Hunley, Leann</actor>
+      <role>Female Pilot</role>
+    </credit>
+    <credit>
+      <actor>Hunley, Leann</actor>
+      <role>Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Hyde-White, Alex (I)</actor>
+      <role>Cadet Bow</role>
+    </credit>
+    <credit>
+      <actor>Hyde-White, Alex (I)</actor>
+      <role>Cadet Box</role>
+    </credit>
+    <credit>
+      <actor>Hyde-White, Wilfrid</actor>
+      <role>Anton</role>
+    </credit>
+    <credit>
+      <actor>Jamin, Milt</actor>
+      <role>Alliance Leader</role>
+    </credit>
+    <credit>
+      <actor>Jefferson Jr., Herb</actor>
+      <role>Lt. Boomer</role>
+    </credit>
+    <credit>
+      <actor>Jeffreys, Anne</actor>
+      <role>Siress Blassie</role>
+    </credit>
+    <credit>
+      <actor>Jennings, Junero</actor>
+      <role>Launch Officer on Pegasus</role>
+    </credit>
+    <credit>
+      <actor>Jensen, Maren</actor>
+      <role>Athena</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Chip (I)</actor>
+      <role>3rd Pilot</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Chip (I)</actor>
+      <role>First warrior</role>
+    </credit>
+    <credit>
+      <actor>Jones, Claude Earl</actor>
+      <role>Lacerta</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Jennifer (II)</actor>
+      <role>2nd Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Jennifer (II)</actor>
+      <role>2nd Girl Warrior</role>
+    </credit>
+    <credit>
+      <actor>Julian, Janet</actor>
+      <role>Lt. Brie</role>
+    </credit>
+    <credit>
+      <actor>Julian, Janet</actor>
+      <role>Lt. Brie</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Ron (II)</actor>
+      <role>Security Officer Reese</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Ron (II)</actor>
+      <role>Security Officer Reese</role>
+    </credit>
+    <credit>
+      <actor>Landers, Audrey</actor>
+      <role>Miri</role>
+    </credit>
+    <credit>
+      <actor>Larson, D.G.</actor>
+      <role>Baby Walker</role>
+    </credit>
+    <credit>
+      <actor>Larson, Eric (II)</actor>
+      <role>Todd</role>
+    </credit>
+    <credit>
+      <actor>Larson, Michele Carol</actor>
+      <role>Charity</role>
+    </credit>
+    <credit>
+      <actor>LeClair, Paul</actor>
+      <role>1st Guard</role>
+    </credit>
+    <credit>
+      <actor>LeClair, Paul</actor>
+      <role>2nd Guard</role>
+    </credit>
+    <credit>
+      <actor>LeGault, Lance</actor>
+      <role>Bootes</role>
+    </credit>
+    <credit>
+      <actor>LeGault, Lance</actor>
+      <role>Maga</role>
+    </credit>
+    <credit>
+      <actor>LeGault, Lance</actor>
+      <role>Maga</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Sheba</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Sheba</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Sheba</role>
+    </credit>
+    <credit>
+      <actor>Lowens, Curt</actor>
+      <role>Krebbs</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Ken</actor>
+      <role>Dr. Horning</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Richard (I)</actor>
+      <role>Wolfe</role>
+    </credit>
+    <credit>
+      <actor>MacKay, Jeff</actor>
+      <role>2nd Crewman</role>
+    </credit>
+    <credit>
+      <actor>MacKay, Jeff</actor>
+      <role>CPI Komma</role>
+    </credit>
+    <credit>
+      <actor>MacKay, Jeff</actor>
+      <role>Cpl Komma</role>
+    </credit>
+    <credit>
+      <actor>MacLean, Peter (I)</actor>
+      <role>President</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Count Iblis</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Count Iblis</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Imperious Leader</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Opening Credit Announcer</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Opening narrator/Imperious Leader</role>
+    </credit>
+    <credit>
+      <actor>Manetti, Larry</actor>
+      <role>Giles</role>
+    </credit>
+    <credit>
+      <actor>Manetti, Larry</actor>
+      <role>Giles</role>
+    </credit>
+    <credit>
+      <actor>Manetti, Larry</actor>
+      <role>Giles</role>
+    </credit>
+    <credit>
+      <actor>Mann, Adam (II)</actor>
+      <role>Nilz</role>
+    </credit>
+    <credit>
+      <actor>Mantooth, Don</actor>
+      <role>Medtech</role>
+    </credit>
+    <credit>
+      <actor>Mantooth, Randolph</actor>
+      <role>Michael</role>
+    </credit>
+    <credit>
+      <actor>Marin, Russ</actor>
+      <role>Alliance Member</role>
+    </credit>
+    <credit>
+      <actor>Mars, Mary Kay</actor>
+      <role>Vi</role>
+    </credit>
+    <credit>
+      <actor>Martel, Arlene (I)</actor>
+      <role>Adulteress 58</role>
+    </credit>
+    <credit>
+      <actor>Marth, Frank</actor>
+      <role>Josh Moreland</role>
+    </credit>
+    <credit>
+      <actor>Matheson, Murray</actor>
+      <role>Specter</role>
+    </credit>
+    <credit>
+      <actor>Matheson, Murray</actor>
+      <role>Statesman Geller</role>
+    </credit>
+    <credit>
+      <actor>Matthau, David</actor>
+      <role>Operative</role>
+    </credit>
+    <credit>
+      <actor>Matthews, Myrna (I)</actor>
+      <role>Space Angel</role>
+    </credit>
+    <credit>
+      <actor>McCall, Marti</actor>
+      <role>Space Angel</role>
+    </credit>
+    <credit>
+      <actor>McClory, Sean (I)</actor>
+      <role>Assault 9</role>
+    </credit>
+    <credit>
+      <actor>Milholland, Richard</actor>
+      <role>Killian</role>
+    </credit>
+    <credit>
+      <actor>Milland, Ray</actor>
+      <role>Sire Uri</role>
+    </credit>
+    <credit>
+      <actor>Miller, Denny (I)</actor>
+      <role>Ser 5-9</role>
+    </credit>
+    <credit>
+      <actor>Mulhare, Edward</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Murdock, George (I)</actor>
+      <role>Dr. Salik</role>
+    </credit>
+    <credit>
+      <actor>Murdock, George (I)</actor>
+      <role>Dr. Salik</role>
+    </credit>
+    <credit>
+      <actor>Murdock, George (I)</actor>
+      <role>Dr. Salik</role>
+    </credit>
+    <credit>
+      <actor>Murvin, Robert</actor>
+      <role>Duty Officer</role>
+    </credit>
+    <credit>
+      <actor>Nalder, Reggie</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Barry (I)</actor>
+      <role>Bogan</role>
+    </credit>
+    <credit>
+      <actor>Noose, Ted</actor>
+      <role>Official</role>
+    </credit>
+    <credit>
+      <actor>O'Herlihy, Dan</actor>
+      <role>Dr. Ravashol</role>
+    </credit>
+    <credit>
+      <actor>Olson, James</actor>
+      <role>Thane</role>
+    </credit>
+    <credit>
+      <actor>Parker, Frank (I)</actor>
+      <role>Zed</role>
+    </credit>
+    <credit>
+      <actor>Parker, Frank (I)</actor>
+      <role>Zed</role>
+    </credit>
+    <credit>
+      <actor>Parkes, James R.</actor>
+      <role>Mutineer #1</role>
+    </credit>
+    <credit>
+      <actor>Persoff, Nehemiah</actor>
+      <role>Eastern Alliance Leader</role>
+    </credit>
+    <credit>
+      <actor>Peters, Brock</actor>
+      <role>Chief Opposer Solon</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, Logan</actor>
+      <role>Moore</role>
+    </credit>
+    <credit>
+      <actor>Reta, Mitchell</actor>
+      <role>Control Operator</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Jordan (I)</actor>
+      <role>Brace</role>
+    </credit>
+    <credit>
+      <actor>Rodine, Alex</actor>
+      <role>Lanceman</role>
+    </credit>
+    <credit>
+      <actor>Server, Eric</actor>
+      <role>Dipper</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Lucifer</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>Carmichael</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>Carmichael</role>
+    </credit>
+    <credit>
+      <actor>Springfield, Rick</actor>
+      <role>Lieutenant Zac</role>
+    </credit>
+    <credit>
+      <actor>Stauffer, Jack</actor>
+      <role>Captain Bojay</role>
+    </credit>
+    <credit>
+      <actor>Stauffer, Jack</actor>
+      <role>Lieutenant Bojay</role>
+    </credit>
+    <credit>
+      <actor>Stock, Alan</actor>
+      <role>Cadet Cree</role>
+    </credit>
+    <credit>
+      <actor>Stock, Alan</actor>
+      <role>Cadet Cree</role>
+    </credit>
+    <credit>
+      <actor>Stratton, W.K.</actor>
+      <role>Lieutenant Barton</role>
+    </credit>
+    <credit>
+      <actor>Stuart, Norman</actor>
+      <role>2nd Statesman</role>
+    </credit>
+    <credit>
+      <actor>Stuart, Norman</actor>
+      <role>2nd Statesman</role>
+    </credit>
+    <credit>
+      <actor>Stuart, Norman</actor>
+      <role>Statesman</role>
+    </credit>
+    <credit>
+      <actor>Stumpf, Randy</actor>
+      <role>Damon</role>
+    </credit>
+    <credit>
+      <actor>Styles, Richard (II)</actor>
+      <role>Hermes</role>
+    </credit>
+    <credit>
+      <actor>Swartz, Tony</actor>
+      <role>Flight Sgt. Jolly</role>
+    </credit>
+    <credit>
+      <actor>Swofford, Ken</actor>
+      <role>General Maxwell</role>
+    </credit>
+    <credit>
+      <actor>Thinnes, Roy</actor>
+      <role>Croft</role>
+    </credit>
+    <credit>
+      <actor>Timko, Johnny</actor>
+      <role>Puppis</role>
+    </credit>
+    <credit>
+      <actor>Tinder, Paul</actor>
+      <role>5th Guard</role>
+    </credit>
+    <credit>
+      <actor>Tress, David</actor>
+      <role>Sandell</role>
+    </credit>
+    <credit>
+      <actor>Van, Bobby (I)</actor>
+      <role>Hector</role>
+    </credit>
+    <credit>
+      <actor>Vinson, Gary</actor>
+      <role>Doyle</role>
+    </credit>
+    <credit>
+      <actor>Ward, Lyman (I)</actor>
+      <role>Pallon/Karibdis</role>
+    </credit>
+    <credit>
+      <actor>West, Red</actor>
+      <role>Marco</role>
+    </credit>
+    <credit>
+      <actor>Whitmore Jr., James</actor>
+      <role>Robber</role>
+    </credit>
+    <credit>
+      <actor>Williams, John (II)</actor>
+      <role>Sire Montrose</role>
+    </credit>
+    <credit>
+      <actor>Williams, John (II)</actor>
+      <role>Sire Montrose</role>
+    </credit>
+    <credit>
+      <actor>Woodward, Jonathan B.</actor>
+      <role>Robus</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>1st Lt. Guard</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>Corporal Lomas</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>Deck hand</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>de Lancie, John</actor>
+      <role>Officer</role>
+    </credit>
+  </cast>
+<plot>This short-lived TV series dealt with the adventures of a fleet of starships from an ancient civilization who are seeking a legendary lost colony known as Earth. It later spawned an even shorter-lived TV series, Galactica 1980.</plot><url>http://localhost:8983/solr/movie.html?061319</url></doc>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="200713">
+  <docid>200713</docid>
+  <title>Forget Me Not</title>
+  <year>1936</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Cornelius, Henry</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Turkey">1936</releasedate>
+    <releasedate country="UK">December 1936</releasedate>
+    <releasedate country="USA">6 June 1937</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">73</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Korda, Zoltan</director>
+  </directors>
+  <writers>
+    <writer>Gray, Hugh</writer>
+    <writer>Wimperis, Arthur</writer>
+  </writers>
+  <composers>
+    <composer>Spoliansky, Mischa</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Brandt, Ivan (I)</actor>
+      <role>Hugh Anderson</role>
+    </credit>
+    <credit>
+      <actor>Carson, Charles</actor>
+      <role>George Arnold</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Joan (I)</actor>
+      <role>Helen Carleton</role>
+    </credit>
+    <credit>
+      <actor>Gigli, Beniamino (I)</actor>
+      <role>Enzo Curti</role>
+    </credit>
+    <credit>
+      <actor>Gofe, Richard</actor>
+      <role>Benvenuto Curti</role>
+    </credit>
+    <credit>
+      <actor>Jeayes, Allan</actor>
+      <role>London theatre manager</role>
+    </credit>
+    <credit>
+      <actor>Petrie, Hay</actor>
+      <role>New York theatre manager</role>
+    </credit>
+    <credit>
+      <actor>Wakefield, Hugh</actor>
+      <role>Mr. Jackson (Curti's manager)</role>
+    </credit>
+  </cast>
+<plot>A young woman who has a failed shipboard romance on the way to New York becomes involved with a middle-aged widowed opera singer. A chance to hear Gigli still in good voice!</plot><url>http://localhost:8983/solr/movie.html?200713</url></doc>

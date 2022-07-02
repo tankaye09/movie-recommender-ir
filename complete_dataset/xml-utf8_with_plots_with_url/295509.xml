@@ -1,0 +1,5324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="295509">
+  <docid>295509</docid>
+  <title>Kojak</title>
+  <year>1973</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Adler, Diane</editor>
+    <editor>Albertson, Eric (I)</editor>
+    <editor>Baratta, Fred</editor>
+    <editor>Benson, Jim (I)</editor>
+    <editor>Brame, Bill</editor>
+    <editor>Douglas, Donald (IV)</editor>
+    <editor>Frazen, Stanley</editor>
+    <editor>Katz, Sidney (I)</editor>
+    <editor>Katz, Virginia</editor>
+    <editor>Kaufman, John (I)</editor>
+    <editor>Kimble, Robert L.</editor>
+    <editor>LaVine, Ronald</editor>
+    <editor>Lester, Larry</editor>
+    <editor>Lovett, Robert Q.</editor>
+    <editor>Ludwig, Jerrold L.</editor>
+    <editor>Mandell, William</editor>
+    <editor>Marks, Barbara (I)</editor>
+    <editor>Marks, Richard (I)</editor>
+    <editor>McClelland, Chuck (I)</editor>
+    <editor>McMahon, Patrick (I)</editor>
+    <editor>Neufeld Jr., Sigmund</editor>
+    <editor>Ortiz-Gil, Leon</editor>
+    <editor>Ranney, Gene</editor>
+    <editor>Redman, Anthony (I)</editor>
+    <editor>San Andres, Louis</editor>
+    <editor>Shoemaker, Tim (I)</editor>
+    <editor>Shugrue, Robert F.</editor>
+    <editor>Strong, Larry (I)</editor>
+    <editor>Zúñiga, Albert J.J.</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>new-york-city</keyword>
+    <keyword>police</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>city</keyword>
+    <keyword>partner</keyword>
+    <keyword>murder-investigation</keyword>
+    <keyword>detective</keyword>
+    <keyword>lollipop</keyword>
+    <keyword>bald-hero</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>bald</keyword>
+    <keyword>police-detective</keyword>
+    <keyword>fedora</keyword>
+    <keyword>kojak</keyword>
+    <keyword>new-york</keyword>
+    <keyword>investigation</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>greek</keyword>
+    <keyword>greek-american</keyword>
+    <keyword>police-lieutenant</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-18</certificate>
+    <certificate country="New Zealand">M</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">6 September 1975</releasedate>
+    <releasedate country="West Germany">3 October 1974</releasedate>
+    <releasedate country="Netherlands">1 October 1974</releasedate>
+    <releasedate country="UK">24 August 1974</releasedate>
+    <releasedate country="France">8 January 1975</releasedate>
+    <releasedate country="Hungary">12 September 2005</releasedate>
+    <releasedate country="USA">27 October 1974</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Abroms, Edward M.</director>
+    <director>Benson, Jim (I)</director>
+    <director>Black, Noel</director>
+    <director>Day, Robert (I)</director>
+    <director>Donner, Richard</director>
+    <director>Dubin, Charles S.</director>
+    <director>Friedkin, David</director>
+    <director>Hale, William (II)</director>
+    <director>Haller, Daniel (I)</director>
+    <director>Kearney, Gene R.</director>
+    <director>Laidman, Harvey S.</director>
+    <director>London, Jerry</director>
+    <director>March, Alex</director>
+    <director>Mayberry, Russ</director>
+    <director>Nelson, Gary (I)</director>
+    <director>Neufeld Jr., Sigmund</director>
+    <director>Nyby, Christian</director>
+    <director>Oliansky, Joel</director>
+    <director>Penn, Leo</director>
+    <director>Pintoff, Ernest</director>
+    <director>Reisner, Allen</director>
+    <director>Robbie, Seymour</director>
+    <director>Roley, Sutton</director>
+    <director>Rondeau, Charles R.</director>
+    <director>Savalas, Telly</director>
+    <director>Sgarro, Nicholas</director>
+    <director>Sidaris, Andy</director>
+    <director>Stanley, Paul (I)</director>
+    <director>Szwarc, Jeannot</director>
+  </directors>
+  <producers>
+    <producer>McLaird, Arthur E.</producer>
+    <producer>Scheff, Michael</producer>
+  </producers>
+  <writers>
+    <writer>Alexander, Stewart (II)</writer>
+    <writer>Armus, Burton</writer>
+    <writer>Bacos, George</writer>
+    <writer>Baine, Sean</writer>
+    <writer>Bellisario, Donald P.</writer>
+    <writer>Bentwood, L.T.</writer>
+    <writer>Bonnet, James</writer>
+    <writer>Bralver, Bob</writer>
+    <writer>Bralver, Charlene</writer>
+    <writer>Brenner, Ray</writer>
+    <writer>Carabatsos, Steven W.</writer>
+    <writer>Crawford, Oliver (II)</writer>
+    <writer>Eisenson, Art</writer>
+    <writer>Epps Jr., Jack</writer>
+    <writer>Fine, Morton S.</writer>
+    <writer>Fischer, Peter S.</writer>
+    <writer>Fournier, Rift</writer>
+    <writer>Frankovich Jr., Mike</writer>
+    <writer>Freedman, Jerrold</writer>
+    <writer>Gores, Joe</writer>
+    <writer>Hoskins, Robert</writer>
+    <writer>House, Andy</writer>
+    <writer>Kaldor, Eric</writer>
+    <writer>Kearney, Gene R.</writer>
+    <writer>Kozoll, Michael</writer>
+    <writer>Krumholz, Chester</writer>
+    <writer>Kupfer, Marvin</writer>
+    <writer>Laird, Jack</writer>
+    <writer>Lenski, Robert W.</writer>
+    <writer>Mann, Abby</writer>
+    <writer>Margulies, Harriet</writer>
+    <writer>McAdams, James Duff</writer>
+    <writer>McGivern, William P.</writer>
+    <writer>Meredyth Lucas, John</writer>
+    <writer>Miller, James M.</writer>
+    <writer>Oliansky, Joel</writer>
+    <writer>Patterson, Don Rene</writer>
+    <writer>Polizzi, Joseph</writer>
+    <writer>Raab, Selwyn</writer>
+    <writer>Rapf, Matthew</writer>
+    <writer>Rodlak, Cire</writer>
+    <writer>Sailor, Charles</writer>
+    <writer>Schwartz, William A.</writer>
+    <writer>Summers, Dirk Wayne</writer>
+    <writer>Taylor, David (XI)</writer>
+    <writer>Teel, Ross</writer>
+    <writer>Tokatyan, Leon</writer>
+    <writer>Wagner, Michael I.</writer>
+    <writer>Young, Robert M. (II)</writer>
+  </writers>
+  <composers>
+    <composer>Cacavas, John</composer>
+    <composer>Goldenberg, Billy</composer>
+    <composer>Richmond, Kim</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aaron, Jack</actor>
+      <role>Charlie Nose</role>
+    </credit>
+    <credit>
+      <actor>Abraham, F. Murray</actor>
+      <role>Eddie Gordon</role>
+    </credit>
+    <credit>
+      <actor>Abraham, F. Murray</actor>
+      <role>Solly Nurse</role>
+    </credit>
+    <credit>
+      <actor>Ackroyd, David (I)</actor>
+      <role>Vincent Hackley</role>
+    </credit>
+    <credit>
+      <actor>Adams, Brooke (I)</actor>
+      <role>Julie Winston</role>
+    </credit>
+    <credit>
+      <actor>Adams, Catlin</actor>
+      <role>Adelle</role>
+    </credit>
+    <credit>
+      <actor>Adams, Catlin</actor>
+      <role>Shelia</role>
+    </credit>
+    <credit>
+      <actor>Adams, Catlin</actor>
+      <role>Theresa Ryan</role>
+    </credit>
+    <credit>
+      <actor>Adams, Maud</actor>
+      <role>Elenor Martinson</role>
+    </credit>
+    <credit>
+      <actor>Adams, Susan (I)</actor>
+      <role>Sgt. Harriet Clark</role>
+    </credit>
+    <credit>
+      <actor>Adiarte, Patrick</actor>
+      <role>Leonard Wong</role>
+    </credit>
+    <credit>
+      <actor>Aidman, Charles</actor>
+      <role>DeHaven</role>
+    </credit>
+    <credit>
+      <actor>Aiello, Danny</actor>
+      <role>Matty</role>
+    </credit>
+    <credit>
+      <actor>Aiken, Elaine</actor>
+      <role>Mrs. Foster</role>
+    </credit>
+    <credit>
+      <actor>Alaimo, Marc</actor>
+      <role>Artie Fowler</role>
+    </credit>
+    <credit>
+      <actor>Alaimo, Marc</actor>
+      <role>Greensteen</role>
+    </credit>
+    <credit>
+      <actor>Albert, Wil</actor>
+      <role>Dr. Ennis</role>
+    </credit>
+    <credit>
+      <actor>Albright, Lola</actor>
+      <role>Celia Lamb</role>
+    </credit>
+    <credit>
+      <actor>Alda, Robert</actor>
+      <role>Adrian Marshall</role>
+    </credit>
+    <credit>
+      <actor>Alden, Norman</actor>
+      <role>Foster</role>
+    </credit>
+    <credit>
+      <actor>Aletter, Frank</actor>
+      <role>Capt. Nolan</role>
+    </credit>
+    <credit>
+      <actor>Alfasa, Joe</actor>
+      <role>Mr. Falcone</role>
+    </credit>
+    <credit>
+      <actor>Allan, Jed</actor>
+      <role>Detective Eddie Ryan</role>
+    </credit>
+    <credit>
+      <actor>Alldredge, Michael</actor>
+      <role>Katkoff</role>
+    </credit>
+    <credit>
+      <actor>Allen, Elizabeth (I)</actor>
+      <role>Louise Linden</role>
+    </credit>
+    <credit>
+      <actor>Allen, Gary (I)</actor>
+      <role>Hector</role>
+    </credit>
+    <credit>
+      <actor>Allen, Melvin F.</actor>
+      <role>McGregor</role>
+    </credit>
+    <credit>
+      <actor>Allen, Phillip R.</actor>
+      <role>Andy Cooper</role>
+    </credit>
+    <credit>
+      <actor>Allen, Phillip R.</actor>
+      <role>Lt. Williamson</role>
+    </credit>
+    <credit>
+      <actor>Allen, Sian Barbara</actor>
+      <role>Lyndsey Walker</role>
+    </credit>
+    <credit>
+      <actor>Alston, Barbara (II)</actor>
+      <role>Sybil Washbourne</role>
+    </credit>
+    <credit>
+      <actor>Amato, Mary Margaret</actor>
+      <role>Jennie</role>
+    </credit>
+    <credit>
+      <actor>Anderman, Maureen</actor>
+      <role>Assistant D.A. Lockman</role>
+    </credit>
+    <credit>
+      <actor>Andreas, George Pan</actor>
+      <role>Nico Trifores</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Tige</actor>
+      <role>Aaron Fisk</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Tige</actor>
+      <role>Joe Paxton</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Tige</actor>
+      <role>Sergeant Geno Polucci</role>
+    </credit>
+    <credit>
+      <actor>Aniston, John</actor>
+      <role>Albert Dancik</role>
+    </credit>
+    <credit>
+      <actor>Aniston, John</actor>
+      <role>Webster</role>
+    </credit>
+    <credit>
+      <actor>Anka, Paul</actor>
+      <role>Buddy Maus</role>
+    </credit>
+    <credit>
+      <actor>Ansara, Edward (I)</actor>
+      <role>Father Aleksei</role>
+    </credit>
+    <credit>
+      <actor>Ansara, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ansara, Michael</actor>
+      <role>Keith McCallum</role>
+    </credit>
+    <credit>
+      <actor>Aresco, Joey</actor>
+      <role>Richie Centorini</role>
+    </credit>
+    <credit>
+      <actor>Aresco, Joey</actor>
+      <role>Sammy Marino</role>
+    </credit>
+    <credit>
+      <actor>Argenziano, Carmen</actor>
+      <role>Davey</role>
+    </credit>
+    <credit>
+      <actor>Argo, Victor</actor>
+      <role>Don Joseph Crespi</role>
+    </credit>
+    <credit>
+      <actor>Argo, Victor</actor>
+      <role>Roy Dennison</role>
+    </credit>
+    <credit>
+      <actor>Arkin, Matthew</actor>
+      <role>Tony Curtin</role>
+    </credit>
+    <credit>
+      <actor>Arliss, Dimitra</actor>
+      <role>Sherry Kaufman</role>
+    </credit>
+    <credit>
+      <actor>Armond, John</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Armus, Burton</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Armus, Burton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Armus, Burton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Armus, Burton</actor>
+      <role>The Spotter</role>
+    </credit>
+    <credit>
+      <actor>Armus, Sidney</actor>
+      <role>Arnie Gelp</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Madison</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Madison</actor>
+      <role>Joe Hennessey</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Victor (II)</actor>
+      <role>Jeff Malloy</role>
+    </credit>
+    <credit>
+      <actor>Ashton, John (I)</actor>
+      <role>Culler</role>
+    </credit>
+    <credit>
+      <actor>Assante, Armand</actor>
+      <role>Tom Ryan</role>
+    </credit>
+    <credit>
+      <actor>Avalos, Luis (I)</actor>
+      <role>Victor Morales</role>
+    </credit>
+    <credit>
+      <actor>Avery, Margaret</actor>
+      <role>Lula B. Perry</role>
+    </credit>
+    <credit>
+      <actor>Avery, Val</actor>
+      <role>George Janis</role>
+    </credit>
+    <credit>
+      <actor>Avila, Cynthia</actor>
+      <role>Lena Patias</role>
+    </credit>
+    <credit>
+      <actor>Axelrod, Jack</actor>
+      <role>Forensics Man</role>
+    </credit>
+    <credit>
+      <actor>Azzara, Candice</actor>
+      <role>Agnes Pulford</role>
+    </credit>
+    <credit>
+      <actor>Azzara, Candice</actor>
+      <role>Milly Blasky</role>
+    </credit>
+    <credit>
+      <actor>Baff, Regina</actor>
+      <role>Sister Catherine</role>
+    </credit>
+    <credit>
+      <actor>Baggetta, Vincent</actor>
+      <role>Arnold B. Saxler</role>
+    </credit>
+    <credit>
+      <actor>Baggetta, Vincent</actor>
+      <role>Nino LaRocca</role>
+    </credit>
+    <credit>
+      <actor>Bagley, Fuddle</actor>
+      <role>High Pockets</role>
+    </credit>
+    <credit>
+      <actor>Bakalyan, Richard</actor>
+      <role>Proctor</role>
+    </credit>
+    <credit>
+      <actor>Baker, Benny</actor>
+      <role>Fogarty</role>
+    </credit>
+    <credit>
+      <actor>Baker, Diane (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Baker, Diane (I)</actor>
+      <role>Irene van Patten</role>
+    </credit>
+    <credit>
+      <actor>Baker, Lenny</actor>
+      <role>Joyce Harrington</role>
+    </credit>
+    <credit>
+      <actor>Bal, Henry</actor>
+      <role>Rainwater</role>
+    </credit>
+    <credit>
+      <actor>Balduzzi, Dick</actor>
+      <role>Angelo 'Angie' Cortanatti</role>
+    </credit>
+    <credit>
+      <actor>Balduzzi, Dick</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Ball, Nova</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ball, Robert (I)</actor>
+      <role>Willie</role>
+    </credit>
+    <credit>
+      <actor>Ballard, Ray</actor>
+      <role>Mort</role>
+    </credit>
+    <credit>
+      <actor>Balsam, Martin</actor>
+      <role>Ray Kaufman</role>
+    </credit>
+    <credit>
+      <actor>Balson, Sandy</actor>
+      <role>Melanie Lawrence</role>
+    </credit>
+    <credit>
+      <actor>Bannon, Jack (I)</actor>
+      <role>David Fox</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Priscilla</actor>
+      <role>Sally/Vicki</role>
+    </credit>
+    <credit>
+      <actor>Barrow, Bernard</actor>
+      <role>Paulus</role>
+    </credit>
+    <credit>
+      <actor>Barth, Eddie</actor>
+      <role>Torrey</role>
+    </credit>
+    <credit>
+      <actor>Bartlett, Bonnie</actor>
+      <role>Joan Milner</role>
+    </credit>
+    <credit>
+      <actor>Bartlett, Martine</actor>
+      <role>Margaret McCune</role>
+    </credit>
+    <credit>
+      <actor>Baseleon, Michael</actor>
+      <role>The Major</role>
+    </credit>
+    <credit>
+      <actor>Bass, Emory</actor>
+      <role>Stacowski</role>
+    </credit>
+    <credit>
+      <actor>Basso, Bob</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bauman, Kidon</actor>
+      <role>Tony Chambers</role>
+    </credit>
+    <credit>
+      <actor>Baylos, Gene</actor>
+      <role>Tex Alston</role>
+    </credit>
+    <credit>
+      <actor>Beach, James (I)</actor>
+      <role>Plainclothesman</role>
+    </credit>
+    <credit>
+      <actor>Beal, John (I)</actor>
+      <role>George McKinney</role>
+    </credit>
+    <credit>
+      <actor>Beatty, Ned</actor>
+      <role>Detective Dan Corrigan</role>
+    </credit>
+    <credit>
+      <actor>Becher, John C.</actor>
+      <role>Dr. Bernard</role>
+    </credit>
+    <credit>
+      <actor>Beckel, Graham</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beckley, William</actor>
+      <role>Hotel Night Manager</role>
+    </credit>
+    <credit>
+      <actor>Behrens, Bernard</actor>
+      <role>Marshall Tyler</role>
+    </credit>
+    <credit>
+      <actor>Beir, Fred</actor>
+      <role>Robert Austin</role>
+    </credit>
+    <credit>
+      <actor>Belgrave, Cynthia</actor>
+      <role>Mrs. Murtle Carr, the Landlady</role>
+    </credit>
+    <credit>
+      <actor>Bellaver, Harry</actor>
+      <role>Duty Officer</role>
+    </credit>
+    <credit>
+      <actor>Bello, Teodorina</actor>
+      <role>Mrs. Diaz</role>
+    </credit>
+    <credit>
+      <actor>Beltran, Alma</actor>
+      <role>Mrs. Contreras</role>
+    </credit>
+    <credit>
+      <actor>Benedict, Paul</actor>
+      <role>Donald Kauldor</role>
+    </credit>
+    <credit>
+      <actor>Beniades, Ted</actor>
+      <role>Florentino</role>
+    </credit>
+    <credit>
+      <actor>Benjamin, Paul (I)</actor>
+      <role>Willie Daniels</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Marjorie</actor>
+      <role>Emily Pembroke</role>
+    </credit>
+    <credit>
+      <actor>Benson, Jon M.</actor>
+      <role>Dr. Whelan</role>
+    </credit>
+    <credit>
+      <actor>Beregi Jr., Oscar</actor>
+      <role>Fuchs</role>
+    </credit>
+    <credit>
+      <actor>Bergansky, Chuck</actor>
+      <role>Dagger</role>
+    </credit>
+    <credit>
+      <actor>Bergansky, Chuck</actor>
+      <role>Ed Teechan</role>
+    </credit>
+    <credit>
+      <actor>Bergansky, Chuck</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berger, Anna (I)</actor>
+      <role>Mrs. Lipnick</role>
+    </credit>
+    <credit>
+      <actor>Berger, Burt</actor>
+      <role>Arnold Wexler</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Peter (II)</actor>
+      <role>Bo Allen</role>
+    </credit>
+    <credit>
+      <actor>Bernard, Ed</actor>
+      <role>Cleveland Watson</role>
+    </credit>
+    <credit>
+      <actor>Betts, Jack</actor>
+      <role>Paul Lawford</role>
+    </credit>
+    <credit>
+      <actor>Billett, Don</actor>
+      <role>Ed Griss</role>
+    </credit>
+    <credit>
+      <actor>Billett, Don</actor>
+      <role>Graves</role>
+    </credit>
+    <credit>
+      <actor>Bisoglio, Val</actor>
+      <role>Barney 'The Book' Bramley</role>
+    </credit>
+    <credit>
+      <actor>Bisoglio, Val</actor>
+      <role>Detective Lou Jacarrino</role>
+    </credit>
+    <credit>
+      <actor>Bissell, Whit</actor>
+      <role>Harry Sentman</role>
+    </credit>
+    <credit>
+      <actor>Blake, Larry J.</actor>
+      <role>Desk Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Blake, Sondra</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Blendick, James</actor>
+      <role>Phil Brean</role>
+    </credit>
+    <credit>
+      <actor>Block, Larry (I)</actor>
+      <role>Gerry Erskine</role>
+    </credit>
+    <credit>
+      <actor>Bloom, Verna</actor>
+      <role>Carrie Zachary</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Lover Girl</role>
+    </credit>
+    <credit>
+      <actor>Boccelli, Dick</actor>
+      <role>Tommy</role>
+    </credit>
+    <credit>
+      <actor>Boen, Earl</actor>
+      <role>Assistant D.A. Hepburn</role>
+    </credit>
+    <credit>
+      <actor>Bolling, Gary</actor>
+      <role>Stubby Belton</role>
+    </credit>
+    <credit>
+      <actor>Bond, Rudy</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Bond, Rudy</actor>
+      <role>Janitor</role>
+    </credit>
+    <credit>
+      <actor>Bongiorno, Frank</actor>
+      <role>Joe Megan</role>
+    </credit>
+    <credit>
+      <actor>Borrelli, Jim</actor>
+      <role>Bob Viliano</role>
+    </credit>
+    <credit>
+      <actor>Bova, Joseph</actor>
+      <role>Morrie Rogaz</role>
+    </credit>
+    <credit>
+      <actor>Bower, Antoinette</actor>
+      <role>Diane Marco/Adrianne Di Marcoli</role>
+    </credit>
+    <credit>
+      <actor>Bower, Tom (I)</actor>
+      <role>Brenner</role>
+    </credit>
+    <credit>
+      <actor>Boyar, Sully</actor>
+      <role>Louie Rindone</role>
+    </credit>
+    <credit>
+      <actor>Brad, Jose</actor>
+      <role>Foster Bridges</role>
+    </credit>
+    <credit>
+      <actor>Braddock, Martin</actor>
+      <role>Moore</role>
+    </credit>
+    <credit>
+      <actor>Bradford, Richard (I)</actor>
+      <role>Joe Milner</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>Kenneth Krug</role>
+    </credit>
+    <credit>
+      <actor>Braha, Herbie</actor>
+      <role>Greg Kirkorian</role>
+    </credit>
+    <credit>
+      <actor>Bralver, Bob</actor>
+      <role>Teddy</role>
+    </credit>
+    <credit>
+      <actor>Brand, Neville</actor>
+      <role>Sonny South</role>
+    </credit>
+    <credit>
+      <actor>Brando, Jocelyn</actor>
+      <role>Mrs. Newfield</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Jane Alice</actor>
+      <role>Adrianna</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Jane Alice</actor>
+      <role>Sara</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Peter</actor>
+      <role>Dr. Shane</role>
+    </credit>
+    <credit>
+      <actor>Brauner, Asher</actor>
+      <role>Crater</role>
+    </credit>
+    <credit>
+      <actor>Brauner, Asher</actor>
+      <role>James Sperry</role>
+    </credit>
+    <credit>
+      <actor>Brennan, Eileen (I)</actor>
+      <role>Julie Lowring</role>
+    </credit>
+    <credit>
+      <actor>Brenner, Dori (I)</actor>
+      <role>Miss Rosenberg</role>
+    </credit>
+    <credit>
+      <actor>Brisebois, Danielle</actor>
+      <role>Jamie Magid</role>
+    </credit>
+    <credit>
+      <actor>Britt, Melendy</actor>
+      <role>Joan Marly</role>
+    </credit>
+    <credit>
+      <actor>Brochu, Jim</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Brodhead, James</actor>
+      <role>Warden</role>
+    </credit>
+    <credit>
+      <actor>Brooke, Walter</actor>
+      <role>Judge Lavery</role>
+    </credit>
+    <credit>
+      <actor>Brown, Blair</actor>
+      <role>Stella</role>
+    </credit>
+    <credit>
+      <actor>Brown, Charles (II)</actor>
+      <role>Dan Garrett</role>
+    </credit>
+    <credit>
+      <actor>Brown, Henry (I)</actor>
+      <role>Abe Humes</role>
+    </credit>
+    <credit>
+      <actor>Brown, Henry (I)</actor>
+      <role>Mr. Forbes</role>
+    </credit>
+    <credit>
+      <actor>Brown, Henry (I)</actor>
+      <role>Omar 'Miami' Blake</role>
+    </credit>
+    <credit>
+      <actor>Brown, Reb</actor>
+      <role>Furniture Man</role>
+    </credit>
+    <credit>
+      <actor>Brown, Roger Aaron</actor>
+      <role>Thompson</role>
+    </credit>
+    <credit>
+      <actor>Brown, Susan (I)</actor>
+      <role>Janet Seymour</role>
+    </credit>
+    <credit>
+      <actor>Brubaker, Robert (I)</actor>
+      <role>Deputy Commissioner Cowan</role>
+    </credit>
+    <credit>
+      <actor>Brunetti, Argentina</actor>
+      <role>Christina</role>
+    </credit>
+    <credit>
+      <actor>Brunner, Howard</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Bruns, Philip</actor>
+      <role>George Lampert</role>
+    </credit>
+    <credit>
+      <actor>Bruns, Philip</actor>
+      <role>Mr. Seymour</role>
+    </credit>
+    <credit>
+      <actor>Bry, Ellen</actor>
+      <role>Lesley Smith</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Joshua</actor>
+      <role>Simon Hecht</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Lee (I)</actor>
+      <role>Cindy Marshall</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Lee (I)</actor>
+      <role>Rita McCall</role>
+    </credit>
+    <credit>
+      <actor>Bryson, James (I)</actor>
+      <role>Mr. Penney, the Jailer</role>
+    </credit>
+    <credit>
+      <actor>Buckman, Tara</actor>
+      <role>Toni</role>
+    </credit>
+    <credit>
+      <actor>Burke, Bob (I)</actor>
+      <role>Officer Gerber</role>
+    </credit>
+    <credit>
+      <actor>Burkley, Dennis</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Burns, Bart</actor>
+      <role>Commissioner</role>
+    </credit>
+    <credit>
+      <actor>Burns, Bart</actor>
+      <role>Deputy Commissioner</role>
+    </credit>
+    <credit>
+      <actor>Burns, Brendan</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Burr, Robert (I)</actor>
+      <role>Daniel Pope</role>
+    </credit>
+    <credit>
+      <actor>Burton, Norman</actor>
+      <role>'Fish' Fisher</role>
+    </credit>
+    <credit>
+      <actor>Burton, Tony (I)</actor>
+      <role>Eddie Ellis</role>
+    </credit>
+    <credit>
+      <actor>Byers, Ralph</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>Byrnes, Burke</actor>
+      <role>Detective Olney</role>
+    </credit>
+    <credit>
+      <actor>Calfa, Don</actor>
+      <role>Burgess</role>
+    </credit>
+    <credit>
+      <actor>Calfa, Don</actor>
+      <role>Fidelio Ortez</role>
+    </credit>
+    <credit>
+      <actor>Calloway, Kirk</actor>
+      <role>Harold Woods</role>
+    </credit>
+    <credit>
+      <actor>Cambridge, Ed</actor>
+      <role>Waverley</role>
+    </credit>
+    <credit>
+      <actor>Camp, Helen Page</actor>
+      <role>Mrs. Chester</role>
+    </credit>
+    <credit>
+      <actor>Camp, Helen Page</actor>
+      <role>Mrs. Waring</role>
+    </credit>
+    <credit>
+      <actor>Campanella, Frank (I)</actor>
+      <role>Sammy</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Laura (I)</actor>
+      <role>Edith Leverkune</role>
+    </credit>
+    <credit>
+      <actor>Campos, Victor (I)</actor>
+      <role>Det. Gomez</role>
+    </credit>
+    <credit>
+      <actor>Campos, Victor (I)</actor>
+      <role>Detective Gomez</role>
+    </credit>
+    <credit>
+      <actor>Campos, Victor (I)</actor>
+      <role>Detective Gomez</role>
+    </credit>
+    <credit>
+      <actor>Campos, Victor (I)</actor>
+      <role>Detective Gomez</role>
+    </credit>
+    <credit>
+      <actor>Campos, Victor (I)</actor>
+      <role>Gomez</role>
+    </credit>
+    <credit>
+      <actor>Capizzi, Bill</actor>
+      <role>Forensic Man</role>
+    </credit>
+    <credit>
+      <actor>Capizzi, Bill</actor>
+      <role>Forensics Man</role>
+    </credit>
+    <credit>
+      <actor>Capizzi, Bill</actor>
+      <role>Forensics Man</role>
+    </credit>
+    <credit>
+      <actor>Capri, Ahna</actor>
+      <role>Carol</role>
+    </credit>
+    <credit>
+      <actor>Cara, Irene</actor>
+      <role>Amy</role>
+    </credit>
+    <credit>
+      <actor>Carew, Peter</actor>
+      <role>Mr. Dean</role>
+    </credit>
+    <credit>
+      <actor>Caridi, Carmine</actor>
+      <role>Jake Grubert</role>
+    </credit>
+    <credit>
+      <actor>Caridi, Carmine</actor>
+      <role>Stan Sherback</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Linda (I)</actor>
+      <role>Ellen Sherback</role>
+    </credit>
+    <credit>
+      <actor>Carlyle, Richard (II)</actor>
+      <role>Mr. Waring</role>
+    </credit>
+    <credit>
+      <actor>Carney, Fred (I)</actor>
+      <role>Judge Cleary</role>
+    </credit>
+    <credit>
+      <actor>Carrasco, Tristan</actor>
+      <role>Kid</role>
+    </credit>
+    <credit>
+      <actor>Carricart, Robert</actor>
+      <role>Mr. Viliano</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Helena</actor>
+      <role>Nun</role>
+    </credit>
+    <credit>
+      <actor>Cash, Rosalind</actor>
+      <role>Mrs. Moore</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Martin</actor>
+      <role>Tom Carley</role>
+    </credit>
+    <credit>
+      <actor>Castellano, Frank</actor>
+      <role>Prof. Hooper</role>
+    </credit>
+    <credit>
+      <actor>Castronova, T.J.</actor>
+      <role>Gene Vacelli</role>
+    </credit>
+    <credit>
+      <actor>Castronova, T.J.</actor>
+      <role>Gerard 'Frenchy' DuBois</role>
+    </credit>
+    <credit>
+      <actor>Castronova, T.J.</actor>
+      <role>Mr. Burke</role>
+    </credit>
+    <credit>
+      <actor>Catlett, Mary Jo</actor>
+      <role>Verna</role>
+    </credit>
+    <credit>
+      <actor>Cavanaugh, Michael (I)</actor>
+      <role>Sonny</role>
+    </credit>
+    <credit>
+      <actor>Cavonis, Paul</actor>
+      <role>Gabe</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Jon</actor>
+      <role>Crowell</role>
+    </credit>
+    <credit>
+      <actor>Challenger, Rudy</actor>
+      <role>Lionel Lessonbee</role>
+    </credit>
+    <credit>
+      <actor>Chamberlain, Howland</actor>
+      <role>Park Attendant</role>
+    </credit>
+    <credit>
+      <actor>Chao, Rosalind</actor>
+      <role>Grace Chen</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Judith</actor>
+      <role>Gretchen Hodges</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Lonny</actor>
+      <role>Lt. Follmer</role>
+    </credit>
+    <credit>
+      <actor>Charney, Suzanne</actor>
+      <role>Nina Bruno</role>
+    </credit>
+    <credit>
+      <actor>Charnota, Anthony</actor>
+      <role>Auggie Matthews</role>
+    </credit>
+    <credit>
+      <actor>Charnota, Anthony</actor>
+      <role>Tony Serafin</role>
+    </credit>
+    <credit>
+      <actor>Charnota, Anthony</actor>
+      <role>Victor</role>
+    </credit>
+    <credit>
+      <actor>Chester, Colby</actor>
+      <role>Spencer Galen</role>
+    </credit>
+    <credit>
+      <actor>Chianese, Dominic</actor>
+      <role>George Mallick</role>
+    </credit>
+    <credit>
+      <actor>Christi, Frank</actor>
+      <role>Marty Clifford</role>
+    </credit>
+    <credit>
+      <actor>Christine, Virginia</actor>
+      <role>Mrs. Yankowski</role>
+    </credit>
+    <credit>
+      <actor>Christmas, Eric</actor>
+      <role>O'Malley</role>
+    </credit>
+    <credit>
+      <actor>Christopher, Eunice</actor>
+      <role>Mary Drosinis</role>
+    </credit>
+    <credit>
+      <actor>Christopher, Thom</actor>
+      <role>Lt. Juan Vida</role>
+    </credit>
+    <credit>
+      <actor>Christy, James V.</actor>
+      <role>Jimmy</role>
+    </credit>
+    <credit>
+      <actor>Christy, James V.</actor>
+      <role>Poolhall Operator</role>
+    </credit>
+    <credit>
+      <actor>Cimino, Leonardo</actor>
+      <role>Consigliere Ruby Kabelsky</role>
+    </credit>
+    <credit>
+      <actor>Cimino, Leonardo</actor>
+      <role>Mr. Cordick</role>
+    </credit>
+    <credit>
+      <actor>Cioffi, Charles</actor>
+      <role>Arnie Brace</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Angela (I)</actor>
+      <role>Mrs. Harrington</role>
+    </credit>
+    <credit>
+      <actor>Clennon, David</actor>
+      <role>George Martin</role>
+    </credit>
+    <credit>
+      <actor>Clute, Sidney</actor>
+      <role>Barney Sullivan</role>
+    </credit>
+    <credit>
+      <actor>Clute, Sidney</actor>
+      <role>Det. Jackson Kilpatrick</role>
+    </credit>
+    <credit>
+      <actor>Clute, Sidney</actor>
+      <role>Detective Ken Cahan</role>
+    </credit>
+    <credit>
+      <actor>Coffin, Frederick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coffin, Frederick</actor>
+      <role>Lt. Bill Lee</role>
+    </credit>
+    <credit>
+      <actor>Colasanto, Nicholas</actor>
+      <role>Victor Marchette</role>
+    </credit>
+    <credit>
+      <actor>Cole, Albert</actor>
+      <role>Berlin</role>
+    </credit>
+    <credit>
+      <actor>Cole, Albert</actor>
+      <role>Sutton</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Ann (I)</actor>
+      <role>Felicity</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Dabney</actor>
+      <role>Alex Linden</role>
+    </credit>
+    <credit>
+      <actor>Colon, Alex (I)</actor>
+      <role>Raul Fria</role>
+    </credit>
+    <credit>
+      <actor>Colorado, Hortensia</actor>
+      <role>Second Mother</role>
+    </credit>
+    <credit>
+      <actor>Colvin, Jack</actor>
+      <role>Laurie Cherneff</role>
+    </credit>
+    <credit>
+      <actor>Conaway, Jeff</actor>
+      <role>Bert Gaines</role>
+    </credit>
+    <credit>
+      <actor>Constantine, Michael</actor>
+      <role>Don 'Cheech' Frank Scalesi</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Detective Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Police Photographer</role>
+    </credit>
+    <credit>
+      <actor>Conti, Vince (I)</actor>
+      <role>Sgt. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Conway, Curt</actor>
+      <role>Father Duggan</role>
+    </credit>
+    <credit>
+      <actor>Cook, Carole</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cook, Carole</actor>
+      <role>Marie Stella</role>
+    </credit>
+    <credit>
+      <actor>Cook, Carole</actor>
+      <role>Marie Stella</role>
+    </credit>
+    <credit>
+      <actor>Coonan, Sheila M.</actor>
+      <role>Superintendant</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Jackie (I)</actor>
+      <role>Frank Mulvaney</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Jed</actor>
+      <role>Simpson</role>
+    </credit>
+    <credit>
+      <actor>Corbett, Gretchen</actor>
+      <role>Jeri Devereaux</role>
+    </credit>
+    <credit>
+      <actor>Cordero, Maria Elena</actor>
+      <role>Marinella Olivarez</role>
+    </credit>
+    <credit>
+      <actor>Cordova, Caesar</actor>
+      <role>Superintendant</role>
+    </credit>
+    <credit>
+      <actor>Corey, Jeff (I)</actor>
+      <role>Raynor</role>
+    </credit>
+    <credit>
+      <actor>Corley, Pat</actor>
+      <role>Mr. Miller</role>
+    </credit>
+    <credit>
+      <actor>Cort, William</actor>
+      <role>Mr. Proctor</role>
+    </credit>
+    <credit>
+      <actor>Cortland, Nicholas</actor>
+      <role>Nicky Cole</role>
+    </credit>
+    <credit>
+      <actor>Cory, Steve (I)</actor>
+      <role>Parking Attendant</role>
+    </credit>
+    <credit>
+      <actor>Costello, Mariclare</actor>
+      <role>Diane Gordon</role>
+    </credit>
+    <credit>
+      <actor>Courtney, Alex (I)</actor>
+      <role>Detective Evans</role>
+    </credit>
+    <credit>
+      <actor>Courtney, Alex (I)</actor>
+      <role>Frank DeMarco</role>
+    </credit>
+    <credit>
+      <actor>Covan, DeForest</actor>
+      <role>Cabbie</role>
+    </credit>
+    <credit>
+      <actor>Cowles, Matthew</actor>
+      <role>Ryan</role>
+    </credit>
+    <credit>
+      <actor>Craig, Carl M.</actor>
+      <role>Detective Ben Keller</role>
+    </credit>
+    <credit>
+      <actor>Craig, Helen</actor>
+      <role>Mrs. Janowski</role>
+    </credit>
+    <credit>
+      <actor>Craig, Helen</actor>
+      <role>Mrs. Whipple</role>
+    </credit>
+    <credit>
+      <actor>Craig, Yvonne</actor>
+      <role>Liz</role>
+    </credit>
+    <credit>
+      <actor>Crino, Isa</actor>
+      <role>Nancy Sperry</role>
+    </credit>
+    <credit>
+      <actor>Cristofer, Michael</actor>
+      <role>Michael Viggers Jr.</role>
+    </credit>
+    <credit>
+      <actor>Crothers, Scatman</actor>
+      <role>Gaylord Fuller</role>
+    </credit>
+    <credit>
+      <actor>Crowley, Ed (I)</actor>
+      <role>Kelly</role>
+    </credit>
+    <credit>
+      <actor>Cumbuka, Ji-Tu</actor>
+      <role>John 'Blue' Andrews</role>
+    </credit>
+    <credit>
+      <actor>Cumbuka, Ji-Tu</actor>
+      <role>Slade</role>
+    </credit>
+    <credit>
+      <actor>Cumbuka, Mwako</actor>
+      <role>Jonas Wilkins</role>
+    </credit>
+    <credit>
+      <actor>Cummings Jr., Richard</actor>
+      <role>Basketball Player</role>
+    </credit>
+    <credit>
+      <actor>Cummings Jr., Richard</actor>
+      <role>Louis Daniels</role>
+    </credit>
+    <credit>
+      <actor>Cutell, Lou</actor>
+      <role>Dave</role>
+    </credit>
+    <credit>
+      <actor>Dahan, Armand</actor>
+      <role>Extremist</role>
+    </credit>
+    <credit>
+      <actor>Dallas, Charlene</actor>
+      <role>Brady</role>
+    </credit>
+    <credit>
+      <actor>Danahy, Michael (I)</actor>
+      <role>Young Man</role>
+    </credit>
+    <credit>
+      <actor>Danese, Shera</actor>
+      <role>Sally Centorini</role>
+    </credit>
+    <credit>
+      <actor>Dangler, Anita</actor>
+      <role>Mrs. Nugent</role>
+    </credit>
+    <credit>
+      <actor>Darnell, Mike (I)</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Darnell, Robert</actor>
+      <role>Dr. Grimaldi</role>
+    </credit>
+    <credit>
+      <actor>Darrow, Henry</actor>
+      <role>Kevin Le Jeune</role>
+    </credit>
+    <credit>
+      <actor>David, Thayer</actor>
+      <role>Mr. B</role>
+    </credit>
+    <credit>
+      <actor>David, Thayer</actor>
+      <role>Tyrone</role>
+    </credit>
+    <credit>
+      <actor>Davidson, Jo (I)</actor>
+      <role>Mr. Drebbin</role>
+    </credit>
+    <credit>
+      <actor>Davis, Gene (I)</actor>
+      <role>Expert (as Eugene Davis)</role>
+    </credit>
+    <credit>
+      <actor>Davis, Harry (I)</actor>
+      <role>Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Davis, Joyce (I)</actor>
+      <role>Valerie</role>
+    </credit>
+    <credit>
+      <actor>Davis, Todd (III)</actor>
+      <role>Theo Kojak Moore</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Juno</actor>
+      <role>Hooker</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Juno</actor>
+      <role>Ines Wilder</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Mark (I)</actor>
+      <role>Mr. Dahl</role>
+    </credit>
+    <credit>
+      <actor>Day, Otis</actor>
+      <role>Junior</role>
+    </credit>
+    <credit>
+      <actor>De Anda, Robert</actor>
+      <role>Mando</role>
+    </credit>
+    <credit>
+      <actor>De Banzie, Lois</actor>
+      <role>Tiffany Crawford</role>
+    </credit>
+    <credit>
+      <actor>DeBenning, Burr</actor>
+      <role>Cass</role>
+    </credit>
+    <credit>
+      <actor>DeWindt, Sheila</actor>
+      <role>Leilah</role>
+    </credit>
+    <credit>
+      <actor>Dee, Blanche</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Dee, Buffy</actor>
+      <role>Catonsky</role>
+    </credit>
+    <credit>
+      <actor>Deel, Sandra</actor>
+      <role>Mary Grubert</role>
+    </credit>
+    <credit>
+      <actor>Deen, Nedra</actor>
+      <role>Elaine Miller</role>
+    </credit>
+    <credit>
+      <actor>Deiz, Bill</actor>
+      <role>Live TV Reporter</role>
+    </credit>
+    <credit>
+      <actor>Delano, Michael</actor>
+      <role>Solerno</role>
+    </credit>
+    <credit>
+      <actor>Delano, Michael</actor>
+      <role>Valano</role>
+    </credit>
+    <credit>
+      <actor>Delano, Michael</actor>
+      <role>Valano</role>
+    </credit>
+    <credit>
+      <actor>Demas, Carol</actor>
+      <role>Marie Marino</role>
+    </credit>
+    <credit>
+      <actor>Dengel, Jake</actor>
+      <role>Sammy The Wino</role>
+    </credit>
+    <credit>
+      <actor>Dennehy, Brian</actor>
+      <role>Peter Connor</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Alfred</actor>
+      <role>Mr. Carmone</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Constantine</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Constantine</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Constantine</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Nick (I)</actor>
+      <role>Uncle Constantino</role>
+    </credit>
+    <credit>
+      <actor>Dexter, Alan</actor>
+      <role>Ken Dimin</role>
+    </credit>
+    <credit>
+      <actor>Dexter, Brad</actor>
+      <role>Arnie Naylor</role>
+    </credit>
+    <credit>
+      <actor>DiCenzo, George</actor>
+      <role>Harry Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Edith</actor>
+      <role>Celia Ortez</role>
+    </credit>
+    <credit>
+      <actor>Dierkop, Charles</actor>
+      <role>Billy DeLuca</role>
+    </credit>
+    <credit>
+      <actor>Dimitri, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dinman, Dick</actor>
+      <role>Reed</role>
+    </credit>
+    <credit>
+      <actor>Dinman, Dick</actor>
+      <role>Swinton</role>
+    </credit>
+    <credit>
+      <actor>Dirkson, Douglas</actor>
+      <role>Alvin Kettle</role>
+    </credit>
+    <credit>
+      <actor>Dispenza, Joe</actor>
+      <role>Father Joe Dispenza</role>
+    </credit>
+    <credit>
+      <actor>Dixon, Beverly (I)</actor>
+      <role>Mrs. V. Goss</role>
+    </credit>
+    <credit>
+      <actor>Dizon, Jesse</actor>
+      <role>Calvin Loo</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Kevin (I)</actor>
+      <role>Det. Bobby Crocker</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Don (I)</actor>
+      <role>Baker</role>
+    </credit>
+    <credit>
+      <actor>Donley, Robert</actor>
+      <role>Henshaw</role>
+    </credit>
+    <credit>
+      <actor>Donner, Jack</actor>
+      <role>Krakauer</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Barbara (I)</actor>
+      <role>Claudine</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Burt</actor>
+      <role>Draper</role>
+    </credit>
+    <credit>
+      <actor>Douglass, Pi</actor>
+      <role>Cabbie</role>
+    </credit>
+    <credit>
+      <actor>Dovey, William Gaynor</actor>
+      <role>Thomas</role>
+    </credit>
+    <credit>
+      <actor>Dowling, Doris</actor>
+      <role>Rosemary</role>
+    </credit>
+    <credit>
+      <actor>Doyle, David (I)</actor>
+      <role>Sgt. Harry Sumar</role>
+    </credit>
+    <credit>
+      <actor>Doyle, Robert (I)</actor>
+      <role>Harry</role>
+    </credit>
+    <credit>
+      <actor>Dreier, Alex</actor>
+      <role>Observer</role>
+    </credit>
+    <credit>
+      <actor>Driscoll, Lawrason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>DuBois, Ja'net</actor>
+      <role>Paula Thomas</role>
+    </credit>
+    <credit>
+      <actor>Duke, Bill (I)</actor>
+      <role>Sylk</role>
+    </credit>
+    <credit>
+      <actor>Duke, Ray</actor>
+      <role>Patrolman Logan</role>
+    </credit>
+    <credit>
+      <actor>Dullaghan, John (I)</actor>
+      <role>Farrell</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Larry (I)</actor>
+      <role>Roger Patton</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Liam</actor>
+      <role>Faxy</role>
+    </credit>
+    <credit>
+      <actor>Durkin, Jannis</actor>
+      <role>Woman Model Hostage</role>
+    </credit>
+    <credit>
+      <actor>Durrell, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Durrell, Michael</actor>
+      <role>Kenny Murray</role>
+    </credit>
+    <credit>
+      <actor>Durren, John</actor>
+      <role>Benson</role>
+    </credit>
+    <credit>
+      <actor>Durren, John</actor>
+      <role>Frank Keltern</role>
+    </credit>
+    <credit>
+      <actor>Dybas, James</actor>
+      <role>Dr. Winkler</role>
+    </credit>
+    <credit>
+      <actor>Dynarski, Gene</actor>
+      <role>Lairdson</role>
+    </credit>
+    <credit>
+      <actor>Díaz, Tony</actor>
+      <role>Enrique Alvarez</role>
+    </credit>
+    <credit>
+      <actor>Eastham, Richard</actor>
+      <role>Jack Seymour</role>
+    </credit>
+    <credit>
+      <actor>Ebert, Michael (I)</actor>
+      <role>Aldo Quire</role>
+    </credit>
+    <credit>
+      <actor>Edelman, Herb</actor>
+      <role>Jack Cohen</role>
+    </credit>
+    <credit>
+      <actor>Edelman, Herb</actor>
+      <role>Toza Stefanovic</role>
+    </credit>
+    <credit>
+      <actor>Egan, Michael (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ehrlich, Scott</actor>
+      <role>Wilson Stronik</role>
+    </credit>
+    <credit>
+      <actor>Elerick, John (I)</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Elerick, John (I)</actor>
+      <role>Penny</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Art Gordon</role>
+    </credit>
+    <credit>
+      <actor>Elizondo, Hector</actor>
+      <role>Carl Dettrow</role>
+    </credit>
+    <credit>
+      <actor>Elizondo, Hector</actor>
+      <role>Detective Nick Ferro</role>
+    </credit>
+    <credit>
+      <actor>Elliot, Jane (I)</actor>
+      <role>Carla Elliot</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Patricia</actor>
+      <role>Christina</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Stephen (I)</actor>
+      <role>Tyler Meadows</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Larry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Elman, Eugene</actor>
+      <role>Mr. Garbers</role>
+    </credit>
+    <credit>
+      <actor>Emel, Jac</actor>
+      <role>Jojo</role>
+    </credit>
+    <credit>
+      <actor>Emhardt, Robert</actor>
+      <role>Marcus</role>
+    </credit>
+    <credit>
+      <actor>English, Bradford</actor>
+      <role>Cop at the Church</role>
+    </credit>
+    <credit>
+      <actor>English, Bradford</actor>
+      <role>Patrolman Seymour</role>
+    </credit>
+    <credit>
+      <actor>English, Bradford</actor>
+      <role>Royce</role>
+    </credit>
+    <credit>
+      <actor>Epton, Lou</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Nicole</actor>
+      <role>Mary Jane</role>
+    </credit>
+    <credit>
+      <actor>Esformes, Nate</actor>
+      <role>Leonard Tapler</role>
+    </credit>
+    <credit>
+      <actor>Espinoza, James</actor>
+      <role>Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Estrada, Erik (I)</actor>
+      <role>Luis Rivero</role>
+    </credit>
+    <credit>
+      <actor>Faber, Ron</actor>
+      <role>Priest</role>
+    </credit>
+    <credit>
+      <actor>Fairchild, Margaret</actor>
+      <role>Mrs. Marion Mayfair</role>
+    </credit>
+    <credit>
+      <actor>Fairchild, Morgan</actor>
+      <role>Allison</role>
+    </credit>
+    <credit>
+      <actor>Fant, Lou</actor>
+      <role>Olsen</role>
+    </credit>
+    <credit>
+      <actor>Faraldo, Daniel (I)</actor>
+      <role>Nico</role>
+    </credit>
+    <credit>
+      <actor>Farese, Jude</actor>
+      <role>Mike Amazeen</role>
+    </credit>
+    <credit>
+      <actor>Fargas, Antonio</actor>
+      <role>Benny Marshall</role>
+    </credit>
+    <credit>
+      <actor>Farrand, Jan</actor>
+      <role>Mrs. Denton</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Brian (I)</actor>
+      <role>Fred Toner</role>
+    </credit>
+    <credit>
+      <actor>Faulkner, David (I)</actor>
+      <role>E.G. Roberts</role>
+    </credit>
+    <credit>
+      <actor>Feinstein, Alan</actor>
+      <role>Lenny Grenfell</role>
+    </credit>
+    <credit>
+      <actor>Felder, Clarence</actor>
+      <role>Doctor Bagley</role>
+    </credit>
+    <credit>
+      <actor>Felder, Clarence</actor>
+      <role>Medical Examiner</role>
+    </credit>
+    <credit>
+      <actor>Fenwick, Don</actor>
+      <role>Malloy</role>
+    </credit>
+    <credit>
+      <actor>Fenwick, Don</actor>
+      <role>Roy Fine</role>
+    </credit>
+    <credit>
+      <actor>Ferragher, Lou</actor>
+      <role>Cleary</role>
+    </credit>
+    <credit>
+      <actor>Ferragher, Lou</actor>
+      <role>Detective Cleary</role>
+    </credit>
+    <credit>
+      <actor>Ferragher, Lou</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Ferrari, Nick (I)</actor>
+      <role>Carl Allender</role>
+    </credit>
+    <credit>
+      <actor>Ferrer, José (I)</actor>
+      <role>Jake Weinhaus</role>
+    </credit>
+    <credit>
+      <actor>Fetty, Darrell</actor>
+      <role>Douglas North</role>
+    </credit>
+    <credit>
+      <actor>Feury, Peggy (I)</actor>
+      <role>Dr. Irene Benton</role>
+    </credit>
+    <credit>
+      <actor>Finkel, Fyvush</actor>
+      <role>Simon - Tailor</role>
+    </credit>
+    <credit>
+      <actor>Firestone, Eddie</actor>
+      <role>Bunky Ott</role>
+    </credit>
+    <credit>
+      <actor>Firestone, Scott (I)</actor>
+      <role>Andy Foster</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Harvey</actor>
+      <role>Sergeant Way</role>
+    </credit>
+    <credit>
+      <actor>Flaherty, Joe (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Flaherty, Joe (I)</actor>
+      <role>Regan</role>
+    </credit>
+    <credit>
+      <actor>Flanagan, Fionnula</actor>
+      <role>Molly Braddock</role>
+    </credit>
+    <credit>
+      <actor>Fleming, Gus</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Fontaine, Eddie</actor>
+      <role>Alex Fairbanks</role>
+    </credit>
+    <credit>
+      <actor>Foree, Ken</actor>
+      <role>B.J. Smith</role>
+    </credit>
+    <credit>
+      <actor>Foronjy, Richard</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Foronjy, Richard</actor>
+      <role>Ferarro</role>
+    </credit>
+    <credit>
+      <actor>Fort, William</actor>
+      <role>Charlie, the News Vendor</role>
+    </credit>
+    <credit>
+      <actor>Foster, Frances</actor>
+      <role>Pearl Johnson</role>
+    </credit>
+    <credit>
+      <actor>Fowler, Porter (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Fox, Mickey</actor>
+      <role>Katrina</role>
+    </credit>
+    <credit>
+      <actor>Francis, Ivor</actor>
+      <role>Henry W. Keiler</role>
+    </credit>
+    <credit>
+      <actor>Francis, Ivor</actor>
+      <role>J. Warren Hale</role>
+    </credit>
+    <credit>
+      <actor>Francis, John (II)</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Franken, Steve</actor>
+      <role>Arnie</role>
+    </credit>
+    <credit>
+      <actor>Franklyn, Fred</actor>
+      <role>Berrigan</role>
+    </credit>
+    <credit>
+      <actor>Franklyn, Fred</actor>
+      <role>Nightclub Manager</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Frazer, Dan</actor>
+      <role>Capt. Frank McNeil</role>
+    </credit>
+    <credit>
+      <actor>Freed, Sam</actor>
+      <role>Dr. Bernstein</role>
+    </credit>
+    <credit>
+      <actor>Freeman Jr., Al</actor>
+      <role>Federal Agent Donald Moshiah</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Arny</actor>
+      <role>Sheldon</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Kathleen (I)</actor>
+      <role>Ma Wonderly</role>
+    </credit>
+    <credit>
+      <actor>French, Arthur</actor>
+      <role>Eddie</role>
+    </credit>
+    <credit>
+      <actor>Fudge, Alan</actor>
+      <role>Gus Sutherland</role>
+    </credit>
+    <credit>
+      <actor>Gale, David (I)</actor>
+      <role>IAD Man</role>
+    </credit>
+    <credit>
+      <actor>Gallardo, Silvana</actor>
+      <role>Lisa Diaz</role>
+    </credit>
+    <credit>
+      <actor>Gardenia, Vincent</actor>
+      <role>Det. Vince LaGuardia</role>
+    </credit>
+    <credit>
+      <actor>Garfield, Allen</actor>
+      <role>Mario Portello</role>
+    </credit>
+    <credit>
+      <actor>Garfield, David (IV)</actor>
+      <role>Donald Bernheim</role>
+    </credit>
+    <credit>
+      <actor>Garfield, Julie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Garner, Martin (I)</actor>
+      <role>Moishe</role>
+    </credit>
+    <credit>
+      <actor>Garnett, Gale</actor>
+      <role>Elaine Kastos</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Hank</actor>
+      <role>Turetsky</role>
+    </credit>
+    <credit>
+      <actor>Garro, George</actor>
+      <role>D'Amato</role>
+    </credit>
+    <credit>
+      <actor>Garwood, John (I)</actor>
+      <role>Frank Talaba</role>
+    </credit>
+    <credit>
+      <actor>Gary, Harold</actor>
+      <role>Walter Zeif</role>
+    </credit>
+    <credit>
+      <actor>Gary, Lorraine</actor>
+      <role>Ruth Gardner</role>
+    </credit>
+    <credit>
+      <actor>Gary, Lorraine</actor>
+      <role>Ruthie</role>
+    </credit>
+    <credit>
+      <actor>Gaynes, Edmund</actor>
+      <role>Date</role>
+    </credit>
+    <credit>
+      <actor>Gazzo, Michael V.</actor>
+      <role>Joel Adrian</role>
+    </credit>
+    <credit>
+      <actor>Gelbum, Peter</actor>
+      <role>Ralph Donner</role>
+    </credit>
+    <credit>
+      <actor>Gelman, Larry</actor>
+      <role>Dr. Marcus</role>
+    </credit>
+    <credit>
+      <actor>Gelman, Larry</actor>
+      <role>Ramos</role>
+    </credit>
+    <credit>
+      <actor>Gemignani, Rhoda</actor>
+      <role>Katrina Patropolous</role>
+    </credit>
+    <credit>
+      <actor>George, Joe (I)</actor>
+      <role>Lewis</role>
+    </credit>
+    <credit>
+      <actor>George, Joseph (I)</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>George, Joseph (I)</actor>
+      <role>Sergeant Dobieski</role>
+    </credit>
+    <credit>
+      <actor>Georgiade, Nicholas</actor>
+      <role>Gino</role>
+    </credit>
+    <credit>
+      <actor>Geraci, Frank</actor>
+      <role>Big Irv</role>
+    </credit>
+    <credit>
+      <actor>Gere, Richard</actor>
+      <role>Geno Papas</role>
+    </credit>
+    <credit>
+      <actor>Giardino, Mark</actor>
+      <role>Hamerman</role>
+    </credit>
+    <credit>
+      <actor>Giardino, Mark</actor>
+      <role>Medical Examiner</role>
+    </credit>
+    <credit>
+      <actor>Giardino, Mark</actor>
+      <role>Otto</role>
+    </credit>
+    <credit>
+      <actor>Gideon, David</actor>
+      <role>Chauffeur</role>
+    </credit>
+    <credit>
+      <actor>Gifford, Hazen</actor>
+      <role>Norton</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Lauren (I)</actor>
+      <role>Gance</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Lou</actor>
+      <role>'Goldie' Goldstein</role>
+    </credit>
+    <credit>
+      <actor>Gilgreen, John</actor>
+      <role>Porter</role>
+    </credit>
+    <credit>
+      <actor>Gilman, Sam</actor>
+      <role>Howard Blaine</role>
+    </credit>
+    <credit>
+      <actor>Ging, Jack</actor>
+      <role>Hackford</role>
+    </credit>
+    <credit>
+      <actor>Ging, Jack</actor>
+      <role>Leo Becker</role>
+    </credit>
+    <credit>
+      <actor>Ginise, Livia</actor>
+      <role>Alicia Diaz</role>
+    </credit>
+    <credit>
+      <actor>Giorgio, Tony (I)</actor>
+      <role>Bill Wilson</role>
+    </credit>
+    <credit>
+      <actor>Glanz, Gary</actor>
+      <role>Murray Ornellas</role>
+    </credit>
+    <credit>
+      <actor>Glaser, Paul Michael</actor>
+      <role>Lou Giordino</role>
+    </credit>
+    <credit>
+      <actor>Glass, Ned</actor>
+      <role>Deitz</role>
+    </credit>
+    <credit>
+      <actor>Glass, Seamon</actor>
+      <role>Terry 'The Enforcer' Fitzgerald</role>
+    </credit>
+    <credit>
+      <actor>Gleeson, Redmond</actor>
+      <role>Det. Houston</role>
+    </credit>
+    <credit>
+      <actor>Gless, Sharon</actor>
+      <role>Nancy Parks</role>
+    </credit>
+    <credit>
+      <actor>Glick, Phyllis</actor>
+      <role>D. A. Lakos</role>
+    </credit>
+    <credit>
+      <actor>Glick, Phyllis</actor>
+      <role>Janice</role>
+    </credit>
+    <credit>
+      <actor>Glover, Bruce (I)</actor>
+      <role>Henry Slote</role>
+    </credit>
+    <credit>
+      <actor>Glover, John (I)</actor>
+      <role>Billy Jo Sparrow</role>
+    </credit>
+    <credit>
+      <actor>Goddard, John (I)</actor>
+      <role>Mesche</role>
+    </credit>
+    <credit>
+      <actor>Goldenberg, Harvey J.</actor>
+      <role>Mr. Doyle</role>
+    </credit>
+    <credit>
+      <actor>Goldman, Danny (I)</actor>
+      <role>'Scruffy' Sutherland</role>
+    </credit>
+    <credit>
+      <actor>Goldman, Lorry</actor>
+      <role>Mr. Taylor</role>
+    </credit>
+    <credit>
+      <actor>Goldstein, Bob</actor>
+      <role>Medical Examiner</role>
+    </credit>
+    <credit>
+      <actor>Gonzalez, Ernesto (I)</actor>
+      <role>Diaz</role>
+    </credit>
+    <credit>
+      <actor>Goodwin, Michael (I)</actor>
+      <role>Clements</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Mark (I)</actor>
+      <role>Detective 'Chic' Chiccaloni</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Ruth (I)</actor>
+      <role>Miss Eudora Temple</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Mari</actor>
+      <role>Molly Lawson</role>
+    </credit>
+    <credit>
+      <actor>Gortner, Marjoe</actor>
+      <role>Teddy Hopper</role>
+    </credit>
+    <credit>
+      <actor>Goya, Tito</actor>
+      <role>Chino</role>
+    </credit>
+    <credit>
+      <actor>Goz, Harry</actor>
+      <role>Vito Coletti</role>
+    </credit>
+    <credit>
+      <actor>Grace, Wayne</actor>
+      <role>Grisco Cummings</role>
+    </credit>
+    <credit>
+      <actor>Grahame, Gloria</actor>
+      <role>Helen</role>
+    </credit>
+    <credit>
+      <actor>Granger, Michael</actor>
+      <role>Mr. Burbridge</role>
+    </credit>
+    <credit>
+      <actor>Gravers, Steve</actor>
+      <role>Irwin David</role>
+    </credit>
+    <credit>
+      <actor>Gravers, Steve</actor>
+      <role>Pullian</role>
+    </credit>
+    <credit>
+      <actor>Gregg, Julie</actor>
+      <role>Shelby Phillips</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Michael (I)</actor>
+      <role>Edgar</role>
+    </credit>
+    <credit>
+      <actor>Grier, Roosevelt</actor>
+      <role>Salathiel Harms</role>
+    </credit>
+    <credit>
+      <actor>Grier, Roosevelt</actor>
+      <role>Salathiel Harms</role>
+    </credit>
+    <credit>
+      <actor>Grieve, Russ</actor>
+      <role>Proctor</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Jack (I)</actor>
+      <role>House Detective</role>
+    </credit>
+    <credit>
+      <actor>Griffis, William</actor>
+      <role>Tatum</role>
+    </credit>
+    <credit>
+      <actor>Griffith, James (I)</actor>
+      <role>Mr. Swift</role>
+    </credit>
+    <credit>
+      <actor>Grimm, Maria (I)</actor>
+      <role>Susan</role>
+    </credit>
+    <credit>
+      <actor>Grippo, Joe Lo</actor>
+      <role>Whelan's Driver</role>
+    </credit>
+    <credit>
+      <actor>Gross, Gene</actor>
+      <role>The Hit Man</role>
+    </credit>
+    <credit>
+      <actor>Gross, Todd</actor>
+      <role>Arthur Stronik</role>
+    </credit>
+    <credit>
+      <actor>Grossfeld, Sid</actor>
+      <role>Turner</role>
+    </credit>
+    <credit>
+      <actor>Guardino, Charles</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Guardino, Harry</actor>
+      <role>Detective Benny Furore</role>
+    </credit>
+    <credit>
+      <actor>Guardino, Jerome</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Guardino, Jerome</actor>
+      <role>Vince Karabian</role>
+    </credit>
+    <credit>
+      <actor>Guizon, Frenchia</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Guss, Louis</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Guss, Louis</actor>
+      <role>Karl Scheer</role>
+    </credit>
+    <credit>
+      <actor>Gwynne, Michael C. (I)</actor>
+      <role>Blaise</role>
+    </credit>
+    <credit>
+      <actor>Haddon, Laurence</actor>
+      <role>Capt. Ernie Perkins, Narcotics Division LAPD</role>
+    </credit>
+    <credit>
+      <actor>Haddon, Laurence</actor>
+      <role>Steadman</role>
+    </credit>
+    <credit>
+      <actor>Hadley, Brett</actor>
+      <role>Santa Flora</role>
+    </credit>
+    <credit>
+      <actor>Hagen, Erica (I)</actor>
+      <role>Donna Socrates</role>
+    </credit>
+    <credit>
+      <actor>Hahn, Archie</actor>
+      <role>Hacket</role>
+    </credit>
+    <credit>
+      <actor>Haines, Larry</actor>
+      <role>Michaels</role>
+    </credit>
+    <credit>
+      <actor>Hale, Doug (I)</actor>
+      <role>Bradford</role>
+    </credit>
+    <credit>
+      <actor>Hall, Albert (I)</actor>
+      <role>Det. Gregg</role>
+    </credit>
+    <credit>
+      <actor>Hall, Grayson</actor>
+      <role>Mrs. Campbell</role>
+    </credit>
+    <credit>
+      <actor>Hallow, John</actor>
+      <role>Al Danton</role>
+    </credit>
+    <credit>
+      <actor>Hamel, Veronica</actor>
+      <role>Elenora</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Kim</actor>
+      <role>Sgt. Donna Mill</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Leigh</actor>
+      <role>April Daily</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Murray (I)</actor>
+      <role>Harry Harmon</role>
+    </credit>
+    <credit>
+      <actor>Hammer, Alvin</actor>
+      <role>Store Owner Hostage</role>
+    </credit>
+    <credit>
+      <actor>Hammer, Ben (I)</actor>
+      <role>Alex Ross</role>
+    </credit>
+    <credit>
+      <actor>Hammer, Ben (I)</actor>
+      <role>Nick Vane</role>
+    </credit>
+    <credit>
+      <actor>Hammer, Jay</actor>
+      <role>Stiller</role>
+    </credit>
+    <credit>
+      <actor>Hanmer, Don</actor>
+      <role>Darata</role>
+    </credit>
+    <credit>
+      <actor>Hanmer, Don</actor>
+      <role>Myron Joyce</role>
+    </credit>
+    <credit>
+      <actor>Hannibal, Marc</actor>
+      <role>Quinn</role>
+    </credit>
+    <credit>
+      <actor>Hansen, William (I)</actor>
+      <role>Old Man Hostage</role>
+    </credit>
+    <credit>
+      <actor>Hardstark, Michael</actor>
+      <role>Lewis Ginzberg</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Jake Riley</role>
+    </credit>
+    <credit>
+      <actor>Hargrove, Jay</actor>
+      <role>Hearse Driver</role>
+    </credit>
+    <credit>
+      <actor>Harris, Cynthia (I)</actor>
+      <role>Helen Fielding</role>
+    </credit>
+    <credit>
+      <actor>Harris, David (I)</actor>
+      <role>Bucky Norris</role>
+    </credit>
+    <credit>
+      <actor>Harris, Julius</actor>
+      <role>Joe Addison</role>
+    </credit>
+    <credit>
+      <actor>Hatfield, Hurd</actor>
+      <role>Don Luiz Cabrillo</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Trish</actor>
+      <role>Fern</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Trish</actor>
+      <role>Olga</role>
+    </credit>
+    <credit>
+      <actor>Hay, Alexandra (I)</actor>
+      <role>Eleanor Rozelle/Giordino</role>
+    </credit>
+    <credit>
+      <actor>Hayward, David (II)</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Hedaya, Dan</actor>
+      <role>Dan Hudson</role>
+    </credit>
+    <credit>
+      <actor>Heffley, Wayne</actor>
+      <role>Det. Steiglitz</role>
+    </credit>
+    <credit>
+      <actor>Heiden, Janice</actor>
+      <role>Alexandra</role>
+    </credit>
+    <credit>
+      <actor>Helm, Frances</actor>
+      <role>Travel Agent</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Albert</actor>
+      <role>Denny</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Albert</actor>
+      <role>Police Captain</role>
+    </credit>
+    <credit>
+      <actor>Hensley, Pamela</actor>
+      <role>Delta</role>
+    </credit>
+    <credit>
+      <actor>Herd, Richard (I)</actor>
+      <role>Bob</role>
+    </credit>
+    <credit>
+      <actor>Hesley, John</actor>
+      <role>Chris Marquez</role>
+    </credit>
+    <credit>
+      <actor>Heyman, Barton</actor>
+      <role>Alistar McKnee Jr.</role>
+    </credit>
+    <credit>
+      <actor>Hickox, Harry</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Hickox, Harry</actor>
+      <role>Jerome Winkler</role>
+    </credit>
+    <credit>
+      <actor>Hillerman, John</actor>
+      <role>Mark Gallant</role>
+    </credit>
+    <credit>
+      <actor>Hilliard, Ryan</actor>
+      <role>Courtroom Guard</role>
+    </credit>
+    <credit>
+      <actor>Hindy, Joseph</actor>
+      <role>Dominic Bruno</role>
+    </credit>
+    <credit>
+      <actor>Hindy, Joseph</actor>
+      <role>George Bradbury</role>
+    </credit>
+    <credit>
+      <actor>Hindy, Joseph</actor>
+      <role>Vinnie Palmerance</role>
+    </credit>
+    <credit>
+      <actor>Hinkley, Del</actor>
+      <role>Anslow</role>
+    </credit>
+    <credit>
+      <actor>Hobbs, Peter (I)</actor>
+      <role>Becker</role>
+    </credit>
+    <credit>
+      <actor>Hobbs, Peter (I)</actor>
+      <role>Cortazzo</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Robert</actor>
+      <role>Monk</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Basil</actor>
+      <role>Charlie Winston</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Jane (I)</actor>
+      <role>Maggie</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Turner</role>
+    </credit>
+    <credit>
+      <actor>Hollander, David (I)</actor>
+      <role>Robbie De Marco</role>
+    </credit>
+    <credit>
+      <actor>Hollander, Jack</actor>
+      <role>'Dinky' Geller</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Kene</actor>
+      <role>Assistant D.A. Dunn</role>
+    </credit>
+    <credit>
+      <actor>Homolka, Oskar</actor>
+      <role>Father Dimitrius</role>
+    </credit>
+    <credit>
+      <actor>Honig, Howard</actor>
+      <role>Farmer</role>
+    </credit>
+    <credit>
+      <actor>Honig, Howard</actor>
+      <role>Ted Owens</role>
+    </credit>
+    <credit>
+      <actor>Hopson, Al (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hopson, Al (I)</actor>
+      <role>Manny</role>
+    </credit>
+    <credit>
+      <actor>Horwitz, Murray</actor>
+      <role>Patrolman at Hospital</role>
+    </credit>
+    <credit>
+      <actor>Houston, Bill (I)</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Howard, Michael J.</actor>
+      <role>Falish</role>
+    </credit>
+    <credit>
+      <actor>Hubley, Season</actor>
+      <role>Sister Maria</role>
+    </credit>
+    <credit>
+      <actor>Hundley, Craig</actor>
+      <role>Howie Green</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Ron (I)</actor>
+      <role>Marlow T. Caswick</role>
+    </credit>
+    <credit>
+      <actor>Hurst, Rick</actor>
+      <role>Crew Cut Hostage</role>
+    </credit>
+    <credit>
+      <actor>Hurt, Mary Beth</actor>
+      <role>Karen Foster</role>
+    </credit>
+    <credit>
+      <actor>Hurt, William (I)</actor>
+      <role>Jake</role>
+    </credit>
+    <credit>
+      <actor>Hyland, Diana</actor>
+      <role>Cleo Donatello</role>
+    </credit>
+    <credit>
+      <actor>Ipalé, Aharon</actor>
+      <role>Andre the photographer</role>
+    </credit>
+    <credit>
+      <actor>Irizarry, Gloria</actor>
+      <role>Maria</role>
+    </credit>
+    <credit>
+      <actor>Itkin, Paul Henry</actor>
+      <role>Assitant District Attorney Walters</role>
+    </credit>
+    <credit>
+      <actor>Ito, Robert</actor>
+      <role>Sammy Loo</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Leonard (I)</actor>
+      <role>Dr. Logan</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, John Ian</actor>
+      <role>Sweetzer</role>
+    </credit>
+    <credit>
+      <actor>Jaeger, William</actor>
+      <role>The Spectator</role>
+    </credit>
+    <credit>
+      <actor>Jaffe, Sam (I)</actor>
+      <role>Papa</role>
+    </credit>
+    <credit>
+      <actor>James, Ralph (I)</actor>
+      <role>Albie Linnick</role>
+    </credit>
+    <credit>
+      <actor>James, Ralph (I)</actor>
+      <role>Louis 'Fats' Giancana</role>
+    </credit>
+    <credit>
+      <actor>Janis, Conrad</actor>
+      <role>District Attorney Lynn</role>
+    </credit>
+    <credit>
+      <actor>Jaress, Jill</actor>
+      <role>Harriet</role>
+    </credit>
+    <credit>
+      <actor>Jarrett, Jerry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Paul (I)</actor>
+      <role>Timmy Oakes</role>
+    </credit>
+    <credit>
+      <actor>Jens, Salome</actor>
+      <role>Olga Nurell</role>
+    </credit>
+    <credit>
+      <actor>Jenson, Roy (I)</actor>
+      <role>Andy Rhodes</role>
+    </credit>
+    <credit>
+      <actor>Jewell, Len</actor>
+      <role>Tocco</role>
+    </credit>
+    <credit>
+      <actor>Jillian, Ann</actor>
+      <role>Joanna</role>
+    </credit>
+    <credit>
+      <actor>Jobes, Heath</actor>
+      <role>The Killer</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Arte</actor>
+      <role>Billy 'Bijou' Butler</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Chas. Floyd</actor>
+      <role>Det. White</role>
+    </credit>
+    <credit>
+      <actor>Johnson, J.S.</actor>
+      <role>Eric</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Josie (I)</actor>
+      <role>Leona Crown</role>
+    </credit>
+    <credit>
+      <actor>Johnston, Lionel</actor>
+      <role>Eugene</role>
+    </credit>
+    <credit>
+      <actor>Jones, Claude Earl</actor>
+      <role>Det. Al Buchinsky</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jeffrey (I)</actor>
+      <role>Attendant</role>
+    </credit>
+    <credit>
+      <actor>Jones, Robert Earl</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Richard (I)</actor>
+      <role>Steve Macey</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Allen</actor>
+      <role>Mr. King</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Allen</actor>
+      <role>Night man</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Ronald G.</actor>
+      <role>First Latin</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Elaine (I)</actor>
+      <role>Jo Anne Yager</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Stephen (I)</actor>
+      <role>The Priest</role>
+    </credit>
+    <credit>
+      <actor>Jump, Gordon</actor>
+      <role>Jonas</role>
+    </credit>
+    <credit>
+      <actor>Kalem, Toni</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kamal, Jon Rashad</actor>
+      <role>Hindu</role>
+    </credit>
+    <credit>
+      <actor>Kamel, Stanley</actor>
+      <role>Bert Marino</role>
+    </credit>
+    <credit>
+      <actor>Kamel, Stanley</actor>
+      <role>Clyde</role>
+    </credit>
+    <credit>
+      <actor>Karam, Elena</actor>
+      <role>Aunt Angeline</role>
+    </credit>
+    <credit>
+      <actor>Kareman, Fred</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Karlan, Richard</actor>
+      <role>Henshaw</role>
+    </credit>
+    <credit>
+      <actor>Karlan, Richard</actor>
+      <role>Uniformed Captain</role>
+    </credit>
+    <credit>
+      <actor>Karlen, John</actor>
+      <role>'Pinky' Hollister</role>
+    </credit>
+    <credit>
+      <actor>Karlen, John</actor>
+      <role>Hicks</role>
+    </credit>
+    <credit>
+      <actor>Karr, Harriet</actor>
+      <role>Ginny</role>
+    </credit>
+    <credit>
+      <actor>Karron, Richard</actor>
+      <role>Alley Oop</role>
+    </credit>
+    <credit>
+      <actor>Katt, William</actor>
+      <role>Carey Nysrom</role>
+    </credit>
+    <credit>
+      <actor>Kay, Billy (III)</actor>
+      <role>Joe Wayne</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Judy</actor>
+      <role>Public Defender Penny Rozelle</role>
+    </credit>
+    <credit>
+      <actor>Kazann, Zitto</actor>
+      <role>Sheik Ali</role>
+    </credit>
+    <credit>
+      <actor>Keach Sr., Stacy</actor>
+      <role>Mr. Sperry</role>
+    </credit>
+    <credit>
+      <actor>Keach, James</actor>
+      <role>Fred Strong</role>
+    </credit>
+    <credit>
+      <actor>Keats, Steven</actor>
+      <role>Danny Zucco</role>
+    </credit>
+    <credit>
+      <actor>Keep, Michael</actor>
+      <role>Bunce</role>
+    </credit>
+    <credit>
+      <actor>Keitel, Harvey</actor>
+      <role>Jerry Talaba</role>
+    </credit>
+    <credit>
+      <actor>Kellin, Mike</actor>
+      <role>Frank Conforti</role>
+    </credit>
+    <credit>
+      <actor>Kellogg, John (I)</actor>
+      <role>Marvin Rubicoff</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Bebe</actor>
+      <role>Vera Marston</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Paula (I)</actor>
+      <role>Janet Carlisle</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Roz</actor>
+      <role>Millie</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Roz</actor>
+      <role>Susan</role>
+    </credit>
+    <credit>
+      <actor>Kemp, Sally</actor>
+      <role>Mrs. Marshall</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Jayne (I)</actor>
+      <role>Tour Guide</role>
+    </credit>
+    <credit>
+      <actor>Kent, Lenny</actor>
+      <role>Mesche</role>
+    </credit>
+    <credit>
+      <actor>Kercheval, Ken</actor>
+      <role>Lacy</role>
+    </credit>
+    <credit>
+      <actor>Kercheval, Ken</actor>
+      <role>Ray Fromm</role>
+    </credit>
+    <credit>
+      <actor>Kercheval, Ken</actor>
+      <role>Teddy Maclay</role>
+    </credit>
+    <credit>
+      <actor>Kerner, Noberto</actor>
+      <role>Anton Lenco</role>
+    </credit>
+    <credit>
+      <actor>Kerner, Noberto</actor>
+      <role>Paco Rodriguez</role>
+    </credit>
+    <credit>
+      <actor>Kerry, John (I)</actor>
+      <role>Mickey</role>
+    </credit>
+    <credit>
+      <actor>Kert, Larry</actor>
+      <role>Whitney Farrow</role>
+    </credit>
+    <credit>
+      <actor>Kerwin, William (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kilpatrick, Lincoln</actor>
+      <role>Flynn</role>
+    </credit>
+    <credit>
+      <actor>Kim, Evan C.</actor>
+      <role>Chok Low</role>
+    </credit>
+    <credit>
+      <actor>Kimbrough, Charles</actor>
+      <role>Assistant D.A. Greg Burton</role>
+    </credit>
+    <credit>
+      <actor>Kimbrough, Charles</actor>
+      <role>Rudy</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruce</actor>
+      <role>Sergeant Al Vine</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruce</actor>
+      <role>Sergeant Al Vine</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruce</actor>
+      <role>Sergeant Al Vine</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruce</actor>
+      <role>Sergeant Dan McCartney</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruce</actor>
+      <role>Sgt. Vine</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Bruno</actor>
+      <role>Keith Wicks</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Randy (I)</actor>
+      <role>Carter</role>
+    </credit>
+    <credit>
+      <actor>Kirkland, Sally (I)</actor>
+      <role>Clara</role>
+    </credit>
+    <credit>
+      <actor>Kirkland, Sally (I)</actor>
+      <role>Gloria</role>
+    </credit>
+    <credit>
+      <actor>Kirkland, Sally (I)</actor>
+      <role>Shirley</role>
+    </credit>
+    <credit>
+      <actor>Knapp, David (I)</actor>
+      <role>Thackery</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>John Hagen</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>Pourette</role>
+    </credit>
+    <credit>
+      <actor>Kogan, Milt</actor>
+      <role>Al Grant</role>
+    </credit>
+    <credit>
+      <actor>Kogan, Milt</actor>
+      <role>Dr. Martin Laing</role>
+    </credit>
+    <credit>
+      <actor>Kong, Shirlee</actor>
+      <role>Nancy Wong</role>
+    </credit>
+    <credit>
+      <actor>Kopell, Bernie</actor>
+      <role>Sam Bernard</role>
+    </credit>
+    <credit>
+      <actor>Kove, Martin</actor>
+      <role>Burl Slote</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Bert</actor>
+      <role>Det. Walton</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Sy</actor>
+      <role>Elliott Myles</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Sy</actor>
+      <role>Travizius</role>
+    </credit>
+    <credit>
+      <actor>Kray, Charles (I)</actor>
+      <role>YMCA Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Krischer, Gene</actor>
+      <role>Addict</role>
+    </credit>
+    <credit>
+      <actor>Kurtz, Swoosie</actor>
+      <role>Julie Di Nata</role>
+    </credit>
+    <credit>
+      <actor>Kuss, Richard</actor>
+      <role>Heavy Set Hood</role>
+    </credit>
+    <credit>
+      <actor>Kutcher, Jack</actor>
+      <role>Gallo Rizell</role>
+    </credit>
+    <credit>
+      <actor>La Mura, Mark</actor>
+      <role>Jed Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Ladd, David</actor>
+      <role>Everett Coughlin</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Paul (I)</actor>
+      <role>Hugh Jellicoe</role>
+    </credit>
+    <credit>
+      <actor>Lamm, Karen</actor>
+      <role>Dede Howard</role>
+    </credit>
+    <credit>
+      <actor>Lampert, Zohra</actor>
+      <role>Dr. Ellen Page</role>
+    </credit>
+    <credit>
+      <actor>Lampert, Zohra</actor>
+      <role>Marina Sheldon</role>
+    </credit>
+    <credit>
+      <actor>Landry, Gail</actor>
+      <role>Irene DeMarco</role>
+    </credit>
+    <credit>
+      <actor>Lane, Mike (I)</actor>
+      <role>Curly</role>
+    </credit>
+    <credit>
+      <actor>Larroquette, John</actor>
+      <role>Sailor</role>
+    </credit>
+    <credit>
+      <actor>Larsen, William (I)</actor>
+      <role>Deputy Inspector</role>
+    </credit>
+    <credit>
+      <actor>Larson, Paul (I)</actor>
+      <role>Larry Morton</role>
+    </credit>
+    <credit>
+      <actor>Latham, Louise</actor>
+      <role>Madge Donnelly</role>
+    </credit>
+    <credit>
+      <actor>Lauter, Ed</actor>
+      <role>Floyd</role>
+    </credit>
+    <credit>
+      <actor>Laws, Sam</actor>
+      <role>Eddie Maxwell</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Lee (II)</actor>
+      <role>Mrs. Chambers</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Richard (I)</actor>
+      <role>First Suspect</role>
+    </credit>
+    <credit>
+      <actor>Lazarus, Bill</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Le Bouvier, Jean</actor>
+      <role>Lillian McNeil</role>
+    </credit>
+    <credit>
+      <actor>Leeds, Phil</actor>
+      <role>Druggist</role>
+    </credit>
+    <credit>
+      <actor>Lehman, Lillian</actor>
+      <role>Lisa Keller</role>
+    </credit>
+    <credit>
+      <actor>Lehne, John</actor>
+      <role>Tony Howard</role>
+    </credit>
+    <credit>
+      <actor>Lensky, Leib</actor>
+      <role>Charlie, the broom man</role>
+    </credit>
+    <credit>
+      <actor>Leon, Jerry (I)</actor>
+      <role>Jumbo</role>
+    </credit>
+    <credit>
+      <actor>Leon, Joseph (I)</actor>
+      <role>Willis Newton</role>
+    </credit>
+    <credit>
+      <actor>Lerner, Michael (I)</actor>
+      <role>Dr. Samuel Fine</role>
+    </credit>
+    <credit>
+      <actor>Lesser, Len</actor>
+      <role>C.C. Hinton</role>
+    </credit>
+    <credit>
+      <actor>Lesser, Len</actor>
+      <role>Mr. Morgan</role>
+    </credit>
+    <credit>
+      <actor>Lester, Buddy</actor>
+      <role>Lenny Karp</role>
+    </credit>
+    <credit>
+      <actor>Leverington, Shelby</actor>
+      <role>Joan Jordan</role>
+    </credit>
+    <credit>
+      <actor>Levine, Bob (I)</actor>
+      <role>Ward</role>
+    </credit>
+    <credit>
+      <actor>Levine, Floyd</actor>
+      <role>Nelson Hewett</role>
+    </credit>
+    <credit>
+      <actor>Levine, Floyd</actor>
+      <role>Thompson</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Art</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Liberace (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Light, Judith</actor>
+      <role>Laetitia 'Tish' Palmerance</role>
+    </credit>
+    <credit>
+      <actor>Lind, Brit</actor>
+      <role>Alice Fisher</role>
+    </credit>
+    <credit>
+      <actor>Linville, Joanne</actor>
+      <role>Ellen Ryan</role>
+    </credit>
+    <credit>
+      <actor>Liston, Denyce</actor>
+      <role>Azure Dee</role>
+    </credit>
+    <credit>
+      <actor>Liston, Denyce</actor>
+      <role>Female Witness</role>
+    </credit>
+    <credit>
+      <actor>Liston, Denyce</actor>
+      <role>June</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Norman (I)</actor>
+      <role>Harry Fein</role>
+    </credit>
+    <credit>
+      <actor>Lo Russo, Eddie</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Locante, Sam</actor>
+      <role>Joe Mallick</role>
+    </credit>
+    <credit>
+      <actor>Locke, Terence</actor>
+      <role>Farley Meadows</role>
+    </credit>
+    <credit>
+      <actor>Loggia, Robert</actor>
+      <role>Cassidy York</role>
+    </credit>
+    <credit>
+      <actor>Lombard, Michael</actor>
+      <role>Dr. Garvey</role>
+    </credit>
+    <credit>
+      <actor>London, Barbara</actor>
+      <role>Angie</role>
+    </credit>
+    <credit>
+      <actor>Lord, Justin</actor>
+      <role>Patrolman Gardner</role>
+    </credit>
+    <credit>
+      <actor>Loros, George</actor>
+      <role>Big Chrissy</role>
+    </credit>
+    <credit>
+      <actor>Loros, George</actor>
+      <role>Corso</role>
+    </credit>
+    <credit>
+      <actor>Louise, Tina</actor>
+      <role>Audrey Norris</role>
+    </credit>
+    <credit>
+      <actor>Lowry, Judith</actor>
+      <role>Lily Weed</role>
+    </credit>
+    <credit>
+      <actor>Luisi, James</actor>
+      <role>Capt. Henry 'Hank' Rosseau</role>
+    </credit>
+    <credit>
+      <actor>Luisi, James</actor>
+      <role>Capt. Henry 'Hank' Rosseau</role>
+    </credit>
+    <credit>
+      <actor>Luisi, James</actor>
+      <role>Officer Geno Alessi</role>
+    </credit>
+    <credit>
+      <actor>Lund, Art</actor>
+      <role>Special Agent Ike Watkins</role>
+    </credit>
+    <credit>
+      <actor>Lynley, Carol</actor>
+      <role>Polly Aims</role>
+    </credit>
+    <credit>
+      <actor>López, Rafael (II)</actor>
+      <role>Bellboy</role>
+    </credit>
+    <credit>
+      <actor>López, Rafael (II)</actor>
+      <role>Pena</role>
+    </credit>
+    <credit>
+      <actor>MacRae, Elizabeth</actor>
+      <role>Betsy Vellon</role>
+    </credit>
+    <credit>
+      <actor>MacRae, Elizabeth</actor>
+      <role>Mrs. Robin Clausen</role>
+    </credit>
+    <credit>
+      <actor>Macht, Stephen</actor>
+      <role>Joseph Arrow</role>
+    </credit>
+    <credit>
+      <actor>Macht, Stephen</actor>
+      <role>Max Fisk</role>
+    </credit>
+    <credit>
+      <actor>Mackenzie, Patch</actor>
+      <role>Lacey</role>
+    </credit>
+    <credit>
+      <actor>Madison, Ellen</actor>
+      <role>Marge Becker</role>
+    </credit>
+    <credit>
+      <actor>Madurga, Gonzalo</actor>
+      <role>Father Rico</role>
+    </credit>
+    <credit>
+      <actor>Maharis, George</actor>
+      <role>Ringer</role>
+    </credit>
+    <credit>
+      <actor>Mahon, John (I)</actor>
+      <role>I.A.D. Man</role>
+    </credit>
+    <credit>
+      <actor>Malooly, Maggie</actor>
+      <role>Peggy</role>
+    </credit>
+    <credit>
+      <actor>Mamakos, Peter</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Manchini, Carlo</actor>
+      <role>Paul Valley</role>
+    </credit>
+    <credit>
+      <actor>Mancini, Ric</actor>
+      <role>Woody</role>
+    </credit>
+    <credit>
+      <actor>Mandan, Robert</actor>
+      <role>Dr. Michael Clausen</role>
+    </credit>
+    <credit>
+      <actor>Mann, Dolores</actor>
+      <role>Nancy Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Mann, Michael (II)</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Manning, Jack (III)</actor>
+      <role>Benoit</role>
+    </credit>
+    <credit>
+      <actor>Manson, Alan</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Manson, Alan</actor>
+      <role>Lieutenant Steve Nicola</role>
+    </credit>
+    <credit>
+      <actor>Manson, Alan</actor>
+      <role>Lieutenant Steve Nicola</role>
+    </credit>
+    <credit>
+      <actor>Manson, Alan</actor>
+      <role>Officer Gallagher</role>
+    </credit>
+    <credit>
+      <actor>Mantee, Paul</actor>
+      <role>Hank Yankowski</role>
+    </credit>
+    <credit>
+      <actor>Marcovicci, Andrea</actor>
+      <role>Francesca Milano</role>
+    </credit>
+    <credit>
+      <actor>Marcovicci, Andrea</actor>
+      <role>Lisa Walden</role>
+    </credit>
+    <credit>
+      <actor>Margolis, Mark (I)</actor>
+      <role>First Gunman</role>
+    </credit>
+    <credit>
+      <actor>Margotta, Michael</actor>
+      <role>Jack Donnelly</role>
+    </credit>
+    <credit>
+      <actor>Margulies, David (I)</actor>
+      <role>Midge Piper</role>
+    </credit>
+    <credit>
+      <actor>Marie, Rose (I)</actor>
+      <role>Mrs. Tildon</role>
+    </credit>
+    <credit>
+      <actor>Marin, Russ</actor>
+      <role>Dr. Sullivan</role>
+    </credit>
+    <credit>
+      <actor>Marks, Jack R.</actor>
+      <role>Police Patrolman</role>
+    </credit>
+    <credit>
+      <actor>Marlowe, Nora (I)</actor>
+      <role>Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Maroff, Bob</actor>
+      <role>Alex, Hotel Doorman</role>
+    </credit>
+    <credit>
+      <actor>Marr, Richard (I)</actor>
+      <role>Sommelier</role>
+    </credit>
+    <credit>
+      <actor>Marta, Lynne</actor>
+      <role>Margaret 'Peggy' Farrell</role>
+    </credit>
+    <credit>
+      <actor>Martel, William</actor>
+      <role>Desk Sargeant</role>
+    </credit>
+    <credit>
+      <actor>Martel, William</actor>
+      <role>Sergeant Grady</role>
+    </credit>
+    <credit>
+      <actor>Martin, Carolyn (I)</actor>
+      <role>Bertha</role>
+    </credit>
+    <credit>
+      <actor>Martorano, Vince</actor>
+      <role>Vince</role>
+    </credit>
+    <credit>
+      <actor>Mascolo, Joseph</actor>
+      <role>Det. Jeff Braddock</role>
+    </credit>
+    <credit>
+      <actor>Mason, Anthony (II)</actor>
+      <role>Leacock</role>
+    </credit>
+    <credit>
+      <actor>Masters, Ben</actor>
+      <role>Oliver</role>
+    </credit>
+    <credit>
+      <actor>Matlock, Norman</actor>
+      <role>Parsons</role>
+    </credit>
+    <credit>
+      <actor>Mauceri, Patricia</actor>
+      <role>Yolanda</role>
+    </credit>
+    <credit>
+      <actor>Maung, Kevin</actor>
+      <role>Shimizu</role>
+    </credit>
+    <credit>
+      <actor>Max, Ron</actor>
+      <role>Officer Mason</role>
+    </credit>
+    <credit>
+      <actor>Mayama, Miko</actor>
+      <role>Mai Lee</role>
+    </credit>
+    <credit>
+      <actor>Mayo, Raymond</actor>
+      <role>Freddie</role>
+    </credit>
+    <credit>
+      <actor>McCalman, Macon</actor>
+      <role>McKee</role>
+    </credit>
+    <credit>
+      <actor>McCann, Chuck (I)</actor>
+      <role>Lloyd Tatum</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Charles (I)</actor>
+      <role>Gun Range Keeper</role>
+    </credit>
+    <credit>
+      <actor>McCay, Peggy</actor>
+      <role>Mrs. Smith</role>
+    </credit>
+    <credit>
+      <actor>McCutcheon, Bill</actor>
+      <role>Stockbroker Fred Starrett</role>
+    </credit>
+    <credit>
+      <actor>McDevitt, Ruth</actor>
+      <role>Mrs. Farenkrug</role>
+    </credit>
+    <credit>
+      <actor>McFadden, Barney</actor>
+      <role>Leo</role>
+    </credit>
+    <credit>
+      <actor>McFadden, Tom Lee</actor>
+      <role>Hawker</role>
+    </credit>
+    <credit>
+      <actor>McGinn, Walter</actor>
+      <role>Len Gittings</role>
+    </credit>
+    <credit>
+      <actor>McGinn, Walter</actor>
+      <role>Martin Bronson</role>
+    </credit>
+    <credit>
+      <actor>McGovern, Don</actor>
+      <role>Riessen</role>
+    </credit>
+    <credit>
+      <actor>McGuire, Biff</actor>
+      <role>Defense Attorney Kingsley</role>
+    </credit>
+    <credit>
+      <actor>McGuire, Michael (I)</actor>
+      <role>Harry Duban</role>
+    </credit>
+    <credit>
+      <actor>McGuire, Michael (I)</actor>
+      <role>Paul Merchison</role>
+    </credit>
+    <credit>
+      <actor>McHattie, Stephen</actor>
+      <role>Blaine</role>
+    </credit>
+    <credit>
+      <actor>McHattie, Stephen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McHattie, Stephen</actor>
+      <role>Paul Nelson</role>
+    </credit>
+    <credit>
+      <actor>McKiernan, Dennis</actor>
+      <role>Mel</role>
+    </credit>
+    <credit>
+      <actor>McMillan, Kenneth</actor>
+      <role>Lt. Becker</role>
+    </credit>
+    <credit>
+      <actor>McMillan, Kenneth</actor>
+      <role>Lt. Decker</role>
+    </credit>
+    <credit>
+      <actor>McMillan, Kenneth</actor>
+      <role>Lt. George O'Mara</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Duke Peter Dushan</role>
+    </credit>
+    <credit>
+      <actor>McWilliams, Caroline</actor>
+      <role>Ellen Roberts</role>
+    </credit>
+    <credit>
+      <actor>Medford, Kay</actor>
+      <role>Bernice M. Sandler</role>
+    </credit>
+    <credit>
+      <actor>Metrano, Art</actor>
+      <role>Mike Tomaso</role>
+    </credit>
+    <credit>
+      <actor>Mettey, Lynette</actor>
+      <role>Officer Joannie Garretty</role>
+    </credit>
+    <credit>
+      <actor>Mettey, Lynette</actor>
+      <role>Sergeant Doris Holloway</role>
+    </credit>
+    <credit>
+      <actor>Metzger, Ed</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Micale, Paul</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Michael, Paul (I)</actor>
+      <role>Geddes</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Norma</actor>
+      <role>Mary anne</role>
+    </credit>
+    <credit>
+      <actor>Miles, George Lee</actor>
+      <role>Sgt. Resnik</role>
+    </credit>
+    <credit>
+      <actor>Miles, Joanna (I)</actor>
+      <role>Miss Lorelei Mason</role>
+    </credit>
+    <credit>
+      <actor>Miller, Allan (I)</actor>
+      <role>Jerry Bayliss</role>
+    </credit>
+    <credit>
+      <actor>Miller, Barry (I)</actor>
+      <role>Billy Sherback Jr.</role>
+    </credit>
+    <credit>
+      <actor>Miller, Kathleen (I)</actor>
+      <role>Fern</role>
+    </credit>
+    <credit>
+      <actor>Mills, Edwin</actor>
+      <role>Dr. Wade Ellis</role>
+    </credit>
+    <credit>
+      <actor>Minor, Bob (I)</actor>
+      <role>Blood</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Dallas</actor>
+      <role>Attorney</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Donna</actor>
+      <role>Lena Martin</role>
+    </credit>
+    <credit>
+      <actor>Montana, Lenny</actor>
+      <role>McCoy</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Karen (I)</actor>
+      <role>Patricia</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Lee (I)</actor>
+      <role>David Hecht</role>
+    </credit>
+    <credit>
+      <actor>Montilla, Jaime</actor>
+      <role>Andy</role>
+    </credit>
+    <credit>
+      <actor>Moor, Bill (I)</actor>
+      <role>Mr. Cosgrove, Sr.</role>
+    </credit>
+    <credit>
+      <actor>Morfogen, George</actor>
+      <role>Charley</role>
+    </credit>
+    <credit>
+      <actor>Morick, Dave</actor>
+      <role>Asst. D.A. Casey</role>
+    </credit>
+    <credit>
+      <actor>Morick, Dave</actor>
+      <role>Houghton</role>
+    </credit>
+    <credit>
+      <actor>Morsell, Fred</actor>
+      <role>Medical Examiner</role>
+    </credit>
+    <credit>
+      <actor>Mosley, Roger E.</actor>
+      <role>John R. Stutz</role>
+    </credit>
+    <credit>
+      <actor>Moss, Stewart</actor>
+      <role>Moss Deerfield</role>
+    </credit>
+    <credit>
+      <actor>Mullins, Michael (I)</actor>
+      <role>Johnny</role>
+    </credit>
+    <credit>
+      <actor>Mumolo, Tony</actor>
+      <role>Barry Schuster</role>
+    </credit>
+    <credit>
+      <actor>Murdock, Jack</actor>
+      <role>Art Gordon</role>
+    </credit>
+    <credit>
+      <actor>Murney, Christopher</actor>
+      <role>Flarrety</role>
+    </credit>
+    <credit>
+      <actor>Murphy, M.P.</actor>
+      <role>Callaghan</role>
+    </credit>
+    <credit>
+      <actor>Murphy, M.P.</actor>
+      <role>Chief Inspector</role>
+    </credit>
+    <credit>
+      <actor>Murphy, M.P.</actor>
+      <role>Mackey</role>
+    </credit>
+    <credit>
+      <actor>Murray, Brian (I)</actor>
+      <role>Caesar Ogilvy</role>
+    </credit>
+    <credit>
+      <actor>Murtaugh, James</actor>
+      <role>Sutter</role>
+    </credit>
+    <credit>
+      <actor>Nadder, Robert</actor>
+      <role>The Diamond Cutter</role>
+    </credit>
+    <credit>
+      <actor>Nadelman, Jess</actor>
+      <role>Tobias Carson</role>
+    </credit>
+    <credit>
+      <actor>Napier, Alan</actor>
+      <role>Antonakis</role>
+    </credit>
+    <credit>
+      <actor>Napier, Charles</actor>
+      <role>Marty Vaughan</role>
+    </credit>
+    <credit>
+      <actor>Napier, Paul</actor>
+      <role>Joseph Yardley</role>
+    </credit>
+    <credit>
+      <actor>Natali, Dino</actor>
+      <role>Moss</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Haywood</actor>
+      <role>Bobby Moore</role>
+    </credit>
+    <credit>
+      <actor>Nielsen, Leslie</actor>
+      <role>Michael Hagar</role>
+    </credit>
+    <credit>
+      <actor>Nolan, John (I)</actor>
+      <role>Ingram</role>
+    </credit>
+    <credit>
+      <actor>Norman, Allen G.</actor>
+      <role>Bellman</role>
+    </credit>
+    <credit>
+      <actor>Novello, Jay</actor>
+      <role>Patriarch</role>
+    </credit>
+    <credit>
+      <actor>Nugent, Daniel</actor>
+      <role>Jim</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Kenneth (I)</actor>
+      <role>Alan Ankrum</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Kenneth (I)</actor>
+      <role>Silas</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Richard (II)</actor>
+      <role>Sgt. Harry Doyle</role>
+    </credit>
+    <credit>
+      <actor>O'Keefe, Raymond</actor>
+      <role>Joseph 'Joey' Laggo</role>
+    </credit>
+    <credit>
+      <actor>O'Neill, Dick (I)</actor>
+      <role>Augustine Pataki</role>
+    </credit>
+    <credit>
+      <actor>Oakland, Simon</actor>
+      <role>Tom Donnelly</role>
+    </credit>
+    <credit>
+      <actor>Olmos, Edward James</actor>
+      <role>Paco</role>
+    </credit>
+    <credit>
+      <actor>Olmsted, Nelson</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Opatoshu, David</actor>
+      <role>Dr. Anton Valentine</role>
+    </credit>
+    <credit>
+      <actor>Orbach, Jerry</actor>
+      <role>Brubaker</role>
+    </credit>
+    <credit>
+      <actor>Orman, Roscoe</actor>
+      <role>Lieutenant Connors</role>
+    </credit>
+    <credit>
+      <actor>Osmond, Cliff</actor>
+      <role>Johnny Bannister</role>
+    </credit>
+    <credit>
+      <actor>Osuna, Jess</actor>
+      <role>Senior Federal Agent George Rhine</role>
+    </credit>
+    <credit>
+      <actor>Ottaviano, Fred</actor>
+      <role>Vinnie</role>
+    </credit>
+    <credit>
+      <actor>Page, Harrison</actor>
+      <role>Hawthorn Yantzee</role>
+    </credit>
+    <credit>
+      <actor>Page, Harrison</actor>
+      <role>Quade</role>
+    </credit>
+    <credit>
+      <actor>Palter, Lew</actor>
+      <role>Mr. Green</role>
+    </credit>
+    <credit>
+      <actor>Parfrey, Woodrow</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Parfrey, Woodrow</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Parker, Norman (I)</actor>
+      <role>Father Moiso</role>
+    </credit>
+    <credit>
+      <actor>Parks, Andrew</actor>
+      <role>Danny Fisk</role>
+    </credit>
+    <credit>
+      <actor>Passeltiner, Bernie</actor>
+      <role>Lou the Waiter</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Dennis (I)</actor>
+      <role>Clay Dexter</role>
+    </credit>
+    <credit>
+      <actor>Patten, Robert (I)</actor>
+      <role>Forman</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Shelley Briscoe</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Burgess</role>
+    </credit>
+    <credit>
+      <actor>Pearlman, Stephen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pedi, Tom</actor>
+      <role>Filacchione</role>
+    </credit>
+    <credit>
+      <actor>Pellegrino, Nick</actor>
+      <role>Alonzo</role>
+    </credit>
+    <credit>
+      <actor>Peluce, Meeno</actor>
+      <role>Christopher</role>
+    </credit>
+    <credit>
+      <actor>Pena, Tony (I)</actor>
+      <role>Chucho Patias</role>
+    </credit>
+    <credit>
+      <actor>Penghlis, Thaao</actor>
+      <role>Yanni Psalidas</role>
+    </credit>
+    <credit>
+      <actor>Perdue, James</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Perkins, John (I)</actor>
+      <role>Male Witness</role>
+    </credit>
+    <credit>
+      <actor>Perry, Joseph V.</actor>
+      <role>Alan Bancroft</role>
+    </credit>
+    <credit>
+      <actor>Perry, Joseph V.</actor>
+      <role>George Burke</role>
+    </credit>
+    <credit>
+      <actor>Perry, Joseph V.</actor>
+      <role>Murray Talbert</role>
+    </credit>
+    <credit>
+      <actor>Pesce, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pesce, Frank</actor>
+      <role>Spencer</role>
+    </credit>
+    <credit>
+      <actor>Peters, Gerald</actor>
+      <role>Chauffeur</role>
+    </credit>
+    <credit>
+      <actor>Peters, Jan (II)</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Piazza, Ben</actor>
+      <role>Abernathy</role>
+    </credit>
+    <credit>
+      <actor>Picardo, Robert</actor>
+      <role>Thomas Rindone</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Charlie (I)</actor>
+      <role>Dennis</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Charlie (I)</actor>
+      <role>Lewis Kowalski</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Charlie (I)</actor>
+      <role>Maxwell</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Paul</actor>
+      <role>Detective Albert Cohen</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Paul</actor>
+      <role>Vic</role>
+    </credit>
+    <credit>
+      <actor>Pickard, John (I)</actor>
+      <role>Officer Tom Donnelly</role>
+    </credit>
+    <credit>
+      <actor>Pina, Lionel</actor>
+      <role>Hector Diaz</role>
+    </credit>
+    <credit>
+      <actor>Pine, Phillip</actor>
+      <role>Jason Kreiger</role>
+    </credit>
+    <credit>
+      <actor>Pinero, John</actor>
+      <role>Hector</role>
+    </credit>
+    <credit>
+      <actor>Pinero, Miguel</actor>
+      <role>Rudy</role>
+    </credit>
+    <credit>
+      <actor>Platt, Howard</actor>
+      <role>Roy Benson</role>
+    </credit>
+    <credit>
+      <actor>Pleshette, John</actor>
+      <role>Resident</role>
+    </credit>
+    <credit>
+      <actor>Pollick, Teno</actor>
+      <role>Niko</role>
+    </credit>
+    <credit>
+      <actor>Ponzini, Antony</actor>
+      <role>Duff</role>
+    </credit>
+    <credit>
+      <actor>Ponzini, Antony</actor>
+      <role>Joey Fiorello</role>
+    </credit>
+    <credit>
+      <actor>Poole, Roy (I)</actor>
+      <role>Police Captain Joe Keene</role>
+    </credit>
+    <credit>
+      <actor>Popwell, Albert</actor>
+      <role>Danny Boy</role>
+    </credit>
+    <credit>
+      <actor>Power, Edward</actor>
+      <role>Federal Agent Robinson</role>
+    </credit>
+    <credit>
+      <actor>Prado, Francisco</actor>
+      <role>Garcia</role>
+    </credit>
+    <credit>
+      <actor>Prince, William (I)</actor>
+      <role>Chairman Baker</role>
+    </credit>
+    <credit>
+      <actor>Proval, David</actor>
+      <role>Calvelli</role>
+    </credit>
+    <credit>
+      <actor>Quade, John</actor>
+      <role>Colby</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Frank P.</actor>
+      <role>Willie</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Tom (II)</actor>
+      <role>The Superintendent</role>
+    </credit>
+    <credit>
+      <actor>Quinones, Lou</actor>
+      <role>Cuban Hit Man</role>
+    </credit>
+    <credit>
+      <actor>Rader, Jack</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Randall, Charles (I)</actor>
+      <role>Mr. Van Ord</role>
+    </credit>
+    <credit>
+      <actor>Randolph, John (I)</actor>
+      <role>Judge Philip Templeton Mackie, Sr.</role>
+    </credit>
+    <credit>
+      <actor>Rasulala, Thalmus</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rasulala, Thalmus</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rawlins, Lester</actor>
+      <role>Assistant D.A. Angus Moore</role>
+    </credit>
+    <credit>
+      <actor>Rawlins, Lester</actor>
+      <role>Assistant D.A. Angus Moore</role>
+    </credit>
+    <credit>
+      <actor>Redeker, Quinn K.</actor>
+      <role>Lou Carver</role>
+    </credit>
+    <credit>
+      <actor>Redeker, Quinn K.</actor>
+      <role>Neff</role>
+    </credit>
+    <credit>
+      <actor>Reicheg, Richard</actor>
+      <role>Richard</role>
+    </credit>
+    <credit>
+      <actor>Reicheg, Richard</actor>
+      <role>Wickes</role>
+    </credit>
+    <credit>
+      <actor>Reilly, John (I)</actor>
+      <role>Special Prosecutor Whelan</role>
+    </credit>
+    <credit>
+      <actor>Rich, Allan</actor>
+      <role>Judge Miller</role>
+    </credit>
+    <credit>
+      <actor>Rich, Allan</actor>
+      <role>Solly's Lawyer</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Michael (I)</actor>
+      <role>Jimmy Crown</role>
+    </credit>
+    <credit>
+      <actor>Riesel, Robert</actor>
+      <role>Colbenz</role>
+    </credit>
+    <credit>
+      <actor>Riesel, Robert</actor>
+      <role>Second Reporter</role>
+    </credit>
+    <credit>
+      <actor>Rifkin, Ron</actor>
+      <role>Rick Levene</role>
+    </credit>
+    <credit>
+      <actor>Ritter, John</actor>
+      <role>Kenny Soames</role>
+    </credit>
+    <credit>
+      <actor>Rizzo, Jilly</actor>
+      <role>Croupier</role>
+    </credit>
+    <credit>
+      <actor>Roat, Richard</actor>
+      <role>Defense Attorney</role>
+    </credit>
+    <credit>
+      <actor>Robello, Mike</actor>
+      <role>Manny</role>
+    </credit>
+    <credit>
+      <actor>Robelo, Mike</actor>
+      <role>Williamson</role>
+    </credit>
+    <credit>
+      <actor>Robinette, Dale</actor>
+      <role>Barry</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Andrew (I)</actor>
+      <role>Leon</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Andrew (I)</actor>
+      <role>Roger Layton</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Bobby Martin</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Gil Weaver</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Gil Weaver</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Gil Weaver</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Gil Weaver</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Roger (I)</actor>
+      <role>Gil Weaver</role>
+    </credit>
+    <credit>
+      <actor>Rocco, Alex</actor>
+      <role>Morton Tallman</role>
+    </credit>
+    <credit>
+      <actor>Rocco, Alex</actor>
+      <role>Tony Curcheo</role>
+    </credit>
+    <credit>
+      <actor>Roche, Eugene (I)</actor>
+      <role>Patrolman Lyle 'Sandy' Beach</role>
+    </credit>
+    <credit>
+      <actor>Roche, Eugene (I)</actor>
+      <role>Seymore Haywood</role>
+    </credit>
+    <credit>
+      <actor>Rolike, Hank</actor>
+      <role>Bootblack</role>
+    </credit>
+    <credit>
+      <actor>Romano, Andy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Romanus, Richard</actor>
+      <role>Det. Sam Calucci</role>
+    </credit>
+    <credit>
+      <actor>Rosales Jr., Thomas</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Ross, Don (I)</actor>
+      <role>Steven Marly</role>
+    </credit>
+    <credit>
+      <actor>Rossilli, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rowe, Earl</actor>
+      <role>Mr. Allen, Sr.</role>
+    </credit>
+    <credit>
+      <actor>Rozakis, Gregory</actor>
+      <role>Frankie the Mouth</role>
+    </credit>
+    <credit>
+      <actor>Rubenstein, Phil</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Rudy, Martin</actor>
+      <role>Albert T. Beck</role>
+    </credit>
+    <credit>
+      <actor>Ruscio, Al</actor>
+      <role>Jonas Vukich</role>
+    </credit>
+    <credit>
+      <actor>Ruscio, Al</actor>
+      <role>Joseph Travino</role>
+    </credit>
+    <credit>
+      <actor>Ruskin, Shimen</actor>
+      <role>Ben Hillel</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Rizzo</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Det. Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russell, Mark (III)</actor>
+      <role>Detective Saperstein</role>
+    </credit>
+    <credit>
+      <actor>Russo, Gianni (I)</actor>
+      <role>Barton</role>
+    </credit>
+    <credit>
+      <actor>Russom, Leon</actor>
+      <role>Gallin</role>
+    </credit>
+    <credit>
+      <actor>Ruta, Ken</actor>
+      <role>Bryce</role>
+    </credit>
+    <credit>
+      <actor>Ryan, John P.</actor>
+      <role>Peter Ibbotson</role>
+    </credit>
+    <credit>
+      <actor>Ryder, Alfred</actor>
+      <role>Emile Zerbo</role>
+    </credit>
+    <credit>
+      <actor>Sabin, David</actor>
+      <role>Crawford</role>
+    </credit>
+    <credit>
+      <actor>Sadoff, Fred</actor>
+      <role>Felix Van Heusen</role>
+    </credit>
+    <credit>
+      <actor>San Juan, Guillermo</actor>
+      <role>Jose Mendes</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Richard (I)</actor>
+      <role>Drunk</role>
+    </credit>
+    <credit>
+      <actor>Santoro, Dean</actor>
+      <role>Walter</role>
+    </credit>
+    <credit>
+      <actor>Sapountzakis, Themi</actor>
+      <role>Young Cop</role>
+    </credit>
+    <credit>
+      <actor>Sarno, John</actor>
+      <role>Smoot</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Det. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Jack Deems</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Sergeant Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Sgt. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Sgt. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Sgt. Stavros</role>
+    </credit>
+    <credit>
+      <actor>Savalas, Telly</actor>
+      <role>Lt. Theo Kojak</role>
+    </credit>
+    <credit>
+      <actor>Savalas, Telly</actor>
+      <role>Lt. Theo Kojak</role>
+    </credit>
+    <credit>
+      <actor>Savior, Paul (I)</actor>
+      <role>Mickey Reason</role>
+    </credit>
+    <credit>
+      <actor>Schacht, Sam</actor>
+      <role>Dr. Riddle</role>
+    </credit>
+    <credit>
+      <actor>Schiller, Norbert</actor>
+      <role>Mr. Polichek</role>
+    </credit>
+    <credit>
+      <actor>Scott, Fred D.</actor>
+      <role>Dr. Banker</role>
+    </credit>
+    <credit>
+      <actor>Scott, Ian (I)</actor>
+      <role>Robert Xavier Jurgen</role>
+    </credit>
+    <credit>
+      <actor>Selby, David</actor>
+      <role>Sgt James 'Jimmy' O'Connor</role>
+    </credit>
+    <credit>
+      <actor>Selzer, Milton</actor>
+      <role>Consigliere Nathan Davidoff</role>
+    </credit>
+    <credit>
+      <actor>Serbagi, Roger</actor>
+      <role>Lane</role>
+    </credit>
+    <credit>
+      <actor>Serna, Gil</actor>
+      <role>Sandro</role>
+    </credit>
+    <credit>
+      <actor>Serna, Pepe</actor>
+      <role>Enorio Patias</role>
+    </credit>
+    <credit>
+      <actor>Serna, Pepe</actor>
+      <role>Rudy Diaz</role>
+    </credit>
+    <credit>
+      <actor>Serna, Pepe</actor>
+      <role>Rudy Diaz</role>
+    </credit>
+    <credit>
+      <actor>Serra, Raymond</actor>
+      <role>Al Gregorio</role>
+    </credit>
+    <credit>
+      <actor>Seymour, Dan (I)</actor>
+      <role>Broen</role>
+    </credit>
+    <credit>
+      <actor>Shannon, George</actor>
+      <role>Greg Hallick</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Joshua (I)</actor>
+      <role>Bob Harris</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Joshua (I)</actor>
+      <role>Mr. Sack</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Joshua (I)</actor>
+      <role>Obitsky</role>
+    </credit>
+    <credit>
+      <actor>Shenar, Paul</actor>
+      <role>Arthur Harris</role>
+    </credit>
+    <credit>
+      <actor>Shepard, Richmond</actor>
+      <role>Grundy</role>
+    </credit>
+    <credit>
+      <actor>Shera, Mark</actor>
+      <role>Patrolman Ralph Warren</role>
+    </credit>
+    <credit>
+      <actor>Shimoda, Yuki</actor>
+      <role>Oriental Assassin</role>
+    </credit>
+    <credit>
+      <actor>Showalter, Max</actor>
+      <role>Quinlan</role>
+    </credit>
+    <credit>
+      <actor>Sicari, Joseph R.</actor>
+      <role>Delman</role>
+    </credit>
+    <credit>
+      <actor>Sicari, Joseph R.</actor>
+      <role>Ferret Face</role>
+    </credit>
+    <credit>
+      <actor>Siebert, Charles (I)</actor>
+      <role>Bender</role>
+    </credit>
+    <credit>
+      <actor>Silo, Jon</actor>
+      <role>Maximilian Krouse</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Chemist</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Dr. Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sergeant Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sergeant Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sergeant Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sergeant Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sgt. Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sgt. Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sgt. Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Borah</actor>
+      <role>Sgt. Prince</role>
+    </credit>
+    <credit>
+      <actor>Silver, Joe</actor>
+      <role>Chief Wilson</role>
+    </credit>
+    <credit>
+      <actor>Singer, Raymond</actor>
+      <role>Dr. Moscowitz</role>
+    </credit>
+    <credit>
+      <actor>Singer, Raymond</actor>
+      <role>Dr. Moscowitz</role>
+    </credit>
+    <credit>
+      <actor>Singer, Raymond</actor>
+      <role>Medical examiner</role>
+    </credit>
+    <credit>
+      <actor>Sirianni, E.A.</actor>
+      <role>Judge Rowland Burk</role>
+    </credit>
+    <credit>
+      <actor>Sirico, Tony</actor>
+      <role>Greek God</role>
+    </credit>
+    <credit>
+      <actor>Sivero, Frank (I)</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Skaff, George</actor>
+      <role>Georges Delorme</role>
+    </credit>
+    <credit>
+      <actor>Skaff, George</actor>
+      <role>Mr. Zaloomian</role>
+    </credit>
+    <credit>
+      <actor>Skaff, George</actor>
+      <role>Nicholas Julius</role>
+    </credit>
+    <credit>
+      <actor>Slack, Ben</actor>
+      <role>Sonny Scammons</role>
+    </credit>
+    <credit>
+      <actor>Slattery, Richard X.</actor>
+      <role>Jess Egan</role>
+    </credit>
+    <credit>
+      <actor>Sloyan, James</actor>
+      <role>Jack Murzie</role>
+    </credit>
+    <credit>
+      <actor>Smith Jr., Delos V.</actor>
+      <role>Louis Semmelman</role>
+    </credit>
+    <credit>
+      <actor>Smith, Donegan</actor>
+      <role>Simmons</role>
+    </credit>
+    <credit>
+      <actor>Smith, Lane (I)</actor>
+      <role>Clyde Regan</role>
+    </credit>
+    <credit>
+      <actor>Smith, Sammy (I)</actor>
+      <role>Sammy</role>
+    </credit>
+    <credit>
+      <actor>Snider, Barry</actor>
+      <role>Anthony Muira</role>
+    </credit>
+    <credit>
+      <actor>Snyder, Drew</actor>
+      <role>Stuart Bayliss</role>
+    </credit>
+    <credit>
+      <actor>Soboloff, Arnold</actor>
+      <role>Mastin</role>
+    </credit>
+    <credit>
+      <actor>Soboloff, Arnold</actor>
+      <role>Neil Robles</role>
+    </credit>
+    <credit>
+      <actor>Somack, Jack</actor>
+      <role>Charlie Gerson</role>
+    </credit>
+    <credit>
+      <actor>Somack, Jack</actor>
+      <role>Muttel</role>
+    </credit>
+    <credit>
+      <actor>Sorbello, Joe</actor>
+      <role>Hal</role>
+    </credit>
+    <credit>
+      <actor>Sorensen, Paul (II)</actor>
+      <role>Frank Hennessey</role>
+    </credit>
+    <credit>
+      <actor>Space, Arthur</actor>
+      <role>Ezra Rawlings</role>
+    </credit>
+    <credit>
+      <actor>Sparer, Paul</actor>
+      <role>Diamond</role>
+    </credit>
+    <credit>
+      <actor>St. John, Marco</actor>
+      <role>Tony Papas</role>
+    </credit>
+    <credit>
+      <actor>Stallone, Sylvester</actor>
+      <role>Detective Rick Daly</role>
+    </credit>
+    <credit>
+      <actor>Stamberger, Jack</actor>
+      <role>Ernest O'Reilly</role>
+    </credit>
+    <credit>
+      <actor>Stamos, Nicholas</actor>
+      <role>Dimitri</role>
+    </credit>
+    <credit>
+      <actor>Stanley, Richard (IV)</actor>
+      <role>Arnold</role>
+    </credit>
+    <credit>
+      <actor>Stattel, Robert</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Steinberg, Stewart</actor>
+      <role>Joe Kane</role>
+    </credit>
+    <credit>
+      <actor>Steinharter, Fred</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Stern, Joseph</actor>
+      <role>Nathan Markowitz</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Mark (I)</actor>
+      <role>Manny Steiner</role>
+    </credit>
+    <credit>
+      <actor>Stevenson, Al</actor>
+      <role>Tanner</role>
+    </credit>
+    <credit>
+      <actor>Stiers, David Ogden</actor>
+      <role>Mr. Roberts/Bryan LeBlanc</role>
+    </credit>
+    <credit>
+      <actor>Stocker, Walter</actor>
+      <role>Judge Mackie</role>
+    </credit>
+    <credit>
+      <actor>Stoker, Austin</actor>
+      <role>Detective Artie Douglas</role>
+    </credit>
+    <credit>
+      <actor>Stone, Harold J.</actor>
+      <role>Franco 'Six Bits' Donatello</role>
+    </credit>
+    <credit>
+      <actor>Stone, Leonard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Storm, Michael (I)</actor>
+      <role>Joseph Magid</role>
+    </credit>
+    <credit>
+      <actor>Stovall, Count</actor>
+      <role>Bud Powers</role>
+    </credit>
+    <credit>
+      <actor>Strong, Patrick (I)</actor>
+      <role>Lester</role>
+    </credit>
+    <credit>
+      <actor>Summers, Jerry (I)</actor>
+      <role>John David</role>
+    </credit>
+    <credit>
+      <actor>Susman, Todd</actor>
+      <role>John Caldwell</role>
+    </credit>
+    <credit>
+      <actor>Sutorius, James</actor>
+      <role>Benny Marino</role>
+    </credit>
+    <credit>
+      <actor>Sutorius, James</actor>
+      <role>Lawson</role>
+    </credit>
+    <credit>
+      <actor>Sutton, Robert Ray</actor>
+      <role>Manny 'No-Nose' Gagliano</role>
+    </credit>
+    <credit>
+      <actor>Sutton, Robert Ray</actor>
+      <role>Patsy</role>
+    </credit>
+    <credit>
+      <actor>Swanson, Gary</actor>
+      <role>Bobby</role>
+    </credit>
+    <credit>
+      <actor>Swartz, Tony</actor>
+      <role>Milt Moyer</role>
+    </credit>
+    <credit>
+      <actor>Sylk, Ken</actor>
+      <role>Roger Villers</role>
+    </credit>
+    <credit>
+      <actor>Sánchez, Jaime (I)</actor>
+      <role>Paolo Olivarez</role>
+    </credit>
+    <credit>
+      <actor>Sánchez, Jaime (I)</actor>
+      <role>Thomas Serio</role>
+    </credit>
+    <credit>
+      <actor>Tambor, Jeffrey</actor>
+      <role>Medical Examiner</role>
+    </credit>
+    <credit>
+      <actor>Tapscott, Mark</actor>
+      <role>Neil Packman</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Wadsworth</actor>
+      <role>Lerner</role>
+    </credit>
+    <credit>
+      <actor>Tepper, William</actor>
+      <role>Santangelo</role>
+    </credit>
+    <credit>
+      <actor>Terry, W. Benson</actor>
+      <role>Albert Johnson</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Danny (I)</actor>
+      <role>Assistant Chief Howard Brocore</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Fat</actor>
+      <role>Schuyler</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Mr. Valentine</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Solly DeChico</role>
+    </credit>
+    <credit>
+      <actor>Tiano, Lou</actor>
+      <role>Pulaski</role>
+    </credit>
+    <credit>
+      <actor>Tolan, Michael (I)</actor>
+      <role>Dr. Peter Allender</role>
+    </credit>
+    <credit>
+      <actor>Tozzi, Giorgio</actor>
+      <role>Anthelmo</role>
+    </credit>
+    <credit>
+      <actor>Travanti, Daniel J.</actor>
+      <role>Captain Badaduchi</role>
+    </credit>
+    <credit>
+      <actor>Travanti, Daniel J.</actor>
+      <role>Lieutenant Charles 'Chuck' Danena</role>
+    </credit>
+    <credit>
+      <actor>Troobnick, Eugene</actor>
+      <role>Lou Koster</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Forrest</actor>
+      <role>Paul Zachary</role>
+    </credit>
+    <credit>
+      <actor>Turkel, Joe</actor>
+      <role>Swampgas</role>
+    </credit>
+    <credit>
+      <actor>Vael, Michael</actor>
+      <role>Nightclub Manager</role>
+    </credit>
+    <credit>
+      <actor>Van Dusen, Granville</actor>
+      <role>Fred Tumy</role>
+    </credit>
+    <credit>
+      <actor>Van Lynn, Vincent</actor>
+      <role>Danziger</role>
+    </credit>
+    <credit>
+      <actor>Vandis, Titos</actor>
+      <role>Michael Viggers Sr.</role>
+    </credit>
+    <credit>
+      <actor>Varela, Jay</actor>
+      <role>Sam Lopez</role>
+    </credit>
+    <credit>
+      <actor>Vari, Giovanni</actor>
+      <role>Victor Bruno</role>
+    </credit>
+    <credit>
+      <actor>Vasquez, David (I)</actor>
+      <role>Carlos Rivera</role>
+    </credit>
+    <credit>
+      <actor>Vazquez, Alberto (II)</actor>
+      <role>Carlos</role>
+    </credit>
+    <credit>
+      <actor>VeSota, Bruno</actor>
+      <role>Luther Revelson</role>
+    </credit>
+    <credit>
+      <actor>Venture, Richard</actor>
+      <role>Capt. Reardon</role>
+    </credit>
+    <credit>
+      <actor>Venture, Richard</actor>
+      <role>Robert Smith</role>
+    </credit>
+    <credit>
+      <actor>Vigoda, Abe</actor>
+      <role>Norman Kilty</role>
+    </credit>
+    <credit>
+      <actor>Viharo, Robert</actor>
+      <role>Raymond Callis</role>
+    </credit>
+    <credit>
+      <actor>Vint, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vitte, Ray</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Wade, Adam (I)</actor>
+      <role>Roland Weeks</role>
+    </credit>
+    <credit>
+      <actor>Wagenheim, Charles</actor>
+      <role>Hepplewhite</role>
+    </credit>
+    <credit>
+      <actor>Walberg, Garry</actor>
+      <role>Goodman</role>
+    </credit>
+    <credit>
+      <actor>Walcott, Gregory</actor>
+      <role>Malcolm Cane</role>
+    </credit>
+    <credit>
+      <actor>Walden, Robert (I)</actor>
+      <role>Maurice Fisher</role>
+    </credit>
+    <credit>
+      <actor>Walken, Christopher</actor>
+      <role>Ben Wiley</role>
+    </credit>
+    <credit>
+      <actor>Wallace, George (I)</actor>
+      <role>Washburn</role>
+    </credit>
+    <credit>
+      <actor>Wallace, Lee (I)</actor>
+      <role>Hobart</role>
+    </credit>
+    <credit>
+      <actor>Wallach, Eli</actor>
+      <role>Lee Curtin</role>
+    </credit>
+    <credit>
+      <actor>Ward, Lyman (I)</actor>
+      <role>Larry Jordan</role>
+    </credit>
+    <credit>
+      <actor>Watson Jr., James A.</actor>
+      <role>Richie Linden</role>
+    </credit>
+    <credit>
+      <actor>Watson, Larry (I)</actor>
+      <role>Arkansas Fowler</role>
+    </credit>
+    <credit>
+      <actor>Watson, Larry (I)</actor>
+      <role>Fowler</role>
+    </credit>
+    <credit>
+      <actor>Watson, William (III)</actor>
+      <role>Detective Matt Black</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Lee (II)</actor>
+      <role>Ozzie Turnball</role>
+    </credit>
+    <credit>
+      <actor>Webber, Robert (I)</actor>
+      <role>David Lawrence</role>
+    </credit>
+    <credit>
+      <actor>Weir, Jack</actor>
+      <role>Second Gunman</role>
+    </credit>
+    <credit>
+      <actor>Welch, Charles (I)</actor>
+      <role>Dugan</role>
+    </credit>
+    <credit>
+      <actor>Weldon, Charles</actor>
+      <role>'Shotgun Willie' Baine</role>
+    </credit>
+    <credit>
+      <actor>Wells, Danny (I)</actor>
+      <role>Riggs</role>
+    </credit>
+    <credit>
+      <actor>Wheaton, James</actor>
+      <role>Mr. Scott</role>
+    </credit>
+    <credit>
+      <actor>White, Charles (I)</actor>
+      <role>Reilly</role>
+    </credit>
+    <credit>
+      <actor>White, David (II)</actor>
+      <role>Ramsey Brewer</role>
+    </credit>
+    <credit>
+      <actor>White, John Sylvester</actor>
+      <role>Chief Copeland</role>
+    </credit>
+    <credit>
+      <actor>White, Ted (I)</actor>
+      <role>Solly</role>
+    </credit>
+    <credit>
+      <actor>Wiggins, Russell</actor>
+      <role>Marty</role>
+    </credit>
+    <credit>
+      <actor>Williams, Arnold</actor>
+      <role>Mitch Dubois</role>
+    </credit>
+    <credit>
+      <actor>Williams, Sammy</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Willrich, Rudolph</actor>
+      <role>Cafe Owner</role>
+    </credit>
+    <credit>
+      <actor>Wilson, David (V)</actor>
+      <role>State Prosecutor Josh Candoo</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Teddy (I)</actor>
+      <role>Joe Penney</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>K.C. Milano</role>
+    </credit>
+    <credit>
+      <actor>Wingreen, Jason</actor>
+      <role>Eddie Hogan</role>
+    </credit>
+    <credit>
+      <actor>Wingreen, Jason</actor>
+      <role>First Reporter</role>
+    </credit>
+    <credit>
+      <actor>Wingreen, Jason</actor>
+      <role>Max Persky</role>
+    </credit>
+    <credit>
+      <actor>Wintersole, William</actor>
+      <role>Police Chief Joe Peck</role>
+    </credit>
+    <credit>
+      <actor>Witney, Michael</actor>
+      <role>Bukky Dunvalo</role>
+    </credit>
+    <credit>
+      <actor>Witt, Howard</actor>
+      <role>Garage Manager</role>
+    </credit>
+    <credit>
+      <actor>Wonderman, Walter</actor>
+      <role>Freddie the Fender</role>
+    </credit>
+    <credit>
+      <actor>Wood, John Lisbon</actor>
+      <role>Don Collins</role>
+    </credit>
+    <credit>
+      <actor>Wood, Ward</actor>
+      <role>Bob Lawrence</role>
+    </credit>
+    <credit>
+      <actor>Woodbury, Gene</actor>
+      <role>Lewis Humes</role>
+    </credit>
+    <credit>
+      <actor>Woods, James (I)</actor>
+      <role>Caz Mayer</role>
+    </credit>
+    <credit>
+      <actor>Wyler, John (I)</actor>
+      <role>Colin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Wyner, George</actor>
+      <role>Linnick</role>
+    </credit>
+    <credit>
+      <actor>Wyner, George</actor>
+      <role>Sergeant Collins</role>
+    </credit>
+    <credit>
+      <actor>Young, Buck (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Young, Keone</actor>
+      <role>Oriental</role>
+    </credit>
+    <credit>
+      <actor>Yulin, Harris</actor>
+      <role>Bert Podis</role>
+    </credit>
+    <credit>
+      <actor>Zacha, W.T.</actor>
+      <role>Weaver</role>
+    </credit>
+    <credit>
+      <actor>Zacharias, Steffen</actor>
+      <role>Strickland</role>
+    </credit>
+    <credit>
+      <actor>Zakkai, Jamil</actor>
+      <role>The Radiologist</role>
+    </credit>
+    <credit>
+      <actor>Zaloom, Joe</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Zorich, Louis</actor>
+      <role>Mike DeBrieno</role>
+    </credit>
+    <credit>
+      <actor>Zwerling, Darrell</actor>
+      <role>Agajanian</role>
+    </credit>
+    <credit>
+      <actor>Zwerling, Darrell</actor>
+      <role>Dr. Agajanian</role>
+    </credit>
+    <credit>
+      <actor>Zwerling, Darrell</actor>
+      <role>Dr. Agajanian</role>
+    </credit>
+    <credit>
+      <actor>Zwerling, Darrell</actor>
+      <role>Dr. Agajanian</role>
+    </credit>
+    <credit>
+      <actor>Zwerling, Darrell</actor>
+      <role>Medical Examiner</role>
+    </credit>
+  </cast>
+<plot>Lt. Theo Kojak is the main character in this popular television police drama. Kojak is a tough cop, but his trademark is a fondness for lollipops. Despite his difficult work, he tirelessly brings criminals to justice while staying upbeat and good-natured.</plot><url>http://localhost:8983/solr/movie.html?295509</url></doc>

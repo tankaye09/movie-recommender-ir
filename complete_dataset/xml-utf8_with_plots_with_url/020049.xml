@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="020049">
+  <docid>020049</docid>
+  <title>ARFF</title>
+  <year>2002</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Kheel, Julian M.</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">20 September 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">14</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Akmal, Nicky Arezu</director>
+  </directors>
+  <producers>
+    <producer>Eisman, Seth</producer>
+    <producer>Akmal, Nicky Arezu</producer>
+    <producer>Emami, Massoumeh</producer>
+  </producers>
+  <writers>
+    <writer>Akmal, Nicky Arezu</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Akmal, Nicky Arezu</actor>
+      <role>Wife</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Musashi</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Barba, Evan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brunk, Michael</actor>
+      <role>Brandon</role>
+    </credit>
+    <credit>
+      <actor>Driscoll Jr., Neil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Herron, Pamela</actor>
+      <role>Waitress</role>
+    </credit>
+    <credit>
+      <actor>Kline, Jason</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>In the fast paced bars and restaurants of New York City, everyone is searching for "the right one". Relationships come and go as night turns into day. Within this sinister city, we see a lack of commitment and a growing abundance of infidelity. "ARFF" tells the story of Hope, a naive New Yorker who gets wrapped up in a relationship with the adulterous Brandon. The "morning after", he casually informs her that he has just gotten married. As the story progresses we see that there are a fraternity of men who make it a sport of cheating on their wives... but we soon learn that the women too, are following suit.</plot><url>http://localhost:8983/solr/movie.html?020049</url></doc>

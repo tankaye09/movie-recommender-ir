@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="227016">
+  <docid>227016</docid>
+  <title>Hagane no renkinjutsushi</title>
+  <year>2003</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Horror</genre>
+    <genre>Action</genre>
+    <genre>Fantasy</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>brother-brother-relationship</keyword>
+    <keyword>anime</keyword>
+    <keyword>anachronism</keyword>
+    <keyword>religion</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>hate</keyword>
+    <keyword>hypocrisy</keyword>
+    <keyword>impalement</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>black-comedy</keyword>
+    <keyword>alchemy</keyword>
+    <keyword>genocide</keyword>
+    <keyword>honor</keyword>
+    <keyword>military</keyword>
+    <keyword>cyborg</keyword>
+    <keyword>martial-arts</keyword>
+    <keyword>gore</keyword>
+    <keyword>manga</keyword>
+    <keyword>breast-squeezing</keyword>
+    <keyword>metal</keyword>
+    <keyword>wuxia-fiction</keyword>
+    <keyword>steampunk</keyword>
+    <keyword>serial-killer</keyword>
+    <keyword>resurrection</keyword>
+    <keyword>suit-of-armor</keyword>
+    <keyword>violence</keyword>
+    <keyword>fable</keyword>
+    <keyword>warrior-woman</keyword>
+    <keyword>mechanical-limb</keyword>
+    <keyword>warrior</keyword>
+    <keyword>social-commentary</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>idiot</keyword>
+    <keyword>responsibility</keyword>
+    <keyword>magic</keyword>
+    <keyword>racism</keyword>
+    <keyword>title-spoken-by-character</keyword>
+    <keyword>tragic-events</keyword>
+    <keyword>metamorphosis</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>Spanish</language>
+    <language>Tagalog</language>
+    <language>Portuguese</language>
+    <language>Filipino</language>
+    <language>Japanese</language>
+    <language>Italian</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Japan</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="UK">PG</certificate>
+    <certificate country="South Korea">12</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Canada">14+</certificate>
+    <certificate country="Finland">K-15</certificate>
+    <certificate country="New Zealand">PG</certificate>
+    <certificate country="USA">TV-14</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Japan">24 April 2004</releasedate>
+    <releasedate country="France">10 February 2004</releasedate>
+    <releasedate country="Finland">4 February 2007</releasedate>
+    <releasedate country="USA">1 October 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Japan">24 min.</runningtime>
+    <runningtime country="default">24</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Mizushima, Seiji (I)</director>
+  </directors>
+  <producers>
+    <producer>Katsumata, Hideo</producer>
+    <producer>Taguchi, Kôji</producer>
+    <producer>Takada, Seiji</producer>
+    <producer>Fukunaga, Cindy Brennan</producer>
+    <producer>Fukunaga, Gen</producer>
+  </producers>
+  <writers>
+    <writer>Arakawa, Hiromu</writer>
+    <writer>Bergen, Joel</writer>
+    <writer>Hedges, Jared</writer>
+  </writers>
+  <composers>
+    <composer>Ôshima, Michiru</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alexander, Sarah (V)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Aomori, Shin</actor>
+      <role>Brigadier General Basque Grand</role>
+    </credit>
+    <credit>
+      <actor>Arakawa, Minako</actor>
+      <role>Fletcher Tringham</role>
+    </credit>
+    <credit>
+      <actor>Arimoto, Kinryû</actor>
+      <role>Cornello</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Brice</actor>
+      <role>Marcoh</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Brice</actor>
+      <role>Tim Marcoh</role>
+    </credit>
+    <credit>
+      <actor>Ashlock, Suzanne</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Asô, Miyoko</actor>
+      <role>Pinako Rockbell</role>
+    </credit>
+    <credit>
+      <actor>Asô, Tomohisa</actor>
+      <role>Shopkeeper</role>
+    </credit>
+    <credit>
+      <actor>Auten, Christine M.</actor>
+      <role>Izumi Curtis</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Laura (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Laura (II)</actor>
+      <role>Lust</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Laura (II)</actor>
+      <role>Lust/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Baker, Troy (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Baker, Troy (II)</actor>
+      <role>Frank Archer</role>
+    </credit>
+    <credit>
+      <actor>Baptista, Stephen</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Barker, Jimi</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Baughman, Elise</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Berry, Josh (I)</actor>
+      <role>Breda</role>
+    </credit>
+    <credit>
+      <actor>Bevins, Christopher (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Blaylock, Ed</actor>
+      <role>Furher King Bradley</role>
+    </credit>
+    <credit>
+      <actor>Blaylock, Ed</actor>
+      <role>King Furher Bradley</role>
+    </credit>
+    <credit>
+      <actor>Bolton, Z. Charles</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bosch, Johnny Yong</actor>
+      <role>Lujon</role>
+    </credit>
+    <credit>
+      <actor>Bowling, Anthony</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Brannan, Duncan</actor>
+      <role>Slicer: Young Brother</role>
+    </credit>
+    <credit>
+      <actor>Brantley, Larry (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bristol, Kate</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bristol, Kate</actor>
+      <role>Granddaughter</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Billie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cabe, Jakie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Carter, Bob (I)</actor>
+      <role>Cray</role>
+    </credit>
+    <credit>
+      <actor>Cason, Chris</actor>
+      <role>Gluttony</role>
+    </credit>
+    <credit>
+      <actor>Cason, Chris</actor>
+      <role>Gluttony/Grandson</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Andrew (II)</actor>
+      <role>Bald</role>
+    </credit>
+    <credit>
+      <actor>Christian, Luci</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Christian, Luci</actor>
+      <role>Clara/Psiren</role>
+    </credit>
+    <credit>
+      <actor>Christian, Luci</actor>
+      <role>Wrath</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Dameon (I)</actor>
+      <role>Scar</role>
+    </credit>
+    <credit>
+      <actor>Clinkenbeard, Colleen</actor>
+      <role>First Lieutenant Riza Hawkeye</role>
+    </credit>
+    <credit>
+      <actor>Clinkenbeard, Colleen</actor>
+      <role>Rose</role>
+    </credit>
+    <credit>
+      <actor>Clinkenbeard, Colleen</actor>
+      <role>Rose Thomas</role>
+    </credit>
+    <credit>
+      <actor>Connolly, Kevin (II)</actor>
+      <role>Master Sergeant Kain Feury</role>
+    </credit>
+    <credit>
+      <actor>Cook, Adrian (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cook, Justin (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cook, Justin (I)</actor>
+      <role>Russel Tringham</role>
+    </credit>
+    <credit>
+      <actor>Cook, Justin (I)</actor>
+      <role>Russell Tringham</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Amber</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Amber</actor>
+      <role>Street Girl</role>
+    </credit>
+    <credit>
+      <actor>Cranz, Cynthia</actor>
+      <role>Paninya</role>
+    </credit>
+    <credit>
+      <actor>DeMeglio, Richie (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Deering, Duane</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Dillow, Eric</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Dismuke, Aaron</actor>
+      <role>Alphonse Elric</role>
+    </credit>
+    <credit>
+      <actor>Dupar, Charlet</actor>
+      <role>Clause</role>
+    </credit>
+    <credit>
+      <actor>Dvorak, Craig</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Elliott, R. Bruce</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Elliott, R. Bruce</actor>
+      <role>Brigadier General Basque Grand</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Juli</actor>
+      <role>Pinako</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Juli</actor>
+      <role>Pinako Rockbell</role>
+    </credit>
+    <credit>
+      <actor>Fakhri, Parisa</actor>
+      <role>Elisa</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Bill (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Bill (II)</actor>
+      <role>Mugear</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Bill (II)</actor>
+      <role>Mugear (2004-2005)</role>
+    </credit>
+    <credit>
+      <actor>Force, Aleisha</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ford, Frank (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Foronda, Jim</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Foronda, Jim</actor>
+      <role>Denny Bloch</role>
+    </credit>
+    <credit>
+      <actor>Fujiwara, Keiji</actor>
+      <role>Lieutenant Colonel Maes Hughes</role>
+    </credit>
+    <credit>
+      <actor>Furuta, Nobuyuki</actor>
+      <role>Lemack</role>
+    </credit>
+    <credit>
+      <actor>Glass, Caitlin</actor>
+      <role>Winry Rockbell</role>
+    </credit>
+    <credit>
+      <actor>Goode, Lauren (I)</actor>
+      <role>Gracia Hughes</role>
+    </credit>
+    <credit>
+      <actor>Harada, Masao (I)</actor>
+      <role>Man 3</role>
+    </credit>
+    <credit>
+      <actor>Harbor, Mark</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Harp, Clarine</actor>
+      <role>Mrs. Armstrong</role>
+    </credit>
+    <credit>
+      <actor>Hashi, Takaya</actor>
+      <role>Majihal</role>
+    </credit>
+    <credit>
+      <actor>Hebert, Kyle</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Hebert, Kyle</actor>
+      <role>Warrant Officer Vato Falman</role>
+    </credit>
+    <credit>
+      <actor>Hebert, Kyle</actor>
+      <role>Warrant Officer Vato Falman/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Horikawa, Jin</actor>
+      <role>General Hakuro</role>
+    </credit>
+    <credit>
+      <actor>Horikawa, Jin</actor>
+      <role>General Hakuro/Man 1</role>
+    </credit>
+    <credit>
+      <actor>Horikawa, Jin</actor>
+      <role>Man 1</role>
+    </credit>
+    <credit>
+      <actor>Huber, Chuck</actor>
+      <role>Shou Tucker</role>
+    </credit>
+    <credit>
+      <actor>Huber, Joshua (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Inman, Jeremy (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ishii, Kôji (I)</actor>
+      <role>Bald</role>
+    </credit>
+    <credit>
+      <actor>Ishizu, Aya</actor>
+      <role>Barry in Disguise</role>
+    </credit>
+    <credit>
+      <actor>Itô, Kentarô</actor>
+      <role>Barry the Chopper</role>
+    </credit>
+    <credit>
+      <actor>James, Grant (I)</actor>
+      <role>Fatherly Master</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Bill (VI)</actor>
+      <role>Number 48, Slicer: Older Brother</role>
+    </credit>
+    <credit>
+      <actor>Jewell, Jerry</actor>
+      <role>Barry the Chopper</role>
+    </credit>
+    <credit>
+      <actor>Jewell, Jerry</actor>
+      <role>Number 66</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Jeff (XXVII)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Jeff (XXVII)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Jones, Evan (VI)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Katsuk, Daniel</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Katsuk, Daniel</actor>
+      <role>Winry's Dad</role>
+    </credit>
+    <credit>
+      <actor>Kawakami, Tomoko (I)</actor>
+      <role>Kayal</role>
+    </credit>
+    <credit>
+      <actor>Kawamura, Takuo</actor>
+      <role>Applicant B</role>
+    </credit>
+    <credit>
+      <actor>Kiuchi, Reiko</actor>
+      <role>Pharmacist</role>
+    </credit>
+    <credit>
+      <actor>Komiya, Kazue</actor>
+      <role>Levi</role>
+    </credit>
+    <credit>
+      <actor>Konishi, Katsuyuki</actor>
+      <role>Applicant</role>
+    </credit>
+    <credit>
+      <actor>Koorogi, Satomi</actor>
+      <role>Nina Tucker</role>
+    </credit>
+    <credit>
+      <actor>Kruse, Jon</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kugimiya, Rie</actor>
+      <role>Alphonse Elric</role>
+    </credit>
+    <credit>
+      <actor>Kugimiya, Rie</actor>
+      <role>Alphonse Elric</role>
+    </credit>
+    <credit>
+      <actor>Kumai, Motoko</actor>
+      <role>Elisa</role>
+    </credit>
+    <credit>
+      <actor>Kuwashima, Houko</actor>
+      <role>Rose Tomas</role>
+    </credit>
+    <credit>
+      <actor>Lancaster, Mark (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lau, Gwendolyn</actor>
+      <role>Sciezka</role>
+    </credit>
+    <credit>
+      <actor>Loci, Ellen</actor>
+      <role>Lebi</role>
+    </credit>
+    <credit>
+      <actor>Lovelady, Jason</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Mackay, Lydia</actor>
+      <role>Trisha Elric</role>
+    </credit>
+    <credit>
+      <actor>Madono, Mitsuaki</actor>
+      <role>Cain</role>
+    </credit>
+    <credit>
+      <actor>Makishima, Naoki</actor>
+      <role>Coal Miner/Purse Snatcher</role>
+    </credit>
+    <credit>
+      <actor>Marchi, Jamie</actor>
+      <role>Rick</role>
+    </credit>
+    <credit>
+      <actor>Martin, Josh (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Martin, Josh (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Martin, Josh (I)</actor>
+      <role>Mason</role>
+    </credit>
+    <credit>
+      <actor>Mason, Melanie (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Matsumoto, Miwa</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Matsumoto, Yasunori</actor>
+      <role>Jean Havoc</role>
+    </credit>
+    <credit>
+      <actor>Mayfield, Cindee</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Mayfield, Cindy</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McCollum, Kristin</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McCollum, Kristin</actor>
+      <role>Halling's Wife</role>
+    </credit>
+    <credit>
+      <actor>McCollum, Robert</actor>
+      <role>Veteran</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Meredith</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Meredith</actor>
+      <role>Kyle</role>
+    </credit>
+    <credit>
+      <actor>McFarland, Mike (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McFarland, Mike (II)</actor>
+      <role>Jean Havoc</role>
+    </credit>
+    <credit>
+      <actor>McFarland, Mike (II)</actor>
+      <role>Second Lieutenant Jean Havoc</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Scott (I)</actor>
+      <role>Hohenheim</role>
+    </credit>
+    <credit>
+      <actor>McNutt, Sophie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Mignogna, Vic</actor>
+      <role>Edward Elric</role>
+    </credit>
+    <credit>
+      <actor>Mitsuishi, Kotono</actor>
+      <role>Gracia Hughes</role>
+    </credit>
+    <credit>
+      <actor>Mizuki, Nana</actor>
+      <role>Wrath</role>
+    </credit>
+    <credit>
+      <actor>Mogami, Tsuguo</actor>
+      <role>Man 4</role>
+    </credit>
+    <credit>
+      <actor>Morris, Steven (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Mullins, Andy</actor>
+      <role>Cornello</role>
+    </credit>
+    <credit>
+      <actor>Murozono, Takehiro</actor>
+      <role>Warrant Officer Vato Falman</role>
+    </credit>
+    <credit>
+      <actor>Murozono, Takehiro</actor>
+      <role>Warrant Officer Vato Falman/Winry's Father</role>
+    </credit>
+    <credit>
+      <actor>Nagai, Makoto</actor>
+      <role>Shou Tucker</role>
+    </credit>
+    <credit>
+      <actor>Naylor, Chas</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ned (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Nomura, Kenji (I)</actor>
+      <role>Delfino</role>
+    </credit>
+    <credit>
+      <actor>O'Neill, Dennis (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Oka, Kazuo</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Okiayu, Ryôtarô</actor>
+      <role>Scar</role>
+    </credit>
+    <credit>
+      <actor>Orion (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Orvik, Mark</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Page, Ricky</actor>
+      <role>Belsio</role>
+    </credit>
+    <credit>
+      <actor>Pandolfo, Michael</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Parsons, Phil (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Parsons, Phil (II)</actor>
+      <role>General Hakuro</role>
+    </credit>
+    <credit>
+      <actor>Parsons, Phil (II)</actor>
+      <role>General Hakuro/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Pate, Justin</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Patton, Chris (I)</actor>
+      <role>Greed</role>
+    </credit>
+    <credit>
+      <actor>Penz, Daniel</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Perez, Jamie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Pianta, Lane</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Pitts, Ryan</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Porter, Scott (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Rager, Chris</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Rager, Chris</actor>
+      <role>Halling</role>
+    </credit>
+    <credit>
+      <actor>Ray, Shane</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Sabat, Christopher (I)</actor>
+      <role>Major Alex Louis Armstrong</role>
+    </credit>
+    <credit>
+      <actor>Sasaki, Takeshi (II)</actor>
+      <role>Man 2</role>
+    </credit>
+    <credit>
+      <actor>Schemmel, Sean</actor>
+      <role>Clause's Father</role>
+    </credit>
+    <credit>
+      <actor>Seki, Toshihiko</actor>
+      <role>Belshio</role>
+    </credit>
+    <credit>
+      <actor>Sheehan, Adam</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Shehan, Adam</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Shibata, Hidekatsu</actor>
+      <role>King Bradley</role>
+    </credit>
+    <credit>
+      <actor>Shimura, Tomoyuki</actor>
+      <role>Heymans Breda</role>
+    </credit>
+    <credit>
+      <actor>Shiratori, Tetsu</actor>
+      <role>Master Sergeant Kain Fuery</role>
+    </credit>
+    <credit>
+      <actor>Sinterniklaas, Michael</actor>
+      <role>Leo</role>
+    </credit>
+    <credit>
+      <actor>Smith, Nico</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Sonobe, Keiichi</actor>
+      <role>Clause's Father</role>
+    </credit>
+    <credit>
+      <actor>Sonobe, Yoshinori</actor>
+      <role>Chef</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Mark (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Mark (I)</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Mark (I)</actor>
+      <role>Shop Keeper</role>
+    </credit>
+    <credit>
+      <actor>Strait, Sonny</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Strait, Sonny</actor>
+      <role>Lieutenant Colonel Maes Hughes</role>
+    </credit>
+    <credit>
+      <actor>Strait, Sonny</actor>
+      <role>Lieutenant Colonel Maes Hughes/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stroh, David</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Takase, Akimitsu</actor>
+      <role>Cray</role>
+    </credit>
+    <credit>
+      <actor>Takato, Yasuhiro</actor>
+      <role>Gluttony</role>
+    </credit>
+    <credit>
+      <actor>Tanaka, Hideyuki (I)</actor>
+      <role>Nash</role>
+    </credit>
+    <credit>
+      <actor>Teague, Sean</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Tompkins, Matthew</actor>
+      <role>Dominic</role>
+    </credit>
+    <credit>
+      <actor>Townsley, Bill</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Umezu, Hideyuki</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Utsumi, Kenji</actor>
+      <role>Major Alex Louis Armstrong</role>
+    </credit>
+    <credit>
+      <actor>Vale, Eric (I)</actor>
+      <role>Zolf J. Kimbley</role>
+    </credit>
+    <credit>
+      <actor>Walker, Tyler (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Walker, Tyler (I)</actor>
+      <role>Nash</role>
+    </credit>
+    <credit>
+      <actor>Westman, Jayme</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Williams, Kent</actor>
+      <role>Majihal</role>
+    </credit>
+    <credit>
+      <actor>Willingham, Travis</actor>
+      <role>Colonel Roy Mustang</role>
+    </credit>
+    <credit>
+      <actor>Yandell, Barry</actor>
+      <role>Lieutenant Yoki</role>
+    </credit>
+    <credit>
+      <actor>Yao, Kazuki</actor>
+      <role>Lieutenant Yoki</role>
+    </credit>
+    <credit>
+      <actor>Ôkawa, Tôru</actor>
+      <role>Colonel Roy Mustang</role>
+    </credit>
+  </cast>
+<plot>The Elric brothers' mother is dead and their father has long since abandoned them. Deciding to perform a forbidden human transmutation to bring their mother back, they end up losing their bodies. Now Edward must join the military in order to gain certain alchemical privileges, with his one goal being to restore his brother to his original state. But with war on the horizon it's only a matter of time before they are both forced to question their morals and ultimately decide the value of human life.</plot><url>http://localhost:8983/solr/movie.html?227016</url></doc>

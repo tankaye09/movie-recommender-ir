@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="234154">
+  <docid>234154</docid>
+  <title>Heidi</title>
+  <year>1920</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-novel</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">28 December 1920</releasedate>
+  </releasedates>
+  <directors>
+    <director>Thomson, Frederick A.</director>
+  </directors>
+  <writers>
+    <writer>Spyri, Johanna</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Evans, Madge</actor>
+      <role>Heidi</role>
+    </credit>
+  </cast>
+<plot>The famous story of Heidi, a little girl of the Swiss Alps, who is taken from her beloved grandfather to live in anguish in the city below, and how her grandfather sacrifices to bring her home.</plot><url>http://localhost:8983/solr/movie.html?234154</url></doc>

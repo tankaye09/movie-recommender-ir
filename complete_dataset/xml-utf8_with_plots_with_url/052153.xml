@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="052153">
+  <docid>052153</docid>
+  <title>Autumn Fire</title>
+  <year>1931</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>new-york-city</keyword>
+    <keyword>new-york-skyline</keyword>
+    <keyword>harbor</keyword>
+    <keyword>train</keyword>
+    <keyword>letter</keyword>
+    <keyword>male-female-relationship</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1931</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">15</runningtime>
+    <runningtime country="USA">22</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Weinberg, Herman G.</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Bergman, Erna</actor>
+      <role>Erna</role>
+    </credit>
+    <credit>
+      <actor>Hildebrand, Willy</actor>
+      <role>Fred</role>
+    </credit>
+  </cast>
+<plot>A story told with few words. We see a solitary man and a solitary woman, each alone with their thoughts. She is in the country, staring out a window. Nature is quiet, waiting for spring, trees are bare. He is in the city, walking from the docks, watching, somewhat aimless. She walks a country lane. Both are alone. She writes him a letter, offering an opportunity. Will he take it?</plot><url>http://localhost:8983/solr/movie.html?052153</url></doc>

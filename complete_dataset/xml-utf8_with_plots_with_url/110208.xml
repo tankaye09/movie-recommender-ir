@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="110208">
+  <docid>110208</docid>
+  <title>Coffee</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lahat, Drew</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lahat, Drew</director>
+  </directors>
+  <writers>
+    <writer>Taub, Gadi</writer>
+  </writers>
+  <composers>
+    <composer>Gustafson, Neal A.E.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Chrzanowski, David</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Fort, Steffani</actor>
+      <role>Lynn</role>
+    </credit>
+    <credit>
+      <actor>Lord, Robert J.</actor>
+      <role>Mark's Father</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Benton</actor>
+      <role>Young Mark</role>
+    </credit>
+    <credit>
+      <actor>Sumner, Josh</actor>
+      <role>Mark</role>
+    </credit>
+  </cast>
+<plot>Mark, a 30ish career guy, lost his father a few hours ago. Sitting in the kitchen, tired and sore, he should be taking care of the obituary and other earthly matters - yet his mind wanders in memories. While his wife deals with the situation through distraction and caffeine, Mark is forced to realize: our parents are as fragile as they are glorious.</plot><url>http://localhost:8983/solr/movie.html?110208</url></doc>

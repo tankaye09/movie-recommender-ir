@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="208057">
+  <docid>208057</docid>
+  <title>G.I. Joe</title>
+  <year>1985</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Animation</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-toy</keyword>
+    <keyword>military</keyword>
+    <keyword>macguffin</keyword>
+    <keyword>code-word</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Japan</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">PG</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Japan">24 July 1986</releasedate>
+    <releasedate country="France">11 April 1987</releasedate>
+    <releasedate country="USA">5 November 1985</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Booth, Doug (II)</producer>
+  </producers>
+  <writers>
+    <writer>Booth, Doug (II)</writer>
+    <writer>Bornstein, Beth</writer>
+    <writer>Carren, David</writer>
+    <writer>Conway, Carla</writer>
+    <writer>Conway, Gerry (I)</writer>
+    <writer>Dagenais, Tom</writer>
+    <writer>DiStefano, Dan (I)</writer>
+    <writer>Dille, Flint</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Divono, Sharman</writer>
+    <writer>Dixon, Buzz</writer>
+    <writer>Friedman, Ron (II)</writer>
+    <writer>Gerber, Steve</writer>
+    <writer>Glut, Donald F.</writer>
+    <writer>Hama, Larry</writer>
+    <writer>Hill, Michael Charles</writer>
+    <writer>Houston, Larry</writer>
+    <writer>Kent, Gordon</writer>
+    <writer>Marconi, David</writer>
+    <writer>Marx, Christy</writer>
+    <writer>Merwin, Richard</writer>
+    <writer>Mitchell, Steve (V)</writer>
+    <writer>O'Neil, Dennis (I)</writer>
+    <writer>O'Neil, Denny</writer>
+    <writer>Pasko, Martin (II)</writer>
+    <writer>Pedersen, Ted (II)</writer>
+    <writer>Pegal, Alfred A.</writer>
+    <writer>Petty, Barbara</writer>
+    <writer>Ringwald, Kimmer</writer>
+    <writer>Ross, Stanley Ralph</writer>
+    <writer>Schwartz, David (VII)</writer>
+    <writer>Skrenes, Mary (I)</writer>
+    <writer>Slifer, Roger</writer>
+    <writer>Thomas, Dan (X)</writer>
+    <writer>Thomas, Roy (I)</writer>
+    <writer>Ward, Jim (I)</writer>
+    <writer>Weber, Chris (III)</writer>
+    <writer>Williams, Susan K.</writer>
+    <writer>Willson, Karen</writer>
+    <writer>Wolfman, Marv</writer>
+  </writers>
+  <composers>
+    <composer>Douglas, Johnny (I)</composer>
+    <composer>Walsh, Robert J. (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Low-Light</role>
+    </credit>
+    <credit>
+      <actor>Angel, Jack (I)</actor>
+      <role>Security Guard #1/Wet Suit</role>
+    </credit>
+    <credit>
+      <actor>Angel, Jack (I)</actor>
+      <role>Strato-Viper #2/Wet Suit</role>
+    </credit>
+    <credit>
+      <actor>Angel, Jack (I)</actor>
+      <role>Thunder/Wet Suit</role>
+    </credit>
+    <credit>
+      <actor>Angel, Jack (I)</actor>
+      <role>Wet Suit</role>
+    </credit>
+    <credit>
+      <actor>Aubrey, Libby</actor>
+      <role>Clerk/Cover Girl/Policewoman</role>
+    </credit>
+    <credit>
+      <actor>Aubrey, Libby</actor>
+      <role>Cover Girl</role>
+    </credit>
+    <credit>
+      <actor>Beck, Jackson (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Biker/Blowtorch/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Blowtorch/Carmandy/Cobra Officer #1/Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Blowtorch/Crimson Guard</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Blowtorch/Duke/Major Bludd</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Blowtorch/Duke/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Clutch/Blowtorch/Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Clutch/Cobra Trooper #2/Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Clutch/Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Clutch/Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Cobra Officer #2/Duke/Major Bludd</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Cobra Officer/Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Cobra Trooper #1/Duke/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Cobra Trooper #3/Jabal/Major Bludd</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Cowboy/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Dr. Massey/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Dr. Mullaney</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Driver/Lift-Ticket</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Eel/Wild Weasel</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Joe Trooper</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Lift-Ticket</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Lift-Ticket/Scrap-Iron/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Lift-Ticket/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Lift-Ticket/Xamot/Wild Weasel</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Major Bludd</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Major Bludd/Recondo/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Major Bludd/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Mr. Kelly/Tollbooth/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Mr. Kelly/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Security Robot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Security Robot/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Soviet Ambassador/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Tele-Viper #2/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Thoth</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Waiter</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Duke/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Greenhouse Owner/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Joe Trooper/Tollbooth/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Lift-Ticket</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Lift-Ticket/Scrap-Iron</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Lift-Ticket/Viper</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Major Bludd</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Major Bludd/Prof. Mullaney/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Major Bludd/Tollbooth/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Major Bludd/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Prof. Mullaney/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Robert Harper/Xamot</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Scrap-Iron</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Socrates Airtes</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Col. Brekhov</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Col. Brekhov/Cutter</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Cutter</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Cutter/Firefly/Ripcord</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Cutter/Lead Cobra/Sparks</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Firefly</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Firefly/Rip Cord/Spirit</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Firefly/Spirit</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Marty Goldblatt</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Rip Cord</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Ripcord</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Ripcord/Spirit</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Sparks</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Spirit</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Bree Van Mark</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Sheila McDermott</role>
+    </credit>
+    <credit>
+      <actor>Boen, Earl</actor>
+      <role>Taurus</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Cobra Officer/Destro</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Cobra Trooper #1/Destro</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Cobra Trooper/Destro</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Frankie</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Iceberg</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Observer/Parapsychologist #2/Stalker</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Official</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Policeman</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Snow Serpent</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Destro/Stalker</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Iceberg</role>
+    </credit>
+    <credit>
+      <actor>Burghardt, Arthur</actor>
+      <role>Osiris</role>
+    </credit>
+    <credit>
+      <actor>Burr, Wally</actor>
+      <role>Captain Lukrov</role>
+    </credit>
+    <credit>
+      <actor>Burr, Wally</actor>
+      <role>Dr. Hamler</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>George Lanceberg</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>George Lanceburg/Tomax</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Tomax</role>
+    </credit>
+    <credit>
+      <actor>Callaway, William</actor>
+      <role>Beach Head</role>
+    </credit>
+    <credit>
+      <actor>Carr, Darleen</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Chau, François</actor>
+      <role>Quick Kick</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Airborne</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Airborne/Cobra Officer #2</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Cobra Trooper #1</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Mr. C</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Zandar</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Brian</actor>
+      <role>Dr. Mindbender</role>
+    </credit>
+    <credit>
+      <actor>Czingland, Christian</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace/Airtight</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace/Airtight/Barbecue</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace/Barbecue</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace/Cobra Officer</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Ace/Wild Weasel</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Airtight</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Airtight/Barbecue</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Airtight/Wild Weasel</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Barbecue</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Wild Weasel</role>
+    </credit>
+    <credit>
+      <actor>Garret, Hank</actor>
+      <role>Dial Tone</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>B. A. LaCarre/Serpentor</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>Buck McCann/Serpentor</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>Serpentor</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>Gen. Hawk</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>Gen. Hawk/King Augeas</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>Gen. Hawk/Rev. Steen</role>
+    </credit>
+    <credit>
+      <actor>Gilvezan, Dan</actor>
+      <role>Slip-Stream</role>
+    </credit>
+    <credit>
+      <actor>Goodson, Barbara</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Hall, Dave (I)</actor>
+      <role>Col. Sharpe</role>
+    </credit>
+    <credit>
+      <actor>Haymer, Johnny</actor>
+      <role>Charles Fairmont/Dr. Filmoss</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Zack</actor>
+      <role>Werewolf/Zartan</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Zack</actor>
+      <role>Zartan</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Kene</actor>
+      <role>Roadblock</role>
+    </credit>
+    <credit>
+      <actor>Horton, Michael (I)</actor>
+      <role>Tommy Talltree</role>
+    </credit>
+    <credit>
+      <actor>Hostetter, John</actor>
+      <role>Bazooka</role>
+    </credit>
+    <credit>
+      <actor>Houser, Jerry</actor>
+      <role>Sci-Fi</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Caleb Bronson</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Cobra Officer #1/Zap</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Computer/Dr. Windigos</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Doc/Joe Diver</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Doc/Scientist</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Doc/Warden</role>
+    </credit>
+    <credit>
+      <actor>Jones, Buster</actor>
+      <role>Zap</role>
+    </credit>
+    <credit>
+      <actor>Jones, Stan (II)</actor>
+      <role>Dr. Shakur</role>
+    </credit>
+    <credit>
+      <actor>Jones, Stan (II)</actor>
+      <role>Stormavich</role>
+    </credit>
+    <credit>
+      <actor>Keegan, Jimmy (I)</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Crimson Guard</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Dr. Hibbentrope/Gung-Ho/Robot</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Frostbite</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Gung-Ho</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Gung-Ho/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/M.P. #1/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Mean Guy</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Cobra Commander/Tele-Viper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Farmer #1</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Breaker/Gung-Ho</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Breaker</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Cobra Officer #2/Ripper/Snakeling</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Cobra Officer/Ripper/Steeler</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Cobra Trooper #1</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Crimson Guard/Man</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Gung-Ho</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Gung-Ho/Horrorshow</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Gung-Ho/Horrorshow/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Gung-Ho/Patrick O'Hara</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Gung-Ho/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Horus</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Cobra Commander/Ripper/Steeler</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Computer</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Gung-Ho</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Gung-Ho/Horrorshow</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Gung-Ho/Patrick O'Hara</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Gung-Ho/Ripper</role>
+    </credit>
+    <credit>
+      <actor>Latta, Chris</actor>
+      <role>Ripper</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Hap</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Lentz, Patricia</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Lester, Ketty</actor>
+      <role>Satin</role>
+    </credit>
+    <credit>
+      <actor>Lester, Loren</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness/Female Customer</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness/Maat</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness/Mary Belle</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness/Mongolian Ghost</role>
+    </credit>
+    <credit>
+      <actor>Lofting, Morgan</actor>
+      <role>Baroness/Teacher</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Mona (I)</actor>
+      <role>Hawaiian Girl</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Mona (I)</actor>
+      <role>Vena</role>
+    </credit>
+    <credit>
+      <actor>McCann, Chuck (I)</actor>
+      <role>Leatherneck</role>
+    </credit>
+    <credit>
+      <actor>McConnohie, Michael</actor>
+      <role>Cross-Country</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Female Scientist/Lady Jaye</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Jimmy/Lady Jaye</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Lady Jaye</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Lady Jaye/Madame Vail</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Lady Jaye/Miss Henderhaunch</role>
+    </credit>
+    <credit>
+      <actor>McDonald-Lewis, Mary</actor>
+      <role>Lady Jaye/Sarah Bronson</role>
+    </credit>
+    <credit>
+      <actor>Mendenhall, David</actor>
+      <role>Fairmont Boy</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Professor</role>
+    </credit>
+    <credit>
+      <actor>Morey, Bill</actor>
+      <role>Cobra Commander Actor/Mutt/Recondo</role>
+    </credit>
+    <credit>
+      <actor>Morey, Bill</actor>
+      <role>Col. Slash/Mutt</role>
+    </credit>
+    <credit>
+      <actor>Morey, Bill</actor>
+      <role>Mutt</role>
+    </credit>
+    <credit>
+      <actor>Morey, Bill</actor>
+      <role>Mutt/Recondo</role>
+    </credit>
+    <credit>
+      <actor>Morey, Bill</actor>
+      <role>Recondo</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>American Ghost/Snow Job</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Sailor</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Snow Job</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Tripwire</role>
+    </credit>
+    <credit>
+      <actor>Pinney, Patrick</actor>
+      <role>Mainframe</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Chuck/Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Cobra Officer #1/Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Cobra Trooper #2/Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Cobra Trooper/Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Driver/Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Flint</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Flint/Strato-Viper</role>
+    </credit>
+    <credit>
+      <actor>Rayle, Hal</actor>
+      <role>Adm. Ledger</role>
+    </credit>
+    <credit>
+      <actor>Rayle, Hal</actor>
+      <role>Adm. Ledger/Deep Six</role>
+    </credit>
+    <credit>
+      <actor>Rayle, Hal</actor>
+      <role>Deep Six</role>
+    </credit>
+    <credit>
+      <actor>Renaday, Peter</actor>
+      <role>Dr. Marsh/Amen-Ra</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Dr. Mettier</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Dusty</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Dusty/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Dusty/Shipwreck/Stinky/Thunder</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Matthew Burke/Monkeywrench</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Monkeywrench</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Monkeywrench/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Shipwreck/Hector Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Buzzer/Thunder</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Crimson Guard X-99/Dusty/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Dusty</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Dusty/Hector Ramirez/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Dusty/Monkeywrench</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Dusty/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Dusty/Shipwreck/Thunder</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Heavy Metal/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Hector Ramirez/Maj. Ron Michaels</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Hector Ramirez/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Monkeywrench</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Sailor/Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Shipwreck</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Shipwreck/Thunder</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Thunder</role>
+    </credit>
+    <credit>
+      <actor>Roth, Dan</actor>
+      <role>Grunt</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Footloose</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Footloose/Rock 'n Roll</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Rock 'N Roll</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Rock 'n Roll</role>
+    </credit>
+    <credit>
+      <actor>Schwartz, Ted (I)</actor>
+      <role>Thrasher</role>
+    </credit>
+    <credit>
+      <actor>Slaughter, Sgt.</actor>
+      <role>Sgt. Slaughter</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Adm. George Latimer</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Dr. Lucifer</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Gen. Flagg/Gen. Franks</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Gen. Franks</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>MacIntosh</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Mr. Queeg</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Lee (II)</actor>
+      <role>Agent/Alpine</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Lee (II)</actor>
+      <role>Alpine</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Lee (II)</actor>
+      <role>Alpine/Crimson Guard</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Announcer #1/Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Cobra Officer #1/Polly/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Cobra Officer/Polly/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Cobra Officer/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Cobra Trainee/Freedom/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Copperhead/Junkyard/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Copperhead/Rock 'n Roll/Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Copperhead/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Criminal/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Duke Actor/Junkyard/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Flash/Parapsychologist #1</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Freedom/Junkyard/Timber/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Hoodlum/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Joe Trooper/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Junkyard/Polly</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Junkyard/Polly/Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Junkyard/Polly/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Junkyard/Short-Fuze/Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Junkyard/Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>M.P. #2/Polly</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly/Junkyard/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly/Scientist #2/Short-Fuze</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly/Skeptic/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Polly/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Tele-Viper #1</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Tom/Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Torch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Torch/U.S. Ambassador/Wong</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Torch/Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Wild Bill</role>
+    </credit>
+    <credit>
+      <actor>Wojno, Stan</actor>
+      <role>Lifeline</role>
+    </credit>
+    <credit>
+      <actor>Yama, Michael</actor>
+      <role>Torpedo</role>
+    </credit>
+    <credit>
+      <actor>Young, Keone</actor>
+      <role>Storm Shadow</role>
+    </credit>
+  </cast>
+<plot>Based on the successful toy series by Hasbro, GI Joe is the code name for an elite strike force comprising of personnel from all branches of the United States military. Their primary purpose is be a counterforce to the huge terrorist organization called Cobra which is gunning for world domination.</plot><url>http://localhost:8983/solr/movie.html?208057</url></doc>

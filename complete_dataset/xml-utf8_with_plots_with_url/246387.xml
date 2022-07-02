@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="246387">
+  <docid>246387</docid>
+  <title>Hot Dog</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Slizys, Simonas</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Lithuania</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">U</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Lithuania">27 March 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Lithuania">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>van O.T. Andersen, Allan</director>
+  </directors>
+  <producers>
+    <producer>Norviliene, Ieva</producer>
+  </producers>
+  <writers>
+    <writer>van O.T. Andersen, Allan</writer>
+  </writers>
+  <composers>
+    <composer>Petrikis, Titas</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Jampolskis, Marius</actor>
+      <role>Adam</role>
+    </credit>
+    <credit>
+      <actor>Januskyte, Agne</actor>
+      <role>Bar Keeper</role>
+    </credit>
+    <credit>
+      <actor>Liaudanskas, Gabrielius</actor>
+      <role>God</role>
+    </credit>
+    <credit>
+      <actor>van O.T. Andersen, Allan</actor>
+      <role>Man in Hospital</role>
+    </credit>
+  </cast>
+<plot>Yet again, Adam arrives late for a romantic dinner date with his girlfriend, Eva. This could spell the end of the lovely couple but - wait! - in that last, desperate moment, God decides to reveal himself to Adam, offering him the opportunity to reverse the course of events. Dressed as a hot dog vendor, God grants Adam three wishes. All Adam has to do in return is to eat hot dogs.</plot><url>http://localhost:8983/solr/movie.html?246387</url></doc>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="111080">
+  <docid>111080</docid>
+  <title>Colorful Ports of Call</title>
+  <year>1934</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>zanzibar</keyword>
+    <keyword>elephant</keyword>
+    <keyword>narration</keyword>
+    <keyword>kenya</keyword>
+    <keyword>part-animated</keyword>
+    <keyword>travel</keyword>
+    <keyword>seychelles</keyword>
+    <keyword>africa</keyword>
+    <keyword>fitzpatrick-traveltalks</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">12 January 1934</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>FitzPatrick, James A.</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>FitzPatrick, James A.</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>This Traveltalk short visits three African locations on the Indian Ocean that used to be administered by Great Britain. The first stop is the Seychelles island group. Then it's on to the island of Zanzibar. The final stop is Mombasa, Kenya, where efforts are underway to save the elephants from extinction by ivory hunters.</plot><url>http://localhost:8983/solr/movie.html?111080</url></doc>

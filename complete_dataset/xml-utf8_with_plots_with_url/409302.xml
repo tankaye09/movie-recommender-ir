@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="409302">
+  <docid>409302</docid>
+  <title>Olaf-An Atom</title>
+  <year>1913</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Romance</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">19 May 1913</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">17</runningtime>
+  </runningtimes>
+  <directors>
+    <director>O'Sullivan, Anthony</director>
+  </directors>
+  <writers>
+    <writer>Wing, William E.</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Bruce, Kate (I)</actor>
+      <role>Olaf's Mother</role>
+    </credit>
+    <credit>
+      <actor>Carey, Harry</actor>
+      <role>Olaf, an Atom</role>
+    </credit>
+    <credit>
+      <actor>Crisp, Donald (I)</actor>
+      <role>The Beggar</role>
+    </credit>
+    <credit>
+      <actor>Dillon, John T.</actor>
+      <role>The Claim Jumper</role>
+    </credit>
+    <credit>
+      <actor>Evans, Frank (I)</actor>
+      <role>The Blacksmith</role>
+    </credit>
+    <credit>
+      <actor>Jefferson, Thomas (I)</actor>
+      <role>The Doctor</role>
+    </credit>
+    <credit>
+      <actor>Mailes, Charles Hill</actor>
+      <role>A Parent</role>
+    </credit>
+    <credit>
+      <actor>McDowell, Claire</actor>
+      <role>A Parent</role>
+    </credit>
+  </cast>
+<plot>After his wife's sudden death, a man's life falls apart and he becomes a derelict. However, he starts to redeem himself when he comes across a young couple who is about to lose their property, and he decides to help them.</plot><url>http://localhost:8983/solr/movie.html?409302</url></doc>

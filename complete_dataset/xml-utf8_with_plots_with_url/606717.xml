@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="606717">
+  <docid>606717</docid>
+  <title>Thunderbolt</title>
+  <year>1947</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>War</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>airplane</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">26 July 1947</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">44</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Sturges, John</director>
+    <director>Wyler, William</director>
+  </directors>
+  <writers>
+    <writer>Koenig, Lester</writer>
+  </writers>
+  <composers>
+    <composer>Kubik, Gail</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bridges, Lloyd</actor>
+      <role>Voice of the Pilot</role>
+    </credit>
+    <credit>
+      <actor>Kern, Eugene</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Lowery, Robert</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Stewart, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>A documentary on the P-47 Thunderbolt fighter aircraft and its use in missions over Europe and the Pacific Theatre in the Second World War.</plot><url>http://localhost:8983/solr/movie.html?606717</url></doc>

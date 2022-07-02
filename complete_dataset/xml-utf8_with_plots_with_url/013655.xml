@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="013655">
+  <docid>013655</docid>
+  <title>A Movie Star</title>
+  <year>1916</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>hollywood</keyword>
+    <keyword>satire</keyword>
+    <keyword>actor</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">26 January 1916</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">24</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hibbard, Fred</director>
+  </directors>
+  <producers>
+    <producer>Sennett, Mack</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Allen, Phyllis</actor>
+      <role>His real wife</role>
+    </credit>
+    <credit>
+      <actor>Faye, Julia (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Fazenda, Louise</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Grey, Ray</actor>
+      <role>His screen rival</role>
+    </credit>
+    <credit>
+      <actor>Gribbon, Harry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Frank (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Maxam, Louella</actor>
+      <role>Nell, his screen sweetheart</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Harry (I)</actor>
+      <role>A One-man Orchestra</role>
+    </credit>
+    <credit>
+      <actor>Moran, Polly</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Murray, Charles (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Swain, Mack</actor>
+      <role>Handsome Jack, a screen hero</role>
+    </credit>
+    <credit>
+      <actor>Trask, Wayland</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Just as the local movie theater is about to begin showing a picture, the star of the film arrives and comes to see the movie himself. On screen, the star must rescue his girl from danger. In the theater, the star finds that not all of the audience admires his acting as much as he does.</plot><url>http://localhost:8983/solr/movie.html?013655</url></doc>

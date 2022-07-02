@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="213723">
+  <docid>213723</docid>
+  <title>Getting a Ticket</title>
+  <year>1930</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Musical</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">22 March 1930</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Blumenstock, Mort</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Cantor, Eddie</actor>
+      <role>Himself, Eddie Cantor</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Charles C.</actor>
+      <role>Motorcycle Cop</role>
+    </credit>
+  </cast>
+<plot>In court, Eddie Cantor makes a fool of a cop, who retaliates when he catches Eddie speeding. Eddie does a vaudeville routine for the cop, including the song "My Wife is on a Diet."</plot><url>http://localhost:8983/solr/movie.html?213723</url></doc>

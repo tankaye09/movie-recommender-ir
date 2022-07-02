@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="233177">
+  <docid>233177</docid>
+  <title>Heart Troubles</title>
+  <year>1949</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1 April 1949</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">16</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Yates, Hal</director>
+  </directors>
+  <writers>
+    <writer>Yates, Hal</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Brown, Wally (I)</actor>
+      <role>Wally</role>
+    </credit>
+    <credit>
+      <actor>Kirkwood, Jack (I)</actor>
+      <role>Jack</role>
+    </credit>
+  </cast>
+<plot>Wally is a malingerer who fakes a heart condition to get out of work around the house. His boss sends a doctor to look at him, and the doctor says his heart is fine but he has the measles and quarantines the house.</plot><url>http://localhost:8983/solr/movie.html?233177</url></doc>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="483056">
+  <docid>483056</docid>
+  <title>Seaside</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="UK">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lopez, Andres Del Caño</director>
+  </directors>
+  <producers>
+    <producer>Blackwood, Ryan</producer>
+  </producers>
+  <writers>
+    <writer>Jackson, Mark (XXV)</writer>
+  </writers>
+  <composers>
+    <composer>Curran, Philip J.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Jones, Ciara (VI)</actor>
+      <role>Zoe</role>
+    </credit>
+    <credit>
+      <actor>Whitehead, Phillip</actor>
+      <role>Grandad</role>
+    </credit>
+    <credit>
+      <actor>Whitehead, Sheila</actor>
+      <role>Grandma</role>
+    </credit>
+    <credit>
+      <actor>Williamson, Jack (II)</actor>
+      <role>Liam</role>
+    </credit>
+  </cast>
+<plot>Liam is a boy on his first visit to the seaside where his Grandad teaches him the secrets of sandcastle building. Confused by the disappearance of his 'castles Liam sets out on a quest of discovery. Seaside is a coming-of-age story about learning abilities and limitations.</plot><url>http://localhost:8983/solr/movie.html?483056</url></doc>

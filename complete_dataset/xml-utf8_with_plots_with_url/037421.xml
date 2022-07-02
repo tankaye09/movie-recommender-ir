@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="037421">
+  <docid>037421</docid>
+  <title>An Old Spanish Custom</title>
+  <year>1932</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+    <genre>Sport</genre>
+  </genres>
+  <keywords>
+    <keyword>bullfighting</keyword>
+    <keyword>sport-champions-series</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Navarro, Carlos (I)</director>
+    <director>Samaniego, Antonio</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Alberich, Salvador de</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>This Sports Champion series entry showcases bullfighting in Mexico. It shows lessons at a school for bullfighters, then presents an actual bullfight.</plot><url>http://localhost:8983/solr/movie.html?037421</url></doc>

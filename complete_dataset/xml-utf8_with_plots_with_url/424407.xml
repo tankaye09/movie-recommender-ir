@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="424407">
+  <docid>424407</docid>
+  <title>Partie de cartes</title>
+  <year>1895</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">20 February 1896</releasedate>
+    <releasedate country="France">15 April 2005</releasedate>
+    <releasedate country="Finland">July 1896</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">1</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lumière, Louis</director>
+  </directors>
+  <producers>
+    <producer>Lumière, Louis</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Féraud, Antoine</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lumière, Antoine</actor>
+      <role>Man playing cards</role>
+    </credit>
+    <credit>
+      <actor>Trewey, Félicien</actor>
+      <role>Man playing cards, seated on the right</role>
+    </credit>
+    <credit>
+      <actor>Winckler, Alphonse</actor>
+      <role>Man playing cards</role>
+    </credit>
+  </cast>
+<plot>Two men are playing a friendly game of cards, while a third man sits at the same table and watches them. As the game proceeds, a waiter brings a tray with a bottle and some glasses. The spectator pours the drinks, while the waiter turns his attention to the game, which he finds quite entertaining.</plot><url>http://localhost:8983/solr/movie.html?424407</url></doc>

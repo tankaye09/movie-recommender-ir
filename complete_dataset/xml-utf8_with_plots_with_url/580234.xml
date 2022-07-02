@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="580234">
+  <docid>580234</docid>
+  <title>The Old Spaghetti Factory</title>
+  <year>2000</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">28</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Farley, William (I)</director>
+    <director>Sharpe, Mal</director>
+    <director>Sharpe, Sandra</director>
+  </directors>
+  <producers>
+    <producer>Farley, William (I)</producer>
+    <producer>Sharpe, Mal</producer>
+    <producer>Sharpe, Sandra</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>O'Flaherty, Terrence</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Mal and Sandra Sharpe bought a colorful mural; an artifact from 1963 that had once hung on the wall of North Beach's Old Spaghetti Factory. The Sharpes puzzled over the forty faces in the painting, and finally discovered that the faces were those of artists, writers, poets, and performers at the heart of San Francisco's rich Bohemian scene. A documentary of the real lives behind the faces of the old restaurant's painting.</plot><url>http://localhost:8983/solr/movie.html?580234</url></doc>

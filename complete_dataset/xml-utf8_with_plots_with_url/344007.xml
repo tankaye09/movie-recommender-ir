@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="344007">
+  <docid>344007</docid>
+  <title>Lottery!</title>
+  <year>1983</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>wealth</keyword>
+    <keyword>millionaire</keyword>
+    <keyword>luck</keyword>
+    <keyword>lottery</keyword>
+    <keyword>greed</keyword>
+    <keyword>money</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Iceland">L</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="West Germany">January 1987</releasedate>
+    <releasedate country="France">25 November 1984</releasedate>
+    <releasedate country="USA">22 March 1984</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fenady, Georg</director>
+    <director>Levy, Lawrence (II)</director>
+    <director>Peters, Barbara (II)</director>
+    <director>Philips, Lee</director>
+  </directors>
+  <producers>
+    <producer>Rosner, Rick (I)</producer>
+    <producer>Lovenheim, Robert</producer>
+  </producers>
+  <writers>
+    <writer>Engelbach, David</writer>
+    <writer>Philips, Lee</writer>
+  </writers>
+  <composers>
+    <composer>Heller, Ken (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Antonio, Jim</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Balding, Rebecca</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Barth, Eddie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bauer, Jaime Lyn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bay, Frances</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Beach, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bellin, Thomas</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Benard, Frank M.</actor>
+      <role>Robert</role>
+    </credit>
+    <credit>
+      <actor>Bevis, Leslie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Blackburn, Dorothy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bonar, Ivan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Boone, Brendon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Boone, Brendon</actor>
+      <role>Poker Player</role>
+    </credit>
+    <credit>
+      <actor>Borden, Marilyn</actor>
+      <role>Flora</role>
+    </credit>
+    <credit>
+      <actor>Borden, Rosalyn</actor>
+      <role>Dora</role>
+    </credit>
+    <credit>
+      <actor>Brady, Patrick (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Braha, Herbie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brandon, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brill, Charlie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Randy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brown, Elgin</actor>
+      <role>Pledge</role>
+    </credit>
+    <credit>
+      <actor>Bumiller, William</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bundy, Brooke</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Burke, Delta</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Buzby, Zane</actor>
+      <role>Priscilla Moreno</role>
+    </credit>
+    <credit>
+      <actor>Call, Ed</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Camacho, Corinne</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Karen (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cason, Barbara</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Chester, Colby</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cocek, Christina</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Colbert, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Colby, Danny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Colligan, Joe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Colt, Marshall</actor>
+      <role>Eric Rush</role>
+    </credit>
+    <credit>
+      <actor>Conrad, Sid</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Susan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cypher, Jon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Delano, Lee</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Della Sorte, Joseph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Domeier, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eden, Richard</actor>
+      <role>Frankel</role>
+    </credit>
+    <credit>
+      <actor>Ellenstein, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>English, Bradford</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Feldman, Corey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Foster, Stan (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>French, Bruce (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>French, Susan (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Galloway, Pamela</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Garfield, Allen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gelman, Larry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gilman, Larry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Glover, William</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Graff, Ilene</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Mary (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hall, Philip Baker</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hallick, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harney, Susan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hauser, Fay</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hay, Mary Ann</actor>
+      <role>Carol Ryder</role>
+    </credit>
+    <credit>
+      <actor>Holland, Anthony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Horne, Suzi</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Howard, Dennis (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ingersoll, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Claude Earl</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Jordan, William (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Justice, Katherine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kasdorf, Lenore</actor>
+      <role>Dr. Newbury</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, David (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kavanaugh, Leigh</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>King, Mabel</actor>
+      <role>Mabel</role>
+    </credit>
+    <credit>
+      <actor>Kino, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Bert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kuss, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lacher, Taylor</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Landers, Judy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Landry, Karen</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Laurance, Mitchell</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Le Vant, René</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Leavy, Donna Lynn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lee, Jonna (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lehman, Lillian</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lerner, Lynne</actor>
+      <role>Woman on Street</role>
+    </credit>
+    <credit>
+      <actor>Li, Pat</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Linn, Teri Ann</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Kathleen</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>MacMillan, Norma</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Mann, Dolores</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Mann, Jodie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Mantee, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marlo, Steven</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Martin, John (V)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Alma</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McCarren, Fred</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Christopher (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McFadden, Tom (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Kristen</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Belinda (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Julia (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Ed (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Ben (I)</actor>
+      <role>Patrick Sean Flaherty</role>
+    </credit>
+    <credit>
+      <actor>Niven, Kip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Dell, Tony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Barret</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Osmond, Cliff</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Owens, Dan (V)</actor>
+      <role>Coleman's pal</role>
+    </credit>
+    <credit>
+      <actor>Packer, David (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Parucha, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pataki, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Paulin, Scott</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Penny, Joe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Perry, John Bennett</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Petersen, John Richard</actor>
+      <role>Frat Guy</role>
+    </credit>
+    <credit>
+      <actor>Peterson, Eugene</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pierce, Stack</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pine, Robert (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Prince, Michael (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Bill (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Richmond, Branscombe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rorke, Hayden</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Roth, Dan</actor>
+      <role>Fireman</role>
+    </credit>
+    <credit>
+      <actor>Santoni, Reni</actor>
+      <role>Victor</role>
+    </credit>
+    <credit>
+      <actor>Savage, Brad</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sbarge, Raphael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shelton, Reid</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shortridge, Stephen</actor>
+      <role>Richard Stanford</role>
+    </credit>
+    <credit>
+      <actor>Supiran, Jerry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Swofford, Ken</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Buck (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tozzi, Giorgio</actor>
+      <role>Stanapolous</role>
+    </credit>
+    <credit>
+      <actor>Trujillo, Anthony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Turman, Glynn</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Van Bergen, Lewis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Viscuso, Sal</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Warlock, Billy</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Wayne, Patrick (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>Arthur</role>
+    </credit>
+    <credit>
+      <actor>Wyner, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Zamora, Del</actor>
+      <role>Fast Food Cook</role>
+    </credit>
+    <credit>
+      <actor>von Hoffman, Brant</actor>
+      <role>Mike Kinsey</role>
+    </credit>
+  </cast>
+<plot>Each week Patrick Sean Flaherty tracks down the different lucky winners of the Intersweep lottery. Eric Rush of the IRS tags along to make sure that Uncle Sam gets his share. The stories center around the ordinary people who have all of a sudden become millionaires and how it changes their life.</plot><url>http://localhost:8983/solr/movie.html?344007</url></doc>

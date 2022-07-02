@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="555312">
+  <docid>555312</docid>
+  <title>The End</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Gross, Eldar</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Horror</genre>
+  </genres>
+  <languages>
+    <language>None</language>
+    <language>Dutch</language>
+  </languages>
+  <countries>
+    <country>France</country>
+    <country>Netherlands</country>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Netherlands">23 April 2005</releasedate>
+    <releasedate country="UK">13 April 2005</releasedate>
+    <releasedate country="France">1 July 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Netherlands">10</runningtime>
+    <runningtime country="France">6</runningtime>
+    <runningtime country="default">2</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Clayton, Tim</director>
+    <director>Crowther, Rob</director>
+    <director>Gross, Eldar</director>
+    <director>Samreth, Michel</director>
+  </directors>
+  <writers>
+    <writer>Clayton, Tim</writer>
+    <writer>Crowther, Rob</writer>
+    <writer>Gross, Eldar</writer>
+    <writer>Leduc, Maxime (II)</writer>
+    <writer>Ruyant, Martin</writer>
+    <writer>Samreth, Michel</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Hayley, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hulshof, Micha</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Veth, Pim</actor>
+      <role>Peter</role>
+    </credit>
+  </cast>
+<plot>An office clerk is bored and starts to play with the globe on his desk. The effect is instant as the world outside his window goes pitch black as he moves the globe through a few degrees. The realisation of the power he has hits him hard - but is it too late to use his powers for good?</plot><url>http://localhost:8983/solr/movie.html?555312</url></doc>

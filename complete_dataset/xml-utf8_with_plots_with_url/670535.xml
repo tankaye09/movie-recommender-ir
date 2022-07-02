@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="670535">
+  <docid>670535</docid>
+  <title>Zhi guo yuan</title>
+  <year>1922</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>China</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Zhang, Shichuan</director>
+  </directors>
+  <writers>
+    <writer>Zheng, Zhengqiu</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Zheng, Zhegu</actor>
+      <role>Cheng the Fruit Seller</role>
+    </credit>
+    <credit>
+      <actor>Zheng, Zhengqiu</actor>
+      <role>Doctor Zhu</role>
+    </credit>
+  </cast>
+<plot>Cheng the fruit seller is in love with the daughter of his neighbor the doctor, but the good doctor won't let him marry her unless Chang finds him more patients. With some creative carpentering, Chang sets about augmenting the doctor's income.</plot><url>http://localhost:8983/solr/movie.html?670535</url></doc>

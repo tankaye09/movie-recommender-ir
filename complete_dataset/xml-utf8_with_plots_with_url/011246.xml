@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="011246">
+  <docid>011246</docid>
+  <title>A Gruesome Twosome</title>
+  <year>1945</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Brown, Treg</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>merrie-melodies</keyword>
+    <keyword>jimmy-durante-spoof</keyword>
+    <keyword>william-tell-overture</keyword>
+    <keyword>tweety</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>cartoon-bee</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">9 June 1945</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Clampett, Robert</director>
+  </directors>
+  <producers>
+    <producer>Selzer, Edward</producer>
+  </producers>
+  <writers>
+    <writer>Foster, Warren (I)</writer>
+  </writers>
+  <composers>
+    <composer>Stalling, Carl W.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Benaderet, Bea</actor>
+      <role>Girl Cat</role>
+    </credit>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Tweety/Durante Cat/Dumb Cat</role>
+    </credit>
+  </cast>
+<plot>Two cats (one a caricature of Jimmy Durante) battle violently for the affections of a pretty girl cat, who'll dispense her favors on the one who brings her a little bird. Unfortunately for the lovestruck felines, the bird in question is a vicious little thing named Tweety.</plot><url>http://localhost:8983/solr/movie.html?011246</url></doc>

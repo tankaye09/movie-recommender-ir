@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="655405">
+  <docid>655405</docid>
+  <title>Who's Who</title>
+  <year>1977</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>News</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">4 January 1977</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <cast>
+    <credit>
+      <actor>Howar, Barbara</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Kuralt, Charles</actor>
+      <role>Himself - Reporter</role>
+    </credit>
+    <credit>
+      <actor>Rather, Dan</actor>
+      <role>Himself - Reporter</role>
+    </credit>
+  </cast>
+<plot>News magazine concentrating primarily on famous people. Charles Kuralt hosted the "On The Road" segment where he travelled the USA interviewing the "common man" who had accomplished something.</plot><url>http://localhost:8983/solr/movie.html?655405</url></doc>

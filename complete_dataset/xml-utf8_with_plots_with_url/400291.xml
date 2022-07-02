@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="400291">
+  <docid>400291</docid>
+  <title>Norbit</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bastille, Ned</editor>
+  </editors>
+  <genres>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>actor-playing-multiple-roles</keyword>
+    <keyword>obesity</keyword>
+    <keyword>fat-suit</keyword>
+    <keyword>wilhelm-scream</keyword>
+    <keyword>gold-digger</keyword>
+    <keyword>childhood-sweetheart</keyword>
+    <keyword>overweight</keyword>
+    <keyword>puppet</keyword>
+    <keyword>restaurant</keyword>
+    <keyword>dog</keyword>
+    <keyword>obnoxious</keyword>
+    <keyword>whaler</keyword>
+    <keyword>pimp</keyword>
+    <keyword>lollipop</keyword>
+    <keyword>hall</keyword>
+    <keyword>overbearing-wife</keyword>
+    <keyword>water-slide</keyword>
+    <keyword>dream-girl</keyword>
+    <keyword>love-triangle</keyword>
+    <keyword>pressure</keyword>
+    <keyword>courage</keyword>
+    <keyword>orphan</keyword>
+    <keyword>critically-bashed</keyword>
+    <keyword>chinese</keyword>
+    <keyword>abandoned-by-parents</keyword>
+    <keyword>weight</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>forced-marriage</keyword>
+    <keyword>wedding-ceremony-gone-awry</keyword>
+    <keyword>domestic-violence</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Brazil">12</certificate>
+    <certificate country="Netherlands">6</certificate>
+    <certificate country="UK">12A</certificate>
+    <certificate country="Singapore">NC-16</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Ireland">15A</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">10</certificate>
+    <certificate country="Canada">13+</certificate>
+    <certificate country="Finland">K-11</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">9 March 2007</releasedate>
+    <releasedate country="South Africa">13 April 2007</releasedate>
+    <releasedate country="Argentina">8 March 2007</releasedate>
+    <releasedate country="Portugal">15 March 2007</releasedate>
+    <releasedate country="Latvia">27 April 2007</releasedate>
+    <releasedate country="Turkey">13 April 2007</releasedate>
+    <releasedate country="Netherlands">15 March 2007</releasedate>
+    <releasedate country="Brazil">9 March 2007</releasedate>
+    <releasedate country="Japan">22 June 2007</releasedate>
+    <releasedate country="Israel">15 March 2007</releasedate>
+    <releasedate country="UK">9 March 2007</releasedate>
+    <releasedate country="Bulgaria">23 March 2007</releasedate>
+    <releasedate country="Thailand">5 April 2007</releasedate>
+    <releasedate country="Singapore">18 February 2007</releasedate>
+    <releasedate country="Romania">30 March 2007</releasedate>
+    <releasedate country="Greece">26 April 2007</releasedate>
+    <releasedate country="Germany">8 March 2007</releasedate>
+    <releasedate country="Belgium">21 March 2007</releasedate>
+    <releasedate country="France">4 April 2007</releasedate>
+    <releasedate country="Malaysia">15 February 2007</releasedate>
+    <releasedate country="Panama">16 March 2007</releasedate>
+    <releasedate country="Hungary">12 April 2007</releasedate>
+    <releasedate country="Hong Kong">7 June 2007</releasedate>
+    <releasedate country="Estonia">20 April 2007</releasedate>
+    <releasedate country="Iceland">9 March 2007</releasedate>
+    <releasedate country="Mexico">23 February 2007</releasedate>
+    <releasedate country="Slovakia">12 April 2007</releasedate>
+    <releasedate country="Poland">23 March 2007</releasedate>
+    <releasedate country="Spain">16 March 2007</releasedate>
+    <releasedate country="Egypt">21 March 2007</releasedate>
+    <releasedate country="Australia">22 February 2007</releasedate>
+    <releasedate country="Norway">9 March 2007</releasedate>
+    <releasedate country="Russia">8 March 2007</releasedate>
+    <releasedate country="Finland">9 March 2007</releasedate>
+    <releasedate country="Austria">9 March 2007</releasedate>
+    <releasedate country="Italy">23 March 2007</releasedate>
+    <releasedate country="Philippines">21 March 2007</releasedate>
+    <releasedate country="Colombia">9 March 2007</releasedate>
+    <releasedate country="USA">9 February 2007</releasedate>
+    <releasedate country="Kuwait">14 March 2007</releasedate>
+    <releasedate country="Venezuela">9 March 2007</releasedate>
+    <releasedate country="Denmark">16 March 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">103</runningtime>
+    <runningtime country="Philippines">101</runningtime>
+    <runningtime country="USA">102</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Robbins, Brian (I)</director>
+  </directors>
+  <producers>
+    <producer>Householter, David B.</producer>
+    <producer>Robbins, Brian (I)</producer>
+    <producer>Tollin, Michael</producer>
+    <producer>Davis, John (I)</producer>
+    <producer>Murphy, Eddie (I)</producer>
+  </producers>
+  <writers>
+    <writer>Murphy, Charles Q.</writer>
+    <writer>Murphy, Eddie (I)</writer>
+    <writer>Ronn, David</writer>
+    <writer>Scherick, Jay</writer>
+  </writers>
+  <composers>
+    <composer>Newman, David (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Anastacia (IV)</actor>
+      <role>Waitress</role>
+    </credit>
+    <credit>
+      <actor>Anderson, China</actor>
+      <role>Kate - Age 5</role>
+    </credit>
+    <credit>
+      <actor>Angelo, George (I)</actor>
+      <role>Bar Patron</role>
+    </credit>
+    <credit>
+      <actor>Beaubian, Susan</actor>
+      <role>Shop Owner</role>
+    </credit>
+    <credit>
+      <actor>Bell, Donald (II)</actor>
+      <role>Male Vocalist</role>
+    </credit>
+    <credit>
+      <actor>Blanks, Michael Isaac</actor>
+      <role>Deion's Kid #6</role>
+    </credit>
+    <credit>
+      <actor>Bommelje, Greta</actor>
+      <role>Kid</role>
+    </credit>
+    <credit>
+      <actor>Bostic, Kathryn</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Brown, Alex (VIII)</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Carter, Virgil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cater, Kevin</actor>
+      <role>Lifeguard</role>
+    </credit>
+    <credit>
+      <actor>Celestina</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Chea, Alvin</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Cho, Smith</actor>
+      <role>Ex-Wife</role>
+    </credit>
+    <credit>
+      <actor>Cole, Ron (II)</actor>
+      <role>Wedding Guest</role>
+    </credit>
+    <credit>
+      <actor>Colyar, Michael</actor>
+      <role>Morris the Barber</role>
+    </credit>
+    <credit>
+      <actor>Copeland, Craig</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Corgiat, Richard</actor>
+      <role>Giovanni Staff</role>
+    </credit>
+    <credit>
+      <actor>Crawford Brown, Pat</actor>
+      <role>Mrs. Henderson</role>
+    </credit>
+    <credit>
+      <actor>Crews, Terry (I)</actor>
+      <role>Big Jack Latimore</role>
+    </credit>
+    <credit>
+      <actor>Davis, Eurydice</actor>
+      <role>Wedding Guest</role>
+    </credit>
+    <credit>
+      <actor>De'Antone, Marc</actor>
+      <role>Giovanni Staff</role>
+    </credit>
+    <credit>
+      <actor>Denehy, Kristin</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Desalu, Fumi</actor>
+      <role>Booty Shaker Girl</role>
+    </credit>
+    <credit>
+      <actor>Fernandez, Lisa Marie</actor>
+      <role>Kissing Booth Girl</role>
+    </credit>
+    <credit>
+      <actor>Folkes-LeMelle, Neisha</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Wendy</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Friedman, Esther (I)</actor>
+      <role>Beautician</role>
+    </credit>
+    <credit>
+      <actor>Gant, Richard</actor>
+      <role>Preacher</role>
+    </credit>
+    <credit>
+      <actor>Gatins, John</actor>
+      <role>Attendant</role>
+    </credit>
+    <credit>
+      <actor>Geisler, Charlene</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Gooding Jr., Cuba</actor>
+      <role>Deion Hughes</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Eddie (I)</actor>
+      <role>Pope Sweet Jesus</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Khamani</actor>
+      <role>Norbit - Age 5</role>
+    </credit>
+    <credit>
+      <actor>Hampton, Sean (I)</actor>
+      <role>Town Man</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Lonnie</actor>
+      <role>Beautician</role>
+    </credit>
+    <credit>
+      <actor>Huebel, Rob</actor>
+      <role>Excited Man on TV</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Reginald (VI)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Jackson-Edwards, Clydene</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Donald (V)</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Bob (II)</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Taylor</actor>
+      <role>Basketball Kid</role>
+    </credit>
+    <credit>
+      <actor>Knight, Mason</actor>
+      <role>Boy at Schoolyard</role>
+    </credit>
+    <credit>
+      <actor>Koide, Teri Eiko</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Langley, Frank</actor>
+      <role>Puppeteer</role>
+    </credit>
+    <credit>
+      <actor>Lee, Shyann Shane</actor>
+      <role>Rib Shack Waitress</role>
+    </credit>
+    <credit>
+      <actor>Lennon, Kipp</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Levine, Floyd</actor>
+      <role>Abe the Tailor</role>
+    </credit>
+    <credit>
+      <actor>Maeda, Guy</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>McCulty, Kendra</actor>
+      <role>Moonbounce Kid</role>
+    </credit>
+    <credit>
+      <actor>Medine, Donna</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Mendel, Jesse</actor>
+      <role>Little Girl in the Pool</role>
+    </credit>
+    <credit>
+      <actor>Micelli, Vince</actor>
+      <role>Giovanni Staff</role>
+    </credit>
+    <credit>
+      <actor>Miller, Jeanette (I)</actor>
+      <role>Mrs. Coleman</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Charles Q.</actor>
+      <role>Floyd the Dog</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Eddie (I)</actor>
+      <role>Norbit/Rasputia/Mr. Wong</role>
+    </credit>
+    <credit>
+      <actor>Phinnessee, Darryl</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Powell, Clifton</actor>
+      <role>Earl Latimore</role>
+    </credit>
+    <credit>
+      <actor>Powell, Josef</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Price, Louis (I)</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Raynaud, Lucas</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Reid, Austin (I)</actor>
+      <role>Norbit - Age 9</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Miles (II)</actor>
+      <role>Kid at Water Park</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Jonathan (X)</actor>
+      <role>Norbit - Age 17</role>
+    </credit>
+    <credit>
+      <actor>Russell, Anthony (I)</actor>
+      <role>Giovanni</role>
+    </credit>
+    <credit>
+      <actor>Speight, Lester</actor>
+      <role>Blue Latimore</role>
+    </credit>
+    <credit>
+      <actor>St. Vil, Yves Lola</actor>
+      <role>Rasputia - Age 17</role>
+    </credit>
+    <credit>
+      <actor>Ur, Cameron</actor>
+      <role>Moonbounce Kid</role>
+    </credit>
+    <credit>
+      <actor>Vela, Anthony</actor>
+      <role>Bar Patron</role>
+    </credit>
+    <credit>
+      <actor>Vossler, Michael</actor>
+      <role>Bully</role>
+    </credit>
+    <credit>
+      <actor>Vossler, Travis</actor>
+      <role>Bully</role>
+    </credit>
+    <credit>
+      <actor>Washington, Hakeem</actor>
+      <role>Basketball Kid</role>
+    </credit>
+    <credit>
+      <actor>Washington, Tyrell</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Waters, Oren</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Wayans, Marlon</actor>
+      <role>Buster</role>
+    </credit>
+    <credit>
+      <actor>West, John (I)</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>White, Gerald (III)</actor>
+      <role>Choir Member</role>
+    </credit>
+    <credit>
+      <actor>Williams, Katt</actor>
+      <role>Lord Have Mercy</role>
+    </credit>
+    <credit>
+      <actor>Wood, Terry (I)</actor>
+      <role>Choir Member</role>
+    </credit>
+  </cast>
+<plot>Norbit is a normal person, who after being adopted by Mr. Wong, ends up being married to the very large, Rasputia. Norbit's childhood love, Kate Thomas arrives back in town to buy the orphanage. Norbit sees this as his chance to get back together with Kate, until he discovers that she is in fact engaged to Deion Hughes. Norbit isn't going to lay this to rest, whilst he tries to survive life with Rasputia, and it looks like Deion also has something he would like to keep secret.</plot><url>http://localhost:8983/solr/movie.html?400291</url></doc>

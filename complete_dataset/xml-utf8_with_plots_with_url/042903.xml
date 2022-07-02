@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="042903">
+  <docid>042903</docid>
+  <title>Any Given Sunday</title>
+  <year>1999</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Levy, Stuart (II)</editor>
+    <editor>Nordberg, Thomas J.</editor>
+    <editor>Salmon, Keith (I)</editor>
+    <editor>Waks, Stuart</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Sport</genre>
+  </genres>
+  <keywords>
+    <keyword>vomit</keyword>
+    <keyword>institutional-discrimination</keyword>
+    <keyword>professional-sports</keyword>
+    <keyword>glamour</keyword>
+    <keyword>male-frontal-nudity</keyword>
+    <keyword>television</keyword>
+    <keyword>egotism</keyword>
+    <keyword>marriage</keyword>
+    <keyword>day-in-title</keyword>
+    <keyword>slap</keyword>
+    <keyword>corruption</keyword>
+    <keyword>journalism</keyword>
+    <keyword>injury</keyword>
+    <keyword>male-nudity</keyword>
+    <keyword>teamwork</keyword>
+    <keyword>coach</keyword>
+    <keyword>prescription-drug-abuse</keyword>
+    <keyword>ensemble-cast</keyword>
+    <keyword>american-football</keyword>
+    <keyword>ambition</keyword>
+    <keyword>party-girl</keyword>
+    <keyword>team-play</keyword>
+    <keyword>violence</keyword>
+    <keyword>female-nudity</keyword>
+    <keyword>eyeball</keyword>
+    <keyword>football-team</keyword>
+    <keyword>medical-ethics</keyword>
+    <keyword>nipples-visible-through-clothing</keyword>
+    <keyword>sports-team</keyword>
+    <keyword>title-based-on-song</keyword>
+    <keyword>self-destructiveness</keyword>
+    <keyword>locker-room</keyword>
+    <keyword>title-spoken-by-character</keyword>
+    <keyword>success</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Hong Kong">IIB</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="Brazil">18</certificate>
+    <certificate country="South Korea">18</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Switzerland">12</certificate>
+    <certificate country="Norway">11</certificate>
+    <certificate country="Canada">PA</certificate>
+    <certificate country="Singapore">M18</certificate>
+    <certificate country="Finland">K-12</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="Chile">14</certificate>
+    <certificate country="USA">R</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Malaysia">U</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">24 March 2000</releasedate>
+    <releasedate country="Hungary">1 June 2000</releasedate>
+    <releasedate country="Hong Kong">15 May 2000</releasedate>
+    <releasedate country="South Africa">14 April 2000</releasedate>
+    <releasedate country="Indonesia">9 September 2000</releasedate>
+    <releasedate country="Peru">8 June 2000</releasedate>
+    <releasedate country="Argentina">13 April 2000</releasedate>
+    <releasedate country="Czech Republic">29 June 2000</releasedate>
+    <releasedate country="Turkey">5 May 2000</releasedate>
+    <releasedate country="Iceland">5 May 2000</releasedate>
+    <releasedate country="Brazil">14 April 2000</releasedate>
+    <releasedate country="Netherlands">13 April 2000</releasedate>
+    <releasedate country="Japan">27 May 2000</releasedate>
+    <releasedate country="South Korea">20 May 2000</releasedate>
+    <releasedate country="Poland">8 September 2000</releasedate>
+    <releasedate country="Slovenia">7 September 2000</releasedate>
+    <releasedate country="Israel">23 March 2000</releasedate>
+    <releasedate country="India">16 February 2001</releasedate>
+    <releasedate country="Spain">24 March 2000</releasedate>
+    <releasedate country="UK">31 March 2000</releasedate>
+    <releasedate country="Australia">27 July 2000</releasedate>
+    <releasedate country="Switzerland">23 March 2000</releasedate>
+    <releasedate country="Norway">31 March 2000</releasedate>
+    <releasedate country="Thailand">9 June 2000</releasedate>
+    <releasedate country="Singapore">18 May 2000</releasedate>
+    <releasedate country="Finland">21 April 2000</releasedate>
+    <releasedate country="Philippines">24 May 2000</releasedate>
+    <releasedate country="Italy">30 October 2008</releasedate>
+    <releasedate country="Germany">9 March 2000</releasedate>
+    <releasedate country="New Zealand">11 May 2000</releasedate>
+    <releasedate country="USA">22 December 1999</releasedate>
+    <releasedate country="France">12 April 2000</releasedate>
+    <releasedate country="Kuwait">11 October 2000</releasedate>
+    <releasedate country="Malaysia">27 April 2000</releasedate>
+    <releasedate country="Denmark">31 March 2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">150</runningtime>
+    <runningtime country="USA">156</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Stone, Oliver (I)</director>
+  </directors>
+  <producers>
+    <producer>Hamburg, Eric</producer>
+    <producer>Krauss, Jonathan</producer>
+    <producer>Rutowski, Richard</producer>
+    <producer>Donner, Richard</producer>
+    <producer>Stone, Oliver (I)</producer>
+    <producer>Halsted, Dan</producer>
+    <producer>Shuler Donner, Lauren</producer>
+    <producer>Townsend, Clayton</producer>
+  </producers>
+  <writers>
+    <writer>Logan, John (I)</writer>
+    <writer>Stone, Oliver (I)</writer>
+  </writers>
+  <composers>
+    <composer>Horowitz, Richard (I)</composer>
+    <composer>Kelly, Paul (IX)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abnathy, Carin</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Adams, Rhonda</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Adler, Frank J.</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Jessie (I)</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Ann-Margret</actor>
+      <role>Margaret Pagniacci</role>
+    </credit>
+    <credit>
+      <actor>Armellino, Luciano</actor>
+      <role>Tony's Bartender</role>
+    </credit>
+    <credit>
+      <actor>Avila, Mario</actor>
+      <role>Sharks Fan</role>
+    </credit>
+    <credit>
+      <actor>Bachand, James A.</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Bacile, Todd</actor>
+      <role>Sideline Sound Tech</role>
+    </credit>
+    <credit>
+      <actor>Bayla, Cleo</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Beisner, Michelle</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Bellamy, Bill</actor>
+      <role>Jimmy Sanderson</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Jaime</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Sherman 'Big Train'</actor>
+      <role>Football Fan</role>
+    </credit>
+    <credit>
+      <actor>Berkley, Elizabeth</actor>
+      <role>Mandy Murphy</role>
+    </credit>
+    <credit>
+      <actor>Bernard, Michelle (I)</actor>
+      <role>Nikki Novak</role>
+    </credit>
+    <credit>
+      <actor>Betts, Margaret</actor>
+      <role>Mayor's Aide</role>
+    </credit>
+    <credit>
+      <actor>Bray, Andy</actor>
+      <role>Sharks Waterboy</role>
+    </credit>
+    <credit>
+      <actor>Bredell, Sarah</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Brown, Jim (I)</actor>
+      <role>Montezuma Monroe</role>
+    </credit>
+    <credit>
+      <actor>Brown, Joshua David</actor>
+      <role>Sharks Fan</role>
+    </credit>
+    <credit>
+      <actor>Brown, Tucker</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Bruce, Tracie</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Bryniarski, Andrew</actor>
+      <role>Patrick 'Madman' Kelly</role>
+    </credit>
+    <credit>
+      <actor>Butkus, Dick</actor>
+      <role>Opposing Coach</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Ian (XV)</actor>
+      <role>Stadium Fan</role>
+    </credit>
+    <credit>
+      <actor>Claus, Marc</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Condom, Doris</actor>
+      <role>Friend in Owner's Box</role>
+    </credit>
+    <credit>
+      <actor>Corone, Antoni</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Corrigan, Sean (I)</actor>
+      <role>Sideline Referee</role>
+    </credit>
+    <credit>
+      <actor>Cortez, Rosa Iveth</actor>
+      <role>Friend in Owner's Box</role>
+    </credit>
+    <credit>
+      <actor>Cowden, Doug</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Cravens, Tyler</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Crawford, Dawn</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Crespo, Estefania</actor>
+      <role>Football Fan</role>
+    </credit>
+    <credit>
+      <actor>Crowley, Timothy F.</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Daniel, John (II)</actor>
+      <role>Andy Matter</role>
+    </credit>
+    <credit>
+      <actor>Davis, Antares</actor>
+      <role>Mayor's PR Woman</role>
+    </credit>
+    <credit>
+      <actor>Davis, Clifton (I)</actor>
+      <role>Mayor Tyrone Smalls</role>
+    </credit>
+    <credit>
+      <actor>Davoisne-Bruni, Myriam</actor>
+      <role>Friend in Owner's Box</role>
+    </credit>
+    <credit>
+      <actor>Demko, Darlene</actor>
+      <role>Red Bikini Girl in MetRx Commercial</role>
+    </credit>
+    <credit>
+      <actor>Dempsey, Trish</actor>
+      <role>Field Photographer</role>
+    </credit>
+    <credit>
+      <actor>Denzlinger, Jeremy</actor>
+      <role>Orange Glove Guy</role>
+    </credit>
+    <credit>
+      <actor>DiFatta, Vincent</actor>
+      <role>Businessman Fan at Mayor's Party</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Cameron</actor>
+      <role>Christina Pagniacci</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Oscar A.</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Dorris, Amy</actor>
+      <role>Tonya Oliver</role>
+    </credit>
+    <credit>
+      <actor>Dufour, Kim</actor>
+      <role>Football fan</role>
+    </credit>
+    <credit>
+      <actor>Eckhart, Aaron</actor>
+      <role>Nick Crozier</role>
+    </credit>
+    <credit>
+      <actor>Egues, Tony</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Mark Robert</actor>
+      <role>Quarterback Coach</role>
+    </credit>
+    <credit>
+      <actor>Evans, Celia</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Fanaro, Mary</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Foxx, Jamie</actor>
+      <role>Willie Beamen</role>
+    </credit>
+    <credit>
+      <actor>Fryar, Irving</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fugit, Lanette</actor>
+      <role>Girl Friend</role>
+    </credit>
+    <credit>
+      <actor>Fullerton, Olivia</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Funny, Dennis</actor>
+      <role>Jose Giles, #47 Shark Football player</role>
+    </credit>
+    <credit>
+      <actor>Gaarder, Karin M.</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>Gabriel, Gene</actor>
+      <role>Sharks player</role>
+    </credit>
+    <credit>
+      <actor>Gasser, Jim</actor>
+      <role>Businessman Fan at Mayor's Party</role>
+    </credit>
+    <credit>
+      <actor>Goff, Robert L.</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Golden, Evan Scott</actor>
+      <role>Locker room Fan</role>
+    </credit>
+    <credit>
+      <actor>Goodman, J.V.</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Robert (VIII)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Graf, Allan</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Green, Will</actor>
+      <role>Football Player</role>
+    </credit>
+    <credit>
+      <actor>Grinn, Pride</actor>
+      <role>Football Player</role>
+    </credit>
+    <credit>
+      <actor>Grogan, Robert</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Groh III, Michael</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Hamlet, Sean</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Hanley, Jade</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>Hanlon, William</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Hanna, Dana</actor>
+      <role>Airline Stewardess</role>
+    </credit>
+    <credit>
+      <actor>Harder, Alex</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>Hardy, Bruce C.</actor>
+      <role>Knights Chaplain</role>
+    </credit>
+    <credit>
+      <actor>Heckmann, Paul</actor>
+      <role>Sharks Coach</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Alexandra L.</actor>
+      <role>Cap Rooney's Child</role>
+    </credit>
+    <credit>
+      <actor>Heredia, Maria E.</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Hersh, Philip (I)</actor>
+      <role>Shark's Mascot</role>
+    </credit>
+    <credit>
+      <actor>Heston, Charlton</actor>
+      <role>Commissioner</role>
+    </credit>
+    <credit>
+      <actor>Hilliard, Justin D.</actor>
+      <role>Stadium Fan</role>
+    </credit>
+    <credit>
+      <actor>Hochertz, Marty</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Hoffer, Sylvie</actor>
+      <role>Tony D'Amato's Wife</role>
+    </credit>
+    <credit>
+      <actor>Holden, Beau</actor>
+      <role>Coach</role>
+    </credit>
+    <credit>
+      <actor>Holly, Lauren</actor>
+      <role>Cindy Rooney</role>
+    </credit>
+    <credit>
+      <actor>Horka, Andrea</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Howard, Debbie (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Hyman, Brian (I)</actor>
+      <role>Vendor</role>
+    </credit>
+    <credit>
+      <actor>Jayne, Melissa</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Len</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Johnson, RJ</actor>
+      <role>Sports Reporter</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Rick (I)</actor>
+      <role>Taylor</role>
+    </credit>
+    <credit>
+      <actor>Karen, James</actor>
+      <role>Ed Phillips</role>
+    </credit>
+    <credit>
+      <actor>Kavey, Kitty</actor>
+      <role>Stadium Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Keneley, Mathew</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Kraljevic, Hermine</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Kramlik, Monika</actor>
+      <role>Julian's Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Krueger, Kirsten</actor>
+      <role>Player's Wife</role>
+    </credit>
+    <credit>
+      <actor>LL Cool J</actor>
+      <role>Julian Washington</role>
+    </credit>
+    <credit>
+      <actor>Lack, Richard</actor>
+      <role>High Times Reporter</role>
+    </credit>
+    <credit>
+      <actor>Lassic, Derrick</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Latzman, Phil</actor>
+      <role>Kevin Branson</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Glynnis</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Lester, Fred</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Mercy</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Manns, 'Jaman' Janet</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Marino, Daniel</actor>
+      <role>Cap Rooney's Child</role>
+    </credit>
+    <credit>
+      <actor>Maroun, Jacques</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>Martin, Duane</actor>
+      <role>Willie's Agent</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Matt</actor>
+      <role>Sharks Fullback</role>
+    </credit>
+    <credit>
+      <actor>Maynor, Connell</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Mbayi, Biba</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>McClendon, Skip</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>McGinley, John C.</actor>
+      <role>Jack Rose</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Richard (I)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Meira, Moet</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Rick (I)</actor>
+      <role>Fire Department Paramedic</role>
+    </credit>
+    <credit>
+      <actor>Miller, Eric (II)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Modine, Matthew</actor>
+      <role>Dr. Ollie Powers</role>
+    </credit>
+    <credit>
+      <actor>Mohamed, Luna Abdi</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>Moon, Warren</actor>
+      <role>Opposing Coach</role>
+    </credit>
+    <credit>
+      <actor>Moran, Jeremy</actor>
+      <role>Campbell #94</role>
+    </credit>
+    <credit>
+      <actor>Morris, Mitch (I)</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Mounds, Otis</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Neglio, Paul</actor>
+      <role>Coach/Football player</role>
+    </credit>
+    <credit>
+      <actor>Nittmo, Bjorn</actor>
+      <role>Kicker</role>
+    </credit>
+    <credit>
+      <actor>O'Hara, Patrick (I)</actor>
+      <role>Tyler Cherubini</role>
+    </credit>
+    <credit>
+      <actor>O'Neal, Brian E.</actor>
+      <role>Sharks Linebacker</role>
+    </credit>
+    <credit>
+      <actor>Ohana, Daniel</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Ohnegian, Pete</actor>
+      <role>Sharks Center</role>
+    </credit>
+    <credit>
+      <actor>Orvis, Greg</actor>
+      <role>Tight End</role>
+    </credit>
+    <credit>
+      <actor>Osuna, Michael</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Owens, Terrell</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pacino, Al</actor>
+      <role>Tony D'Amato</role>
+    </credit>
+    <credit>
+      <actor>Paget, Robert (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Pettus, Lyndale V.</actor>
+      <role>Sharks Defense Asst. Coach</role>
+    </credit>
+    <credit>
+      <actor>Price, Jess</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>Proctor, Basil</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Quaid, Dennis</actor>
+      <role>Jack 'Cap' Rooney</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Al (I)</actor>
+      <role>Football Coach</role>
+    </credit>
+    <credit>
+      <actor>Raulerson, Steve</actor>
+      <role>Shark's Chaplain</role>
+    </credit>
+    <credit>
+      <actor>Reid, Kevin (I)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Reidel, Allen</actor>
+      <role>Businessman Fan at Mayor's Party</role>
+    </credit>
+    <credit>
+      <actor>Riad, Tamer</actor>
+      <role>Team Staff</role>
+    </credit>
+    <credit>
+      <actor>Rosenhaus, Drew</actor>
+      <role>TV Announcer at Willie's Apartment</role>
+    </credit>
+    <credit>
+      <actor>Rosete, Jose</actor>
+      <role>Press Box Security</role>
+    </credit>
+    <credit>
+      <actor>Royster, Mazio</actor>
+      <role>Wide Receiver</role>
+    </credit>
+    <credit>
+      <actor>Rubenstein, Jason (II)</actor>
+      <role>Sharks Trainer</role>
+    </credit>
+    <credit>
+      <actor>Russo, Gianni (I)</actor>
+      <role>Johnny Polito</role>
+    </credit>
+    <credit>
+      <actor>Schmidt, Joe (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sharp, Jerry A.</actor>
+      <role>McKenna</role>
+    </credit>
+    <credit>
+      <actor>Sherman, Clyde</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Smith, Todd (VI)</actor>
+      <role>Wide Receiver</role>
+    </credit>
+    <credit>
+      <actor>Spain Jr., Connell</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Speight, Lester</actor>
+      <role>Sharks Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Spirtos, Jack G.</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>St. Clair, Bob</actor>
+      <role>Coach</role>
+    </credit>
+    <credit>
+      <actor>Stone, Michael (VII)</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Stone, Oliver (I)</actor>
+      <role>Tug Kowalski</role>
+    </credit>
+    <credit>
+      <actor>Stone, Sean (I)</actor>
+      <role>Fan</role>
+    </credit>
+    <credit>
+      <actor>Storm, Matt (I)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Switzer, Barry</actor>
+      <role>TV Commentator</role>
+    </credit>
+    <credit>
+      <actor>Tanzi, Anthony L.</actor>
+      <role>Sharks Coach</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Lawrence (II)</actor>
+      <role>Luther 'Shark' Lavay</role>
+    </credit>
+    <credit>
+      <actor>Thomson, Craig (I)</actor>
+      <role>Tight End</role>
+    </credit>
+    <credit>
+      <actor>Tittle, Y.A.</actor>
+      <role>Opposing Coach</role>
+    </credit>
+    <credit>
+      <actor>Toomay, Pat</actor>
+      <role>Opposing Coach</role>
+    </credit>
+    <credit>
+      <actor>Underwood, Joseph W.</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Unitas, Johnny</actor>
+      <role>Knights Head Coach</role>
+    </credit>
+    <credit>
+      <actor>Unitas, Joseph (II)</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Barry</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Walters, Mark Edward</actor>
+      <role>Sharks Fan</role>
+    </credit>
+    <credit>
+      <actor>Watters, Ricky (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Weyand, John</actor>
+      <role>Knights Fan</role>
+    </credit>
+    <credit>
+      <actor>White, Hunter</actor>
+      <role>Cap Rooney's Child</role>
+    </credit>
+    <credit>
+      <actor>Williams, James (IX)</actor>
+      <role>Knights Mascot</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Joseph A.</actor>
+      <role>Sharks Coach</role>
+    </credit>
+    <credit>
+      <actor>Wiren, Nyle</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Wolff, Nicholas Patrick</actor>
+      <role>Sharks Fan</role>
+    </credit>
+    <credit>
+      <actor>Woods, James (I)</actor>
+      <role>Dr. Harvey Mandrake</role>
+    </credit>
+    <credit>
+      <actor>Wright, Marty (I)</actor>
+      <role>Beastman</role>
+    </credit>
+    <credit>
+      <actor>Yeaman, Todd Eric</actor>
+      <role>Additional Player</role>
+    </credit>
+    <credit>
+      <actor>Young, Art (I)</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>de Leon, Dita</actor>
+      <role>Party Girl</role>
+    </credit>
+    <credit>
+      <actor>de la Vida, Mauricio</actor>
+      <role>Fan</role>
+    </credit>
+  </cast>
+<plot>When a devastating hit knocks a professional football legend and quarterback Cap Rooney out of the game, a young, unknown third-stringer is called in to replace him. Having ridden the bench for years because of a string of bad luck stories and perhaps insufficient character, Willie Beaman seizes what may be his last chance, and lights up the field with a raw display of athletic prowess. His stunning performance over several games is so outstanding and fresh it seems to augur a new era in the history of this Miami franchise, and forces aging coach Tony D'Amato to reevaluate his time-tested values and strategies and begin to confront the fact that the game, as well as post-modern life may be passing him by. Adding to the pressure on D'Amato to win at any cost is the aggressive young President/Co-owner of the team, Christina Pagniacci, now coming into her own after her father's death. Christina's driving desire to prove herself in a male dominated world is intensified by her focus on the marketing and business of football, in which all coaches and players are merely properties.</plot><url>http://localhost:8983/solr/movie.html?042903</url></doc>

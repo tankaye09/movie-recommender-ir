@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="161280">
+  <docid>161280</docid>
+  <title>Duas Caras</title>
+  <year>2007</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Correa, Paulo Jorge</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <languages>
+    <language>Portuguese</language>
+  </languages>
+  <countries>
+    <country>Brazil</country>
+  </countries>
+  <certificates>
+    <certificate country="Brazil">12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Brazil">23 January 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Brazil">36</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Boeckel, Cláudio</director>
+    <director>Carvana, Pedro</director>
+    <director>Coslov, Ary</director>
+    <director>Maya, Wolf</director>
+    <director>Rodrigues, Miguel (I)</director>
+  </directors>
+  <writers>
+    <writer>Silva, Aguinaldo</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Abraão, Alvaro</actor>
+      <role>Henrique</role>
+    </credit>
+    <credit>
+      <actor>Alba, Juan</actor>
+      <role>Delegado Silva</role>
+    </credit>
+    <credit>
+      <actor>Alessandra, Flávia</actor>
+      <role>Alzira</role>
+    </credit>
+    <credit>
+      <actor>Almeida, Diogo</actor>
+      <role>Rudolf</role>
+    </credit>
+    <credit>
+      <actor>Almeida, Júlia</actor>
+      <role>Fernanda</role>
+    </credit>
+    <credit>
+      <actor>Alves, Adriana</actor>
+      <role>Morena</role>
+    </credit>
+    <credit>
+      <actor>Alves, Juliana (II)</actor>
+      <role>Gislaine</role>
+    </credit>
+    <credit>
+      <actor>Amorim, César</actor>
+      <role>Soneca</role>
+    </credit>
+    <credit>
+      <actor>Andrade, Miguel (I)</actor>
+      <role>Rui</role>
+    </credit>
+    <credit>
+      <actor>Antello, Josi</actor>
+      <role>Amélia</role>
+    </credit>
+    <credit>
+      <actor>Antello, Josi</actor>
+      <role>Amélia</role>
+    </credit>
+    <credit>
+      <actor>Antunes, Jackson</actor>
+      <role>Ministro</role>
+    </credit>
+    <credit>
+      <actor>Antônio, Ângelo (I)</actor>
+      <role>Dorgival</role>
+    </credit>
+    <credit>
+      <actor>Araújo, Anna Karolina</actor>
+      <role>Empregada de Rudolf</role>
+    </credit>
+    <credit>
+      <actor>Argenta, Marcelo</actor>
+      <role>Márcio</role>
+    </credit>
+    <credit>
+      <actor>Augusto, Otávio</actor>
+      <role>Antônio</role>
+    </credit>
+    <credit>
+      <actor>Azevedo, Dudu</actor>
+      <role>Barretinho</role>
+    </credit>
+    <credit>
+      <actor>Babaioff, Armando</actor>
+      <role>Benoliel</role>
+    </credit>
+    <credit>
+      <actor>Babaioff, Armando</actor>
+      <role>Benoliel</role>
+    </credit>
+    <credit>
+      <actor>Barbosa, Lidiane</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Barbosa, Luciana</actor>
+      <role>Priscila</role>
+    </credit>
+    <credit>
+      <actor>Barbosa, Prazeres</actor>
+      <role>Shirley</role>
+    </credit>
+    <credit>
+      <actor>Barbosa, Prazeres</actor>
+      <role>Shirley</role>
+    </credit>
+    <credit>
+      <actor>Barros, Lucas</actor>
+      <role>Dorginho</role>
+    </credit>
+    <credit>
+      <actor>Barroso, Marcela</actor>
+      <role>Ramona</role>
+    </credit>
+    <credit>
+      <actor>Barroso, Marcela</actor>
+      <role>Ramona</role>
+    </credit>
+    <credit>
+      <actor>Bauraqui, Flavio</actor>
+      <role>Ezequiel</role>
+    </credit>
+    <credit>
+      <actor>Bendelack, Wendell</actor>
+      <role>João Fuleiro</role>
+    </credit>
+    <credit>
+      <actor>Berraquero, Jack</actor>
+      <role>Camelô</role>
+    </credit>
+    <credit>
+      <actor>Blat, Ricardo</actor>
+      <role>Inácio Lisboa</role>
+    </credit>
+    <credit>
+      <actor>Borges, Bárbara</actor>
+      <role>Clarissa</role>
+    </credit>
+    <credit>
+      <actor>Borioni, Cláudia</actor>
+      <role>Mãe de Débora</role>
+    </credit>
+    <credit>
+      <actor>Brunet, Luíza</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cabo Freitas, Adysson</actor>
+      <role>Filho de Lucimar</role>
+    </credit>
+    <credit>
+      <actor>Capri, Herson</actor>
+      <role>João Pedro</role>
+    </credit>
+    <credit>
+      <actor>Capri, Herson</actor>
+      <role>João Pedro</role>
+    </credit>
+    <credit>
+      <actor>Cardoso, Laura (I)</actor>
+      <role>Alice</role>
+    </credit>
+    <credit>
+      <actor>Caruso, Karlo</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Carvalho, Anderson</actor>
+      <role>Deputado</role>
+    </credit>
+    <credit>
+      <actor>Cavalli, Leona</actor>
+      <role>Dália</role>
+    </credit>
+    <credit>
+      <actor>Ciocler, Caco</actor>
+      <role>Claudius</role>
+    </credit>
+    <credit>
+      <actor>Cléia, Tia</actor>
+      <role>Dona Almerinda</role>
+    </credit>
+    <credit>
+      <actor>Cosenza, Marilice</actor>
+      <role>Socorro</role>
+    </credit>
+    <credit>
+      <actor>Cosenza, Marilice</actor>
+      <role>Vitória</role>
+    </credit>
+    <credit>
+      <actor>Costa, Jackson</actor>
+      <role>Waterloo</role>
+    </credit>
+    <credit>
+      <actor>Costa, Jackson</actor>
+      <role>Waterloo</role>
+    </credit>
+    <credit>
+      <actor>Costa, Matheus</actor>
+      <role>Leone</role>
+    </credit>
+    <credit>
+      <actor>Costa, Matheus</actor>
+      <role>Leone</role>
+    </credit>
+    <credit>
+      <actor>Costa, Matheus</actor>
+      <role>Leonr</role>
+    </credit>
+    <credit>
+      <actor>Cotrim, Anna</actor>
+      <role>Telma</role>
+    </credit>
+    <credit>
+      <actor>Coutinho, Jorge (II)</actor>
+      <role>Celestino</role>
+    </credit>
+    <credit>
+      <actor>Crossara, Paola</actor>
+      <role>Rebeca</role>
+    </credit>
+    <credit>
+      <actor>Crossara, Paola</actor>
+      <role>Rebeca</role>
+    </credit>
+    <credit>
+      <actor>Crossara, Paola</actor>
+      <role>Rebeca</role>
+    </credit>
+    <credit>
+      <actor>Cuoco, Francisco</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dale, André</actor>
+      <role>Maluco</role>
+    </credit>
+    <credit>
+      <actor>Dandara, Luana</actor>
+      <role>Manoela</role>
+    </credit>
+    <credit>
+      <actor>Dandara, Luana</actor>
+      <role>Manoela</role>
+    </credit>
+    <credit>
+      <actor>Dandara, Luana</actor>
+      <role>Manoela</role>
+    </credit>
+    <credit>
+      <actor>Debt, Simone</actor>
+      <role>Nelly</role>
+    </credit>
+    <credit>
+      <actor>Derkian, Dênis</actor>
+      <role>Carvalho</role>
+    </credit>
+    <credit>
+      <actor>Dos Santos, Wilson</actor>
+      <role>Jojô</role>
+    </credit>
+    <credit>
+      <actor>Duarte, Guilherme</actor>
+      <role>Zidane</role>
+    </credit>
+    <credit>
+      <actor>Duarte, Guilherme</actor>
+      <role>Zidane</role>
+    </credit>
+    <credit>
+      <actor>Dubeaux, Bruno</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Durbeaux, Bruno</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Dória, Adriano</actor>
+      <role>Marcha Lenta</role>
+    </credit>
+    <credit>
+      <actor>Dória, Adriano</actor>
+      <role>Marcha Lenta</role>
+    </credit>
+    <credit>
+      <actor>Egrei, Selma</actor>
+      <role>Compradora da casa</role>
+    </credit>
+    <credit>
+      <actor>Estiano, Marjorie</actor>
+      <role>Maria Paula</role>
+    </credit>
+    <credit>
+      <actor>Estiano, Marjorie</actor>
+      <role>Maria Paula</role>
+    </credit>
+    <credit>
+      <actor>Fagundes, Antônio</actor>
+      <role>Juvenal Antena</role>
+    </credit>
+    <credit>
+      <actor>Falabella, Débora</actor>
+      <role>Júlia</role>
+    </credit>
+    <credit>
+      <actor>Faria, Betty</actor>
+      <role>Bárbara</role>
+    </credit>
+    <credit>
+      <actor>Farias, Jacqueline</actor>
+      <role>Dançarina</role>
+    </credit>
+    <credit>
+      <actor>Feres, Bia</actor>
+      <role>Aluna</role>
+    </credit>
+    <credit>
+      <actor>Feres, Bia</actor>
+      <role>Luli</role>
+    </credit>
+    <credit>
+      <actor>Feres, Branca</actor>
+      <role>Aluna</role>
+    </credit>
+    <credit>
+      <actor>Feres, Branca</actor>
+      <role>Luci</role>
+    </credit>
+    <credit>
+      <actor>Fernandes, Thelmo</actor>
+      <role>Escrivão</role>
+    </credit>
+    <credit>
+      <actor>Ferreira, William</actor>
+      <role>Roger Bernstein</role>
+    </credit>
+    <credit>
+      <actor>Firmino, Antônio Sérgio</actor>
+      <role>Apolo</role>
+    </credit>
+    <credit>
+      <actor>Firmino, Antônio Sérgio</actor>
+      <role>Apolo</role>
+    </credit>
+    <credit>
+      <actor>Fischer, Vera (I)</actor>
+      <role>Dolores</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Lionel</actor>
+      <role>Dr.Arnaldo</role>
+    </credit>
+    <credit>
+      <actor>Fiuna, Raquel</actor>
+      <role>Vitória</role>
+    </credit>
+    <credit>
+      <actor>Folly, Ana Luíza</actor>
+      <role>Leonora Messias</role>
+    </credit>
+    <credit>
+      <actor>Fonseca, Celso</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Frambach, André Luiz</actor>
+      <role>Juvenaldo</role>
+    </credit>
+    <credit>
+      <actor>Francisco, Lady</actor>
+      <role>Odete</role>
+    </credit>
+    <credit>
+      <actor>França, Rayana</actor>
+      <role>Filha de Jojô</role>
+    </credit>
+    <credit>
+      <actor>Freire, Juliana</actor>
+      <role>Ramona - Child</role>
+    </credit>
+    <credit>
+      <actor>Fuina, Raquel</actor>
+      <role>Socorro</role>
+    </credit>
+    <credit>
+      <actor>Gabriela, Marília</actor>
+      <role>Guigui</role>
+    </credit>
+    <credit>
+      <actor>Galvan, Cláudio</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Cristina</actor>
+      <role>Lucimar</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Cristina</actor>
+      <role>Lucimar</role>
+    </credit>
+    <credit>
+      <actor>Galvão, Cristina</actor>
+      <role>Lucimar</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Stênio</actor>
+      <role>Barreto</role>
+    </credit>
+    <credit>
+      <actor>Garib, Adriano</actor>
+      <role>Silvano</role>
+    </credit>
+    <credit>
+      <actor>Gasper, Elizabeth</actor>
+      <role>Beatriz</role>
+    </credit>
+    <credit>
+      <actor>Giácomo, Vanessa</actor>
+      <role>Luciana</role>
+    </credit>
+    <credit>
+      <actor>Gjelman, Isio</actor>
+      <role>Empresário</role>
+    </credit>
+    <credit>
+      <actor>Glorski, Guilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Glorski, Guilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Gomes, Gláucio</actor>
+      <role>Mariozinho Pedreira</role>
+    </credit>
+    <credit>
+      <actor>Gomes, Ida</actor>
+      <role>Frida</role>
+    </credit>
+    <credit>
+      <actor>Gonçalves, Maurício</actor>
+      <role>Lima Barreto</role>
+    </credit>
+    <credit>
+      <actor>Gorski, Guilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Gorski, Guilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Gorski, Guilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Gotsha</actor>
+      <role>Eunice</role>
+    </credit>
+    <credit>
+      <actor>Goulart, Paulo</actor>
+      <role>Heriberto</role>
+    </credit>
+    <credit>
+      <actor>Gprski, Giilherme</actor>
+      <role>Duda</role>
+    </credit>
+    <credit>
+      <actor>Guerra, Humberto (II)</actor>
+      <role>Feliz</role>
+    </credit>
+    <credit>
+      <actor>Gómez, Javier (III)</actor>
+      <role>Dr. Hildalgo</role>
+    </credit>
+    <credit>
+      <actor>Hilbert, Rodrigo</actor>
+      <role>Ronildo</role>
+    </credit>
+    <credit>
+      <actor>Hilbert, Rodrigo</actor>
+      <role>Ronildo</role>
+    </credit>
+    <credit>
+      <actor>Holanda, Carolina</actor>
+      <role>Young Bárbara</role>
+    </credit>
+    <credit>
+      <actor>Holanda, Marcos</actor>
+      <role>Dunga</role>
+    </credit>
+    <credit>
+      <actor>Iamas, Leandro</actor>
+      <role>Atchim</role>
+    </credit>
+    <credit>
+      <actor>Jabour, Kelly</actor>
+      <role>Decoradora</role>
+    </credit>
+    <credit>
+      <actor>Jasmim, Mauro</actor>
+      <role>Roberto</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Eri</actor>
+      <role>Zé da Feira</role>
+    </credit>
+    <credit>
+      <actor>Kanaan, Munir</actor>
+      <role>Mosquito</role>
+    </credit>
+    <credit>
+      <actor>Kara, Tina</actor>
+      <role>Lavínia</role>
+    </credit>
+    <credit>
+      <actor>Knust, Juliana</actor>
+      <role>Débora</role>
+    </credit>
+    <credit>
+      <actor>Lafond, Monique</actor>
+      <role>Stelinha</role>
+    </credit>
+    <credit>
+      <actor>Lago, Betty</actor>
+      <role>Soraya</role>
+    </credit>
+    <credit>
+      <actor>Lannes, Ana Karolina</actor>
+      <role>Sofia</role>
+    </credit>
+    <credit>
+      <actor>Lara, Eduardo</actor>
+      <role>Frango Veloz</role>
+    </credit>
+    <credit>
+      <actor>Leão, Eriberto</actor>
+      <role>Italo</role>
+    </credit>
+    <credit>
+      <actor>Lima, André Luiz</actor>
+      <role>Zangado</role>
+    </credit>
+    <credit>
+      <actor>Liuzzi, Alexandre</actor>
+      <role>Dagmar</role>
+    </credit>
+    <credit>
+      <actor>Lobato, Isabela</actor>
+      <role>Heloísa</role>
+    </credit>
+    <credit>
+      <actor>Lopes, Pedro Lucas</actor>
+      <role>Petrus - Child</role>
+    </credit>
+    <credit>
+      <actor>Lopes, Roberto</actor>
+      <role>Gilmar</role>
+    </credit>
+    <credit>
+      <actor>Luiz, Elmo</actor>
+      <role>Gavião Sereno</role>
+    </credit>
+    <credit>
+      <actor>Luz, Hada</actor>
+      <role>Colega de Clarissa</role>
+    </credit>
+    <credit>
+      <actor>Luz, Isabela</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Machado, Carlos (IV)</actor>
+      <role>Siqueira</role>
+    </credit>
+    <credit>
+      <actor>Machado, Cristiane</actor>
+      <role>Maria Helena</role>
+    </credit>
+    <credit>
+      <actor>Machado, Larissa</actor>
+      <role>Colega de Clarissa</role>
+    </credit>
+    <credit>
+      <actor>Madeira, Augusto</actor>
+      <role>Dr.Marcelo</role>
+    </credit>
+    <credit>
+      <actor>Magrini, Oscar</actor>
+      <role>Gabriel</role>
+    </credit>
+    <credit>
+      <actor>Maia, Nuno Leal</actor>
+      <role>Bernardo</role>
+    </credit>
+    <credit>
+      <actor>Maia, Nuno Leal</actor>
+      <role>Bernardo</role>
+    </credit>
+    <credit>
+      <actor>Manzan, Mara</actor>
+      <role>Amara</role>
+    </credit>
+    <credit>
+      <actor>Manzan, Tathiane</actor>
+      <role>Ruth</role>
+    </credit>
+    <credit>
+      <actor>Manzan, Tathiane</actor>
+      <role>Vilma</role>
+    </credit>
+    <credit>
+      <actor>Mariliane, Bianca</actor>
+      <role>Dolores' assistant</role>
+    </credit>
+    <credit>
+      <actor>Mariliane, Bianca</actor>
+      <role>Dolores's assistant</role>
+    </credit>
+    <credit>
+      <actor>Mariliane, Bianca</actor>
+      <role>Heloísa</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Raphael</actor>
+      <role>Elvis</role>
+    </credit>
+    <credit>
+      <actor>Martins, Alexandra</actor>
+      <role>Daniela</role>
+    </credit>
+    <credit>
+      <actor>Massari, Sylvia</actor>
+      <role>Graça</role>
+    </credit>
+    <credit>
+      <actor>Massari, Sylvia</actor>
+      <role>Graça Lagoa</role>
+    </credit>
+    <credit>
+      <actor>Maya, Wolf</actor>
+      <role>Geraldo Peixeiro</role>
+    </credit>
+    <credit>
+      <actor>Meira, Tarcísio</actor>
+      <role>Hermógenes</role>
+    </credit>
+    <credit>
+      <actor>Meira, Tarcísio</actor>
+      <role>Hermógenes</role>
+    </credit>
+    <credit>
+      <actor>Meireles, Totia</actor>
+      <role>Jandira</role>
+    </credit>
+    <credit>
+      <actor>Mendonça, Thiago (I)</actor>
+      <role>Bernardinho</role>
+    </credit>
+    <credit>
+      <actor>Menezes, Sheron</actor>
+      <role>Solange</role>
+    </credit>
+    <credit>
+      <actor>Mesquita, Bernardo</actor>
+      <role>Young Adalberto</role>
+    </credit>
+    <credit>
+      <actor>Mesquita, Bernardo</actor>
+      <role>Young Adalberto</role>
+    </credit>
+    <credit>
+      <actor>Mesquita, Bernardo</actor>
+      <role>Young Adalberto</role>
+    </credit>
+    <credit>
+      <actor>Miranda, Gilberto</actor>
+      <role>Divaldo</role>
+    </credit>
+    <credit>
+      <actor>Monarco</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Monte, Sérgio</actor>
+      <role>Dengoso</role>
+    </credit>
+    <credit>
+      <actor>Montenegro, Fátima</actor>
+      <role>Tanajura</role>
+    </credit>
+    <credit>
+      <actor>Moraes, Aline</actor>
+      <role>Sílvia</role>
+    </credit>
+    <credit>
+      <actor>Moraes, Aline</actor>
+      <role>Sílvia</role>
+    </credit>
+    <credit>
+      <actor>Mox, Sérgio</actor>
+      <role>Dono da Casa de Moeda</role>
+    </credit>
+    <credit>
+      <actor>Mário, Pietro</actor>
+      <role>Fernando Salles Prado</role>
+    </credit>
+    <credit>
+      <actor>Nader, Alex</actor>
+      <role>Enfermeiro</role>
+    </credit>
+    <credit>
+      <actor>Nazareth, Taiguara</actor>
+      <role>Miguel</role>
+    </credit>
+    <credit>
+      <actor>Oliveira, Ed</actor>
+      <role>Sequestrador</role>
+    </credit>
+    <credit>
+      <actor>Padilha, Bruno</actor>
+      <role>Heitor</role>
+    </credit>
+    <credit>
+      <actor>Palhares, Lugui</actor>
+      <role>Carlão</role>
+    </credit>
+    <credit>
+      <actor>Pecoraro, Victor</actor>
+      <role>Marcello</role>
+    </credit>
+    <credit>
+      <actor>Pelegrino, André</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Peres, Zé Luiz</actor>
+      <role>Zé Preguiça</role>
+    </credit>
+    <credit>
+      <actor>Peréio, Paulo César</actor>
+      <role>Lobato</role>
+    </credit>
+    <credit>
+      <actor>Piccini, Alexandre</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pontes, Everaldo</actor>
+      <role>Pai de Juvenaldo</role>
+    </credit>
+    <credit>
+      <actor>Quirino, Beto</actor>
+      <role>Mestre</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Lázaro</actor>
+      <role>Evilásio Caó</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Lázaro</actor>
+      <role>Evilásio Caó</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Lázaro</actor>
+      <role>Evilásio Caó</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Tony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Resende, Hugo</actor>
+      <role>Edmundo</role>
+    </credit>
+    <credit>
+      <actor>Resende, Hugo</actor>
+      <role>Mateus</role>
+    </credit>
+    <credit>
+      <actor>Ribeiro, Leandro</actor>
+      <role>Osvaldo</role>
+    </credit>
+    <credit>
+      <actor>Ribeiro, Leandro</actor>
+      <role>Osvaldo</role>
+    </credit>
+    <credit>
+      <actor>Rocha, Carlos (III)</actor>
+      <role>Noronha</role>
+    </credit>
+    <credit>
+      <actor>Rocha, Júlio</actor>
+      <role>João Batista</role>
+    </credit>
+    <credit>
+      <actor>Rocha, Júlio</actor>
+      <role>João Batista</role>
+    </credit>
+    <credit>
+      <actor>Rodrigues, Derlan</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Rodrigues, Raphael</actor>
+      <role>Brucelli</role>
+    </credit>
+    <credit>
+      <actor>Rodrigues, Raphael</actor>
+      <role>Brucelli</role>
+    </credit>
+    <credit>
+      <actor>Rogéria</actor>
+      <role>Astolfo</role>
+    </credit>
+    <credit>
+      <actor>Rosalém, Cyrano</actor>
+      <role>Deputado</role>
+    </credit>
+    <credit>
+      <actor>Saito, J.P.</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Salabert, Gabriel</actor>
+      <role>Presbítero Moisés</role>
+    </credit>
+    <credit>
+      <actor>Santana, Babu</actor>
+      <role>Montanha</role>
+    </credit>
+    <credit>
+      <actor>Santana, Babu</actor>
+      <role>Segurança da uisqueria</role>
+    </credit>
+    <credit>
+      <actor>Santana, Leonardo (II)</actor>
+      <role>Filho de Jojô</role>
+    </credit>
+    <credit>
+      <actor>Santanna, João</actor>
+      <role>Estudante</role>
+    </credit>
+    <credit>
+      <actor>Schünemann, Werner</actor>
+      <role>Humberto</role>
+    </credit>
+    <credit>
+      <actor>Sequeira, Gabriel</actor>
+      <role>Renato</role>
+    </credit>
+    <credit>
+      <actor>Sequeira, Gabriel</actor>
+      <role>Renato</role>
+    </credit>
+    <credit>
+      <actor>Serra, Paulo</actor>
+      <role>Ignacio Guevara</role>
+    </credit>
+    <credit>
+      <actor>Serra, Paulo</actor>
+      <role>Ignácio Guevara</role>
+    </credit>
+    <credit>
+      <actor>Slavieiro, Alexandre</actor>
+      <role>Heraldo</role>
+    </credit>
+    <credit>
+      <actor>Stefanini, Fúlvio</actor>
+      <role>Waldemar</role>
+    </credit>
+    <credit>
+      <actor>Tenreiro, Chico</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vereza, Carlos</actor>
+      <role>Helmut</role>
+    </credit>
+    <credit>
+      <actor>Vieira, Bruno</actor>
+      <role>Felipe</role>
+    </credit>
+    <credit>
+      <actor>Vieira, Carlos (IV)</actor>
+      <role>Queiroz</role>
+    </credit>
+    <credit>
+      <actor>Vieira, Sérgio (I)</actor>
+      <role>Petrus</role>
+    </credit>
+    <credit>
+      <actor>Vigh, Dalton</actor>
+      <role>Adalberto</role>
+    </credit>
+    <credit>
+      <actor>Vigh, Dalton</actor>
+      <role>Adalberto Rangel</role>
+    </credit>
+    <credit>
+      <actor>Vigh, Dalton</actor>
+      <role>Adalberto/Marconi</role>
+    </credit>
+    <credit>
+      <actor>Vigh, Dalton</actor>
+      <role>Marcone Ferraço</role>
+    </credit>
+    <credit>
+      <actor>Vigh, Dalton</actor>
+      <role>Marconi Ferraço</role>
+    </credit>
+    <credit>
+      <actor>Viotti, Sérgio</actor>
+      <role>Manoel</role>
+    </credit>
+    <credit>
+      <actor>Wilker, José</actor>
+      <role>Francisco Macieira</role>
+    </credit>
+    <credit>
+      <actor>Winter, Marcos</actor>
+      <role>Narciso</role>
+    </credit>
+    <credit>
+      <actor>Wortman, Oscar</actor>
+      <role>Juiz</role>
+    </credit>
+    <credit>
+      <actor>Wyllys, Jean</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Xavier, Ernesto</actor>
+      <role>Clementino</role>
+    </credit>
+    <credit>
+      <actor>da Vila, Martinho (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>da Viola, Paulinho</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>de Almeida, Ivan</actor>
+      <role>Misael</role>
+    </credit>
+    <credit>
+      <actor>de Brito, Vânia</actor>
+      <role>Madame</role>
+    </credit>
+    <credit>
+      <actor>de Campos, Thaís</actor>
+      <role>Claudine</role>
+    </credit>
+    <credit>
+      <actor>de Souza, Ruth</actor>
+      <role>Tia Nena</role>
+    </credit>
+  </cast>
+<plot>The story of Juvenal Antena (Antonio Fagundes), a popular leader from the slum of Portelinha, Marconi Ferraco (Dalton Vigh), a man who stole money from a rich heiress (Maria Paula / Marjorie Estiano) and Branca (Susana Vieira), the owner of a private university. Other characters include the interracial couple Evilasio (Lazaro Ramos) and Julia (Debora Falabella), the corrupt businessman Barreto (Stenio Garcia) and the gay chef Bernardinho (Thiago Mendonca) who takes part in a love triangle with Dalia (Leona Cavalli) and Heraldo (Alexandre Slaviero).</plot><url>http://localhost:8983/solr/movie.html?161280</url></doc>

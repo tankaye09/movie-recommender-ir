@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="605511">
+  <docid>605511</docid>
+  <title>Threat Matrix</title>
+  <year>2003</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bench, Craig</editor>
+    <editor>Cooke, Christopher (IV)</editor>
+    <editor>Doerfer, Andrew</editor>
+    <editor>Takaki, Troy</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <keywords>
+    <keyword>government</keyword>
+    <keyword>homeland-security-agency</keyword>
+    <keyword>terrorism</keyword>
+    <keyword>sign-language</keyword>
+    <keyword>deafness</keyword>
+    <keyword>television-flop</keyword>
+    <keyword>government-agent</keyword>
+    <keyword>female-agent</keyword>
+    <keyword>drug-enforcement</keyword>
+    <keyword>interrogation</keyword>
+    <keyword>computer-genius</keyword>
+    <keyword>flashback-sequence</keyword>
+    <keyword>ex-husband-ex-wife-relationship</keyword>
+    <keyword>terrorism-prevention</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">19 June 2005</releasedate>
+    <releasedate country="Netherlands">4 June 2008</releasedate>
+    <releasedate country="Brazil">15 September 2004</releasedate>
+    <releasedate country="UK">14 January 2005</releasedate>
+    <releasedate country="Germany">29 May 2008</releasedate>
+    <releasedate country="France">21 November 2004</releasedate>
+    <releasedate country="Hungary">9 December 2004</releasedate>
+    <releasedate country="Czech Republic">17 November 2004</releasedate>
+    <releasedate country="Iceland">28 September 2004</releasedate>
+    <releasedate country="Australia">31 May 2004</releasedate>
+    <releasedate country="Italy">8 December 2005</releasedate>
+    <releasedate country="USA">25 September 2003</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bee, Guy Norman</director>
+    <director>Gerber, Fred (I)</director>
+    <director>Grossman, David (III)</director>
+    <director>Haid, Charles</director>
+    <director>Kolbe, Winrich</director>
+    <director>Lang, Perry</director>
+    <director>Lerner, Dan (I)</director>
+    <director>Matheson, Tim (I)</director>
+    <director>O'Hara, Terrence</director>
+    <director>Sarafian, Deran</director>
+  </directors>
+  <producers>
+    <producer>Addis, Keith</producer>
+    <producer>Gerber, Fred (I)</producer>
+    <producer>Haid, Charles</producer>
+    <producer>Levisetti, Emile</producer>
+    <producer>Shiban, John</producer>
+    <producer>Jones, Trent (I)</producer>
+    <producer>Parigi, Robert</producer>
+    <producer>Skouras III, Charles</producer>
+    <producer>Costello, Kimberly</producer>
+    <producer>Miller, Nancy (III)</producer>
+    <producer>Addis, Keith</producer>
+    <producer>Edelstein, Michael (I)</producer>
+    <producer>Levisetti, Emile</producer>
+    <producer>Parriott, James D.</producer>
+    <producer>Voll, Daniel</producer>
+    <producer>Laramie, Bernie</producer>
+    <producer>Lazarov, Joe</producer>
+    <producer>Lea, Timothy J.</producer>
+    <producer>Perkins, George W.</producer>
+  </producers>
+  <writers>
+    <writer>Cain, Cheryl (I)</writer>
+    <writer>Costello, Kimberly</writer>
+    <writer>Hartung, Raymond</writer>
+    <writer>Jones, Trent (I)</writer>
+    <writer>Lea, Timothy J.</writer>
+    <writer>Miller, Nancy (III)</writer>
+    <writer>Parriott, James D.</writer>
+    <writer>Phelan, Tony (I)</writer>
+    <writer>Rater, Joan</writer>
+    <writer>Vetere, Richard</writer>
+    <writer>Voll, Daniel</writer>
+    <writer>Shiban, John</writer>
+    <writer>Voll, Daniel</writer>
+  </writers>
+  <composers>
+    <composer>Jablonsky, Steve</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adair-Rios, Mark</actor>
+      <role>Ahmed Ali Al Muhairi/Domingo Vara</role>
+    </credit>
+    <credit>
+      <actor>Adams, Jerry T.</actor>
+      <role>Courtroom Bailiff</role>
+    </credit>
+    <credit>
+      <actor>Addison, Walter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ajak, Benjamin</actor>
+      <role>Speaking Rebel</role>
+    </credit>
+    <credit>
+      <actor>Ali, Mahershalalhashbaz</actor>
+      <role>Jelani Harper</role>
+    </credit>
+    <credit>
+      <actor>Allman, Jamie Anne</actor>
+      <role>Hannah McLoughlin</role>
+    </credit>
+    <credit>
+      <actor>Allman, Marshall</actor>
+      <role>Teen Boy</role>
+    </credit>
+    <credit>
+      <actor>Allred, Corbin</actor>
+      <role>Pvt. Perry</role>
+    </credit>
+    <credit>
+      <actor>Almy, Brooks</actor>
+      <role>Hannah's Mother</role>
+    </credit>
+    <credit>
+      <actor>Ambrosino, Hira</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Nancy (I)</actor>
+      <role>Old Lady</role>
+    </credit>
+    <credit>
+      <actor>Anoushian, Raff</actor>
+      <role>Garbis</role>
+    </credit>
+    <credit>
+      <actor>Arizmendi, Yareli</actor>
+      <role>Ephia Rasekh</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Mark (I)</actor>
+      <role>Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>Aronov, Michael</actor>
+      <role>Amir Abadiyah</role>
+    </credit>
+    <credit>
+      <actor>Augustus, Sherman</actor>
+      <role>Sal Miller</role>
+    </credit>
+    <credit>
+      <actor>Azizi, Anthony</actor>
+      <role>Mohammad 'Mo' Hassain</role>
+    </credit>
+    <credit>
+      <actor>Bagby, Lawrence</actor>
+      <role>Silo Tech #1</role>
+    </credit>
+    <credit>
+      <actor>Ballerini, Edoardo</actor>
+      <role>Bobby DaCosta</role>
+    </credit>
+    <credit>
+      <actor>Barash, Brandon</actor>
+      <role>Marine#1</role>
+    </credit>
+    <credit>
+      <actor>Basco, Darion</actor>
+      <role>Teen Terrorist</role>
+    </credit>
+    <credit>
+      <actor>Bates, Jaisey</actor>
+      <role>Iraqi Woman</role>
+    </credit>
+    <credit>
+      <actor>Bauchau, Patrick</actor>
+      <role>Frederick Vorn</role>
+    </credit>
+    <credit>
+      <actor>Bellner, Matt</actor>
+      <role>Tech 1</role>
+    </credit>
+    <credit>
+      <actor>Birch, Bill</actor>
+      <role>FBI Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Bishop, John (I)</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Bishop, Loanne</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Boyar, Lombardo</actor>
+      <role>Victor Benitez</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Lee Oliver</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Lee Oliver</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Lee Oliver</actor>
+      <role>Reporter No. 1</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Lee Oliver</actor>
+      <role>Reporter No. 2</role>
+    </credit>
+    <credit>
+      <actor>Brennan, Jerry</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Brokaw, Giovanna</actor>
+      <role>Giovanna</role>
+    </credit>
+    <credit>
+      <actor>Bromka, Elaine</actor>
+      <role>Woman Witness</role>
+    </credit>
+    <credit>
+      <actor>Brown, Henry (I)</actor>
+      <role>Baggage Handler</role>
+    </credit>
+    <credit>
+      <actor>Bucaro III, Joe</actor>
+      <role>Bob Colt</role>
+    </credit>
+    <credit>
+      <actor>Burbano, Diana</actor>
+      <role>Customs Officer</role>
+    </credit>
+    <credit>
+      <actor>Bush, George W.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Butiu, Melody</actor>
+      <role>Raza's Wife</role>
+    </credit>
+    <credit>
+      <actor>Caceres, Kurt</actor>
+      <role>Tim Vargas</role>
+    </credit>
+    <credit>
+      <actor>Caceres, Kurt</actor>
+      <role>Tim Vargas</role>
+    </credit>
+    <credit>
+      <actor>Campbell, J. Kenneth</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cantu, Juan Carlos</actor>
+      <role>Baggage Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Cappelletti, Andrew</actor>
+      <role>Andrew Jefferson Prokop</role>
+    </credit>
+    <credit>
+      <actor>Caprell, James</actor>
+      <role>Husband</role>
+    </credit>
+    <credit>
+      <actor>Carhart, Timothy</actor>
+      <role>CSAF Scott</role>
+    </credit>
+    <credit>
+      <actor>Casabani, Marc</actor>
+      <role>Ham Bali</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ian Paul</actor>
+      <role>Captain Barkley</role>
+    </credit>
+    <credit>
+      <actor>Ceceña, Aldo</actor>
+      <role>Teenage Hostage</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Danny (I)</actor>
+      <role>Highway Patrolman</role>
+    </credit>
+    <credit>
+      <actor>Chew, Nathan</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Choi, Yun</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Clark, Eugene</actor>
+      <role>Honorable Justice Lamb</role>
+    </credit>
+    <credit>
+      <actor>Coloma, Marcus</actor>
+      <role>Checkout Clerk</role>
+    </credit>
+    <credit>
+      <actor>Connable, Joel</actor>
+      <role>Weatherman</role>
+    </credit>
+    <credit>
+      <actor>Coronel, Al</actor>
+      <role>Manuel Gonzales</role>
+    </credit>
+    <credit>
+      <actor>Crim, Frank</actor>
+      <role>Armed Courier</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Denise</actor>
+      <role>Gillian Sadler</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Liane Alexandra</actor>
+      <role>Counter Waitress</role>
+    </credit>
+    <credit>
+      <actor>Daniel, Gregg</actor>
+      <role>General Tucker</role>
+    </credit>
+    <credit>
+      <actor>Davis, Kyle (II)</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Dempsey, Michael (I)</actor>
+      <role>Coach Sadler</role>
+    </credit>
+    <credit>
+      <actor>Denton, James</actor>
+      <role>Special Agent John Kilmer</role>
+    </credit>
+    <credit>
+      <actor>Dixon, Dar</actor>
+      <role>Detective Fawk</role>
+    </credit>
+    <credit>
+      <actor>Donshik, Adam</actor>
+      <role>Fayez Ahmed/Tommy Smith</role>
+    </credit>
+    <credit>
+      <actor>Duffy, Donna M.</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Earnest, David (I)</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Eastman, Rodney</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Edward (I)</actor>
+      <role>Major</role>
+    </credit>
+    <credit>
+      <actor>Emanuel, Michael</actor>
+      <role>White Al Qaeda/Holst</role>
+    </credit>
+    <credit>
+      <actor>Etienne, Treva</actor>
+      <role>Mr. Kumala - Airport Manager</role>
+    </credit>
+    <credit>
+      <actor>Evans, Wanda-Lee</actor>
+      <role>Hotel Manager</role>
+    </credit>
+    <credit>
+      <actor>Evers, Brian</actor>
+      <role>Senator Casper</role>
+    </credit>
+    <credit>
+      <actor>Febbrari, Jean-Christophe</actor>
+      <role>The Assassin</role>
+    </credit>
+    <credit>
+      <actor>Fenske, Raja</actor>
+      <role>Young Boy</role>
+    </credit>
+    <credit>
+      <actor>Figueroa, Efrain (I)</actor>
+      <role>Ambassador Guzman</role>
+    </credit>
+    <credit>
+      <actor>Finnegan, Mike (I)</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Finnegan, Rowan</actor>
+      <role>Patrick</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Camp Pendleton Security Chief Robert Burkehart</role>
+    </credit>
+    <credit>
+      <actor>Follows, Megan</actor>
+      <role>Denise</role>
+    </credit>
+    <credit>
+      <actor>Ford, Courtney (I)</actor>
+      <role>Staci</role>
+    </credit>
+    <credit>
+      <actor>Fournier, Neil</actor>
+      <role>Dark-haired Man</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Journalist #3</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter No. 1</role>
+    </credit>
+    <credit>
+      <actor>French, Colby</actor>
+      <role>Reporter No. 2</role>
+    </credit>
+    <credit>
+      <actor>Furst, Griff</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Galle, Jack</actor>
+      <role>FBI Agent #1</role>
+    </credit>
+    <credit>
+      <actor>Ganus, Paul</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Gillow, Edward C.</actor>
+      <role>CIA Agent</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Christopher</actor>
+      <role>Ralph</role>
+    </credit>
+    <credit>
+      <actor>Gould, Jennifer (II)</actor>
+      <role>San Diego Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Graham, Currie</actor>
+      <role>Agent Daley</role>
+    </credit>
+    <credit>
+      <actor>Greene, Michele</actor>
+      <role>Anne Colt</role>
+    </credit>
+    <credit>
+      <actor>Greenquist, Brad</actor>
+      <role>Radenmacher</role>
+    </credit>
+    <credit>
+      <actor>Guilak, Nicholas</actor>
+      <role>Sam Bari</role>
+    </credit>
+    <credit>
+      <actor>Guillory, Bennet</actor>
+      <role>Army Surgeon</role>
+    </credit>
+    <credit>
+      <actor>Guzman, Jack</actor>
+      <role>TAC Unit Member</role>
+    </credit>
+    <credit>
+      <actor>Haid, Brittany</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Hallak, Robert (I)</actor>
+      <role>Suryan Reza</role>
+    </credit>
+    <credit>
+      <actor>Hannity, Sean</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harris, Dustin (I)</actor>
+      <role>Young Soldier</role>
+    </credit>
+    <credit>
+      <actor>Harris, Joe Don</actor>
+      <role>SWAT No.4</role>
+    </credit>
+    <credit>
+      <actor>Hendrie, Chris (I)</actor>
+      <role>Mr. Packer</role>
+    </credit>
+    <credit>
+      <actor>Hess, Sandra</actor>
+      <role>Simone Benoit</role>
+    </credit>
+    <credit>
+      <actor>Hinkley, Brent</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Hoeft, Andrew</actor>
+      <role>Young Heath Shelby</role>
+    </credit>
+    <credit>
+      <actor>Hooker, Buddy Joe</actor>
+      <role>Andy Wader</role>
+    </credit>
+    <credit>
+      <actor>Hosea, Bobby</actor>
+      <role>Kenneth Holmes</role>
+    </credit>
+    <credit>
+      <actor>Howerton, Charles</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Hu, Kelly</actor>
+      <role>Agent Mia Chen</role>
+    </credit>
+    <credit>
+      <actor>Imada, Brian</actor>
+      <role>Asian Kidnapper No. 2</role>
+    </credit>
+    <credit>
+      <actor>Ivanir, Mark</actor>
+      <role>Alpha-126</role>
+    </credit>
+    <credit>
+      <actor>James, Dublin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jenson, Gunther</actor>
+      <role>Melvin Pomeroy</role>
+    </credit>
+    <credit>
+      <actor>Jobrani, Maz</actor>
+      <role>Yousef</role>
+    </credit>
+    <credit>
+      <actor>Jones, Anthony R. (I)</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Jones, Matthew (III)</actor>
+      <role>Border Guard</role>
+    </credit>
+    <credit>
+      <actor>Jones, Veralyn</actor>
+      <role>Nardino</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Reggie</actor>
+      <role>DC Cop</role>
+    </credit>
+    <credit>
+      <actor>Judson-Yager, Anne</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kang, Sung</actor>
+      <role>Ray Lee</role>
+    </credit>
+    <credit>
+      <actor>Kim, Steve (III)</actor>
+      <role>Asian Kidnapper No. 1</role>
+    </credit>
+    <credit>
+      <actor>Koff, David (II)</actor>
+      <role>James Gillespie</role>
+    </credit>
+    <credit>
+      <actor>Korn, Miriam</actor>
+      <role>Teenage Girl</role>
+    </credit>
+    <credit>
+      <actor>Krige, Alice</actor>
+      <role>Senator Lily Randolph</role>
+    </credit>
+    <credit>
+      <actor>Lane Jr., Teddy</actor>
+      <role>Secret Service</role>
+    </credit>
+    <credit>
+      <actor>Lau, Jim</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Lee, James (II)</actor>
+      <role>The Man</role>
+    </credit>
+    <credit>
+      <actor>Lee, James Kyson</actor>
+      <role>Vargas Killer</role>
+    </credit>
+    <credit>
+      <actor>Lee, Will Yun</actor>
+      <role>Danny Roh</role>
+    </credit>
+    <credit>
+      <actor>Leek, Tiiu</actor>
+      <role>D.C. Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Leek, Tiiu</actor>
+      <role>DC Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Leek, Tiiu</actor>
+      <role>Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Lifford, Tina</actor>
+      <role>The female pathologist</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Peter J.</actor>
+      <role>Oleg Kretzin</role>
+    </credit>
+    <credit>
+      <actor>Luong, Kathleen</actor>
+      <role>Min-Young</role>
+    </credit>
+    <credit>
+      <actor>Lychnikoff, Pavel</actor>
+      <role>Konstantin Noskeno</role>
+    </credit>
+    <credit>
+      <actor>Lyman, Will</actor>
+      <role>Colonel Roger Atkins</role>
+    </credit>
+    <credit>
+      <actor>Magana, Eddie</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Maguire, Henry (I)</actor>
+      <role>Ned Whitte</role>
+    </credit>
+    <credit>
+      <actor>Marashlian, Shant</actor>
+      <role>Arab American Teen #1</role>
+    </credit>
+    <credit>
+      <actor>Maratos, Terry</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Marriot, Jimmy</actor>
+      <role>Arab Teen #2</role>
+    </credit>
+    <credit>
+      <actor>Maske, Fred</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Massee, Michael</actor>
+      <role>Campbell Prokop</role>
+    </credit>
+    <credit>
+      <actor>McIntyre, Betsy</actor>
+      <role>Special Agent</role>
+    </credit>
+    <credit>
+      <actor>McMurtrey, Joan</actor>
+      <role>Laura Shelby</role>
+    </credit>
+    <credit>
+      <actor>Michael, Christopher (I)</actor>
+      <role>Exchange Guard</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, E. Roger</actor>
+      <role>Silo Tech #2</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Wayne (II)</actor>
+      <role>DC Police</role>
+    </credit>
+    <credit>
+      <actor>Monroe, Steve (I)</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Moore, John Rixey</actor>
+      <role>Senator Penzler</role>
+    </credit>
+    <credit>
+      <actor>Morehouse, Ron</actor>
+      <role>Heath Shelby</role>
+    </credit>
+    <credit>
+      <actor>Moroff, Mike</actor>
+      <role>General Mendoza</role>
+    </credit>
+    <credit>
+      <actor>Mui, Eddie</actor>
+      <role>Khmer Tep</role>
+    </credit>
+    <credit>
+      <actor>Negahban, Navid</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Nicolas, Daniel (I)</actor>
+      <role>Frank Webster</role>
+    </credit>
+    <credit>
+      <actor>O'Connor, Patrick (VII)</actor>
+      <role>Coroner</role>
+    </credit>
+    <credit>
+      <actor>Orfe, Mick</actor>
+      <role>Ron Brand</role>
+    </credit>
+    <credit>
+      <actor>Owens, Albert</actor>
+      <role>Skouras</role>
+    </credit>
+    <credit>
+      <actor>Paul, Aaron (I)</actor>
+      <role>Shane</role>
+    </credit>
+    <credit>
+      <actor>Paulin, Scott</actor>
+      <role>Tom Shelby</role>
+    </credit>
+    <credit>
+      <actor>Pellow, Clifford A.</actor>
+      <role>Gas Station Owner</role>
+    </credit>
+    <credit>
+      <actor>Perez, George (I)</actor>
+      <role>Perro</role>
+    </credit>
+    <credit>
+      <actor>Perry, John Bennett</actor>
+      <role>Senator Otto</role>
+    </credit>
+    <credit>
+      <actor>Petrarca, Steven</actor>
+      <role>Agent Adam Anders</role>
+    </credit>
+    <credit>
+      <actor>Proscia, Ray</actor>
+      <role>Man in Black</role>
+    </credit>
+    <credit>
+      <actor>Rao, Kiran (I)</actor>
+      <role>Dr. Kumar Rasekh</role>
+    </credit>
+    <credit>
+      <actor>Rivas, Geoffrey</actor>
+      <role>Juan Alcadar</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Leonard</actor>
+      <role>Tom Purdy/Ibrahim Kureshi</role>
+    </credit>
+    <credit>
+      <actor>Rosales, Wells</actor>
+      <role>Field Worker</role>
+    </credit>
+    <credit>
+      <actor>Rothhaar, Michael</actor>
+      <role>Ben Tupper</role>
+    </credit>
+    <credit>
+      <actor>Rountree, David</actor>
+      <role>Broker #1</role>
+    </credit>
+    <credit>
+      <actor>Rubinek, Saul</actor>
+      <role>Peter Tomashevski</role>
+    </credit>
+    <credit>
+      <actor>Russom, Leon</actor>
+      <role>Ray Miller</role>
+    </credit>
+    <credit>
+      <actor>Saadat, Nasser</actor>
+      <role>Muslim Cleric</role>
+    </credit>
+    <credit>
+      <actor>Salahuddin, Bashir</actor>
+      <role>Tower Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Sams, Russell</actor>
+      <role>Trevor</role>
+    </credit>
+    <credit>
+      <actor>Serrano, Diego (II)</actor>
+      <role>Martin Quintero</role>
+    </credit>
+    <credit>
+      <actor>Serrano, Nestor</actor>
+      <role>Senator Martin Cabrera</role>
+    </credit>
+    <credit>
+      <actor>Sharon, Yaniv</actor>
+      <role>German Phone Caller</role>
+    </credit>
+    <credit>
+      <actor>Shelton, Dean</actor>
+      <role>Austin</role>
+    </credit>
+    <credit>
+      <actor>Shigeta, James</actor>
+      <role>Kang Sok-Joo</role>
+    </credit>
+    <credit>
+      <actor>Silva, Gregory</actor>
+      <role>Bellman</role>
+    </credit>
+    <credit>
+      <actor>Sizemore, Kevin</actor>
+      <role>Coast Guard Lieutenant James</role>
+    </credit>
+    <credit>
+      <actor>Stephens Jr., Joseph</actor>
+      <role>Airport security guard #1</role>
+    </credit>
+    <credit>
+      <actor>Stephens, William-Christopher</actor>
+      <role>Guard #2</role>
+    </credit>
+    <credit>
+      <actor>Stevens, James Castle</actor>
+      <role>FBI Agent Crawford</role>
+    </credit>
+    <credit>
+      <actor>Strickland, Michael Eric</actor>
+      <role>Air Traffic Controller</role>
+    </credit>
+    <credit>
+      <actor>Sullivan, Matthew (I)</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Tabac, Yoni</actor>
+      <role>Paul West</role>
+    </credit>
+    <credit>
+      <actor>Tan, Dollar</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tom, Steve (I)</actor>
+      <role>News Anchorman</role>
+    </credit>
+    <credit>
+      <actor>Valdes-Kennedy, Armando</actor>
+      <role>Vega</role>
+    </credit>
+    <credit>
+      <actor>Valentine, Phil (III)</actor>
+      <role>Talk Show Host</role>
+    </credit>
+    <credit>
+      <actor>Vance, Sam (I)</actor>
+      <role>Tech #3</role>
+    </credit>
+    <credit>
+      <actor>Vance, Scott</actor>
+      <role>Daniel Hemming</role>
+    </credit>
+    <credit>
+      <actor>Walker, Seth T.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wandell, Joe</actor>
+      <role>TAC Unit Leader</role>
+    </credit>
+    <credit>
+      <actor>Ward, Jared</actor>
+      <role>Paramedic</role>
+    </credit>
+    <credit>
+      <actor>Ware, Andre (I)</actor>
+      <role>Vorn's Bodyguard</role>
+    </credit>
+    <credit>
+      <actor>Webster, Derek (I)</actor>
+      <role>Capt. Hanson</role>
+    </credit>
+    <credit>
+      <actor>Webster, Paul (III)</actor>
+      <role>Detective Joe Miller</role>
+    </credit>
+    <credit>
+      <actor>Weeks, Gary (II)</actor>
+      <role>State Policeman</role>
+    </credit>
+    <credit>
+      <actor>Wilderson, Wayne</actor>
+      <role>Ellis</role>
+    </credit>
+    <credit>
+      <actor>Williams, Wade (II)</actor>
+      <role>Teddy</role>
+    </credit>
+    <credit>
+      <actor>Yang King, Matthew</actor>
+      <role>Broker #2</role>
+    </credit>
+    <credit>
+      <actor>Yi, Tom</actor>
+      <role>Korean Aide</role>
+    </credit>
+    <credit>
+      <actor>de la Fuente, Cristián</actor>
+      <role>Special Agent Wilmar Sanchez</role>
+    </credit>
+  </cast>
+<plot>In a deep underground bunker called 'The Vault' located somewhere in Washington D. C. a group of CIA, FBI and NSA agents work together as part of the USA Homeland Security Force to keep the America safe from terrorists and other threats that the US President receives in a series of classified documents code titled the 'Threat Matrix'. The leader of this unit is Special Agent John Kilmer, a brilliant 42-year-old former FBI agent whom has White House authorization to call upon the technical skills, firepower and the specialist agents. Kilmer reports only to Colonel Roger Atkins, the gruff and shrewd operations liaison to the President. Kilmer is always conflicted by the presence of his ex-wife, Special Agent Frankie Ellroy-Kilmer, on his team. Frankie is a 35-year-old, ruthless and highly trained CIA interrogation expert and 'profiler' whose skills allow her to crack even the most hardened enemies. The rest of Kilmer's team make up of Mohammad 'Mo', a 34-year-old Egyptian-American former CIA operative stationed in the Middle East; Lia 'Lark' Larkin, a 36-year-old former FBI forensics specialist; Tim Vargus, a 28-year-old ex-DEA agent from Miami; Jelani, a 24-year-old African-American computer genius who intercepts phone, fax and radio signals from around the world and supports the team with the latest NSA technology, as well as the hearing-impaired, but equally intelligent Holly Brodeen, a young NSA computer tech expert who coordinates with Jelani.</plot><url>http://localhost:8983/solr/movie.html?605511</url></doc>

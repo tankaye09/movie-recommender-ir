@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="175198">
+  <docid>175198</docid>
+  <title>Elephant Shoe</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">26 August 2006</releasedate>
+    <releasedate country="USA">13 September 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">26</runningtime>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Barnett, Ryan M.</director>
+  </directors>
+  <producers>
+    <producer>Barnett, Ryan M.</producer>
+    <producer>Blahey, Lisa</producer>
+  </producers>
+  <writers>
+    <writer>Barnett, Ryan M.</writer>
+    <writer>Blahey, Lisa</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Bazuk, Mike</actor>
+      <role>Eamon</role>
+    </credit>
+    <credit>
+      <actor>Leroux, Sica</actor>
+      <role>Daisy</role>
+    </credit>
+    <credit>
+      <actor>Macdonald, Heather (II)</actor>
+      <role>Sunny</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Tom (VIII)</actor>
+      <role>Cameron</role>
+    </credit>
+  </cast>
+<plot>Eamon (Bazuk), a disillusioned college dropout, decides to take the low road, working as a gas station attendant in rural Ontario and purposefully keeping to himself. The narrow life he has prescribed for himself is disrupted by Daisy (Leroux), a lonely, hearing-impaired girl with a persistent crush on him.</plot><url>http://localhost:8983/solr/movie.html?175198</url></doc>

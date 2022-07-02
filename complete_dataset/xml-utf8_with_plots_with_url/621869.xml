@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="621869">
+  <docid>621869</docid>
+  <title>Twenty-One</title>
+  <year>1956</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Game-Show</genre>
+  </genres>
+  <keywords>
+    <keyword>number-in-title</keyword>
+    <keyword>non-fiction</keyword>
+    <keyword>quiz-show</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">TV-G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">15 September 1956</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Barry, Jack (I)</producer>
+    <producer>Enright, Dan (I)</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Barry, Jack (I)</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Stempel, Herb</actor>
+      <role>Himself/Contestant (1956-1957)</role>
+    </credit>
+    <credit>
+      <actor>Van Doren, Charles</actor>
+      <role>Himself/Contestant (1957-1958)</role>
+    </credit>
+  </cast>
+<plot>Two contestants were placed in separate isolation booths. Each player in turn would be given a category and asked how many points, from 1 to 11, he wanted to risk. Points increased with the questions difficulty. A correct answer earned the stated number of points, whereas a wrong answer would result in the points being deducted from the player's score. The first player to get 21 points won, unless the other player matched the score and forced a tie. Players could also end the game early if they felt they had enough points to win.</plot><url>http://localhost:8983/solr/movie.html?621869</url></doc>

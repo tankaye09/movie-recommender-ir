@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="235115">
+  <docid>235115</docid>
+  <title>Hello New York!</title>
+  <year>1928</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <languages>
+    <language>French</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <directors>
+    <director>Florey, Robert</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Chevalier, Maurice (I)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Maurice Chevalier and his wife, Yvonne Vallée arrive by ship from France and discover the wonders of New York City.</plot><url>http://localhost:8983/solr/movie.html?235115</url></doc>

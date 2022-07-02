@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="100133">
+  <docid>100133</docid>
+  <title>Charlas mexicanas</title>
+  <year>2004</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+  </genres>
+  <languages>
+    <language>Spanish</language>
+  </languages>
+  <countries>
+    <country>Mexico</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Mexico">4 October 2004</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">130</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Weingartshofer, Federico</director>
+  </directors>
+  <producers>
+    <producer>Carrion, Jorge</producer>
+    <producer>Henestrosa, Andrés</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Carrion, Jorge</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Henestrosa, Andrés</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Junco, Alfonso</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vasconcelos, Jose</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Documentary about the 1957 television series of the same name, includes footage from 5 episodes of the original series and a conversation with the two producers who appeared in the original series and their views of life in Mexico then and now.</plot><url>http://localhost:8983/solr/movie.html?100133</url></doc>

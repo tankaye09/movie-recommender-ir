@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="220337">
+  <docid>220337</docid>
+  <title>Goofy Movies Number Two</title>
+  <year>1934</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>number-in-title</keyword>
+    <keyword>house-fly</keyword>
+    <keyword>satire</keyword>
+    <keyword>silent-movie</keyword>
+    <keyword>voice-over-narration</keyword>
+    <keyword>newsreel</keyword>
+    <keyword>pete-smith</keyword>
+    <keyword>sequel</keyword>
+    <keyword>movie-in-title</keyword>
+    <keyword>laboratory</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">24 February 1934</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Smith, Pete (I)</producer>
+  </producers>
+  <composers>
+    <composer>Axt, William</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Smith, Pete (I)</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>This "whole show on one reel" starts with a Wotaphony Newsreel. One of the three news events shows Columbus discovering America. Following this is a spoof of coming-attraction trailers. Last is a film from Super-Titanic Pictures: "The Perils of Arsenic Annie." The excerpts from an unidentified silent movie bear no relation to the accompanying narration.</plot><url>http://localhost:8983/solr/movie.html?220337</url></doc>

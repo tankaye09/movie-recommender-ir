@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="155890">
+  <docid>155890</docid>
+  <title>Donald's Dog Laundry</title>
+  <year>1940</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>cartoon-dog</keyword>
+    <keyword>x-rayed-skeleton</keyword>
+    <keyword>donald-duck</keyword>
+    <keyword>cartoon-duck</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>dog</keyword>
+    <keyword>duck</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>pluto-the-character</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Finland">S</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">5 April 1940</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>King, Jack (I)</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Millar, Lee (II)</actor>
+      <role>Pluto</role>
+    </credit>
+    <credit>
+      <actor>Nash, Clarence</actor>
+      <role>Donald Duck</role>
+    </credit>
+  </cast>
+<plot>Donald Duck builds an automated dog washer while an unsuspecting Pluto naps nearby. When Donald finishes and announces his plan to use Pluto as his test subject, a battle of wills ensues, with Donald using a rubber bone and a cat puppet in an attempt to lure Pluto into the suds.</plot><url>http://localhost:8983/solr/movie.html?155890</url></doc>

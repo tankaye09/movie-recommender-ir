@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="060904">
+  <docid>060904</docid>
+  <title>Batman Beyond</title>
+  <year>1999</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+    <genre>Animation</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>inventor</keyword>
+    <keyword>based-on-comic</keyword>
+    <keyword>teenage-superhero</keyword>
+    <keyword>gadget</keyword>
+    <keyword>dc-comics</keyword>
+    <keyword>teen</keyword>
+    <keyword>superhero</keyword>
+    <keyword>based-on-comic-book</keyword>
+    <keyword>hero</keyword>
+    <keyword>mask</keyword>
+    <keyword>high-tech</keyword>
+    <keyword>secret-identity</keyword>
+    <keyword>sequel</keyword>
+    <keyword>cyberpunk</keyword>
+    <keyword>villain</keyword>
+    <keyword>technology</keyword>
+    <keyword>futuristic</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>batman</keyword>
+    <keyword>henchman</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Singapore">G</certificate>
+    <certificate country="USA">TV-PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Germany">23 October 1999</releasedate>
+    <releasedate country="USA">8 April 2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+    <runningtime country="Denmark">23</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Geda, Curt</director>
+    <director>Lim, Kyungwon</director>
+    <director>Lukic, Butch</director>
+    <director>Riba, Dan</director>
+    <director>Suzuki, Yukio</director>
+    <director>Tucker, James (IV)</director>
+  </directors>
+  <producers>
+    <producer>McLaughlin, Shaun</producer>
+    <producer>MacCurdy, Jean</producer>
+    <producer>Burnett, Alan</producer>
+    <producer>Dini, Paul</producer>
+    <producer>Murakami, Glen</producer>
+    <producer>Timm, Bruce W.</producer>
+  </producers>
+  <writers>
+    <writer>Bader, Hilary</writer>
+    <writer>Berkowitz, Stan</writer>
+    <writer>Burnett, Alan</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Dorkin, Evan</writer>
+    <writer>Dyer, Sarah</writer>
+    <writer>Fogel, Rich</writer>
+    <writer>Goodman, Bob (II)</writer>
+    <writer>McCann, John P. (I)</writer>
+    <writer>McLaughlin, Shaun</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Shirley, John (III)</writer>
+    <writer>Kane, Bob (I)</writer>
+  </writers>
+  <composers>
+    <composer>Carter, Kristopher</composer>
+    <composer>McCuistion, Michael</composer>
+    <composer>Ritmanis, Lolita</composer>
+    <composer>Walker, Shirley (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Akune, Shuko</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Alan, Jane</actor>
+      <role>Miss Winston</role>
+    </credit>
+    <credit>
+      <actor>Ansara, Michael</actor>
+      <role>Mr. Freeze/Victor Fries</role>
+    </credit>
+    <credit>
+      <actor>Appleby, Shiri</actor>
+      <role>Cynthia</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Curtis</actor>
+      <role>Warren</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Zeta/Zee</role>
+    </credit>
+    <credit>
+      <actor>Baldwin, Stephen (I)</actor>
+      <role>Big Time/Charlie Bigelow</role>
+    </credit>
+    <credit>
+      <actor>Barbeau, Adrienne</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Dr. Peter Corso</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>2-D Man/Stewart Lowe</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Zookeeper</role>
+    </credit>
+    <credit>
+      <actor>Benson, Jodi</actor>
+      <role>Aquagirl</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Computer</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Dispatch Agent</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Golem Controller</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Berkeley, Xander</actor>
+      <role>Dr. Childes</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Steven (II)</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Bowen, Andrew (I)</actor>
+      <role>Rick</role>
+    </credit>
+    <credit>
+      <actor>Brady, Wayne</actor>
+      <role>Micron</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Drew</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Howard</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Howard</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Howard</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Big Time</role>
+    </credit>
+    <credit>
+      <actor>Buchanan, Ian (I)</actor>
+      <role>Dr. Able Cuvier</role>
+    </credit>
+    <credit>
+      <actor>Bumpass, Rodger</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Barge Captain</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Captain</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>General Norman</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Istivan Hegendash</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Kobra Op 1</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Vilmos Egan</role>
+    </credit>
+    <credit>
+      <actor>Carteris, Gabrielle</actor>
+      <role>Sable Thorpe</role>
+    </credit>
+    <credit>
+      <actor>Casey, Bernie</actor>
+      <role>Tynis Black</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Kobra Commando</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Mr. Brooks</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Manor Cop</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Channing, Stockard</actor>
+      <role>Commissioner Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Channing, Stockard</actor>
+      <role>Commissioner Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Channing, Stockard</actor>
+      <role>Commissioner Gordon</role>
+    </credit>
+    <credit>
+      <actor>Cleverdon, Scott</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Cole, Eric Michael</actor>
+      <role>Kneejerk</role>
+    </credit>
+    <credit>
+      <actor>Cole, Gary (I)</actor>
+      <role>Zeta</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Falseface</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Collins, Stephen (I)</actor>
+      <role>Earth Mover/Tony Maychek</role>
+    </credit>
+    <credit>
+      <actor>Conroy, Kevin (I)</actor>
+      <role>Bruce Wayne</role>
+    </credit>
+    <credit>
+      <actor>Conroy, Kevin (I)</actor>
+      <role>Bruce Wayne</role>
+    </credit>
+    <credit>
+      <actor>Conroy, Kevin (I)</actor>
+      <role>Bruce Wayne/Batman</role>
+    </credit>
+    <credit>
+      <actor>Cook, Rachael Leigh</actor>
+      <role>Chelsea</role>
+    </credit>
+    <credit>
+      <actor>Cook, Rachael Leigh</actor>
+      <role>Chelsea Cunningham</role>
+    </credit>
+    <credit>
+      <actor>Curry, Tim (I)</actor>
+      <role>Mutro Botho</role>
+    </credit>
+    <credit>
+      <actor>Cypher, Jon</actor>
+      <role>Spellbinder</role>
+    </credit>
+    <credit>
+      <actor>Cypher, Jon</actor>
+      <role>Spellbinder/Dr. Ira Billings</role>
+    </credit>
+    <credit>
+      <actor>Dang, Timothy</actor>
+      <role>King Cobra</role>
+    </credit>
+    <credit>
+      <actor>Dang, Timothy</actor>
+      <role>The Driver</role>
+    </credit>
+    <credit>
+      <actor>Davi, Robert</actor>
+      <role>Magma/Dr. Mike Morgan</role>
+    </credit>
+    <credit>
+      <actor>Davis, Mark Jonathan</actor>
+      <role>Newsman</role>
+    </credit>
+    <credit>
+      <actor>Davis, Mark Jonathan</actor>
+      <role>Vid-News Anchor</role>
+    </credit>
+    <credit>
+      <actor>Davis, Mark Jonathan</actor>
+      <role>Virtual Anchor</role>
+    </credit>
+    <credit>
+      <actor>Davis, Mark Jonathan</actor>
+      <role>Virtual Newsman</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Servant Girl #2</role>
+    </credit>
+    <credit>
+      <actor>DelHoyo, George</actor>
+      <role>Captain Zane</role>
+    </credit>
+    <credit>
+      <actor>Demetral, Chris</actor>
+      <role>Corey Cavalieri</role>
+    </credit>
+    <credit>
+      <actor>Denisof, Alexis</actor>
+      <role>Zander</role>
+    </credit>
+    <credit>
+      <actor>Dennen, Barry</actor>
+      <role>Captain</role>
+    </credit>
+    <credit>
+      <actor>Dick, Andy (I)</actor>
+      <role>Slim</role>
+    </credit>
+    <credit>
+      <actor>Disney, Melissa</actor>
+      <role>Blade</role>
+    </credit>
+    <credit>
+      <actor>Disney, Melissa</actor>
+      <role>Blade/Bobbi Sommer</role>
+    </credit>
+    <credit>
+      <actor>Disney, Melissa</actor>
+      <role>Curaré</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Sports Announcer</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Virtual Anchor</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Virtual Announcer</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Virtual Announcer</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Virtual News Announcer</role>
+    </credit>
+    <credit>
+      <actor>Donohoe, Amanda</actor>
+      <role>Queen</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Sarah (I)</actor>
+      <role>Queen</role>
+    </credit>
+    <credit>
+      <actor>Drake, Larry</actor>
+      <role>Jackson Chappell</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Kevin (I)</actor>
+      <role>Dr. Howard Hodges</role>
+    </credit>
+    <credit>
+      <actor>Eagles, Greg</actor>
+      <role>Joker</role>
+    </credit>
+    <credit>
+      <actor>Eagles, Greg</actor>
+      <role>Max's Dad</role>
+    </credit>
+    <credit>
+      <actor>Eckhouse, James</actor>
+      <role>Zacharus</role>
+    </credit>
+    <credit>
+      <actor>Eikenberry, Jill</actor>
+      <role>Carter's Mom</role>
+    </credit>
+    <credit>
+      <actor>Einbinder, Chad</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Einbinder, Chad</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Elwes, Cary</actor>
+      <role>Paxton Powers</role>
+    </credit>
+    <credit>
+      <actor>Embry, Ethan</actor>
+      <role>Lee</role>
+    </credit>
+    <credit>
+      <actor>Embry, Ethan</actor>
+      <role>Terrapin</role>
+    </credit>
+    <credit>
+      <actor>Ensign, Michael</actor>
+      <role>Butler</role>
+    </credit>
+    <credit>
+      <actor>Fagerbakke, Bill</actor>
+      <role>Howard Lewis/Payback</role>
+    </credit>
+    <credit>
+      <actor>Faustino, David</actor>
+      <role>Sean Wallace</role>
+    </credit>
+    <credit>
+      <actor>Figueroa, Efrain (I)</actor>
+      <role>Repoman</role>
+    </credit>
+    <credit>
+      <actor>Fischer, Takayo</actor>
+      <role>Kairi Tanaga</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Miriam</actor>
+      <role>TV Newscaster</role>
+    </credit>
+    <credit>
+      <actor>Forke, Farrah</actor>
+      <role>Barda</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Kathleen (I)</actor>
+      <role>Ma Mayhem</role>
+    </credit>
+    <credit>
+      <actor>Friedle, Will</actor>
+      <role>Batman/Terrence 'Terry' McGinnis</role>
+    </credit>
+    <credit>
+      <actor>Friedle, Will</actor>
+      <role>Terrence 'Terry' McGinnis</role>
+    </credit>
+    <credit>
+      <actor>Friedle, Will</actor>
+      <role>Terry McGinnis/Batman</role>
+    </credit>
+    <credit>
+      <actor>Galecki, Johnny</actor>
+      <role>Knux</role>
+    </credit>
+    <credit>
+      <actor>Garr, Teri</actor>
+      <role>Mary McGinnis</role>
+    </credit>
+    <credit>
+      <actor>Garr, Teri</actor>
+      <role>Mrs. Mary McGinnis</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Dr. Pada Banjahri</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Jace</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Samir</role>
+    </credit>
+    <credit>
+      <actor>Gilchrist, Rebecca</actor>
+      <role>Joyce Caulder</role>
+    </credit>
+    <credit>
+      <actor>Gilchrist, Rebecca</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Gooding, Omar</actor>
+      <role>Jared Tate</role>
+    </credit>
+    <credit>
+      <actor>Gooding, Omar</actor>
+      <role>Trey</role>
+    </credit>
+    <credit>
+      <actor>Goretsky, Eliott</actor>
+      <role>Bellman</role>
+    </credit>
+    <credit>
+      <actor>Goretsky, Eliott</actor>
+      <role>Kip</role>
+    </credit>
+    <credit>
+      <actor>Grajeda, Javier</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Green, Seth</actor>
+      <role>Dempsey</role>
+    </credit>
+    <credit>
+      <actor>Green, Seth</actor>
+      <role>Nelson</role>
+    </credit>
+    <credit>
+      <actor>Green, Seth</actor>
+      <role>Nelson Nash</role>
+    </credit>
+    <credit>
+      <actor>Green, Seth</actor>
+      <role>Nelson Nash</role>
+    </credit>
+    <credit>
+      <actor>Gross, Michael (I)</actor>
+      <role>Warren McGinnis</role>
+    </credit>
+    <credit>
+      <actor>Guest, Nicholas</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Hale, Jennifer (I)</actor>
+      <role>Jessie</role>
+    </credit>
+    <credit>
+      <actor>Hall, Robert David</actor>
+      <role>Fulton</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Mark (I)</actor>
+      <role>Carter</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Linda (I)</actor>
+      <role>Dr. Stephanie Lake</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Armory/Big Jim Tate</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Jim Tate</role>
+    </credit>
+    <credit>
+      <actor>Harlan, Jeff</actor>
+      <role>Agent Console</role>
+    </credit>
+    <credit>
+      <actor>Harlan, Jeff</actor>
+      <role>Bellboy</role>
+    </credit>
+    <credit>
+      <actor>Harlan, Jeff</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Harlan, Jeff</actor>
+      <role>P.A. Announcer</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Angie</actor>
+      <role>Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Angie</actor>
+      <role>Commissioner Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Don (I)</actor>
+      <role>Guard/Vincent D'Anacable</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Don (I)</actor>
+      <role>Kidnapper</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Phil (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Telma</actor>
+      <role>Max's Mom</role>
+    </credit>
+    <credit>
+      <actor>Howard, Sherman</actor>
+      <role>Derek Powers</role>
+    </credit>
+    <credit>
+      <actor>Howard, Sherman</actor>
+      <role>Derek Powers</role>
+    </credit>
+    <credit>
+      <actor>Howard, Sherman</actor>
+      <role>Derek Powers/Blight</role>
+    </credit>
+    <credit>
+      <actor>Hussey, Olivia</actor>
+      <role>Talia</role>
+    </credit>
+    <credit>
+      <actor>Ice-T</actor>
+      <role>Ramrod</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Kate (I)</actor>
+      <role>Bombshell</role>
+    </credit>
+    <credit>
+      <actor>Jason, Peter</actor>
+      <role>Coach Greegen</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Lauri (I)</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Joles, Bob</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Keach, Stacy</actor>
+      <role>Richard Vance</role>
+    </credit>
+    <credit>
+      <actor>Kenny, Shannon (I)</actor>
+      <role>Inque</role>
+    </credit>
+    <credit>
+      <actor>Keymáh, T'Keyah Crystal</actor>
+      <role>Dispatch Operator</role>
+    </credit>
+    <credit>
+      <actor>Keymáh, T'Keyah Crystal</actor>
+      <role>Monica</role>
+    </credit>
+    <credit>
+      <actor>Keymáh, T'Keyah Crystal</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Kimbrough, Charles</actor>
+      <role>Gordon</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Coach</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Dr. Fong</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Jimmy Lin</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Mr. Tan</role>
+    </credit>
+    <credit>
+      <actor>Lala, Joe</actor>
+      <role>Sailboat Captain</role>
+    </credit>
+    <credit>
+      <actor>Lala, Joe</actor>
+      <role>Spike</role>
+    </credit>
+    <credit>
+      <actor>Landers, Fiona</actor>
+      <role>Girl</role>
+    </credit>
+    <credit>
+      <actor>Landers, Matt</actor>
+      <role>Louie</role>
+    </credit>
+    <credit>
+      <actor>Lauria, Dan</actor>
+      <role>Bill Wallace</role>
+    </credit>
+    <credit>
+      <actor>Lazenby, George</actor>
+      <role>King</role>
+    </credit>
+    <credit>
+      <actor>Long, Lisa (I)</actor>
+      <role>Karen Foley</role>
+    </credit>
+    <credit>
+      <actor>Lowenthal, Yvette</actor>
+      <role>Chelsea</role>
+    </credit>
+    <credit>
+      <actor>Lowenthal, Yvette</actor>
+      <role>Chelsea Cunningham</role>
+    </credit>
+    <credit>
+      <actor>Lumbly, Carl</actor>
+      <role>Stalker</role>
+    </credit>
+    <credit>
+      <actor>Lumbly, Carl</actor>
+      <role>Stalker</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Miss Winston</role>
+    </credit>
+    <credit>
+      <actor>Macy, William H.</actor>
+      <role>Aaron Herbst</role>
+    </credit>
+    <credit>
+      <actor>Macy, William H.</actor>
+      <role>Kerros</role>
+    </credit>
+    <credit>
+      <actor>Mahan, Kerrigan</actor>
+      <role>Baker</role>
+    </credit>
+    <credit>
+      <actor>Mahan, Kerrigan</actor>
+      <role>Kobra One</role>
+    </credit>
+    <credit>
+      <actor>Mahan, Kerrigan</actor>
+      <role>Main Kobra Op</role>
+    </credit>
+    <credit>
+      <actor>Malick, Wendie</actor>
+      <role>Dr. Price</role>
+    </credit>
+    <credit>
+      <actor>Mariano, John</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Marienthal, Eli</actor>
+      <role>Dak</role>
+    </credit>
+    <credit>
+      <actor>Marquette, Sean</actor>
+      <role>Miguel Diaz</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Jason</actor>
+      <role>Donny Grasso</role>
+    </credit>
+    <credit>
+      <actor>McAfee, Scott</actor>
+      <role>Willie Watt</role>
+    </credit>
+    <credit>
+      <actor>McClurg, Edie</actor>
+      <role>Ms. Martel</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Christopher (I)</actor>
+      <role>Superman</role>
+    </credit>
+    <credit>
+      <actor>McKean, Michael (I)</actor>
+      <role>Sneak Peek/Ian Peek</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Bum</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Chelsea's Dad</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Harry Tully</role>
+    </credit>
+    <credit>
+      <actor>Milo, Candi</actor>
+      <role>Nicole</role>
+    </credit>
+    <credit>
+      <actor>Mulkey, Chris</actor>
+      <role>Shriek</role>
+    </credit>
+    <credit>
+      <actor>Mulkey, Chris</actor>
+      <role>Walter Shreeve/Shriek</role>
+    </credit>
+    <credit>
+      <actor>Nash, Jason (I)</actor>
+      <role>Harold/Bullwhip</role>
+    </credit>
+    <credit>
+      <actor>O'Donohue, Ryan</actor>
+      <role>Matt McGinnis</role>
+    </credit>
+    <credit>
+      <actor>O'Donohue, Ryan</actor>
+      <role>Matthew 'Matt' McGinnis</role>
+    </credit>
+    <credit>
+      <actor>Onorati, Peter</actor>
+      <role>Ozzie</role>
+    </credit>
+    <credit>
+      <actor>Onorati, Peter</actor>
+      <role>Warhawk</role>
+    </credit>
+    <credit>
+      <actor>Oswalt, Patton</actor>
+      <role>Eldon Michaels</role>
+    </credit>
+    <credit>
+      <actor>Pankin, Stuart</actor>
+      <role>Key Negotiator</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Robert (I)</actor>
+      <role>Richard Armacost</role>
+    </credit>
+    <credit>
+      <actor>Pileggi, Mitch</actor>
+      <role>Dr. Stanton</role>
+    </credit>
+    <credit>
+      <actor>Polito, Jon</actor>
+      <role>The Major</role>
+    </credit>
+    <credit>
+      <actor>Rabson, Jan</actor>
+      <role>Rocketeer Leader</role>
+    </credit>
+    <credit>
+      <actor>Raider-Wexler, Victor</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Raider-Wexler, Victor</actor>
+      <role>Muscles</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Mr. Chandler</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Security Chief</role>
+    </credit>
+    <credit>
+      <actor>Richman, Peter Mark</actor>
+      <role>Winchell</role>
+    </credit>
+    <credit>
+      <actor>Ritter, John</actor>
+      <role>Dr. David Wheeler</role>
+    </credit>
+    <credit>
+      <actor>Rivers, Victor (I)</actor>
+      <role>Assassin Leader/Dylan Hillman</role>
+    </credit>
+    <credit>
+      <actor>Rivers, Victor (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Rivers, Victor (I)</actor>
+      <role>Invulnerable Man</role>
+    </credit>
+    <credit>
+      <actor>Rivers, Victor (I)</actor>
+      <role>Master Assassin</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Bumper</actor>
+      <role>Zack</role>
+    </credit>
+    <credit>
+      <actor>Rocket, Charles</actor>
+      <role>Donny's Dad</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Tristan</actor>
+      <role>Simon Harper</role>
+    </credit>
+    <credit>
+      <actor>Rollins, Henry</actor>
+      <role>Mad Stan/Stanley Labowski</role>
+    </credit>
+    <credit>
+      <actor>Rolston, Mark</actor>
+      <role>Carl</role>
+    </credit>
+    <credit>
+      <actor>Romano, Rino</actor>
+      <role>Kidnapper</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Agent West</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Carl</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Ollie</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Ollie</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Terminal/Carter Wilson</role>
+    </credit>
+    <credit>
+      <actor>Rosenbaum, Michael (I)</actor>
+      <role>Wendell</role>
+    </credit>
+    <credit>
+      <actor>Roth, Jack (I)</actor>
+      <role>Virtual Newsman</role>
+    </credit>
+    <credit>
+      <actor>Rubano, John</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, John</actor>
+      <role>Doctor #1</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, John</actor>
+      <role>Virtual News Anchor</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Richard (I)</actor>
+      <role>Mr. Deakins</role>
+    </credit>
+    <credit>
+      <actor>Sandoval, Miguel (I)</actor>
+      <role>Bennie</role>
+    </credit>
+    <credit>
+      <actor>Sandoval, Miguel (I)</actor>
+      <role>Dr. Blades</role>
+    </credit>
+    <credit>
+      <actor>Sandoval, Miguel (I)</actor>
+      <role>Mendez</role>
+    </credit>
+    <credit>
+      <actor>Schöne, Reiner</actor>
+      <role>James Van Dyle</role>
+    </credit>
+    <credit>
+      <actor>Sikking, James</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Sikking, James</actor>
+      <role>Harry Caulder</role>
+    </credit>
+    <credit>
+      <actor>Slaughter, Mark (II)</actor>
+      <role>Pie Joker</role>
+    </credit>
+    <credit>
+      <actor>Smith, Kurtwood</actor>
+      <role>Agent Bennett</role>
+    </credit>
+    <credit>
+      <actor>Smith, Taran Noah</actor>
+      <role>Rat Boy/Patrick Poundstone</role>
+    </credit>
+    <credit>
+      <actor>Smitrovich, Bill</actor>
+      <role>Frank Watt</role>
+    </credit>
+    <credit>
+      <actor>Smitrovich, Bill</actor>
+      <role>Ronny Boxer</role>
+    </credit>
+    <credit>
+      <actor>Spano, Joe</actor>
+      <role>Agent Bennet</role>
+    </credit>
+    <credit>
+      <actor>Spano, Joe</actor>
+      <role>Bennet</role>
+    </credit>
+    <credit>
+      <actor>Spano, Joe</actor>
+      <role>Boss</role>
+    </credit>
+    <credit>
+      <actor>Spano, Joe</actor>
+      <role>Sniper</role>
+    </credit>
+    <credit>
+      <actor>Stevenson, Parker</actor>
+      <role>Paxton Powers</role>
+    </credit>
+    <credit>
+      <actor>Strong, Rider</actor>
+      <role>Bobby Vance</role>
+    </credit>
+    <credit>
+      <actor>Sturgis, Gary Anthony</actor>
+      <role>Captain Howard Rubens</role>
+    </credit>
+    <credit>
+      <actor>Sturgis, Gary Anthony</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Sturgis, Gary Anthony</actor>
+      <role>Kobra</role>
+    </credit>
+    <credit>
+      <actor>Sturgis, Gary Anthony</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Szarabajka, Keith</actor>
+      <role>Bracelet Kobra</role>
+    </credit>
+    <credit>
+      <actor>Takei, George</actor>
+      <role>Mr. Fixx</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Alex (I)</actor>
+      <role>Burke</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Fingers the Gorilla</role>
+    </credit>
+    <credit>
+      <actor>Timm, Bruce W.</actor>
+      <role>J-Man</role>
+    </credit>
+    <credit>
+      <actor>Timm, Bruce W.</actor>
+      <role>Jokerz Leader</role>
+    </credit>
+    <credit>
+      <actor>Timm, Bruce W.</actor>
+      <role>Top Hat Joker</role>
+    </credit>
+    <credit>
+      <actor>Tochi, Brian</actor>
+      <role>Albino</role>
+    </credit>
+    <credit>
+      <actor>Torcellini, Jamie</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Tubert, Marcelo</actor>
+      <role>Ortiz</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Michael (I)</actor>
+      <role>Watkins</role>
+    </credit>
+    <credit>
+      <actor>Valentine, Scott (I)</actor>
+      <role>Coe</role>
+    </credit>
+    <credit>
+      <actor>Vennera, Chick</actor>
+      <role>Chaffeur</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Dave (I)</actor>
+      <role>Boy Student</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Dave (I)</actor>
+      <role>Dirk</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Dave (I)</actor>
+      <role>Rocketeer</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Dave (I)</actor>
+      <role>Stage Manager</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>Ra's Al Ghul</role>
+    </credit>
+    <credit>
+      <actor>Watanabe, Gedde</actor>
+      <role>Dr. Suzuki/Repeller</role>
+    </credit>
+    <credit>
+      <actor>Watanabe, Gedde</actor>
+      <role>Principal Nakamura</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Ace the Bathound</role>
+    </credit>
+    <credit>
+      <actor>Williams, Ian Patrick</actor>
+      <role>Andrews</role>
+    </credit>
+    <credit>
+      <actor>Winfield, Paul (I)</actor>
+      <role>DA Sam Young</role>
+    </credit>
+    <credit>
+      <actor>Winfield, Paul (I)</actor>
+      <role>District Attorney Sam Young</role>
+    </credit>
+    <credit>
+      <actor>Winfield, Paul (I)</actor>
+      <role>Sam Young</role>
+    </credit>
+    <credit>
+      <actor>Wise, Jim (I)</actor>
+      <role>Moose</role>
+    </credit>
+    <credit>
+      <actor>Worden, Marc</actor>
+      <role>Jody</role>
+    </credit>
+    <credit>
+      <actor>Worden, Marc</actor>
+      <role>Joker on Monorail</role>
+    </credit>
+    <credit>
+      <actor>Worden, Marc</actor>
+      <role>Scab</role>
+    </credit>
+    <credit>
+      <actor>Wylie, Adam</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Wylie, Adam</actor>
+      <role>Kenny</role>
+    </credit>
+    <credit>
+      <actor>Young, Keone</actor>
+      <role>Dr. Ho</role>
+    </credit>
+    <credit>
+      <actor>Ziering, Ian</actor>
+      <role>Mason Forrest</role>
+    </credit>
+    <credit>
+      <actor>d'Abo, Olivia</actor>
+      <role>Ten/Melanie Walker</role>
+    </credit>
+  </cast>
+<plot>At least 40 years after the "current" adventures of Batman and 20 years after Bruce Wayne retired from the role, his secret is discovered by troubled teen Terry McGinnis. After McGinnis' father is murdered by the man who took over Bruce Wayne's company, McGinnis dons a high-tech Bat suit that Wayne last used, creating a new hero for a future Gotham.</plot><url>http://localhost:8983/solr/movie.html?060904</url></doc>

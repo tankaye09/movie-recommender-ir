@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="384566">
+  <docid>384566</docid>
+  <title>My Name Is Smith</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>independent-film</keyword>
+    <keyword>religious</keyword>
+    <keyword>educational</keyword>
+    <keyword>coming-of-age</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">94</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Smith, James Allen</director>
+  </directors>
+  <producers>
+    <producer>Smith, James Allen</producer>
+    <producer>Smith, James Allen</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Smith, Virginia (VII)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Sometimes love isn't pretty... especially when it's your parents. Filmmaker James Smith spends a year with his parents and makes an unlikely discovery - a love story like no other. Meet the Smiths, a family almost as bizarre as your own.</plot><url>http://localhost:8983/solr/movie.html?384566</url></doc>

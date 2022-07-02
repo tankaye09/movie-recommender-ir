@@ -1,0 +1,3477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="197737">
+  <docid>197737</docid>
+  <title>Flikken</title>
+  <year>1999</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Paredis, Guido</editor>
+    <editor>Provoost, Luc</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>police</keyword>
+    <keyword>friendship</keyword>
+  </keywords>
+  <languages>
+    <language>Dutch</language>
+  </languages>
+  <countries>
+    <country>Belgium</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">6</certificate>
+    <certificate country="Belgium">KT</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">23 March 2008</releasedate>
+    <releasedate country="Belgium">29 January 2006</releasedate>
+  </releasedates>
+  <directors>
+    <director>Busschots, Ludo</director>
+    <director>Corthout, Dirk</director>
+    <director>Daniëls, Rik</director>
+    <director>De Geest, Mark</director>
+    <director>Desmyter, Stef</director>
+    <director>Goris, Tom</director>
+    <director>Graus, Michelle</director>
+    <director>Herbots, Hans</director>
+    <director>Ingelbrecht, Anne</director>
+    <director>Rondou, Peter</director>
+    <director>Schellekens, Paul</director>
+    <director>Slembrouck, Toon</director>
+    <director>Vervoort, Etienne</director>
+  </directors>
+  <producers>
+    <producer>Busschots, Ludo</producer>
+    <producer>Cremers, Katrien</producer>
+    <producer>De Clercq, Pierre</producer>
+    <producer>De Keyser, Guido</producer>
+    <producer>Gies, Frédéric</producer>
+    <producer>Provoost, Erwin</producer>
+    <producer>Ricour, Paul</producer>
+    <producer>Schmid, Gunter</producer>
+    <producer>Willems, Marina</producer>
+    <producer>Wouters, Stef (I)</producer>
+  </producers>
+  <writers>
+    <writer>Bergmans, Jan (I)</writer>
+    <writer>Bouckaert, Geert</writer>
+    <writer>D'Hiet, Rik</writer>
+    <writer>De Bruyn, Frank</writer>
+    <writer>De Clercq, Pierre</writer>
+    <writer>De Weerdt, Charles</writer>
+    <writer>Heselmans, Johan</writer>
+    <writer>Joos, Carl</writer>
+    <writer>Pallen, Hilde</writer>
+    <writer>Snauwaert, Hans</writer>
+    <writer>Van De Velde, Johan</writer>
+    <writer>Van Waes, Dominique</writer>
+    <writer>Vandevelde, Johan</writer>
+    <writer>Vroege, Kees</writer>
+  </writers>
+  <composers>
+    <composer>Wulf, Fonny De</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abdemalek, Kadi</actor>
+      <role>Ahmed El Larbi</role>
+    </credit>
+    <credit>
+      <actor>Achten, Leo</actor>
+      <role>Ignace</role>
+    </credit>
+    <credit>
+      <actor>Adriaenssens, Liesbeth</actor>
+      <role>Meisje bij Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Adriaenssens, Liesbeth</actor>
+      <role>Nicky</role>
+    </credit>
+    <credit>
+      <actor>Adriaenssens, Liesbeth</actor>
+      <role>Sarah De Groot</role>
+    </credit>
+    <credit>
+      <actor>Aernouts, Steve</actor>
+      <role>Alex</role>
+    </credit>
+    <credit>
+      <actor>Aerts, Nicky</actor>
+      <role>Jonge vrouw flasher</role>
+    </credit>
+    <credit>
+      <actor>Ahumada, Claudia</actor>
+      <role>Elena</role>
+    </credit>
+    <credit>
+      <actor>Akgüngör, Mevlut</actor>
+      <role>Ferbat</role>
+    </credit>
+    <credit>
+      <actor>Alen, Brit</actor>
+      <role>Rosa</role>
+    </credit>
+    <credit>
+      <actor>Alen, Britt</actor>
+      <role>Mevrouw Timmermans</role>
+    </credit>
+    <credit>
+      <actor>Ammelrooy, Willeke van</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ampe, Pieter</actor>
+      <role>Erik</role>
+    </credit>
+    <credit>
+      <actor>André, Bert</actor>
+      <role>Jozef</role>
+    </credit>
+    <credit>
+      <actor>André, Sandrine</actor>
+      <role>Caro</role>
+    </credit>
+    <credit>
+      <actor>Anthoni, Aimé</actor>
+      <role>Stevens</role>
+    </credit>
+    <credit>
+      <actor>Apakidze, Irakli</actor>
+      <role>Roman Dashi</role>
+    </credit>
+    <credit>
+      <actor>Baert, Norman</actor>
+      <role>Sevranckx</role>
+    </credit>
+    <credit>
+      <actor>Baetens, Veerle</actor>
+      <role>Annick Lafaille</role>
+    </credit>
+    <credit>
+      <actor>Bafort, Julie</actor>
+      <role>Tania Blijweert</role>
+    </credit>
+    <credit>
+      <actor>Bal, Pascale</actor>
+      <role>Claire Van Eeckhaut</role>
+    </credit>
+    <credit>
+      <actor>Bal, Pascale</actor>
+      <role>Claire Van Eeckhaut</role>
+    </credit>
+    <credit>
+      <actor>Bal, Pascale</actor>
+      <role>Claire Van Eeckhout</role>
+    </credit>
+    <credit>
+      <actor>Balbaert, Jochen</actor>
+      <role>Bart</role>
+    </credit>
+    <credit>
+      <actor>Balci, Kadir</actor>
+      <role>Turkse jongen</role>
+    </credit>
+    <credit>
+      <actor>Balci, Ramazan</actor>
+      <role>Turkse buurman</role>
+    </credit>
+    <credit>
+      <actor>Balder, Tine</actor>
+      <role>Oma</role>
+    </credit>
+    <credit>
+      <actor>Bamps, Pieter</actor>
+      <role>Kenny Waterland</role>
+    </credit>
+    <credit>
+      <actor>Bassier, Erik</actor>
+      <role>Inbreker</role>
+    </credit>
+    <credit>
+      <actor>Bassier, Erik</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>Bastiaensen, Peter</actor>
+      <role>Bart Sollie</role>
+    </credit>
+    <credit>
+      <actor>Bastiaensen, Peter</actor>
+      <role>Bart Sollie</role>
+    </credit>
+    <credit>
+      <actor>Bastiaensen, Peter</actor>
+      <role>Luc Dauwe</role>
+    </credit>
+    <credit>
+      <actor>Baum, Roger</actor>
+      <role>Bert Maes</role>
+    </credit>
+    <credit>
+      <actor>Baum, Roger</actor>
+      <role>Bert Maes</role>
+    </credit>
+    <credit>
+      <actor>Baum, Roger</actor>
+      <role>Nederlander</role>
+    </credit>
+    <credit>
+      <actor>Baute, Irvin</actor>
+      <role>Van Damme</role>
+    </credit>
+    <credit>
+      <actor>Bauwens, Nele</actor>
+      <role>Maya Timmermans</role>
+    </credit>
+    <credit>
+      <actor>Bauwens, Nele</actor>
+      <role>Zwerfster</role>
+    </credit>
+    <credit>
+      <actor>Beatse, Els</actor>
+      <role>Myriam</role>
+    </credit>
+    <credit>
+      <actor>Beckers, Will</actor>
+      <role>Van Herpe</role>
+    </credit>
+    <credit>
+      <actor>Beke, Danny</actor>
+      <role>Flasher</role>
+    </credit>
+    <credit>
+      <actor>Beke, Frank</actor>
+      <role>Burgemeester van Gent</role>
+    </credit>
+    <credit>
+      <actor>Beks, Jakob</actor>
+      <role>Stefaan De Donder</role>
+    </credit>
+    <credit>
+      <actor>Belmans, Diane</actor>
+      <role>Ludwina Willems</role>
+    </credit>
+    <credit>
+      <actor>Berg, André van den</actor>
+      <role>Buurman van Dino</role>
+    </credit>
+    <credit>
+      <actor>Bernardus, Pol</actor>
+      <role>Grote knappe vrouw</role>
+    </credit>
+    <credit>
+      <actor>Bertels, Dirk</actor>
+      <role>Roggeman</role>
+    </credit>
+    <credit>
+      <actor>Bertels, Tiny</actor>
+      <role>Sandrine Belfort</role>
+    </credit>
+    <credit>
+      <actor>Bertels, Tiny</actor>
+      <role>Sarah</role>
+    </credit>
+    <credit>
+      <actor>Bervoets, Lindsay</actor>
+      <role>Ellen Mortier</role>
+    </credit>
+    <credit>
+      <actor>Beukelaers, François</actor>
+      <role>Albert Caron</role>
+    </credit>
+    <credit>
+      <actor>Beukelaers, François</actor>
+      <role>Albert Caron</role>
+    </credit>
+    <credit>
+      <actor>Bijvoet, Jan</actor>
+      <role>Sam Mendez</role>
+    </credit>
+    <credit>
+      <actor>Bindu, Cederic</actor>
+      <role>Miguel</role>
+    </credit>
+    <credit>
+      <actor>Binon, Eva</actor>
+      <role>Barbara Wilson</role>
+    </credit>
+    <credit>
+      <actor>Blereau, Camilia</actor>
+      <role>Liliane Demeester</role>
+    </credit>
+    <credit>
+      <actor>Blereau, Camilia</actor>
+      <role>Nicky</role>
+    </credit>
+    <credit>
+      <actor>Boels, Mia</actor>
+      <role>Mevrouw Hoffman</role>
+    </credit>
+    <credit>
+      <actor>Boen, Steven</actor>
+      <role>Matteo Cnuts</role>
+    </credit>
+    <credit>
+      <actor>Boets, Herman</actor>
+      <role>Kapitein veerpont</role>
+    </credit>
+    <credit>
+      <actor>Boets, Herman</actor>
+      <role>Rik Wijnants</role>
+    </credit>
+    <credit>
+      <actor>Bogaerts, Sam</actor>
+      <role>Rudy Watseels</role>
+    </credit>
+    <credit>
+      <actor>Bolders, Roger</actor>
+      <role>Leo Claessens</role>
+    </credit>
+    <credit>
+      <actor>Boogaerts, Koen</actor>
+      <role>Bart De Schepper</role>
+    </credit>
+    <credit>
+      <actor>Booten, Viktor</actor>
+      <role>Viktor</role>
+    </credit>
+    <credit>
+      <actor>Borey, Corine</actor>
+      <role>Suzy Lippens</role>
+    </credit>
+    <credit>
+      <actor>Borgmans, Warre</actor>
+      <role>Luc De Vidts</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Bruno Soetaert</role>
+    </credit>
+    <credit>
+      <actor>Bosmans, Maarten</actor>
+      <role>Gerrit</role>
+    </credit>
+    <credit>
+      <actor>Bouchier, Mikhail</actor>
+      <role>Malik Dagajev</role>
+    </credit>
+    <credit>
+      <actor>Bouve, Mieke</actor>
+      <role>Apothekersvrouw</role>
+    </credit>
+    <credit>
+      <actor>Braakman, Bert</actor>
+      <role>Grootvader</role>
+    </credit>
+    <credit>
+      <actor>Brabants, Margot</actor>
+      <role>Kamermeisje Sofitel</role>
+    </credit>
+    <credit>
+      <actor>Bracke, Michel</actor>
+      <role>Romain</role>
+    </credit>
+    <credit>
+      <actor>Branckaerts, Sjarel</actor>
+      <role>Gilbert Van Luchene</role>
+    </credit>
+    <credit>
+      <actor>Branckaerts, Sjarel</actor>
+      <role>Patrick Lippens</role>
+    </credit>
+    <credit>
+      <actor>Brans, Eva</actor>
+      <role>Jonge vrouw</role>
+    </credit>
+    <credit>
+      <actor>Brant, Leo</actor>
+      <role>René Boutmans</role>
+    </credit>
+    <credit>
+      <actor>Breda, Hilde</actor>
+      <role>Marleen Goeman</role>
+    </credit>
+    <credit>
+      <actor>Breda, Hilde</actor>
+      <role>Yvonne Sas</role>
+    </credit>
+    <credit>
+      <actor>Brondeel, Gina</actor>
+      <role>Catherine</role>
+    </credit>
+    <credit>
+      <actor>Broods, Natali</actor>
+      <role>Brenda Willinck</role>
+    </credit>
+    <credit>
+      <actor>Bruggeman, Mieke</actor>
+      <role>Receptioniste</role>
+    </credit>
+    <credit>
+      <actor>Bruggeman, Mieke</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>Bruining, Aafke</actor>
+      <role>Vera Catteeuw</role>
+    </credit>
+    <credit>
+      <actor>Bruneel, Wouter</actor>
+      <role>Eddy</role>
+    </credit>
+    <credit>
+      <actor>Bruynseels, Herbert</actor>
+      <role>Frank Laermans</role>
+    </credit>
+    <credit>
+      <actor>Bruynseels, Herbert</actor>
+      <role>Wouter Dejongh</role>
+    </credit>
+    <credit>
+      <actor>Buelens, Erik</actor>
+      <role>Man in regenjas</role>
+    </credit>
+    <credit>
+      <actor>Bulckaen, Peter</actor>
+      <role>Adriaan Willaert</role>
+    </credit>
+    <credit>
+      <actor>Bundervoet, Elise</actor>
+      <role>Mona De Schutter</role>
+    </credit>
+    <credit>
+      <actor>Bundervoet, Elise</actor>
+      <role>Mona De Schutter</role>
+    </credit>
+    <credit>
+      <actor>Bundervoet, Elise</actor>
+      <role>Mona De Schutter</role>
+    </credit>
+    <credit>
+      <actor>Bundervoet, Elise</actor>
+      <role>Tine</role>
+    </credit>
+    <credit>
+      <actor>Burke, Erik (II)</actor>
+      <role>Heursel</role>
+    </credit>
+    <credit>
+      <actor>Busschots, Ludo</actor>
+      <role>Edward Deprez</role>
+    </credit>
+    <credit>
+      <actor>Busschots, Ludo</actor>
+      <role>Willy Goeman</role>
+    </credit>
+    <credit>
+      <actor>Buyl, Nand</actor>
+      <role>Robert Audenaert</role>
+    </credit>
+    <credit>
+      <actor>Caers, Gregory</actor>
+      <role>Peter Velghe</role>
+    </credit>
+    <credit>
+      <actor>Callens, Pierre</actor>
+      <role>Anthony Van Reeth</role>
+    </credit>
+    <credit>
+      <actor>Cantens, David</actor>
+      <role>Christian</role>
+    </credit>
+    <credit>
+      <actor>Carle, Hanne</actor>
+      <role>Kristien Lansinck</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Paul</actor>
+      <role>Alex Caron</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Paul</actor>
+      <role>Alex Caron</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Paul</actor>
+      <role>Dokter</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Paul</actor>
+      <role>Dokter</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Paul</actor>
+      <role>Dokter</role>
+    </credit>
+    <credit>
+      <actor>Caspar, Yves</actor>
+      <role>Jean Luc Pareit</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Jorgen</actor>
+      <role>David Caron</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Jorgen</actor>
+      <role>Hans Vernaillen</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Maurice</actor>
+      <role>David Caron</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Maurice</actor>
+      <role>David Caron</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Maurice</actor>
+      <role>David Caron</role>
+    </credit>
+    <credit>
+      <actor>Cassiers, Maurice</actor>
+      <role>David Carron</role>
+    </credit>
+    <credit>
+      <actor>Casteleyn, Veerle</actor>
+      <role>Elke De Brock</role>
+    </credit>
+    <credit>
+      <actor>Caudron, Pepijn</actor>
+      <role>Michael</role>
+    </credit>
+    <credit>
+      <actor>Celis, Dirk</actor>
+      <role>Schipper</role>
+    </credit>
+    <credit>
+      <actor>Ceurvels, Ann</actor>
+      <role>Sofie Beeckman</role>
+    </credit>
+    <credit>
+      <actor>Ceurvels, Glenn</actor>
+      <role>Joris Vereecke</role>
+    </credit>
+    <credit>
+      <actor>Chakir, Amid</actor>
+      <role>Yoessef Busjerit</role>
+    </credit>
+    <credit>
+      <actor>Chergui, Rachid</actor>
+      <role>Nachtwinkelier</role>
+    </credit>
+    <credit>
+      <actor>Chiang, Ivo</actor>
+      <role>Aziatische matroos</role>
+    </credit>
+    <credit>
+      <actor>Cifteci, Ali</actor>
+      <role>Sohail</role>
+    </credit>
+    <credit>
+      <actor>Claes, Jappe</actor>
+      <role>Joannes van Latem de Doncker</role>
+    </credit>
+    <credit>
+      <actor>Claeyssens, Maarten</actor>
+      <role>Dimitri Schoukens</role>
+    </credit>
+    <credit>
+      <actor>Cleirbout, Luc</actor>
+      <role>Doventolk</role>
+    </credit>
+    <credit>
+      <actor>Clerckx, Kristoff</actor>
+      <role>Bart</role>
+    </credit>
+    <credit>
+      <actor>Clerckx, Kristoff</actor>
+      <role>Bart</role>
+    </credit>
+    <credit>
+      <actor>Cleymans, Clara</actor>
+      <role>Cara</role>
+    </credit>
+    <credit>
+      <actor>Cleymans, Jelle</actor>
+      <role>Anthony</role>
+    </credit>
+    <credit>
+      <actor>Cnudde, Magda</actor>
+      <role>Moeder van Kevin</role>
+    </credit>
+    <credit>
+      <actor>Coessens, Herman</actor>
+      <role>Cafébaas</role>
+    </credit>
+    <credit>
+      <actor>Coessens, Herman</actor>
+      <role>René Devreese</role>
+    </credit>
+    <credit>
+      <actor>Coessens, Marc</actor>
+      <role>Koen Batsleer</role>
+    </credit>
+    <credit>
+      <actor>Cole, Jaela</actor>
+      <role>Ingrid Chabot</role>
+    </credit>
+    <credit>
+      <actor>Cole, Tibo</actor>
+      <role>Pieter Vereecke</role>
+    </credit>
+    <credit>
+      <actor>Collet, Dominique</actor>
+      <role>Edith</role>
+    </credit>
+    <credit>
+      <actor>Collet, Dominique</actor>
+      <role>Eefje Vermeulen</role>
+    </credit>
+    <credit>
+      <actor>Colpaert, Kjell</actor>
+      <role>Sander</role>
+    </credit>
+    <credit>
+      <actor>Commissaris, Ronnie</actor>
+      <role>Vader De Brock</role>
+    </credit>
+    <credit>
+      <actor>Cook, James (VII)</actor>
+      <role>Gert</role>
+    </credit>
+    <credit>
+      <actor>Cooreman, Anneleen</actor>
+      <role>Lorette</role>
+    </credit>
+    <credit>
+      <actor>Coppens, Staf</actor>
+      <role>Stijn</role>
+    </credit>
+    <credit>
+      <actor>Cornelis, Lieve</actor>
+      <role>Karlijn</role>
+    </credit>
+    <credit>
+      <actor>Cornelis, Lieve</actor>
+      <role>Karlyn</role>
+    </credit>
+    <credit>
+      <actor>Cornelis, Lieve</actor>
+      <role>Karlyn</role>
+    </credit>
+    <credit>
+      <actor>Cornelis, Lieve</actor>
+      <role>Karlyn</role>
+    </credit>
+    <credit>
+      <actor>Cornelis, Uwamungu</actor>
+      <role>Dicky Morris</role>
+    </credit>
+    <credit>
+      <actor>Cornet, Ron</actor>
+      <role>Robert Clincke</role>
+    </credit>
+    <credit>
+      <actor>Cornet, Ron</actor>
+      <role>Sitting Bull</role>
+    </credit>
+    <credit>
+      <actor>Corthals, Liz</actor>
+      <role>Blondine</role>
+    </credit>
+    <credit>
+      <actor>Cosemans, Bert</actor>
+      <role>Johan Van Lancker</role>
+    </credit>
+    <credit>
+      <actor>Cosemans, Bert</actor>
+      <role>Johan Van Lancker</role>
+    </credit>
+    <credit>
+      <actor>Cosemans, Bert</actor>
+      <role>Johan Van Lancker</role>
+    </credit>
+    <credit>
+      <actor>Cosemans, Bert</actor>
+      <role>Patrick Levie</role>
+    </credit>
+    <credit>
+      <actor>Coucke, Han</actor>
+      <role>Frederiek Lamote</role>
+    </credit>
+    <credit>
+      <actor>Coucke, Han</actor>
+      <role>Neil</role>
+    </credit>
+    <credit>
+      <actor>Coucke, Han</actor>
+      <role>Simon</role>
+    </credit>
+    <credit>
+      <actor>Croonenberghs, Andrea</actor>
+      <role>Britt Michiels</role>
+    </credit>
+    <credit>
+      <actor>Croonenberghs, Andrea</actor>
+      <role>Britt Michiels</role>
+    </credit>
+    <credit>
+      <actor>Croonenberghs, Andrea</actor>
+      <role>Britt Michiels</role>
+    </credit>
+    <credit>
+      <actor>Cuppens, Kris</actor>
+      <role>Peter Bosman</role>
+    </credit>
+    <credit>
+      <actor>Daelman, Ronny</actor>
+      <role>Rob Koenen</role>
+    </credit>
+    <credit>
+      <actor>Daem, Geertrui</actor>
+      <role>Madame</role>
+    </credit>
+    <credit>
+      <actor>Daeseleire, Axel</actor>
+      <role>Ben Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Daeseleire, Axel</actor>
+      <role>Ben Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Damen, Hubert</actor>
+      <role>Daniël Deprez</role>
+    </credit>
+    <credit>
+      <actor>Damen, Katelijne</actor>
+      <role>Ingrid Jonckheere</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Hugo</actor>
+      <role>Fons</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Kris Geysen</role>
+    </credit>
+    <credit>
+      <actor>Daniëls, Tom</actor>
+      <role>Waard</role>
+    </credit>
+    <credit>
+      <actor>Dauwe, Bart</actor>
+      <role>Brandweercommandant</role>
+    </credit>
+    <credit>
+      <actor>Dauwe, Bart</actor>
+      <role>Brandweerman</role>
+    </credit>
+    <credit>
+      <actor>Dauwe, Bart</actor>
+      <role>Brandweerman Raf</role>
+    </credit>
+    <credit>
+      <actor>Dauwe, Bart</actor>
+      <role>Piet Swinnen</role>
+    </credit>
+    <credit>
+      <actor>Dauwe, Bart</actor>
+      <role>Piet Swinnen</role>
+    </credit>
+    <credit>
+      <actor>David, Robin</actor>
+      <role>Vanhoutte</role>
+    </credit>
+    <credit>
+      <actor>De Backer, Griet</actor>
+      <role>Christel Broothaers</role>
+    </credit>
+    <credit>
+      <actor>De Backer, Griet</actor>
+      <role>Christel Broothaers</role>
+    </credit>
+    <credit>
+      <actor>De Baerdemaeker, Hilde</actor>
+      <role>Myriam</role>
+    </credit>
+    <credit>
+      <actor>De Becker, Katrien</actor>
+      <role>Ann Gustave</role>
+    </credit>
+    <credit>
+      <actor>De Becker, Katrien</actor>
+      <role>Gloria van Bogaert</role>
+    </credit>
+    <credit>
+      <actor>De Becker, Katrien</actor>
+      <role>Sofie Willems</role>
+    </credit>
+    <credit>
+      <actor>De Bie, Maggy</actor>
+      <role>Ingrid</role>
+    </credit>
+    <credit>
+      <actor>De Blauwe, Veva</actor>
+      <role>Greet</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Erik Francken</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Erik Francken</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Erik Francken</role>
+    </credit>
+    <credit>
+      <actor>De Brabander, Broos</actor>
+      <role>Student</role>
+    </credit>
+    <credit>
+      <actor>De Caluwé, Jo</actor>
+      <role>Urbain De Lepelaere</role>
+    </credit>
+    <credit>
+      <actor>De Causmaecker, Wilfried</actor>
+      <role>Dakloze</role>
+    </credit>
+    <credit>
+      <actor>De Cock, Michael</actor>
+      <role>Jan Beele</role>
+    </credit>
+    <credit>
+      <actor>De Cock, Michael</actor>
+      <role>Jan Beele</role>
+    </credit>
+    <credit>
+      <actor>De Cock, Michael</actor>
+      <role>Olivier Cools</role>
+    </credit>
+    <credit>
+      <actor>De Cooman, Jempi</actor>
+      <role>Deconynck</role>
+    </credit>
+    <credit>
+      <actor>De Corte, Marc</actor>
+      <role>Skinhead 'bauw oog'</role>
+    </credit>
+    <credit>
+      <actor>De Craene, Guido</actor>
+      <role>Kerstman 2</role>
+    </credit>
+    <credit>
+      <actor>De Craene, Guido</actor>
+      <role>Wetsdokter</role>
+    </credit>
+    <credit>
+      <actor>De Ghouy, Diane</actor>
+      <role>Oma van Niels</role>
+    </credit>
+    <credit>
+      <actor>De Graef, Peter</actor>
+      <role>Rino De Kerf</role>
+    </credit>
+    <credit>
+      <actor>De Graeve, Koen</actor>
+      <role>Dirk Maçon</role>
+    </credit>
+    <credit>
+      <actor>De Grauwe, Heidi</actor>
+      <role>Junk</role>
+    </credit>
+    <credit>
+      <actor>De Grauwe, Heidi</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>De Grauwe, Maurice</actor>
+      <role>Waard van café</role>
+    </credit>
+    <credit>
+      <actor>De Greef, Willy</actor>
+      <role>Hugo Vermaut</role>
+    </credit>
+    <credit>
+      <actor>De Groote, Mieke</actor>
+      <role>Katja</role>
+    </credit>
+    <credit>
+      <actor>De Groote, Walter</actor>
+      <role>Alex Smets</role>
+    </credit>
+    <credit>
+      <actor>De Groote, Walter</actor>
+      <role>Alex Smets</role>
+    </credit>
+    <credit>
+      <actor>De Hoog, Tom</actor>
+      <role>Ferry Pauwels</role>
+    </credit>
+    <credit>
+      <actor>De Hoog, Tom</actor>
+      <role>Steve Glinka</role>
+    </credit>
+    <credit>
+      <actor>De Hoog, Tom</actor>
+      <role>Stijn De Roovere</role>
+    </credit>
+    <credit>
+      <actor>De Jong, Merlijn</actor>
+      <role>Bram De Schepper</role>
+    </credit>
+    <credit>
+      <actor>De Jonge, Moniek</actor>
+      <role>Vrouw</role>
+    </credit>
+    <credit>
+      <actor>De Jonghe, Barbara</actor>
+      <role>Els</role>
+    </credit>
+    <credit>
+      <actor>De Jonghe, Barbara</actor>
+      <role>Tessa Werbrouck</role>
+    </credit>
+    <credit>
+      <actor>De Kerpel, Freddy</actor>
+      <role>Cafébaas</role>
+    </credit>
+    <credit>
+      <actor>De Keyser, Kristof</actor>
+      <role>Roeier 1</role>
+    </credit>
+    <credit>
+      <actor>De Keyzer, Timeau</actor>
+      <role>Dylan</role>
+    </credit>
+    <credit>
+      <actor>De Konink, Luk</actor>
+      <role>Chauffeur</role>
+    </credit>
+    <credit>
+      <actor>De Ley, Gerd</actor>
+      <role>Patiënt</role>
+    </credit>
+    <credit>
+      <actor>De Ley, Gerd</actor>
+      <role>Sectiechef</role>
+    </credit>
+    <credit>
+      <actor>De Man, Brigitte</actor>
+      <role>Machteld De Raedt</role>
+    </credit>
+    <credit>
+      <actor>De Meyer, Johnny</actor>
+      <role>Laurent Duvivier</role>
+    </credit>
+    <credit>
+      <actor>De Meyer, Lieve</actor>
+      <role>Bea Van Aalst</role>
+    </credit>
+    <credit>
+      <actor>De Meyere, Jo</actor>
+      <role>John Nauwelaerts</role>
+    </credit>
+    <credit>
+      <actor>De Meyere, Jo</actor>
+      <role>John Nauwelaerts</role>
+    </credit>
+    <credit>
+      <actor>De Meyere, Jo</actor>
+      <role>John Nauwelaerts</role>
+    </credit>
+    <credit>
+      <actor>De Mol, Sofie</actor>
+      <role>Ambulancier 2</role>
+    </credit>
+    <credit>
+      <actor>De Mol, Sofie</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>De Moor, Bob (III)</actor>
+      <role>Onderpastoor</role>
+    </credit>
+    <credit>
+      <actor>De Raeve, Jonas</actor>
+      <role>Jonge dief</role>
+    </credit>
+    <credit>
+      <actor>De Raeymaecker, Corazon</actor>
+      <role>Heike</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Ridder, Margot</actor>
+      <role>Dorien De Bondt</role>
+    </credit>
+    <credit>
+      <actor>De Rijcke, Sophie</actor>
+      <role>Katrien Francken</role>
+    </credit>
+    <credit>
+      <actor>De Rijcke, Sophie</actor>
+      <role>Monica</role>
+    </credit>
+    <credit>
+      <actor>De Roock, Robrecht</actor>
+      <role>Marco</role>
+    </credit>
+    <credit>
+      <actor>De Ruyck, Marc</actor>
+      <role>Vader van Yolande</role>
+    </credit>
+    <credit>
+      <actor>De Ruyck, Wennie</actor>
+      <role>Luc Bauwens</role>
+    </credit>
+    <credit>
+      <actor>De Ruyck, Wennie</actor>
+      <role>Yuri Backs</role>
+    </credit>
+    <credit>
+      <actor>De Ruysscher, Katrien</actor>
+      <role>Ilse</role>
+    </credit>
+    <credit>
+      <actor>De Saedeleer, Midas</actor>
+      <role>Bjorn</role>
+    </credit>
+    <credit>
+      <actor>De Schrijver, Gilles</actor>
+      <role>Davy De Prins</role>
+    </credit>
+    <credit>
+      <actor>De Schrijver, Huguette</actor>
+      <role>Philomena Verkest</role>
+    </credit>
+    <credit>
+      <actor>De Smedt, Werner</actor>
+      <role>Nick Debbaut</role>
+    </credit>
+    <credit>
+      <actor>De Smedt, Werner</actor>
+      <role>Nick Debbaut</role>
+    </credit>
+    <credit>
+      <actor>De Smet, Olivier</actor>
+      <role>Alain Nietvelt</role>
+    </credit>
+    <credit>
+      <actor>De Smet, Olivier</actor>
+      <role>Guido</role>
+    </credit>
+    <credit>
+      <actor>De Valck, Marijn</actor>
+      <role>Willy Neyt</role>
+    </credit>
+    <credit>
+      <actor>De Vilder Robier, Merel</actor>
+      <role>Betty Deman</role>
+    </credit>
+    <credit>
+      <actor>De Vlieger, Elise</actor>
+      <role>Nacile</role>
+    </credit>
+    <credit>
+      <actor>De Voght, Melanie</actor>
+      <role>Marleen</role>
+    </credit>
+    <credit>
+      <actor>De Volder, Julien</actor>
+      <role>Wapenmeester</role>
+    </credit>
+    <credit>
+      <actor>De Voogdt, Titus</actor>
+      <role>Jeroen Van Parijs</role>
+    </credit>
+    <credit>
+      <actor>De Vos, Ingrid</actor>
+      <role>Trudy Bulens</role>
+    </credit>
+    <credit>
+      <actor>De Waele, Jacky</actor>
+      <role>Hoteleigenaar</role>
+    </credit>
+    <credit>
+      <actor>De Weert, Tuur</actor>
+      <role>Meneer De Coster</role>
+    </credit>
+    <credit>
+      <actor>De Weirdt, Hervé</actor>
+      <role>Rijkswachter</role>
+    </credit>
+    <credit>
+      <actor>De Weirdt, Walter</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>De Winne, Wim</actor>
+      <role>Mug-arts</role>
+    </credit>
+    <credit>
+      <actor>De Wispelaere, Tom</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>De Witte, Wim</actor>
+      <role>Ambulancier</role>
+    </credit>
+    <credit>
+      <actor>De Witte, Wim</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>De Witte, Wim</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>De Wulf, Charlotte</actor>
+      <role>Magali</role>
+    </credit>
+    <credit>
+      <actor>Decleir, Jenne</actor>
+      <role>Tim</role>
+    </credit>
+    <credit>
+      <actor>Declercq, Aza</actor>
+      <role>Yolande Hebberecht</role>
+    </credit>
+    <credit>
+      <actor>Decock, Suzanne</actor>
+      <role>Tiny</role>
+    </credit>
+    <credit>
+      <actor>Defever, Sahin</actor>
+      <role>Overspelige vrouw</role>
+    </credit>
+    <credit>
+      <actor>Defossez, Aaron</actor>
+      <role>Steffano</role>
+    </credit>
+    <credit>
+      <actor>Defrancq, Kurt</actor>
+      <role>Ploegbaas</role>
+    </credit>
+    <credit>
+      <actor>Degand, Stefaan</actor>
+      <role>Yves Grammens</role>
+    </credit>
+    <credit>
+      <actor>Dehandschutter, Senne</actor>
+      <role>Jitse</role>
+    </credit>
+    <credit>
+      <actor>Dejonckheere, Laure</actor>
+      <role>Davina Lansknecht</role>
+    </credit>
+    <credit>
+      <actor>Dejonckheere, Lore</actor>
+      <role>Davina Lansknecht</role>
+    </credit>
+    <credit>
+      <actor>Dejonckheere, Lore</actor>
+      <role>Davina Lansknecht</role>
+    </credit>
+    <credit>
+      <actor>Dejonckheere, Lore</actor>
+      <role>Davina Lansknecht</role>
+    </credit>
+    <credit>
+      <actor>Delanghe, Eric</actor>
+      <role>Agent uit Koksijde</role>
+    </credit>
+    <credit>
+      <actor>Delhem, Rudi</actor>
+      <role>Olivier De Baets</role>
+    </credit>
+    <credit>
+      <actor>Delnaet, Jurgen</actor>
+      <role>Thijs Vereecke</role>
+    </credit>
+    <credit>
+      <actor>Demedts, Jef</actor>
+      <role>Alois Ponsaert</role>
+    </credit>
+    <credit>
+      <actor>Demeyer, Johnny</actor>
+      <role>Laurent Duvivier</role>
+    </credit>
+    <credit>
+      <actor>Dentijn, Tim</actor>
+      <role>Jorn</role>
+    </credit>
+    <credit>
+      <actor>Deploige, Govert</actor>
+      <role>Dino</role>
+    </credit>
+    <credit>
+      <actor>Derick, Goele</actor>
+      <role>Ingrid</role>
+    </credit>
+    <credit>
+      <actor>Dermez, David</actor>
+      <role>Lucas De Vreeze</role>
+    </credit>
+    <credit>
+      <actor>Deroo, Emilie</actor>
+      <role>Mireille Maçon</role>
+    </credit>
+    <credit>
+      <actor>Deruwe, Karel</actor>
+      <role>Wouter Lambrecht</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Agente</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Agente Hilde</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Agente Nathalie</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Agente vaststelling</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Balieagente</role>
+    </credit>
+    <credit>
+      <actor>Dervaux, Nathalie</actor>
+      <role>Wijkagente</role>
+    </credit>
+    <credit>
+      <actor>Deschrijver, Uriel</actor>
+      <role>Lionel</role>
+    </credit>
+    <credit>
+      <actor>Deschuyter, Kobe</actor>
+      <role>Jonas</role>
+    </credit>
+    <credit>
+      <actor>Deschuyter, Kobe</actor>
+      <role>Stefan</role>
+    </credit>
+    <credit>
+      <actor>Deswarte, Harry</actor>
+      <role>Miel Crombez</role>
+    </credit>
+    <credit>
+      <actor>Deswarte, Harry</actor>
+      <role>Miel Crombez</role>
+    </credit>
+    <credit>
+      <actor>Devisscher, Karen</actor>
+      <role>Martine Misotten</role>
+    </credit>
+    <credit>
+      <actor>Devreese, Sandy</actor>
+      <role>Secretaresse</role>
+    </credit>
+    <credit>
+      <actor>Devriese, Marianne</actor>
+      <role>Inge</role>
+    </credit>
+    <credit>
+      <actor>Devynck, Joke</actor>
+      <role>Tony Dierickx</role>
+    </credit>
+    <credit>
+      <actor>Dewaele, Jackie</actor>
+      <role>George Remmery</role>
+    </credit>
+    <credit>
+      <actor>Dewals, Leo</actor>
+      <role>Franske Brouckaert</role>
+    </credit>
+    <credit>
+      <actor>Dewals, Leo</actor>
+      <role>Kamiel</role>
+    </credit>
+    <credit>
+      <actor>Deweerdt, Herwig</actor>
+      <role>Rob Sevenans</role>
+    </credit>
+    <credit>
+      <actor>Diels, Sien</actor>
+      <role>Lies Crombez</role>
+    </credit>
+    <credit>
+      <actor>Diels, Sien</actor>
+      <role>Lies Crombez</role>
+    </credit>
+    <credit>
+      <actor>Diependaele, Leen</actor>
+      <role>Tessy</role>
+    </credit>
+    <credit>
+      <actor>Dierens, Frank</actor>
+      <role>Lucas</role>
+    </credit>
+    <credit>
+      <actor>Dillen, Dirk</actor>
+      <role>Rijkswachter</role>
+    </credit>
+    <credit>
+      <actor>Dilles, Marieke</actor>
+      <role>Tamara</role>
+    </credit>
+    <credit>
+      <actor>Dingenen, Frank</actor>
+      <role>Joël</role>
+    </credit>
+    <credit>
+      <actor>Dobbelaere, Griet</actor>
+      <role>Corinne</role>
+    </credit>
+    <credit>
+      <actor>Doggen, Carolien</actor>
+      <role>Mieke Geeraerts</role>
+    </credit>
+    <credit>
+      <actor>Dom, Jos</actor>
+      <role>Anton Smeekens</role>
+    </credit>
+    <credit>
+      <actor>Dom, Jos</actor>
+      <role>Chauffeur</role>
+    </credit>
+    <credit>
+      <actor>Domen, Christel</actor>
+      <role>Griet Monbailliu</role>
+    </credit>
+    <credit>
+      <actor>Domen, Christel</actor>
+      <role>Michelle Bruggeman</role>
+    </credit>
+    <credit>
+      <actor>Dooreman, Alice</actor>
+      <role>Kleindochter</role>
+    </credit>
+    <credit>
+      <actor>Dooreman, Dina</actor>
+      <role>Marijke</role>
+    </credit>
+    <credit>
+      <actor>Dottermans, Els</actor>
+      <role>Mia</role>
+    </credit>
+    <credit>
+      <actor>Dubrulle, Jacques</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Duchateau, Roos</actor>
+      <role>Vrouw elektrozaak</role>
+    </credit>
+    <credit>
+      <actor>Dumon, Monika</actor>
+      <role>Yolande D'Hoker</role>
+    </credit>
+    <credit>
+      <actor>Dumon, Monika</actor>
+      <role>Yolande D'Hoker</role>
+    </credit>
+    <credit>
+      <actor>Duquennoy, Dimi</actor>
+      <role>Jarno</role>
+    </credit>
+    <credit>
+      <actor>Dzikanowic, Barbara</actor>
+      <role>Lien Clarysse</role>
+    </credit>
+    <credit>
+      <actor>Eeckhout, Nele</actor>
+      <role>Annelies</role>
+    </credit>
+    <credit>
+      <actor>Efthymiadis, Anna</actor>
+      <role>Veerle</role>
+    </credit>
+    <credit>
+      <actor>Everaert, Jakob</actor>
+      <role>Timmy De Winter</role>
+    </credit>
+    <credit>
+      <actor>Eyckermans, Veerle</actor>
+      <role>Annette Dierckx</role>
+    </credit>
+    <credit>
+      <actor>Farihi, Noureddine</actor>
+      <role>Samier Benani</role>
+    </credit>
+    <credit>
+      <actor>Fleerackers, Ianka</actor>
+      <role>Emma Boon</role>
+    </credit>
+    <credit>
+      <actor>Fleerackers, Ianka</actor>
+      <role>Emma Boon</role>
+    </credit>
+    <credit>
+      <actor>Fleerackers, Ianka</actor>
+      <role>Natalie Mouton</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Mike (IV)</actor>
+      <role>Mike Shira</role>
+    </credit>
+    <credit>
+      <actor>Gatio, Ambrosio Maudonado</actor>
+      <role>Patricio</role>
+    </credit>
+    <credit>
+      <actor>Geens, Jos</actor>
+      <role>Aimé Verbanck</role>
+    </credit>
+    <credit>
+      <actor>Geeraerts, Valerie</actor>
+      <role>Sandra</role>
+    </credit>
+    <credit>
+      <actor>Geeraerts, Valerie</actor>
+      <role>Sandra Di Renzo</role>
+    </credit>
+    <credit>
+      <actor>Geerts, Ina</actor>
+      <role>Evelyne Willaert</role>
+    </credit>
+    <credit>
+      <actor>Geerts, Steve</actor>
+      <role>Werner</role>
+    </credit>
+    <credit>
+      <actor>Genard, Pieter</actor>
+      <role>Patrick Arras</role>
+    </credit>
+    <credit>
+      <actor>Geuns, Rik</actor>
+      <role>Simon Van Lancker</role>
+    </credit>
+    <credit>
+      <actor>Geuns, Rik</actor>
+      <role>Simon Van Lancker</role>
+    </credit>
+    <credit>
+      <actor>Gijsbrechts, Hilde</actor>
+      <role>Cindy De Schepper</role>
+    </credit>
+    <credit>
+      <actor>Godon, Eric</actor>
+      <role>Charlie De Kuyper</role>
+    </credit>
+    <credit>
+      <actor>Goemaere, Patricia</actor>
+      <role>Dochter dode man</role>
+    </credit>
+    <credit>
+      <actor>Goemaere, Patricia</actor>
+      <role>Veerle De Graeve</role>
+    </credit>
+    <credit>
+      <actor>Goethals, Sabine</actor>
+      <role>Moeder van Juri</role>
+    </credit>
+    <credit>
+      <actor>Goethals, Sabine</actor>
+      <role>Moeder van Maarten</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, Manuel Mugica</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>Goos, Lorenza</actor>
+      <role>Gerda Verkest</role>
+    </credit>
+    <credit>
+      <actor>Goossens, Erik</actor>
+      <role>Fernand Gessler</role>
+    </credit>
+    <credit>
+      <actor>Goossens, Isidoor</actor>
+      <role>Ken Roosen</role>
+    </credit>
+    <credit>
+      <actor>Goossens, Isidoor</actor>
+      <role>Ken Roosen</role>
+    </credit>
+    <credit>
+      <actor>Goossens, Nele</actor>
+      <role>Chantal De Vreeze</role>
+    </credit>
+    <credit>
+      <actor>Goris, Erik</actor>
+      <role>Fernand Gessler</role>
+    </credit>
+    <credit>
+      <actor>Goris, Erik</actor>
+      <role>Filip Charlier</role>
+    </credit>
+    <credit>
+      <actor>Gorp, Jos van</actor>
+      <role>Henri</role>
+    </credit>
+    <credit>
+      <actor>Grijp, Mia</actor>
+      <role>Anita Dewaele</role>
+    </credit>
+    <credit>
+      <actor>Grijp, Mia</actor>
+      <role>Ma Van Den Driessche</role>
+    </credit>
+    <credit>
+      <actor>Groot, Boudewijn de</actor>
+      <role>Robert W. Nieuwman</role>
+    </credit>
+    <credit>
+      <actor>Groot, Boudewijn de</actor>
+      <role>Robert W. Nieuwman (2004-2005)</role>
+    </credit>
+    <credit>
+      <actor>Gyselinck, Martin</actor>
+      <role>Vader Baetens</role>
+    </credit>
+    <credit>
+      <actor>Gyselinck, Sonja</actor>
+      <role>Huisvrouw</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Gürbüz, Kadèr</actor>
+      <role>Mihriban Ates</role>
+    </credit>
+    <credit>
+      <actor>Haelvoet, Bert</actor>
+      <role>Andy Mondelaers</role>
+    </credit>
+    <credit>
+      <actor>Haelvoet, Bert</actor>
+      <role>Mike Van Damme</role>
+    </credit>
+    <credit>
+      <actor>Hancké, Joeri</actor>
+      <role>Marco</role>
+    </credit>
+    <credit>
+      <actor>Hannes, Lut</actor>
+      <role>Lidy Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hannes, Lut</actor>
+      <role>Lidy Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hannes, Lut</actor>
+      <role>Lidy Jacobs (2000-2001)</role>
+    </credit>
+    <credit>
+      <actor>Harmati, Laszlo</actor>
+      <role>Luther Cosani</role>
+    </credit>
+    <credit>
+      <actor>Harmati, Laszlo</actor>
+      <role>Luther Cosanni</role>
+    </credit>
+    <credit>
+      <actor>Heijnen, Hilde</actor>
+      <role>Michelle Cornelis</role>
+    </credit>
+    <credit>
+      <actor>Heirman, Blanka</actor>
+      <role>Apothekeres</role>
+    </credit>
+    <credit>
+      <actor>Heldenbergh, Johan (I)</actor>
+      <role>Rik</role>
+    </credit>
+    <credit>
+      <actor>Hellebuyck, Walter</actor>
+      <role>Man in flatgebouw</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Lars</actor>
+      <role>Glen Van Damme</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Ludo</actor>
+      <role>Raymond Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Ludo</actor>
+      <role>Raymond Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Ludo</actor>
+      <role>Raymond Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Ludo</actor>
+      <role>Raymond Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Hellinx, Ludo</actor>
+      <role>Raymond Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Helsen, Anke (I)</actor>
+      <role>Cafébazin Greta</role>
+    </credit>
+    <credit>
+      <actor>Helsen, Sanderijn</actor>
+      <role>Lieve</role>
+    </credit>
+    <credit>
+      <actor>Hendrickx, Wouter</actor>
+      <role>Ronny</role>
+    </credit>
+    <credit>
+      <actor>Henehene, Veronique</actor>
+      <role>Therese</role>
+    </credit>
+    <credit>
+      <actor>Henry, Lisa</actor>
+      <role>Meisje 1</role>
+    </credit>
+    <credit>
+      <actor>Hens, Jo</actor>
+      <role>Thierry Arras</role>
+    </credit>
+    <credit>
+      <actor>Hertoghs, Ellen</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>Hessels, Joris</actor>
+      <role>Nico</role>
+    </credit>
+    <credit>
+      <actor>Heylen, Danni</actor>
+      <role>Directrice</role>
+    </credit>
+    <credit>
+      <actor>Hijzen, Theo</actor>
+      <role>Dirk-Jan Roelandt</role>
+    </credit>
+    <credit>
+      <actor>Hoogmartens, Ludo</actor>
+      <role>Eddy</role>
+    </credit>
+    <credit>
+      <actor>Hoogmartens, Ludo</actor>
+      <role>Erwin Beelaert</role>
+    </credit>
+    <credit>
+      <actor>Hugaert, Daan</actor>
+      <role>Francis De Volder</role>
+    </credit>
+    <credit>
+      <actor>Hugaert, Daan</actor>
+      <role>Leo Bodart</role>
+    </credit>
+    <credit>
+      <actor>Hunaerts, Geert</actor>
+      <role>Daan De Ridder</role>
+    </credit>
+    <credit>
+      <actor>Hunaerts, Geert</actor>
+      <role>Daan De Ridder</role>
+    </credit>
+    <credit>
+      <actor>Huybrechts, Rosita</actor>
+      <role>Laurette De Volder</role>
+    </credit>
+    <credit>
+      <actor>Huybrechts, Rosita</actor>
+      <role>Moeder Viaene</role>
+    </credit>
+    <credit>
+      <actor>Huygens, Johan</actor>
+      <role>Nico Mertens</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Huys, Rebecca</actor>
+      <role>Merel Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Illegems, Herwig</actor>
+      <role>Lode Lootjens</role>
+    </credit>
+    <credit>
+      <actor>Ilsen, Kobe</actor>
+      <role>Jelle Mortelmans</role>
+    </credit>
+    <credit>
+      <actor>Ilsen, Kobe</actor>
+      <role>Jelle Mortelmans</role>
+    </credit>
+    <credit>
+      <actor>Imbo, Frederik</actor>
+      <role>Kevin Raeman</role>
+    </credit>
+    <credit>
+      <actor>Isildak, Seref</actor>
+      <role>Tilmar Cinar</role>
+    </credit>
+    <credit>
+      <actor>Ivanov, Philip</actor>
+      <role>Adrian</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Karin (I)</actor>
+      <role>Brigiite Vandaele</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Karin (I)</actor>
+      <role>Brigitte Van Daele</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Karin (I)</actor>
+      <role>Brigitte Vandaele</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Karin (I)</actor>
+      <role>Brigitte van Dale</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Karin (I)</actor>
+      <role>Gaby</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Muriel</actor>
+      <role>Delsart</role>
+    </credit>
+    <credit>
+      <actor>Janssen, Marc</actor>
+      <role>Victor</role>
+    </credit>
+    <credit>
+      <actor>Janssens, Jan (II)</actor>
+      <role>Consulent</role>
+    </credit>
+    <credit>
+      <actor>Janssens, Kevin</actor>
+      <role>Mark Devreese</role>
+    </credit>
+    <credit>
+      <actor>Jelec, Stipo</actor>
+      <role>Mischewski Radek</role>
+    </credit>
+    <credit>
+      <actor>Joosten, Wanda</actor>
+      <role>Solange Smeekens</role>
+    </credit>
+    <credit>
+      <actor>Juchtmans, Suzanne</actor>
+      <role>Marie-Thérèse De Blieck</role>
+    </credit>
+    <credit>
+      <actor>Justic, Katarina</actor>
+      <role>Selina Dashi</role>
+    </credit>
+    <credit>
+      <actor>Keersmaekers, Lilian</actor>
+      <role>Mevrouw Mombaerts</role>
+    </credit>
+    <credit>
+      <actor>Keersmaekers, Lilian</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>Kempeneers, Eric</actor>
+      <role>Rudy</role>
+    </credit>
+    <credit>
+      <actor>Kempeneers, Eric</actor>
+      <role>Wouter Raes</role>
+    </credit>
+    <credit>
+      <actor>Kerremans, Eric</actor>
+      <role>Michel Monsaert</role>
+    </credit>
+    <credit>
+      <actor>Kerremans, Eric</actor>
+      <role>Michiel Monsaert</role>
+    </credit>
+    <credit>
+      <actor>Kerremans, Eric</actor>
+      <role>Monsaert</role>
+    </credit>
+    <credit>
+      <actor>Kersting, Manuel</actor>
+      <role>Robby Bracke</role>
+    </credit>
+    <credit>
+      <actor>Keymolen, Noëlla</actor>
+      <role>Vrouw met blauw oog</role>
+    </credit>
+    <credit>
+      <actor>Kloek, Tania</actor>
+      <role>Tina Demeester</role>
+    </credit>
+    <credit>
+      <actor>Kloek, Tania</actor>
+      <role>Tina Demeester</role>
+    </credit>
+    <credit>
+      <actor>La Haye, Robert De</actor>
+      <role>Robin Coster</role>
+    </credit>
+    <credit>
+      <actor>Lagay, Gil</actor>
+      <role>Micha</role>
+    </credit>
+    <credit>
+      <actor>Lahousse, Gert</actor>
+      <role>Ward Willinck</role>
+    </credit>
+    <credit>
+      <actor>Lanckacker, Franky</actor>
+      <role>Eigenaar wagen</role>
+    </credit>
+    <credit>
+      <actor>Lanckacker, Franky</actor>
+      <role>Man in pyama</role>
+    </credit>
+    <credit>
+      <actor>Lanckacker, Franky</actor>
+      <role>Man van garage</role>
+    </credit>
+    <credit>
+      <actor>Laureyns, Tine</actor>
+      <role>Hanne</role>
+    </credit>
+    <credit>
+      <actor>Laureys, Mieke</actor>
+      <role>Yolande</role>
+    </credit>
+    <credit>
+      <actor>Lauwagie, Guido</actor>
+      <role>Lucien</role>
+    </credit>
+    <credit>
+      <actor>Lavryssen, Dirk</actor>
+      <role>Ronny</role>
+    </credit>
+    <credit>
+      <actor>Leeman, Pierre</actor>
+      <role>Onderzoeker</role>
+    </credit>
+    <credit>
+      <actor>Leemans, Emmy</actor>
+      <role>Esther Possemiers</role>
+    </credit>
+    <credit>
+      <actor>Leemans, Emmy</actor>
+      <role>Mariette</role>
+    </credit>
+    <credit>
+      <actor>Leemans, Emmy</actor>
+      <role>Moedertje</role>
+    </credit>
+    <credit>
+      <actor>Lenaerts, Jeroen</actor>
+      <role>Jeroen Teugels</role>
+    </credit>
+    <credit>
+      <actor>Lenaerts, Rebecca</actor>
+      <role>Sandy Volckaert</role>
+    </credit>
+    <credit>
+      <actor>Lepage, Nathalie</actor>
+      <role>Nathalie</role>
+    </credit>
+    <credit>
+      <actor>Lesage, Gunther</actor>
+      <role>Lieven De Braeckeleer</role>
+    </credit>
+    <credit>
+      <actor>Lewijze, Yoeri</actor>
+      <role>Joeri Van Damme</role>
+    </credit>
+    <credit>
+      <actor>Leybaert, Isabel</actor>
+      <role>Kristien</role>
+    </credit>
+    <credit>
+      <actor>Leybaert, Isabel</actor>
+      <role>Machteld</role>
+    </credit>
+    <credit>
+      <actor>Leybaert, Isabel</actor>
+      <role>Maggy Vroman</role>
+    </credit>
+    <credit>
+      <actor>Ligtvoet, Hans</actor>
+      <role>Joop Schelling</role>
+    </credit>
+    <credit>
+      <actor>Loeckx, Peter</actor>
+      <role>Veilingmeester</role>
+    </credit>
+    <credit>
+      <actor>Luvengika, Johnny</actor>
+      <role>Joseph</role>
+    </credit>
+    <credit>
+      <actor>Lybeert, Esther</actor>
+      <role>Els</role>
+    </credit>
+    <credit>
+      <actor>Löw, Ernst</actor>
+      <role>Alek</role>
+    </credit>
+    <credit>
+      <actor>Löw, Ernst</actor>
+      <role>Alek Dashi</role>
+    </credit>
+    <credit>
+      <actor>Maas, Frans</actor>
+      <role>Schooldirecteur</role>
+    </credit>
+    <credit>
+      <actor>Maduinda-Kamba, Sam</actor>
+      <role>Mathieu</role>
+    </credit>
+    <credit>
+      <actor>Maerevoet, Tina</actor>
+      <role>Brunette</role>
+    </credit>
+    <credit>
+      <actor>Maes, Caroline</actor>
+      <role>Nora Maes</role>
+    </credit>
+    <credit>
+      <actor>Maes, Caroline</actor>
+      <role>Nora Maes</role>
+    </credit>
+    <credit>
+      <actor>Maes, Marleen</actor>
+      <role>Lisette Van Hoof</role>
+    </credit>
+    <credit>
+      <actor>Magerman, Els</actor>
+      <role>Buurvrouw</role>
+    </credit>
+    <credit>
+      <actor>Magerman, Els</actor>
+      <role>Schooldirectrice</role>
+    </credit>
+    <credit>
+      <actor>Magerman, Els</actor>
+      <role>Tante Mireille</role>
+    </credit>
+    <credit>
+      <actor>Mahabies, Salya</actor>
+      <role>Moeder van Naeem</role>
+    </credit>
+    <credit>
+      <actor>Malschaert, Veerle</actor>
+      <role>Carla Deseyn</role>
+    </credit>
+    <credit>
+      <actor>Malschaert, Veerle</actor>
+      <role>Carla Deseyn</role>
+    </credit>
+    <credit>
+      <actor>Malschaert, Veerle</actor>
+      <role>Carla Deseyn</role>
+    </credit>
+    <credit>
+      <actor>Malschaert, Veerle</actor>
+      <role>Carla Deseyn</role>
+    </credit>
+    <credit>
+      <actor>Malschaert, Veerle</actor>
+      <role>Carla Deseyn</role>
+    </credit>
+    <credit>
+      <actor>Marchand, Gerda</actor>
+      <role>Winkelierster</role>
+    </credit>
+    <credit>
+      <actor>Mari, Hector</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>Marichael, Filip</actor>
+      <role>Agent</role>
+    </credit>
+    <credit>
+      <actor>Marichael, Peter</actor>
+      <role>Schepen Calpaert</role>
+    </credit>
+    <credit>
+      <actor>Mariman, Ellen</actor>
+      <role>Studente</role>
+    </credit>
+    <credit>
+      <actor>Marissael, Claude</actor>
+      <role>Perdaens</role>
+    </credit>
+    <credit>
+      <actor>Massez, Ini</actor>
+      <role>Kathy De Pauw</role>
+    </credit>
+    <credit>
+      <actor>McMaster, Joni</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Meeusen, Roger</actor>
+      <role>Zwerver</role>
+    </credit>
+    <credit>
+      <actor>Meeusen, Roger</actor>
+      <role>Zwerver Roland</role>
+    </credit>
+    <credit>
+      <actor>Meirte, Luc</actor>
+      <role>Kerstman</role>
+    </credit>
+    <credit>
+      <actor>Merchiers, Philip</actor>
+      <role>Man met beertje</role>
+    </credit>
+    <credit>
+      <actor>Mermans, Marilou</actor>
+      <role>Moeder Bauwens</role>
+    </credit>
+    <credit>
+      <actor>Mertens, Lisette</actor>
+      <role>Jacqueline Nauwelaerts</role>
+    </credit>
+    <credit>
+      <actor>Mertens, Lisette</actor>
+      <role>Jacqueline Nauwelaerts (2003-)</role>
+    </credit>
+    <credit>
+      <actor>Mertens, Maarten</actor>
+      <role>Sandro Van Meulebeke</role>
+    </credit>
+    <credit>
+      <actor>Mertens, Maarten</actor>
+      <role>Sandro Van Meulebeker</role>
+    </credit>
+    <credit>
+      <actor>Michel, Peter (I)</actor>
+      <role>Jack Bassinck</role>
+    </credit>
+    <credit>
+      <actor>Michel, Peter (I)</actor>
+      <role>Mark De Haes</role>
+    </credit>
+    <credit>
+      <actor>Michel, Peter (I)</actor>
+      <role>William Janssens</role>
+    </credit>
+    <credit>
+      <actor>Michiels, David</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Michiels, Pascale</actor>
+      <role>Cat Reyniers</role>
+    </credit>
+    <credit>
+      <actor>Michiels, Pascale</actor>
+      <role>Cat Reyniers</role>
+    </credit>
+    <credit>
+      <actor>Michiels, Pascale</actor>
+      <role>Roos Diepenbeek</role>
+    </credit>
+    <credit>
+      <actor>Miller, An</actor>
+      <role>Shelly Vincke</role>
+    </credit>
+    <credit>
+      <actor>Milojevic, Bata Miodrag</actor>
+      <role>Ilyas Dagajev</role>
+    </credit>
+    <credit>
+      <actor>Milsdochter, Simone</actor>
+      <role>Veerle Hoeyberghs</role>
+    </credit>
+    <credit>
+      <actor>Moeremans, Walter</actor>
+      <role>Man in café</role>
+    </credit>
+    <credit>
+      <actor>Moerenhout, Tessy</actor>
+      <role>Tante Mireille</role>
+    </credit>
+    <credit>
+      <actor>Monserez, Koen</actor>
+      <role>Carjacker</role>
+    </credit>
+    <credit>
+      <actor>Moonens, Johan</actor>
+      <role>Supporter 1</role>
+    </credit>
+    <credit>
+      <actor>Moreel, Maya</actor>
+      <role>Zoë</role>
+    </credit>
+    <credit>
+      <actor>Moreeuw, Filip</actor>
+      <role>Serge</role>
+    </credit>
+    <credit>
+      <actor>Morren, Rudy</actor>
+      <role>David Devriendt</role>
+    </credit>
+    <credit>
+      <actor>Morren, Rudy</actor>
+      <role>Yves Poelman</role>
+    </credit>
+    <credit>
+      <actor>Munter, Hans de</actor>
+      <role>Pastoor</role>
+    </credit>
+    <credit>
+      <actor>Munter, Hans de</actor>
+      <role>Philippe D'Hoker</role>
+    </credit>
+    <credit>
+      <actor>Munter, Hans de</actor>
+      <role>Philippe D'Hoker</role>
+    </credit>
+    <credit>
+      <actor>Muts, John</actor>
+      <role>Herman Brusselmans</role>
+    </credit>
+    <credit>
+      <actor>Muës, Jan</actor>
+      <role>Rudy</role>
+    </credit>
+    <credit>
+      <actor>Neerman, Fernand</actor>
+      <role>Dronken Man</role>
+    </credit>
+    <credit>
+      <actor>Nicolaas, Pieter Jan</actor>
+      <role>Björn, Stevens</role>
+    </credit>
+    <credit>
+      <actor>Noah, Eko</actor>
+      <role>Bejo Topan</role>
+    </credit>
+    <credit>
+      <actor>Noah, Eko</actor>
+      <role>Bejo Topan</role>
+    </credit>
+    <credit>
+      <actor>Nuyens, Luc</actor>
+      <role>Noël Masson</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismaeil El Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismael El Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismael El Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismael El Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismael El Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Ismael el Kader</role>
+    </credit>
+    <credit>
+      <actor>Ouail, Sailah-Edine</actor>
+      <role>Tarik</role>
+    </credit>
+    <credit>
+      <actor>Ouazoui, Youssef</actor>
+      <role>Ali Chadid</role>
+    </credit>
+    <credit>
+      <actor>Owa, Bode</actor>
+      <role>Fela</role>
+    </credit>
+    <credit>
+      <actor>Pas, Michael</actor>
+      <role>Walter Deltombe</role>
+    </credit>
+    <credit>
+      <actor>Pattyn, Lieven</actor>
+      <role>Student Lieuc</role>
+    </credit>
+    <credit>
+      <actor>Pauwels, Ivo</actor>
+      <role>Alfons Dewaele</role>
+    </credit>
+    <credit>
+      <actor>Pauwels, Jan</actor>
+      <role>Jonckheere</role>
+    </credit>
+    <credit>
+      <actor>Pauwels, Pol</actor>
+      <role>Wim</role>
+    </credit>
+    <credit>
+      <actor>Pecnik, Ivan</actor>
+      <role>Lex Van Ruysdael</role>
+    </credit>
+    <credit>
+      <actor>Pecnik, Ivan</actor>
+      <role>Raoul De Bruycker</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Diederik</actor>
+      <role>Ricky</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Marc</actor>
+      <role>Leon Verbist</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Marc</actor>
+      <role>Raf Mertens</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Marc</actor>
+      <role>Yves Hasaert</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Victor</actor>
+      <role>Andreï</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Victor</actor>
+      <role>Erik Coudeville</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Victor</actor>
+      <role>Erik Coudeville</role>
+    </credit>
+    <credit>
+      <actor>Perceval, Stefan</actor>
+      <role>Joachim Tavernier</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Agent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Agent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balie-agent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Praet, Eddy</actor>
+      <role>Balieagent Eddy</role>
+    </credit>
+    <credit>
+      <actor>Prinsen, Ugo</actor>
+      <role>Vader Willems</role>
+    </credit>
+    <credit>
+      <actor>Provoost, Alexander</actor>
+      <role>Arne</role>
+    </credit>
+    <credit>
+      <actor>Pushkin (IV)</actor>
+      <role>Hond</role>
+    </credit>
+    <credit>
+      <actor>Quartier, Walter</actor>
+      <role>Krantenman</role>
+    </credit>
+    <credit>
+      <actor>Quartier, Walter</actor>
+      <role>Vlaamse buurman</role>
+    </credit>
+    <credit>
+      <actor>Raes, Frank</actor>
+      <role>Verslaggever</role>
+    </credit>
+    <credit>
+      <actor>Raman, Jonathan</actor>
+      <role>Rik Jacobs</role>
+    </credit>
+    <credit>
+      <actor>Ramphal, Shamu</actor>
+      <role>Naeem</role>
+    </credit>
+    <credit>
+      <actor>Ravelingien, Jef</actor>
+      <role>Patrick Doornaers</role>
+    </credit>
+    <credit>
+      <actor>Ravelingien, Jef</actor>
+      <role>Sylvain</role>
+    </credit>
+    <credit>
+      <actor>Reniers, Gunter</actor>
+      <role>Bart Lathouwers</role>
+    </credit>
+    <credit>
+      <actor>Reniers, Gunter</actor>
+      <role>Carjacker</role>
+    </credit>
+    <credit>
+      <actor>Reniers, Gunter</actor>
+      <role>Kristof Vervecke</role>
+    </credit>
+    <credit>
+      <actor>Renson, Viktor</actor>
+      <role>Jongen van 10</role>
+    </credit>
+    <credit>
+      <actor>Ridders, Carl</actor>
+      <role>Ruud</role>
+    </credit>
+    <credit>
+      <actor>Rodriguez, René</actor>
+      <role>Herman</role>
+    </credit>
+    <credit>
+      <actor>Rogiest, Luc</actor>
+      <role>Postbode</role>
+    </credit>
+    <credit>
+      <actor>Rottiers, Ben</actor>
+      <role>Vader</role>
+    </credit>
+    <credit>
+      <actor>Rouffaer, Peter</actor>
+      <role>Richard Van Loocke</role>
+    </credit>
+    <credit>
+      <actor>Royaards, Hans</actor>
+      <role>Mark Hoffman</role>
+    </credit>
+    <credit>
+      <actor>Royaards, Hans</actor>
+      <role>Mark Hoffman</role>
+    </credit>
+    <credit>
+      <actor>Royaards, Hans</actor>
+      <role>Palmers</role>
+    </credit>
+    <credit>
+      <actor>Rozé, Patrick</actor>
+      <role>Bob Luyten</role>
+    </credit>
+    <credit>
+      <actor>Schats, Ludo</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Schoenaerts, Matthias</actor>
+      <role>Jens Goossens</role>
+    </credit>
+    <credit>
+      <actor>Segers, Ben</actor>
+      <role>Jonge aardbeienkweker Brugman</role>
+    </credit>
+    <credit>
+      <actor>Segers, Rudolph</actor>
+      <role>Haelters</role>
+    </credit>
+    <credit>
+      <actor>Selderslaghs, Bob</actor>
+      <role>Guido Stevens</role>
+    </credit>
+    <credit>
+      <actor>Seldeslachts, Joren</actor>
+      <role>Jurgen</role>
+    </credit>
+    <credit>
+      <actor>Semay, Arthur</actor>
+      <role>Firmin</role>
+    </credit>
+    <credit>
+      <actor>Sercu, Mathias</actor>
+      <role>Dany De Volder</role>
+    </credit>
+    <credit>
+      <actor>Sercu, Mathias</actor>
+      <role>Staf Demotte</role>
+    </credit>
+    <credit>
+      <actor>Sercu, Mathias</actor>
+      <role>Staf Demotte</role>
+    </credit>
+    <credit>
+      <actor>Sercu, Mathias</actor>
+      <role>Staf Demotte</role>
+    </credit>
+    <credit>
+      <actor>Sercu, Mathias</actor>
+      <role>Staf Demotte</role>
+    </credit>
+    <credit>
+      <actor>Sian, Robert</actor>
+      <role>Martin Dunn</role>
+    </credit>
+    <credit>
+      <actor>Slaets, Sus</actor>
+      <role>Jongen</role>
+    </credit>
+    <credit>
+      <actor>Slegers, Bart</actor>
+      <role>Tommy Desmit</role>
+    </credit>
+    <credit>
+      <actor>Smolders, Lukas</actor>
+      <role>Danny (2001)</role>
+    </credit>
+    <credit>
+      <actor>Snijers, Bob</actor>
+      <role>Berten Goethals</role>
+    </credit>
+    <credit>
+      <actor>Sobrie, Jan</actor>
+      <role>Eddy</role>
+    </credit>
+    <credit>
+      <actor>Sobrie, Jan</actor>
+      <role>Student 2</role>
+    </credit>
+    <credit>
+      <actor>Spedale, Angelo Dello</actor>
+      <role>Giovanni Di Renzo</role>
+    </credit>
+    <credit>
+      <actor>Springuel, Luc</actor>
+      <role>Jean-Luc Heyermans</role>
+    </credit>
+    <credit>
+      <actor>Steeno, Roel</actor>
+      <role>Serge Tilquin</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Wim</actor>
+      <role>David Louwers</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Wim</actor>
+      <role>Steven</role>
+    </credit>
+    <credit>
+      <actor>Stienlet, Christophe</actor>
+      <role>Baetens jr.</role>
+    </credit>
+    <credit>
+      <actor>Stroobants, Mark</actor>
+      <role>Geert Van Bever</role>
+    </credit>
+    <credit>
+      <actor>Stroobants, Mark</actor>
+      <role>Geert van Bever</role>
+    </credit>
+    <credit>
+      <actor>Strynckx, Peter</actor>
+      <role>Vader Viaene</role>
+    </credit>
+    <credit>
+      <actor>Sturm, Nico</actor>
+      <role>Yves Mattheussen</role>
+    </credit>
+    <credit>
+      <actor>Swiggers, Koen</actor>
+      <role>Overvaller</role>
+    </credit>
+    <credit>
+      <actor>Sys, Mattieu</actor>
+      <role>Arne De Graeve</role>
+    </credit>
+    <credit>
+      <actor>Taelman, Eric</actor>
+      <role>Dief Sofitel</role>
+    </credit>
+    <credit>
+      <actor>Tanghe, Wietse</actor>
+      <role>Lenn</role>
+    </credit>
+    <credit>
+      <actor>Tanghe, Wietse</actor>
+      <role>Maarten</role>
+    </credit>
+    <credit>
+      <actor>Tanghe, Wietse</actor>
+      <role>Niels De Troch</role>
+    </credit>
+    <credit>
+      <actor>Termant, Patrick</actor>
+      <role>Agent Patrick</role>
+    </credit>
+    <credit>
+      <actor>Termant, Patrick</actor>
+      <role>Agent Patrick</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Willy (I)</actor>
+      <role>Evert</role>
+    </credit>
+    <credit>
+      <actor>Thyssen, Peter</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tijsmans, Mark</actor>
+      <role>Wilfried Pasmans</role>
+    </credit>
+    <credit>
+      <actor>Tilquin, Serge</actor>
+      <role>Roel Steeno</role>
+    </credit>
+    <credit>
+      <actor>Timmermans, Danny</actor>
+      <role>Dominique De Leeuw</role>
+    </credit>
+    <credit>
+      <actor>Timmermans, Danny</actor>
+      <role>Dominique De Leeuw</role>
+    </credit>
+    <credit>
+      <actor>Timmermans, Danny</actor>
+      <role>Dominique De Leeuw (2003-)</role>
+    </credit>
+    <credit>
+      <actor>Trienpont, Kevin</actor>
+      <role>Bertje</role>
+    </credit>
+    <credit>
+      <actor>Troubleyn, Dieter</actor>
+      <role>Thierry Pireyns</role>
+    </credit>
+    <credit>
+      <actor>Turbiasz, Ryszard</actor>
+      <role>Borys Kaminski</role>
+    </credit>
+    <credit>
+      <actor>Tuypens, Dirk</actor>
+      <role>Dirk Houtman</role>
+    </credit>
+    <credit>
+      <actor>Uffelen, Rik van</actor>
+      <role>Vanacker</role>
+    </credit>
+    <credit>
+      <actor>Vaes, Geert</actor>
+      <role>Yannick</role>
+    </credit>
+    <credit>
+      <actor>Valcke, Serge-Henri</actor>
+      <role>Jean-Luc Duvivier</role>
+    </credit>
+    <credit>
+      <actor>Valcke, Serge-Henri</actor>
+      <role>Jean-Luc Duvivier</role>
+    </credit>
+    <credit>
+      <actor>Van Assche, Jaak</actor>
+      <role>Vader Vanneste</role>
+    </credit>
+    <credit>
+      <actor>Van Autreve, Ilja</actor>
+      <role>Wout</role>
+    </credit>
+    <credit>
+      <actor>Van Avermaet, Bart</actor>
+      <role>Autobestuurder</role>
+    </credit>
+    <credit>
+      <actor>Van Avermaet, Bart</actor>
+      <role>E.H. Delarue</role>
+    </credit>
+    <credit>
+      <actor>Van Bauwel, Tom</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Van Bauwel, Tom</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Van Bauwel, Tom</actor>
+      <role>Frank Emiel Huybrechts</role>
+    </credit>
+    <credit>
+      <actor>Van Bever, Alain</actor>
+      <role>Bursselse agent</role>
+    </credit>
+    <credit>
+      <actor>Van Brabandt, Stefaan</actor>
+      <role>Steven Vanaecke</role>
+    </credit>
+    <credit>
+      <actor>Van Broeckhoven, Bart</actor>
+      <role>Eigenaar frituur</role>
+    </credit>
+    <credit>
+      <actor>Van Brussel, Raf</actor>
+      <role>Straatmuzikant</role>
+    </credit>
+    <credit>
+      <actor>Van Cauwenberghe, Hans</actor>
+      <role>Guy Mariën</role>
+    </credit>
+    <credit>
+      <actor>Van Cauwenberghe, Hans</actor>
+      <role>Guy Mariën</role>
+    </credit>
+    <credit>
+      <actor>Van Cauwenberghe, Hans</actor>
+      <role>Mariën</role>
+    </credit>
+    <credit>
+      <actor>Van Cauwenberghe, Hans</actor>
+      <role>William Dierckx</role>
+    </credit>
+    <credit>
+      <actor>Van Dael, Joris</actor>
+      <role>André</role>
+    </credit>
+    <credit>
+      <actor>Van Dael, Joris</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>Van De Merlen, Dirk</actor>
+      <role>Andre Roosen</role>
+    </credit>
+    <credit>
+      <actor>Van De Velde, Danny</actor>
+      <role>Chirurg</role>
+    </credit>
+    <credit>
+      <actor>Van De Velde, Danny</actor>
+      <role>Stafhouder</role>
+    </credit>
+    <credit>
+      <actor>Van De Velde, Danny</actor>
+      <role>Stafhouder van de balie</role>
+    </credit>
+    <credit>
+      <actor>Van Den Berghe, Hugo</actor>
+      <role>Taverniers</role>
+    </credit>
+    <credit>
+      <actor>Van Den Berghe, Hugo</actor>
+      <role>Taverniers</role>
+    </credit>
+    <credit>
+      <actor>Van Den Berghe, Jan</actor>
+      <role>Onderzoeksrechter</role>
+    </credit>
+    <credit>
+      <actor>Van Den Berghe, Jan</actor>
+      <role>Onderzoeksrechter</role>
+    </credit>
+    <credit>
+      <actor>Van Den Berghe, Jan</actor>
+      <role>Onderzoeksrechter</role>
+    </credit>
+    <credit>
+      <actor>Van Den Bosch, Jan (I)</actor>
+      <role>Tim Hendrickx</role>
+    </credit>
+    <credit>
+      <actor>Van Den Bossche, Julot</actor>
+      <role>Man van 80</role>
+    </credit>
+    <credit>
+      <actor>Van Den Broeck, Liam</actor>
+      <role>Romeo De Schutter</role>
+    </credit>
+    <credit>
+      <actor>Van Der Aa, Frans</actor>
+      <role>Cowboy</role>
+    </credit>
+    <credit>
+      <actor>Van Der Auwera, Antoine</actor>
+      <role>Brecht Teugels</role>
+    </credit>
+    <credit>
+      <actor>Van Der Auwera, Antoine</actor>
+      <role>Gerant</role>
+    </credit>
+    <credit>
+      <actor>Van Der Auwera, Antoine</actor>
+      <role>Paul Hoeyberghs</role>
+    </credit>
+    <credit>
+      <actor>Van Der Grijn, Wim</actor>
+      <role>Sam</role>
+    </credit>
+    <credit>
+      <actor>Van Der Vreken, Danny</actor>
+      <role>Patrick</role>
+    </credit>
+    <credit>
+      <actor>Van Dijck, Beja</actor>
+      <role>Moeder van Yolande</role>
+    </credit>
+    <credit>
+      <actor>Van Dijck, Brik</actor>
+      <role>Griffier</role>
+    </credit>
+    <credit>
+      <actor>Van Eeghem, Kurt</actor>
+      <role>Noël Veyt</role>
+    </credit>
+    <credit>
+      <actor>Van Eeghem, Mark</actor>
+      <role>Rudy</role>
+    </credit>
+    <credit>
+      <actor>Van Erum, Frank</actor>
+      <role>Filip</role>
+    </credit>
+    <credit>
+      <actor>Van Erum, Frank</actor>
+      <role>Lt. Kenny</role>
+    </credit>
+    <credit>
+      <actor>Van Erum, Frank</actor>
+      <role>Superbiker</role>
+    </credit>
+    <credit>
+      <actor>Van Geel, Jonas</actor>
+      <role>Sep</role>
+    </credit>
+    <credit>
+      <actor>Van Geel, Rik</actor>
+      <role>Andy</role>
+    </credit>
+    <credit>
+      <actor>Van Gompel, Stef</actor>
+      <role>Fredje Cornelis</role>
+    </credit>
+    <credit>
+      <actor>Van Gucht, Peter</actor>
+      <role>Man van A-team</role>
+    </credit>
+    <credit>
+      <actor>Van Gucht, Peter</actor>
+      <role>Man van A-team</role>
+    </credit>
+    <credit>
+      <actor>Van Haecke, Stijn</actor>
+      <role>Pieter De Sutter</role>
+    </credit>
+    <credit>
+      <actor>Van Haelter, Peter</actor>
+      <role>Struise Man</role>
+    </credit>
+    <credit>
+      <actor>Van Hamel, Hans</actor>
+      <role>Stijn</role>
+    </credit>
+    <credit>
+      <actor>Van Hegen, Dries</actor>
+      <role>Hoofdinspecteur Caerels</role>
+    </credit>
+    <credit>
+      <actor>Van Hegen, Dries</actor>
+      <role>Torre Van Binst</role>
+    </credit>
+    <credit>
+      <actor>Van Herreweghe, Eric</actor>
+      <role>Albert Vroman</role>
+    </credit>
+    <credit>
+      <actor>Van Herreweghe, Eric</actor>
+      <role>Jozef Hofmans</role>
+    </credit>
+    <credit>
+      <actor>Van Hove, Mich</actor>
+      <role>Cafébazin</role>
+    </credit>
+    <credit>
+      <actor>Van Kerpel, Roger</actor>
+      <role>René</role>
+    </credit>
+    <credit>
+      <actor>Van Lierde, Johan</actor>
+      <role>Deurwaarder</role>
+    </credit>
+    <credit>
+      <actor>Van Lierde, Wouter</actor>
+      <role>Luc Feiremans</role>
+    </credit>
+    <credit>
+      <actor>Van Lierde, Wouter</actor>
+      <role>Yvan</role>
+    </credit>
+    <credit>
+      <actor>Van Looveren, Jan</actor>
+      <role>Kok</role>
+    </credit>
+    <credit>
+      <actor>Van Looveren, Jan</actor>
+      <role>René Dewals</role>
+    </credit>
+    <credit>
+      <actor>Van Maldegem, Isidoor</actor>
+      <role>Kwinten</role>
+    </credit>
+    <credit>
+      <actor>Van Maldeghem, Isidoor</actor>
+      <role>Kwinten</role>
+    </credit>
+    <credit>
+      <actor>Van Malder, Dominique</actor>
+      <role>Jean-Claude Maes</role>
+    </credit>
+    <credit>
+      <actor>Van Nieuwenhuyse, Bert</actor>
+      <role>Ivo</role>
+    </credit>
+    <credit>
+      <actor>Van Ostade, Ben</actor>
+      <role>Tibo Leemans</role>
+    </credit>
+    <credit>
+      <actor>Van Ostade, Ben</actor>
+      <role>Tibo leemans</role>
+    </credit>
+    <credit>
+      <actor>Van Outryve, Bram</actor>
+      <role>Julian</role>
+    </credit>
+    <credit>
+      <actor>Van Outryve, Bram</actor>
+      <role>Juri</role>
+    </credit>
+    <credit>
+      <actor>Van Pellecom, Knarf</actor>
+      <role>Guido Koenen</role>
+    </credit>
+    <credit>
+      <actor>Van Pellecom, Knarf</actor>
+      <role>Kersscjaever</role>
+    </credit>
+    <credit>
+      <actor>Van Rampelberg, Geert</actor>
+      <role>Robin</role>
+    </credit>
+    <credit>
+      <actor>Van Rampelberg, Geert</actor>
+      <role>Supporter 2</role>
+    </credit>
+    <credit>
+      <actor>Van Ransbeeck, Jowan</actor>
+      <role>Kraker</role>
+    </credit>
+    <credit>
+      <actor>Van Rillaer, Werner</actor>
+      <role>Meester Vervecken</role>
+    </credit>
+    <credit>
+      <actor>Van Rouveroij, Sas</actor>
+      <role>Schepen van Rouveroij</role>
+    </credit>
+    <credit>
+      <actor>Van Ryckeghem, Jan</actor>
+      <role>Anton De Schutter</role>
+    </credit>
+    <credit>
+      <actor>Van Samang, Stan</actor>
+      <role>Bart Van Den Wijngaert</role>
+    </credit>
+    <credit>
+      <actor>Van Samang, Stan</actor>
+      <role>Bert Van Den Wyngaert</role>
+    </credit>
+    <credit>
+      <actor>Van Sande, Guy</actor>
+      <role>Marc 'Hagar' Verhulst</role>
+    </credit>
+    <credit>
+      <actor>Van Sande, Guy</actor>
+      <role>Marko</role>
+    </credit>
+    <credit>
+      <actor>Van Tichelen, Bert</actor>
+      <role>Brandweercommandant</role>
+    </credit>
+    <credit>
+      <actor>Van Tourhout, Benjamin</actor>
+      <role>Franky Lievens</role>
+    </credit>
+    <credit>
+      <actor>Van den Driessche, Kurt</actor>
+      <role>Dean De Vos</role>
+    </credit>
+    <credit>
+      <actor>Van den Eynde, Joris</actor>
+      <role>Pompbediende</role>
+    </credit>
+    <credit>
+      <actor>Van der Sman, Pieter</actor>
+      <role>Andries Hooreman</role>
+    </credit>
+    <credit>
+      <actor>Vanbeirs, Pat</actor>
+      <role>Struise supporter</role>
+    </credit>
+    <credit>
+      <actor>Vanden Thoren, Robrecht</actor>
+      <role>Nico</role>
+    </credit>
+    <credit>
+      <actor>Vanden Thoren, Robrecht</actor>
+      <role>Nico Segers</role>
+    </credit>
+    <credit>
+      <actor>Vandeput, Luc</actor>
+      <role>Professor</role>
+    </credit>
+    <credit>
+      <actor>Vandersande, Patrick</actor>
+      <role>Danny Blijweert</role>
+    </credit>
+    <credit>
+      <actor>Vanderstukken, Roel</actor>
+      <role>Michiel Dewaele</role>
+    </credit>
+    <credit>
+      <actor>Vanderstukken, Roel</actor>
+      <role>Michiel Dewaele</role>
+    </credit>
+    <credit>
+      <actor>Vanderstukken, Roel</actor>
+      <role>Michiel Dewaele</role>
+    </credit>
+    <credit>
+      <actor>Vandevelde, Peter</actor>
+      <role>Koen Van Bever</role>
+    </credit>
+    <credit>
+      <actor>Verbeuren, Maarten</actor>
+      <role>Bert Ackerman</role>
+    </credit>
+    <credit>
+      <actor>Verbist, Jos</actor>
+      <role>Gust De Neve</role>
+    </credit>
+    <credit>
+      <actor>Verbruggen, Marc</actor>
+      <role>Voorzitter praatgroep</role>
+    </credit>
+    <credit>
+      <actor>Vereycken, Eddy</actor>
+      <role>Andras Ventouris</role>
+    </credit>
+    <credit>
+      <actor>Vereycken, Eddy</actor>
+      <role>Gilbert Remmery</role>
+    </credit>
+    <credit>
+      <actor>Vereycken, Eddy</actor>
+      <role>Gilbert Remmery</role>
+    </credit>
+    <credit>
+      <actor>Vereycken, Eddy</actor>
+      <role>Kurt Bijl</role>
+    </credit>
+    <credit>
+      <actor>Verhassel, Kristof</actor>
+      <role>Serge</role>
+    </credit>
+    <credit>
+      <actor>Verheire, Jose</actor>
+      <role>Edward Denijs</role>
+    </credit>
+    <credit>
+      <actor>Verhoeven, Luc</actor>
+      <role>Frank Mortier</role>
+    </credit>
+    <credit>
+      <actor>Verleysen, Dirk</actor>
+      <role>Ambulancier 1</role>
+    </credit>
+    <credit>
+      <actor>Verleysen, Dirk</actor>
+      <role>Dokter</role>
+    </credit>
+    <credit>
+      <actor>Vermeersch, Geert</actor>
+      <role>Zaalwachter</role>
+    </credit>
+    <credit>
+      <actor>Vermeersch, Geert</actor>
+      <role>Zaalwachter</role>
+    </credit>
+    <credit>
+      <actor>Vermeir, Tom</actor>
+      <role>Geert</role>
+    </credit>
+    <credit>
+      <actor>Vermeulen, Geert</actor>
+      <role>Alan Defoort</role>
+    </credit>
+    <credit>
+      <actor>Vermeulen, Geert</actor>
+      <role>Vader van Juri</role>
+    </credit>
+    <credit>
+      <actor>Vermiert, Dirk</actor>
+      <role>Buschauffeur</role>
+    </credit>
+    <credit>
+      <actor>Verreth, Manu</actor>
+      <role>Pyjamaman</role>
+    </credit>
+    <credit>
+      <actor>Versteven, Tristan</actor>
+      <role>Anton Lukin</role>
+    </credit>
+    <credit>
+      <actor>Versteven, Tristan</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Verstraeten, Wim</actor>
+      <role>Ruben</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Nolle</actor>
+      <role>André</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Centralist</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Centralist</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Patholoog</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Patholoog</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Patholoog</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Oswald</actor>
+      <role>Patholoog</role>
+    </credit>
+    <credit>
+      <actor>Versyp, Renaat</actor>
+      <role>Man in kast</role>
+    </credit>
+    <credit>
+      <actor>Vingerhoets, Karel</actor>
+      <role>Patrick De Graeve</role>
+    </credit>
+    <credit>
+      <actor>Vleminckx, Steven</actor>
+      <role>Berndt</role>
+    </credit>
+    <credit>
+      <actor>Voners, Johny</actor>
+      <role>Fernand</role>
+    </credit>
+    <credit>
+      <actor>Vrijens, Jan</actor>
+      <role>Jules Beele</role>
+    </credit>
+    <credit>
+      <actor>Waes, Tom</actor>
+      <role>Hein Goorts</role>
+    </credit>
+    <credit>
+      <actor>Wellens, Hans</actor>
+      <role>Werner Verkest</role>
+    </credit>
+    <credit>
+      <actor>Willaert, John</actor>
+      <role>Meneer Timmermans</role>
+    </credit>
+    <credit>
+      <actor>Willaert, Wim</actor>
+      <role>Jurgen</role>
+    </credit>
+    <credit>
+      <actor>Willems, Arnold</actor>
+      <role>Professor Gaston Heymans</role>
+    </credit>
+    <credit>
+      <actor>Willems, Dirk</actor>
+      <role>Procureur</role>
+    </credit>
+    <credit>
+      <actor>Willems, Geert</actor>
+      <role>Van Sandt</role>
+    </credit>
+    <credit>
+      <actor>Willems, Laurent</actor>
+      <role>Jongen</role>
+    </credit>
+    <credit>
+      <actor>Willems, Mark</actor>
+      <role>Werner Lefever</role>
+    </credit>
+    <credit>
+      <actor>Willems, Rik</actor>
+      <role>Filip Crols</role>
+    </credit>
+    <credit>
+      <actor>Wouters, Maurice</actor>
+      <role>Verdonck</role>
+    </credit>
+    <credit>
+      <actor>Wyns, Luk</actor>
+      <role>Jeanke Hermans</role>
+    </credit>
+    <credit>
+      <actor>Zaidi, Victor</actor>
+      <role>Zieke toerist</role>
+    </credit>
+    <credit>
+      <actor>de Bruin, Ronald</actor>
+      <role>André De Meyer</role>
+    </credit>
+    <credit>
+      <actor>de Gruyter, Leslie</actor>
+      <role>Wout Meuters</role>
+    </credit>
+    <credit>
+      <actor>de Lint, Mick</actor>
+      <role>Wesley Vreeswijk</role>
+    </credit>
+    <credit>
+      <actor>de Pruyssenaere, Nicolas</actor>
+      <role>Dennis Lambrechts</role>
+    </credit>
+    <credit>
+      <actor>de Velde, Wim Van</actor>
+      <role>Lodewijk Deman</role>
+    </credit>
+    <credit>
+      <actor>de Wachter, Vic</actor>
+      <role>Michel Van Den Wijngaert</role>
+    </credit>
+    <credit>
+      <actor>de Wachter, Vic</actor>
+      <role>Michel Van Den Wyngaert</role>
+    </credit>
+    <credit>
+      <actor>le Roy, Sara</actor>
+      <role>Hilde Herbots</role>
+    </credit>
+    <credit>
+      <actor>van Asbroeck, Peter</actor>
+      <role>Brandweerman John</role>
+    </credit>
+    <credit>
+      <actor>van Assche, Johan</actor>
+      <role>Ex van Nadine Vanbruane</role>
+    </credit>
+    <credit>
+      <actor>van Assche, Johan</actor>
+      <role>Lucien Bulthé</role>
+    </credit>
+    <credit>
+      <actor>van Avermaet, Daniel</actor>
+      <role>Buschauffeur</role>
+    </credit>
+    <credit>
+      <actor>van Dijck, Dirk</actor>
+      <role>Koenraad Depoorter</role>
+    </credit>
+    <credit>
+      <actor>van Dijck, Rikkert</actor>
+      <role>Neirinckx</role>
+    </credit>
+    <credit>
+      <actor>van Dijck, Rikkert</actor>
+      <role>Van Damme</role>
+    </credit>
+    <credit>
+      <actor>van Hoecke, Tim</actor>
+      <role>Didier Baetens</role>
+    </credit>
+    <credit>
+      <actor>van Hoecke, Tim</actor>
+      <role>Kenny Vincke</role>
+    </credit>
+    <credit>
+      <actor>van Impe, Koen</actor>
+      <role>Willem 'Bill' Dekuyper</role>
+    </credit>
+    <credit>
+      <actor>van Parijs, Peter</actor>
+      <role>Supporter 3</role>
+    </credit>
+    <credit>
+      <actor>van den Bos, Mark</actor>
+      <role>Freddy Boenders</role>
+    </credit>
+    <credit>
+      <actor>van den Bos, Mark</actor>
+      <role>Roel De Troch</role>
+    </credit>
+    <credit>
+      <actor>van den Dool, Bert</actor>
+      <role>Robby</role>
+    </credit>
+    <credit>
+      <actor>van der Zalm, Robert</actor>
+      <role>Maat baetens</role>
+    </credit>
+    <credit>
+      <actor>Ölmez, Cahit</actor>
+      <role>Selattin Ates</role>
+    </credit>
+    <credit>
+      <actor>Ölmez, Cahit</actor>
+      <role>Selattin Ates</role>
+    </credit>
+  </cast>
+<plot>This popular fiction series follows the police officers in a precinct of Ghent (Flanders, Belgium), both professionally and in their private lives. Main characters include detectives like John Nauwelaerts and Raymond Jacobs, the gay Wilfried Pasmans who shakes his sissy image by moving from office - to field work, motorized cops such as Nick Debbaut and the ethnic Turks Selattin and Mihriban Ates. Other recurring characters include some of their relatives or partners, especially when those side-stories interact with their police work, as well as forensic and public prosecution officials.</plot><url>http://localhost:8983/solr/movie.html?197737</url></doc>

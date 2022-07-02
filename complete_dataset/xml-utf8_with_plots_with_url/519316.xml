@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="519316">
+  <docid>519316</docid>
+  <title>Stupid Movie of the Week</title>
+  <year>2002</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Moseley Jr., Robert C.</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Comedy</genre>
+    <genre>Horror</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">22 June 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">90</runningtime>
+  </runningtimes>
+  <cast>
+    <credit>
+      <actor>Moseley Jr., Robert C.</actor>
+      <role>Videobob (host)</role>
+    </credit>
+    <credit>
+      <actor>Moseley, Robert C.</actor>
+      <role>Videobob (host)</role>
+    </credit>
+  </cast>
+<plot>"Videobob's Stupid Movie Of The Week" is hosted by comic "Videobob", who walks the viewers through some of the worst movies ever made. Some of the movies are older black and white monster camp, and others are more current independent features. This classic format has been used by others such as "Elvira" and others.</plot><url>http://localhost:8983/solr/movie.html?519316</url></doc>

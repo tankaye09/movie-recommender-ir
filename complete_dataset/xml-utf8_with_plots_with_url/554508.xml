@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="554508">
+  <docid>554508</docid>
+  <title>The Duck Doctor</title>
+  <year>1952</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>hunting</keyword>
+    <keyword>cat-versus-mouse</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>duck</keyword>
+    <keyword>tom-and-jerry</keyword>
+    <keyword>anvil</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">U</certificate>
+    <certificate country="South Korea">All</certificate>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">26 February 1952</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Barbera, Joseph</director>
+    <director>Hanna, William (I)</director>
+  </directors>
+  <producers>
+    <producer>Quimby, Fred</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Coffee, Red</actor>
+      <role>Little Quacker</role>
+    </credit>
+  </cast>
+<plot>Tom is duck hunting, and he wings a little duckling that can't quite keep up with the flock. Jerry gets to the fallen duck before Tom, bandages his wing, and shelters him from Tom as he keeps running out to join his flock.</plot><url>http://localhost:8983/solr/movie.html?554508</url></doc>

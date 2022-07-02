@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="220020">
+  <docid>220020</docid>
+  <title>Good Stuff</title>
+  <year>2003</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Paras, Paul</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">February 2004</releasedate>
+    <releasedate country="USA">23 February 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">8</runningtime>
+    <runningtime country="default">38</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Nie, Matthew (I)</director>
+  </directors>
+  <producers>
+    <producer>Guskov, Dennis</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Bethell, Ray</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Optimism, humour, and a whole lotta kites provide Ray Bethell with the ability to face life's challenges. At 79 years old he is a world record holder many times over in multiple kite flying and continues to break records and offer an escape to both young and old. Despite the unfairness of life, the human spirit endures "and that's good stuff."</plot><url>http://localhost:8983/solr/movie.html?220020</url></doc>

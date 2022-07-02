@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="060824">
+  <docid>060824</docid>
+  <title>Bath Day</title>
+  <year>1946</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>figaro</keyword>
+    <keyword>minnie-mouse</keyword>
+    <keyword>skunk</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>family-relationships</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">11 October 1946</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Nichols, Charles A.</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <writers>
+    <writer>Gurney, Eric</writer>
+  </writers>
+  <composers>
+    <composer>Wallace, Oliver</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Clifford, Ruth</actor>
+      <role>Minnie Mouse</role>
+    </credit>
+    <credit>
+      <actor>Nash, Clarence</actor>
+      <role>Figaro</role>
+    </credit>
+  </cast>
+<plot>Minnie gives Figaro a bath and ties a ribbon around his neck. Figaro feels like a sissy, and when he mixes it up with some alley cats, they mock him, and the leader attacks. But Figaro is so afraid that his shaking topples a series of trash cans onto the aggressor. The rest of the cats didn't see this happen, and think Figaro defeated their leader. Of course, now he's all dirty, and he needs another bath...</plot><url>http://localhost:8983/solr/movie.html?060824</url></doc>

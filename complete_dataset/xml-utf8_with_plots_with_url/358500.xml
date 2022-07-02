@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="358500">
+  <docid>358500</docid>
+  <title>Marion</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">13 October 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+    <runningtime country="USA">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Russo-Young, Ry</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Flynn, James Katharine</actor>
+      <role>Marion #2</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Anna (II)</actor>
+      <role>Marion #3</role>
+    </credit>
+    <credit>
+      <actor>Lobe, Jasmine</actor>
+      <role>Marion #1</role>
+    </credit>
+    <credit>
+      <actor>Tula, Vince</actor>
+      <role>Boyfriend</role>
+    </credit>
+  </cast>
+<plot>Three separate women play Marion in three scenes based upon Alfred Hitchcock's PSYCHO. The Marions are split up onto three separate screens.</plot><url>http://localhost:8983/solr/movie.html?358500</url></doc>

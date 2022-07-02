@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="197799">
+  <docid>197799</docid>
+  <title>Flipper</title>
+  <year>1964</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Adams, Warren (I)</editor>
+    <editor>Craft, Charles</editor>
+    <editor>Dumbrille, Erwin</editor>
+    <editor>Gilbert, Stan (IV)</editor>
+    <editor>McKenzie, Harold V.</editor>
+    <editor>Woelz, John B.</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Adventure</genre>
+  </genres>
+  <keywords>
+    <keyword>brother-brother-relationship</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>teenage-boy</keyword>
+    <keyword>boy</keyword>
+    <keyword>park-ranger</keyword>
+    <keyword>swimming</keyword>
+    <keyword>everglades</keyword>
+    <keyword>dolphin</keyword>
+    <keyword>scuba</keyword>
+    <keyword>oceanography</keyword>
+    <keyword>florida</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>marine-science</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="West Germany">1 January 1966</releasedate>
+    <releasedate country="Netherlands">31 October 1965</releasedate>
+    <releasedate country="France">13 November 1966</releasedate>
+    <releasedate country="Finland">12 January 1966</releasedate>
+    <releasedate country="USA">13 February 1965</releasedate>
+    <releasedate country="Denmark">6 January 1968</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Benson, Leon</director>
+    <director>Browning, Ricou</director>
+    <director>Cannon, Joseph</director>
+    <director>Cherry, Stanley Z.</director>
+    <director>Haldeman, Edward</director>
+    <director>Hoffman, Herman (I)</director>
+    <director>Kelly, Brian (I)</director>
+    <director>Landres, Paul</director>
+    <director>Marton, Andrew (I)</director>
+    <director>McDonald, Frank (I)</director>
+    <director>Morse, Hollingsworth</director>
+    <director>Thompson, Marshall (I)</director>
+  </directors>
+  <writers>
+    <writer>Arthur, Art</writer>
+    <writer>Browning, Ricou</writer>
+    <writer>Buxbaum, James</writer>
+    <writer>Caillou, Alan</writer>
+    <writer>Carneol, Jess</writer>
+    <writer>Cowden, Jack</writer>
+    <writer>Drake, Sylvia</writer>
+    <writer>Erwin, Lee (III)</writer>
+    <writer>Hampton, Orville H.</writer>
+    <writer>Kaufman, Leonard B.</writer>
+    <writer>Koenig, Laird</writer>
+    <writer>Lees, Robert (I)</writer>
+    <writer>Little, Maria</writer>
+    <writer>Manning, Monroe</writer>
+    <writer>Richards, Arthur (II)</writer>
+    <writer>Sabaroff, Robert</writer>
+    <writer>Silverman, Stanley H.</writer>
+    <writer>Weiss, Arthur (II)</writer>
+  </writers>
+  <composers>
+    <composer>Raksin, Ruby</composer>
+    <composer>Vars, Henry</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbott, John (I)</actor>
+      <role>Professor Marvello</role>
+    </credit>
+    <credit>
+      <actor>Abbott, Susan</actor>
+      <role>Janie Mathews</role>
+    </credit>
+    <credit>
+      <actor>Applewhite, Ric (I)</actor>
+      <role>Co-pilot</role>
+    </credit>
+    <credit>
+      <actor>Applewhite, Ric (I)</actor>
+      <role>Old Man Coleman</role>
+    </credit>
+    <credit>
+      <actor>Applewhite, Ric (I)</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Applewhite, Ric (I)</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Applewhite, Ric (I)</actor>
+      <role>Sheriff Willis</role>
+    </credit>
+    <credit>
+      <actor>August, Chuck</actor>
+      <role>Man Diver</role>
+    </credit>
+    <credit>
+      <actor>Baranski, Christine</actor>
+      <role>Liz</role>
+    </credit>
+    <credit>
+      <actor>Bardette, Trevor</actor>
+      <role>Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Bardette, Trevor</actor>
+      <role>Luigi</role>
+    </credit>
+    <credit>
+      <actor>Baumel, Rey</actor>
+      <role>Capt. Jonathan West</role>
+    </credit>
+    <credit>
+      <actor>Becerra, Jack</actor>
+      <role>Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Bellini, Cal</actor>
+      <role>Tommie Demopoulos</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Linda (III)</actor>
+      <role>'Grandma' Hadley</role>
+    </credit>
+    <credit>
+      <actor>Bernhardt, Dorreen</actor>
+      <role>Susan</role>
+    </credit>
+    <credit>
+      <actor>Best, James (I)</actor>
+      <role>Dr. Peter Kellwin</role>
+    </credit>
+    <credit>
+      <actor>Big John</actor>
+      <role>Matt Farnley</role>
+    </credit>
+    <credit>
+      <actor>Biggart, Barbara</actor>
+      <role>Norma Anderson</role>
+    </credit>
+    <credit>
+      <actor>Billy (IX)</actor>
+      <role>Ocelot</role>
+    </credit>
+    <credit>
+      <actor>Bilodeau, David</actor>
+      <role>Fatso Cummings</role>
+    </credit>
+    <credit>
+      <actor>Bourbeau, Adrienne (II)</actor>
+      <role>Mrs. Martin</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Martin (I)</actor>
+      <role>Kent</role>
+    </credit>
+    <credit>
+      <actor>Brown, Courtney (I)</actor>
+      <role>Boatman</role>
+    </credit>
+    <credit>
+      <actor>Brown, Courtney (I)</actor>
+      <role>Don Cleery</role>
+    </credit>
+    <credit>
+      <actor>Brown, Courtney (I)</actor>
+      <role>Joe Andrews</role>
+    </credit>
+    <credit>
+      <actor>Brown, Courtney (I)</actor>
+      <role>Len</role>
+    </credit>
+    <credit>
+      <actor>Brown, Courtney (I)</actor>
+      <role>McCoy's Mate</role>
+    </credit>
+    <credit>
+      <actor>Browning, Ricou</actor>
+      <role>The Monster</role>
+    </credit>
+    <credit>
+      <actor>Browning, Ricou</actor>
+      <role>Water Skier</role>
+    </credit>
+    <credit>
+      <actor>Burau, Rene</actor>
+      <role>Tim Johnson</role>
+    </credit>
+    <credit>
+      <actor>Burrell, Fred</actor>
+      <role>Dr. Osborne</role>
+    </credit>
+    <credit>
+      <actor>Calvo, Oswaldo</actor>
+      <role>Tio Ramon</role>
+    </credit>
+    <credit>
+      <actor>Camel, Toni</actor>
+      <role>Woman Diver</role>
+    </credit>
+    <credit>
+      <actor>Carr, Jack (I)</actor>
+      <role>Monty Lucius</role>
+    </credit>
+    <credit>
+      <actor>Carter, Joey (I)</actor>
+      <role>Mr. Jones</role>
+    </credit>
+    <credit>
+      <actor>Castle, John (II)</actor>
+      <role>Wilson</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Dan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Dan</actor>
+      <role>Warden Dennis</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Dan</actor>
+      <role>Warden Dennis</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Dan</actor>
+      <role>Warden Dennis</role>
+    </credit>
+    <credit>
+      <actor>Conrad, Michael (I)</actor>
+      <role>Conlon</role>
+    </credit>
+    <credit>
+      <actor>Cousins, Frank (I)</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Crowley, Matt (I)</actor>
+      <role>Parkey</role>
+    </credit>
+    <credit>
+      <actor>Cypher, Jon</actor>
+      <role>Jim Lorman</role>
+    </credit>
+    <credit>
+      <actor>Davis, Dyke (I)</actor>
+      <role>Swifty</role>
+    </credit>
+    <credit>
+      <actor>Day George, Lynda</actor>
+      <role>Linda Granville</role>
+    </credit>
+    <credit>
+      <actor>Day, Janice</actor>
+      <role>Mrs. Grover</role>
+    </credit>
+    <credit>
+      <actor>Day, Warren</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Day, Warren</actor>
+      <role>Paco</role>
+    </credit>
+    <credit>
+      <actor>De Vries, George</actor>
+      <role>George Meeker</role>
+    </credit>
+    <credit>
+      <actor>DeHaven, Gloria</actor>
+      <role>Mrs. Sharp</role>
+    </credit>
+    <credit>
+      <actor>Devine, Andy (I)</actor>
+      <role>Hap Corman</role>
+    </credit>
+    <credit>
+      <actor>Devine, Andy (I)</actor>
+      <role>Hap Gorman</role>
+    </credit>
+    <credit>
+      <actor>Dickson, Clark</actor>
+      <role>Chief Petty Officer</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Diana</actor>
+      <role>Mrs. Granville</role>
+    </credit>
+    <credit>
+      <actor>Dowd, M'el</actor>
+      <role>Amy Field</role>
+    </credit>
+    <credit>
+      <actor>Drake, Ken (I)</actor>
+      <role>Dorrie Stone</role>
+    </credit>
+    <credit>
+      <actor>Eilers, Jim Paul</actor>
+      <role>Dr. Brummel</role>
+    </credit>
+    <credit>
+      <actor>Ellers, Jim Paul</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Farley, Duke</actor>
+      <role>Kyle Stewart</role>
+    </credit>
+    <credit>
+      <actor>Feldon, Barbara</actor>
+      <role>Erna Morley</role>
+    </credit>
+    <credit>
+      <actor>Flipper (I)</actor>
+      <role>Dolphin</role>
+    </credit>
+    <credit>
+      <actor>Flipper (I)</actor>
+      <role>Dolphin</role>
+    </credit>
+    <credit>
+      <actor>Flipper (I)</actor>
+      <role>Dolphin</role>
+    </credit>
+    <credit>
+      <actor>Fox, Templeton</actor>
+      <role>Mrs. Maguire</role>
+    </credit>
+    <credit>
+      <actor>Frank, Allan (I)</actor>
+      <role>Dr. Murdock</role>
+    </credit>
+    <credit>
+      <actor>Frye, Gil</actor>
+      <role>Manuel</role>
+    </credit>
+    <credit>
+      <actor>Gallison, Joseph</actor>
+      <role>Joe Malison</role>
+    </credit>
+    <credit>
+      <actor>Gellar, Steve</actor>
+      <role>Howie</role>
+    </credit>
+    <credit>
+      <actor>Glander, Patty</actor>
+      <role>Teenage Girl</role>
+    </credit>
+    <credit>
+      <actor>Goetz, Stuart</actor>
+      <role>Dirk</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, Steve (III)</actor>
+      <role>Pedrito</role>
+    </credit>
+    <credit>
+      <actor>Greco, Jose Luis</actor>
+      <role>Prince Kaza</role>
+    </credit>
+    <credit>
+      <actor>Greene, Jason (IV)</actor>
+      <role>Sam Field</role>
+    </credit>
+    <credit>
+      <actor>Gulliver, Tony</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Gulliver, Tony</actor>
+      <role>Navy Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Gulliver, Tony</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Haldeman, Chip</actor>
+      <role>Diver</role>
+    </credit>
+    <credit>
+      <actor>Hall, Huntz</actor>
+      <role>Barney</role>
+    </credit>
+    <credit>
+      <actor>Halpin, Luke</actor>
+      <role>Sandy Ricks</role>
+    </credit>
+    <credit>
+      <actor>Halpin, Luke</actor>
+      <role>Sandy Ricks</role>
+    </credit>
+    <credit>
+      <actor>Hanna, Lee (I)</actor>
+      <role>Circus Advance Man</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Jan (I)</actor>
+      <role>Joanna</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Ben (I)</actor>
+      <role>Pop Jenkins</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Ben (I)</actor>
+      <role>Zoo Man</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Margaret (I)</actor>
+      <role>Congresswoman Helen Browning</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Ron (I)</actor>
+      <role>Mac</role>
+    </credit>
+    <credit>
+      <actor>Held, Karl</actor>
+      <role>Alan Bentley</role>
+    </credit>
+    <credit>
+      <actor>Henning, Pat</actor>
+      <role>Abner Finch</role>
+    </credit>
+    <credit>
+      <actor>Henning, Pat</actor>
+      <role>Sean McCoy</role>
+    </credit>
+    <credit>
+      <actor>Higbie, Bill</actor>
+      <role>Man in Crowd</role>
+    </credit>
+    <credit>
+      <actor>Hill, Tom (VI)</actor>
+      <role>Ted Marlowe</role>
+    </credit>
+    <credit>
+      <actor>Hulswit, Mart</actor>
+      <role>Johnny</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Tom (II)</actor>
+      <role>Dave Ellery</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jeff (I)</actor>
+      <role>Customer</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jeff (I)</actor>
+      <role>Steve Marner</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jeff (I)</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jeff (I)</actor>
+      <role>Tom Larkin</role>
+    </credit>
+    <credit>
+      <actor>Jones, Mal</actor>
+      <role>Ed Marner</role>
+    </credit>
+    <credit>
+      <actor>Jones, Mal</actor>
+      <role>Gas Station Attendant</role>
+    </credit>
+    <credit>
+      <actor>Jones, Mal</actor>
+      <role>Peterson</role>
+    </credit>
+    <credit>
+      <actor>Jones-Moreland, Betsy</actor>
+      <role>Lynn Borden</role>
+    </credit>
+    <credit>
+      <actor>Jordan, William (I)</actor>
+      <role>Eric Tilton</role>
+    </credit>
+    <credit>
+      <actor>Jordan, William (I)</actor>
+      <role>Mr. Enfield</role>
+    </credit>
+    <credit>
+      <actor>Keene, Mike</actor>
+      <role>Dr. Paul Drew</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Brain</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Brian (I)</actor>
+      <role>Porter Ricks</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Brian (I)</actor>
+      <role>Porter Ricks</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Fred (I)</actor>
+      <role>Petty Officer</role>
+    </credit>
+    <credit>
+      <actor>Kerr, John (II)</actor>
+      <role>Keller</role>
+    </credit>
+    <credit>
+      <actor>Kersten, Jack</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Dolores</actor>
+      <role>Mrs. Tremaine</role>
+    </credit>
+    <credit>
+      <actor>Kukoff, Ben</actor>
+      <role>Captain West</role>
+    </credit>
+    <credit>
+      <actor>Kushner, Bruce</actor>
+      <role>Small Boy</role>
+    </credit>
+    <credit>
+      <actor>Lane, Tommy</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Lane, Tommy</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Lasell, John</actor>
+      <role>Dr. Rothwell</role>
+    </credit>
+    <credit>
+      <actor>Laskay, Jay</actor>
+      <role>Lloyd Desco</role>
+    </credit>
+    <credit>
+      <actor>Leibert, Al</actor>
+      <role>Lars Rasmussen</role>
+    </credit>
+    <credit>
+      <actor>Leibert, Al</actor>
+      <role>Lars Rasmussen</role>
+    </credit>
+    <credit>
+      <actor>Leo (XI)</actor>
+      <role>Lion</role>
+    </credit>
+    <credit>
+      <actor>Liss, Stephen</actor>
+      <role>Stevie Reynolds</role>
+    </credit>
+    <credit>
+      <actor>Logan, Frank (I)</actor>
+      <role>Commander Brownell</role>
+    </credit>
+    <credit>
+      <actor>Logan, Frank (I)</actor>
+      <role>Tina's Father</role>
+    </credit>
+    <credit>
+      <actor>Lupton, John</actor>
+      <role>Carl Borden</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Dick</actor>
+      <role>Construction Boss</role>
+    </credit>
+    <credit>
+      <actor>MacRae, Heather</actor>
+      <role>Anne</role>
+    </credit>
+    <credit>
+      <actor>Mackin, Earl</actor>
+      <role>Swimmer</role>
+    </credit>
+    <credit>
+      <actor>Martin, Charles G.</actor>
+      <role>Dr. James</role>
+    </credit>
+    <credit>
+      <actor>Martin, Charles G.</actor>
+      <role>Enley</role>
+    </credit>
+    <credit>
+      <actor>Martin, Charles G.</actor>
+      <role>Mr. Johnson</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Mattson, Robin</actor>
+      <role>Robin James</role>
+    </credit>
+    <credit>
+      <actor>McGovern, John</actor>
+      <role>Constable Peters</role>
+    </credit>
+    <credit>
+      <actor>Miller, Cheryl (I)</actor>
+      <role>Bonnie McCoy</role>
+    </credit>
+    <credit>
+      <actor>Miller, Cheryl (I)</actor>
+      <role>Bonnie McCoy</role>
+    </credit>
+    <credit>
+      <actor>Minor, Pat</actor>
+      <role>Diver's Wife</role>
+    </credit>
+    <credit>
+      <actor>Morrison, Joe (II)</actor>
+      <role>Captain Harvey</role>
+    </credit>
+    <credit>
+      <actor>Morrison, Joe (II)</actor>
+      <role>Jed Harvey</role>
+    </credit>
+    <credit>
+      <actor>Morrison, Joe (IV)</actor>
+      <role>Jed Harvey</role>
+    </credit>
+    <credit>
+      <actor>Myers, Monroe</actor>
+      <role>Anthony Dauber</role>
+    </credit>
+    <credit>
+      <actor>Newby, Jerry</actor>
+      <role>Ed Belden</role>
+    </credit>
+    <credit>
+      <actor>Newby, Jerry</actor>
+      <role>First Mate</role>
+    </credit>
+    <credit>
+      <actor>Newby, Jerry</actor>
+      <role>Jeremy Lawrence</role>
+    </credit>
+    <credit>
+      <actor>Norden, Tommy</actor>
+      <role>Bud Ricks</role>
+    </credit>
+    <credit>
+      <actor>Norden, Tommy</actor>
+      <role>Bud Ricks</role>
+    </credit>
+    <credit>
+      <actor>O'Barry, Richard</actor>
+      <role>Teenage Boy</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Bob</actor>
+      <role>Mr. Webson</role>
+    </credit>
+    <credit>
+      <actor>Parham, Reed</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Parham, Reed</actor>
+      <role>Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Parham, Reed</actor>
+      <role>Mel Grogan</role>
+    </credit>
+    <credit>
+      <actor>Patterson, James (I)</actor>
+      <role>Scott Emson</role>
+    </credit>
+    <credit>
+      <actor>Pearl, Tony</actor>
+      <role>Mr. Martin</role>
+    </credit>
+    <credit>
+      <actor>Pete (XVI)</actor>
+      <role>Pelican</role>
+    </credit>
+    <credit>
+      <actor>Philips, Lee</actor>
+      <role>Dick Johnson</role>
+    </credit>
+    <credit>
+      <actor>Picerno, Rick</actor>
+      <role>Hanes</role>
+    </credit>
+    <credit>
+      <actor>Pope, Mel</actor>
+      <role>Mr. Murphy</role>
+    </credit>
+    <credit>
+      <actor>Reilly, Robert (I)</actor>
+      <role>Dick</role>
+    </credit>
+    <credit>
+      <actor>Rennie, Guy</actor>
+      <role>Simpson</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Burt (I)</actor>
+      <role>Al Bardeman</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Ira (I)</actor>
+      <role>Jed Landis</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Ira (I)</actor>
+      <role>Kendrigan</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Ira</actor>
+      <role>Kendrigan</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Marty (I)</actor>
+      <role>Scuba Diver</role>
+    </credit>
+    <credit>
+      <actor>Schofield, Frank</actor>
+      <role>Dr. Koenig</role>
+    </credit>
+    <credit>
+      <actor>Schuller, Frank</actor>
+      <role>Pilot of Plane</role>
+    </credit>
+    <credit>
+      <actor>Schuller, Frank</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Schuller, Frank</actor>
+      <role>Superintendent Matthews</role>
+    </credit>
+    <credit>
+      <actor>Sheen, Martin</actor>
+      <role>Phil Adams</role>
+    </credit>
+    <credit>
+      <actor>Silber, Fred</actor>
+      <role>Dan</role>
+    </credit>
+    <credit>
+      <actor>Silber, Fred</actor>
+      <role>Gary Meeker</role>
+    </credit>
+    <credit>
+      <actor>Silber, Marty</actor>
+      <role>Shorty Meyers</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Bob</actor>
+      <role>Helicopter Crew Chief</role>
+    </credit>
+    <credit>
+      <actor>Soul, David</actor>
+      <role>Dennis Blake</role>
+    </credit>
+    <credit>
+      <actor>Soule, Gil</actor>
+      <role>Nate</role>
+    </credit>
+    <credit>
+      <actor>Sparky (VII)</actor>
+      <role>Seal</role>
+    </credit>
+    <credit>
+      <actor>Svenson, Bob</actor>
+      <role>Harry Hobson</role>
+    </credit>
+    <credit>
+      <actor>Tanberg, Curtis</actor>
+      <role>Stan</role>
+    </credit>
+    <credit>
+      <actor>Tarronova, Dino</actor>
+      <role>Alexis Demopoulos</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Jim (XV)</actor>
+      <role>Coast Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Marshall (I)</actor>
+      <role>Dr. William Tollner</role>
+    </credit>
+    <credit>
+      <actor>Travanti, Daniel J.</actor>
+      <role>Commander Willard</role>
+    </credit>
+    <credit>
+      <actor>Traylor, William (I)</actor>
+      <role>Dr. Darmon</role>
+    </credit>
+    <credit>
+      <actor>Vandervort, Phil (I)</actor>
+      <role>Mike Belden</role>
+    </credit>
+    <credit>
+      <actor>Welsh, Peter J.</actor>
+      <role>Official</role>
+    </credit>
+    <credit>
+      <actor>White, Dan (I)</actor>
+      <role>Capt. John Bender</role>
+    </credit>
+    <credit>
+      <actor>White, Dan (I)</actor>
+      <role>Captain Bender</role>
+    </credit>
+    <credit>
+      <actor>White, Robertson</actor>
+      <role>Capt. Jordan Loomis</role>
+    </credit>
+    <credit>
+      <actor>White, Robertson</actor>
+      <role>Mr. Rivers</role>
+    </credit>
+    <credit>
+      <actor>Williams, Bert (II)</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Wohrman, Bill</actor>
+      <role>Hal</role>
+    </credit>
+    <credit>
+      <actor>Wohrman, Bill</actor>
+      <role>Tuttle</role>
+    </credit>
+    <credit>
+      <actor>Wolders, Robert</actor>
+      <role>Captain Johnson</role>
+    </credit>
+    <credit>
+      <actor>von Klaussen, Ronald</actor>
+      <role>Glenn Hallson</role>
+    </credit>
+  </cast>
+<plot>Ranger Porter Ricks is responsible for the animal and human life in Coral Key Park, Florida. Stories center on his 15-year-old son Sandy and 10-year-old Bud and, especially, on their pet dolphin Flipper (played by Suzy).</plot><url>http://localhost:8983/solr/movie.html?197799</url></doc>

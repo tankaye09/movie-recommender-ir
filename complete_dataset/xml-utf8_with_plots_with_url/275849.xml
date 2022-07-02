@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="275849">
+  <docid>275849</docid>
+  <title>Jerry Maguire</title>
+  <year>1996</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Hutshing, Joe</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Sport</genre>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>nfl</keyword>
+    <keyword>mission-statement</keyword>
+    <keyword>football-player</keyword>
+    <keyword>single-parent</keyword>
+    <keyword>precocious-child</keyword>
+    <keyword>babysitter</keyword>
+    <keyword>quirky</keyword>
+    <keyword>mexican-restaurant</keyword>
+    <keyword>famous-line</keyword>
+    <keyword>sign-language</keyword>
+    <keyword>agent</keyword>
+    <keyword>divorcee</keyword>
+    <keyword>talk-show</keyword>
+    <keyword>goldfish</keyword>
+    <keyword>career</keyword>
+    <keyword>singing-in-car</keyword>
+    <keyword>support-group</keyword>
+    <keyword>sister-sister-relationship</keyword>
+    <keyword>idealism</keyword>
+    <keyword>egotism</keyword>
+    <keyword>marriage</keyword>
+    <keyword>product-placement</keyword>
+    <keyword>moving-van</keyword>
+    <keyword>little-league</keyword>
+    <keyword>au-pair</keyword>
+    <keyword>friendship</keyword>
+    <keyword>morality</keyword>
+    <keyword>redemption</keyword>
+    <keyword>client</keyword>
+    <keyword>black-romance</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>american-football</keyword>
+    <keyword>affection</keyword>
+    <keyword>reference-to-audrey-hepburn</keyword>
+    <keyword>hollywood-agent</keyword>
+    <keyword>business-ethics</keyword>
+    <keyword>opposites-attract</keyword>
+    <keyword>quitting-job</keyword>
+    <keyword>pregnancy</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>male-female-relationship</keyword>
+    <keyword>sports-agent</keyword>
+    <keyword>secretary</keyword>
+    <keyword>love</keyword>
+    <keyword>starting-over</keyword>
+    <keyword>loneliness</keyword>
+    <keyword>loyalty</keyword>
+    <keyword>honesty</keyword>
+    <keyword>sports-show</keyword>
+    <keyword>sports-team</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>greed</keyword>
+    <keyword>money</keyword>
+    <keyword>football</keyword>
+    <keyword>consciousness</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+    <language>American Sign Language</language>
+  </languages>
+  <soundmixes>
+    <soundmix>DTS-Stereo</soundmix>
+    <soundmix>Dolby</soundmix>
+    <soundmix>SDDS</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">7</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Netherlands">AL</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">6</certificate>
+    <certificate country="Chile">14</certificate>
+    <certificate country="France">Unrated</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">7</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Norway">11</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-12</certificate>
+    <certificate country="Austria">6</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">14 March 1997</releasedate>
+    <releasedate country="South Africa">7 March 1997</releasedate>
+    <releasedate country="Argentina">27 February 1997</releasedate>
+    <releasedate country="Portugal">14 March 1997</releasedate>
+    <releasedate country="Turkey">4 April 1997</releasedate>
+    <releasedate country="Netherlands">13 March 1997</releasedate>
+    <releasedate country="Japan">17 May 1997</releasedate>
+    <releasedate country="Slovenia">13 March 1997</releasedate>
+    <releasedate country="Israel">7 March 1997</releasedate>
+    <releasedate country="UK">7 March 1997</releasedate>
+    <releasedate country="Singapore">27 March 1997</releasedate>
+    <releasedate country="Greece">21 February 1997</releasedate>
+    <releasedate country="Germany">27 February 1997</releasedate>
+    <releasedate country="Chile">6 March 1997</releasedate>
+    <releasedate country="France">5 March 1997</releasedate>
+    <releasedate country="Hungary">22 May 1997</releasedate>
+    <releasedate country="Hong Kong">30 January 1997</releasedate>
+    <releasedate country="Estonia">25 April 1997</releasedate>
+    <releasedate country="South Korea">1 February 1997</releasedate>
+    <releasedate country="Poland">14 March 1997</releasedate>
+    <releasedate country="Spain">28 February 1997</releasedate>
+    <releasedate country="Australia">6 March 1997</releasedate>
+    <releasedate country="Norway">28 February 1997</releasedate>
+    <releasedate country="Canada">13 December 1996</releasedate>
+    <releasedate country="Finland">14 March 1997</releasedate>
+    <releasedate country="Philippines">12 March 1997</releasedate>
+    <releasedate country="Italy">7 March 1997</releasedate>
+    <releasedate country="New Zealand">6 March 1997</releasedate>
+    <releasedate country="USA">13 December 1996</releasedate>
+    <releasedate country="Denmark">14 March 1997</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">139</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Crowe, Cameron (I)</director>
+  </directors>
+  <producers>
+    <producer>Mendel, J. Michael</producer>
+    <producer>Stewart, Lisa (I)</producer>
+    <producer>Pustin, Bruce S.</producer>
+    <producer>Schofield, John D.</producer>
+    <producer>Johnson, Bridget</producer>
+    <producer>Brooks, James L.</producer>
+    <producer>Crowe, Cameron (I)</producer>
+    <producer>Mark, Laurence</producer>
+    <producer>Sakai, Richard (I)</producer>
+  </producers>
+  <writers>
+    <writer>Crowe, Cameron (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Adamson, Larina</actor>
+      <role>Women's Group Member</role>
+    </credit>
+    <credit>
+      <actor>Aikman, Troy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Alfavo, Alberto</actor>
+      <role>Mariachi Band Member</role>
+    </credit>
+    <credit>
+      <actor>Amsterdam, Lisa</actor>
+      <role>Patricia Logan</role>
+    </credit>
+    <credit>
+      <actor>Armitage, Alison</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Bacon, Beaumont</actor>
+      <role>Cleo</role>
+    </credit>
+    <credit>
+      <actor>Barry, Brent</actor>
+      <role>Calvin Nack</role>
+    </credit>
+    <credit>
+      <actor>Beer, Ingrid</actor>
+      <role>Anne-Louise</role>
+    </credit>
+    <credit>
+      <actor>Bell, Drake</actor>
+      <role>Jesse Remo</role>
+    </credit>
+    <credit>
+      <actor>Biasucci, Dean</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bledsoe, Drew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Borrego, Amaryllis</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Boss, Mike</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Bridges, Beau (I)</actor>
+      <role>Matt Cushman</role>
+    </credit>
+    <credit>
+      <actor>Bybee, Klair</actor>
+      <role>NFL Guest</role>
+    </credit>
+    <credit>
+      <actor>Cantrell, Jerry</actor>
+      <role>Jesus of CopyMat</role>
+    </credit>
+    <credit>
+      <actor>Carter, Ki-Jana</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cavanaugh, Christine</actor>
+      <role>Mrs. Remo</role>
+    </credit>
+    <credit>
+      <actor>Cheney, Heather</actor>
+      <role>Idealized Kissing Wife</role>
+    </credit>
+    <credit>
+      <actor>Christianson, Brandon</actor>
+      <role>Young Golfer</role>
+    </credit>
+    <credit>
+      <actor>Coffield, Kelly</actor>
+      <role>Jan</role>
+    </credit>
+    <credit>
+      <actor>Collins, Jody (I)</actor>
+      <role>Cardinals Center</role>
+    </credit>
+    <credit>
+      <actor>Collins, Kerry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cramer, John (II)</actor>
+      <role>Tidwell Fan</role>
+    </credit>
+    <credit>
+      <actor>Cronin, Charlie</actor>
+      <role>Hootie Fan</role>
+    </credit>
+    <credit>
+      <actor>Crowe, Alice Marie</actor>
+      <role>Alice</role>
+    </credit>
+    <credit>
+      <actor>Cruise, Tom</actor>
+      <role>Jerry Maguire</role>
+    </credit>
+    <credit>
+      <actor>Damian, Luis</actor>
+      <role>Mariachi Band Member</role>
+    </credit>
+    <credit>
+      <actor>Daniels, Joanna</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Despotovich, Nada</actor>
+      <role>Wendy</role>
+    </credit>
+    <credit>
+      <actor>Dierdorf, Dan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dolniak, Jeff</actor>
+      <role>Football fanatic</role>
+    </credit>
+    <credit>
+      <actor>Duran, Micki</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Ferrell, Andrea</actor>
+      <role>Woman in Elevator</role>
+    </credit>
+    <credit>
+      <actor>Firestone, Roy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fitzgerald, Dennis (II)</actor>
+      <role>Idealized Kissing Husband</role>
+    </credit>
+    <credit>
+      <actor>Fontes, Evelyn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Fontes, Wayne</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Frey, Glenn (I)</actor>
+      <role>Dennis Wilburn</role>
+    </credit>
+    <credit>
+      <actor>Friend, Kerry</actor>
+      <role>Woman at bar</role>
+    </credit>
+    <credit>
+      <actor>Friend, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephanie</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Gallop, Tom</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Gifford, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gilleran, Charley</actor>
+      <role>Overheard Fan</role>
+    </credit>
+    <credit>
+      <actor>Goethals, Angela</actor>
+      <role>Kathy Sanders</role>
+    </credit>
+    <credit>
+      <actor>Gomez-Preston, Reagan</actor>
+      <role>Tidwell's Cousin</role>
+    </credit>
+    <credit>
+      <actor>Gooding Jr., Cuba</actor>
+      <role>Rod Tidwell</role>
+    </credit>
+    <credit>
+      <actor>Greenly, Theo</actor>
+      <role>Hootie Fan</role>
+    </credit>
+    <credit>
+      <actor>Guzman, Jesus Alberto</actor>
+      <role>Mariachi Band Member</role>
+    </credit>
+    <credit>
+      <actor>Hadley, Lisa Ann</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Henry, Joseph B.</actor>
+      <role>Hotel Doorman</role>
+    </credit>
+    <credit>
+      <actor>Hillman, Gale</actor>
+      <role>Locker Room Athlete</role>
+    </credit>
+    <credit>
+      <actor>Holzman, Winnie</actor>
+      <role>Women's Group Member</role>
+    </credit>
+    <credit>
+      <actor>Hunt, Bonnie</actor>
+      <role>Laurel, Dorothy's sister</role>
+    </credit>
+    <credit>
+      <actor>Huss, Toby (I)</actor>
+      <role>Steve Remo</role>
+    </credit>
+    <credit>
+      <actor>Irsay, Jim</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Irsay, Meg</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Irvin, Michael (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Lamont (II)</actor>
+      <role>Weepy Athlete</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Michael James</actor>
+      <role>Clark Hodd</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Rick (I)</actor>
+      <role>John Swenson</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Diana</actor>
+      <role>Women's Group Member</role>
+    </credit>
+    <credit>
+      <actor>Jussim, Jared</actor>
+      <role>Dicky Fox</role>
+    </credit>
+    <credit>
+      <actor>Kalil, Kymberly</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Kallenbach, Kenneth Keith</actor>
+      <role>Psycho Sports Fan</role>
+    </credit>
+    <credit>
+      <actor>Karniol, Jason H.</actor>
+      <role>Football Fan grabbing Rod Tidwell</role>
+    </credit>
+    <credit>
+      <actor>Keegan, Kari</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Kehoe, Michael</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Kepner, Thomas James</actor>
+      <role>Trainer</role>
+    </credit>
+    <credit>
+      <actor>King, Regina</actor>
+      <role>Marcee Tidwell</role>
+    </credit>
+    <credit>
+      <actor>Kiper, Mel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Korf, Mia</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Kotite, Richie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Krueger, Kirsten</actor>
+      <role>Draft Reporter</role>
+    </credit>
+    <credit>
+      <actor>La Piana, Gina</actor>
+      <role>Former girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Langdon, Ryan</actor>
+      <role>Assistant</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Lightfield</actor>
+      <role>Room Service Waiter</role>
+    </credit>
+    <credit>
+      <actor>Lipnicki, Jonathan</actor>
+      <role>Ray Boyd</role>
+    </credit>
+    <credit>
+      <actor>Liu, Lucy</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Logue, Donal</actor>
+      <role>Rick, Junior Agent</role>
+    </credit>
+    <credit>
+      <actor>Louiso, Todd</actor>
+      <role>Chad the Nanny</role>
+    </credit>
+    <credit>
+      <actor>Lunday, Russel</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Lurie, Jeffrey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Malloy, Dallas</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McClary, Coleman</actor>
+      <role>Rod's Friend</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Tim (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McNally, Kevin (II)</actor>
+      <role>News Camera Man</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Al (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Milicevic, Ivana</actor>
+      <role>Former Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Mirer, Rick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moffatt, Jim</actor>
+      <role>NFL Guest</role>
+    </credit>
+    <credit>
+      <actor>Mohr, Jay</actor>
+      <role>Bob Sugar</role>
+    </credit>
+    <credit>
+      <actor>Monk, Art</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moon, Warren</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moorad, Jeffrey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moore, Herman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moore, Rob (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Morales, Juan Arnoldo</actor>
+      <role>Mariachi Band Member</role>
+    </credit>
+    <credit>
+      <actor>Morton, Johnnie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Natale, Anthony (II)</actor>
+      <role>Man in Elevator</role>
+    </credit>
+    <credit>
+      <actor>Neff, Sean (I)</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Neibich, Joseph</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Jerry</actor>
+      <role>Frank Cushman</role>
+    </credit>
+    <credit>
+      <actor>Pellington, Mark</actor>
+      <role>Bill Dooler</role>
+    </credit>
+    <credit>
+      <actor>Ramras, Golan</actor>
+      <role>Football Game Spectator</role>
+    </credit>
+    <credit>
+      <actor>Reilly, Thomas J.</actor>
+      <role>Reverend</role>
+    </credit>
+    <credit>
+      <actor>Rimmer, Danny</actor>
+      <role>Sad Autograph Boy</role>
+    </credit>
+    <credit>
+      <actor>Rosenhaus, Drew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Jordan</actor>
+      <role>Art Stallings</role>
+    </credit>
+    <credit>
+      <actor>Sessoms, Stan</actor>
+      <role>Shower Man</role>
+    </credit>
+    <credit>
+      <actor>Smith, Benjamin Kimball</actor>
+      <role>Keith Cushman</role>
+    </credit>
+    <credit>
+      <actor>Spears, Aries</actor>
+      <role>Tee Pee</role>
+    </credit>
+    <credit>
+      <actor>Spring, David</actor>
+      <role>Football Player in Locker Room</role>
+    </credit>
+    <credit>
+      <actor>Steinberg, Leigh</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stoltz, Eric</actor>
+      <role>Ethan Valhere</role>
+    </credit>
+    <credit>
+      <actor>Suarez, Jeremy</actor>
+      <role>Tyson Tidwell</role>
+    </credit>
+    <credit>
+      <actor>Tate, Rod</actor>
+      <role>'Baja' Brunard</role>
+    </credit>
+    <credit>
+      <actor>Termath, Steve J.</actor>
+      <role>SMI Employee</role>
+    </credit>
+    <credit>
+      <actor>Tirico, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ursin, David</actor>
+      <role>General Manager</role>
+    </credit>
+    <credit>
+      <actor>Wenner, Jann</actor>
+      <role>Scully, Agent</role>
+    </credit>
+    <credit>
+      <actor>White, Mike (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Zick, Leo</actor>
+      <role>NFL Guest</role>
+    </credit>
+    <credit>
+      <actor>Ziesmer, Jerry</actor>
+      <role>Trainer</role>
+    </credit>
+    <credit>
+      <actor>von Siegel, Matt</actor>
+      <role>Stadium Sideline Official</role>
+    </credit>
+  </cast>
+<plot>Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player. Can Jerry resurrect his career while still staying true to himself?</plot><url>http://localhost:8983/solr/movie.html?275849</url></doc>

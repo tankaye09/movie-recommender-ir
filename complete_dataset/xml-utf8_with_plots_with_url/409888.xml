@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="409888">
+  <docid>409888</docid>
+  <title>Oliver Twist</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>de Luze, Hervé</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+  </genres>
+  <keywords>
+    <keyword>poverty</keyword>
+    <keyword>stalking</keyword>
+    <keyword>arrest</keyword>
+    <keyword>kindness</keyword>
+    <keyword>constable</keyword>
+    <keyword>caning</keyword>
+    <keyword>1830s</keyword>
+    <keyword>prison</keyword>
+    <keyword>hanging</keyword>
+    <keyword>crime-ring</keyword>
+    <keyword>death-sentence</keyword>
+    <keyword>compassion</keyword>
+    <keyword>apprentice</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>kidnapping</keyword>
+    <keyword>gallow</keyword>
+    <keyword>child-abuse</keyword>
+    <keyword>corporal-punishment</keyword>
+    <keyword>runaway</keyword>
+    <keyword>chess</keyword>
+    <keyword>false-accusation</keyword>
+    <keyword>dog</keyword>
+    <keyword>pickpocket</keyword>
+    <keyword>magistrate</keyword>
+    <keyword>cab</keyword>
+    <keyword>workhouse</keyword>
+    <keyword>human-monster</keyword>
+    <keyword>tragedy</keyword>
+    <keyword>murder</keyword>
+    <keyword>thief</keyword>
+    <keyword>young-boy</keyword>
+    <keyword>coffin-maker</keyword>
+    <keyword>funeral</keyword>
+    <keyword>friendship</keyword>
+    <keyword>courtroom</keyword>
+    <keyword>puppet-show</keyword>
+    <keyword>aristocrat</keyword>
+    <keyword>london-england</keyword>
+    <keyword>redemption</keyword>
+    <keyword>wanted-man</keyword>
+    <keyword>orphan</keyword>
+    <keyword>secret-cache</keyword>
+    <keyword>bittersweet</keyword>
+    <keyword>prostitute</keyword>
+    <keyword>gallows</keyword>
+    <keyword>hardship</keyword>
+    <keyword>police-chase</keyword>
+    <keyword>gunshot</keyword>
+    <keyword>social-commentary</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>social-injustice</keyword>
+    <keyword>hunger</keyword>
+    <keyword>bookstore</keyword>
+    <keyword>book-seller</keyword>
+    <keyword>gruel</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Czech Republic</country>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="UK">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Ireland">12A</certificate>
+    <certificate country="Iceland">12</certificate>
+    <certificate country="Mexico">B</certificate>
+    <certificate country="South Korea">12</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Switzerland">7</certificate>
+    <certificate country="Norway">11</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-11</certificate>
+    <certificate country="USA">PG-13</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Argentina">15 December 2005</releasedate>
+    <releasedate country="Portugal">1 December 2005</releasedate>
+    <releasedate country="Turkey">2 December 2005</releasedate>
+    <releasedate country="Brazil">18 November 2005</releasedate>
+    <releasedate country="Netherlands">27 October 2005</releasedate>
+    <releasedate country="Japan">28 January 2006</releasedate>
+    <releasedate country="Israel">20 July 2006</releasedate>
+    <releasedate country="UK">7 October 2005</releasedate>
+    <releasedate country="Thailand">3 November 2005</releasedate>
+    <releasedate country="Singapore">10 November 2005</releasedate>
+    <releasedate country="Greece">3 November 2005</releasedate>
+    <releasedate country="Germany">22 December 2005</releasedate>
+    <releasedate country="Belgium">19 October 2005</releasedate>
+    <releasedate country="France">19 October 2005</releasedate>
+    <releasedate country="Hungary">17 November 2005</releasedate>
+    <releasedate country="Hong Kong">17 November 2005</releasedate>
+    <releasedate country="Estonia">16 December 2005</releasedate>
+    <releasedate country="Czech Republic">24 September 2005</releasedate>
+    <releasedate country="Iceland">20 January 2006</releasedate>
+    <releasedate country="Mexico">25 November 2005</releasedate>
+    <releasedate country="Slovakia">26 January 2006</releasedate>
+    <releasedate country="South Korea">29 December 2005</releasedate>
+    <releasedate country="Poland">30 September 2005</releasedate>
+    <releasedate country="Spain">2 December 2005</releasedate>
+    <releasedate country="Egypt">8 February 2006</releasedate>
+    <releasedate country="Australia">15 June 2006</releasedate>
+    <releasedate country="Switzerland">22 December 2005</releasedate>
+    <releasedate country="Canada">11 September 2005</releasedate>
+    <releasedate country="Cyprus">3 November 2005</releasedate>
+    <releasedate country="Russia">27 October 2005</releasedate>
+    <releasedate country="Finland">18 October 2006</releasedate>
+    <releasedate country="Austria">22 December 2005</releasedate>
+    <releasedate country="Italy">23 November 2008</releasedate>
+    <releasedate country="USA">30 September 2005</releasedate>
+    <releasedate country="Kuwait">7 December 2005</releasedate>
+    <releasedate country="Denmark">6 November 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">130</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Polanski, Roman</director>
+  </directors>
+  <writers>
+    <writer>Dickens, Charles</writer>
+    <writer>Harwood, Ronald</writer>
+  </writers>
+  <composers>
+    <composer>Portman, Rachel</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Armstrong, Alun</actor>
+      <role>Magistrate Fang</role>
+    </credit>
+    <credit>
+      <actor>Athey, Laurie</actor>
+      <role>Workhouse Boy</role>
+    </credit>
+    <credit>
+      <actor>Babson, James</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Bateson, Timothy</actor>
+      <role>Parson/Man with a Punch</role>
+    </credit>
+    <credit>
+      <actor>Brooke, Paul (I)</actor>
+      <role>Mr. Grimwig</role>
+    </credit>
+    <credit>
+      <actor>Camm, Andy</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Chase, Lewis (I)</actor>
+      <role>Charley Bates</role>
+    </credit>
+    <credit>
+      <actor>Churcher, Teresa</actor>
+      <role>Charlotte</role>
+    </credit>
+    <credit>
+      <actor>Clark, Barney</actor>
+      <role>Oliver Twist</role>
+    </credit>
+    <credit>
+      <actor>Copley, Peter</actor>
+      <role>Dining Hall Master</role>
+    </credit>
+    <credit>
+      <actor>Cuka, Frances</actor>
+      <role>Mrs. Bedwin</role>
+    </credit>
+    <credit>
+      <actor>Curran, Jake</actor>
+      <role>Barney</role>
+    </credit>
+    <credit>
+      <actor>Durden, Richard</actor>
+      <role>Unkind Board Member</role>
+    </credit>
+    <credit>
+      <actor>Eden, Harry</actor>
+      <role>Artful Dodger</role>
+    </credit>
+    <credit>
+      <actor>Eden, Paul (III)</actor>
+      <role>Barman</role>
+    </credit>
+    <credit>
+      <actor>Foreman, Jamie</actor>
+      <role>Bill Sykes</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Patrick (I)</actor>
+      <role>Bookseller</role>
+    </credit>
+    <credit>
+      <actor>Hanna, Gillian</actor>
+      <role>Mrs. Sowerberry</role>
+    </credit>
+    <credit>
+      <actor>Hardwicke, Edward</actor>
+      <role>Mr. Brownlow</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Levi</actor>
+      <role>Nicky</role>
+    </credit>
+    <credit>
+      <actor>Heath, Michael (I)</actor>
+      <role>Mr. Sowerberry</role>
+    </credit>
+    <credit>
+      <actor>Hess, Filip</actor>
+      <role>Workhouse Boy</role>
+    </credit>
+    <credit>
+      <actor>Horan, Gerard</actor>
+      <role>Farmer</role>
+    </credit>
+    <credit>
+      <actor>Kingsley, Ben</actor>
+      <role>Fagin</role>
+    </credit>
+    <credit>
+      <actor>Le Quesne, Lizzy</actor>
+      <role>Barmaid</role>
+    </credit>
+    <credit>
+      <actor>Linden, Andy</actor>
+      <role>Mr. Gamfield - the Chimney Sweep</role>
+    </credit>
+    <credit>
+      <actor>Lovibond, Ophelia</actor>
+      <role>Bet</role>
+    </credit>
+    <credit>
+      <actor>McNeice, Ian</actor>
+      <role>Mr. Limbkins</role>
+    </credit>
+    <credit>
+      <actor>Meeking, David</actor>
+      <role>Policeman in Court</role>
+    </credit>
+    <credit>
+      <actor>Mills, Frank (II)</actor>
+      <role>Elderly Officer</role>
+    </credit>
+    <credit>
+      <actor>Miltner, Andrea</actor>
+      <role>Other Woman in Street</role>
+    </credit>
+    <credit>
+      <actor>Nettleton, John</actor>
+      <role>1st Magistrate</role>
+    </credit>
+    <credit>
+      <actor>Noble, Tony (I)</actor>
+      <role>2nd Magistrate</role>
+    </credit>
+    <credit>
+      <actor>Orr, Robert (II)</actor>
+      <role>Man in Pub</role>
+    </credit>
+    <credit>
+      <actor>Overton, Chris (I)</actor>
+      <role>Noah Claypole</role>
+    </credit>
+    <credit>
+      <actor>Papadopoulos, Andreas (I)</actor>
+      <role>Workhouse Boy</role>
+    </credit>
+    <credit>
+      <actor>Polanski, Elvis</actor>
+      <role>Boy with Hoop</role>
+    </credit>
+    <credit>
+      <actor>Ridings, Richard (I)</actor>
+      <role>Warder</role>
+    </credit>
+    <credit>
+      <actor>Stringer, Nick (I)</actor>
+      <role>Inspector Blather</role>
+    </credit>
+    <credit>
+      <actor>Strong, Mark (II)</actor>
+      <role>Toby Crackit</role>
+    </credit>
+    <credit>
+      <actor>Swift, Jeremy</actor>
+      <role>Mr. Bumble</role>
+    </credit>
+    <credit>
+      <actor>Tremain, Joseph</actor>
+      <role>Hungry Boy</role>
+    </credit>
+    <credit>
+      <actor>Turbo</actor>
+      <role>Bullseye</role>
+    </credit>
+    <credit>
+      <actor>de la Tour, Andy</actor>
+      <role>Workhouse Master</role>
+    </credit>
+  </cast>
+<plot>Oliver Twist (Clark) is an orphan, who is soon kicked out of the orphanage and thrown into a terrible home. The bad treatment Oliver receives, forces him to run off to London. Here, he is soon picked up by the Artful Dodger (Eden) and taken to Fagin (Kingsley). Fagin treats Oliver well, but is it the life Oliver really wants?</plot><url>http://localhost:8983/solr/movie.html?409888</url></doc>

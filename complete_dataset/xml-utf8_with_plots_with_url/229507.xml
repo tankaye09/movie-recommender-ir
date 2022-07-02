@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="229507">
+  <docid>229507</docid>
+  <title>Happy Birthday!</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>hollywood</keyword>
+    <keyword>audition</keyword>
+    <keyword>acting</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="USA">5</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Beurskens, Eveline</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Butters, Amy</actor>
+      <role>Casting Director</role>
+    </credit>
+    <credit>
+      <actor>Loukas, Demetrios</actor>
+      <role>Casting Director #2</role>
+    </credit>
+    <credit>
+      <actor>Mann, Josh (I)</actor>
+      <role>Tom</role>
+    </credit>
+  </cast>
+<plot>Tom is new in town. He moved to Hollywood to pursue his acting career. Naive as he is, he's convinced he will become a big movie star in no-time. But reality turns out to be a little different. At first the cocky actor thinks he can get away with being picky, and even turns parts down. When Tom realizes that won't get him anywhere, he starts to work harder. He runs from casting call to casting call, but agent after agent turns him down. Until he finally gets a call back.</plot><url>http://localhost:8983/solr/movie.html?229507</url></doc>

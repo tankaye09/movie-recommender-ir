@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="103704">
+  <docid>103704</docid>
+  <title>Chinese Laundry Scene</title>
+  <year>1895</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">May 1895</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">1</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Dickson, William K.L.</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Doreto, Phil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Robetta</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Outside a laundry, a Chinese man hits a police officer over the head with a basket, and then runs inside the laundry. The policeman also rushes inside, only to have the other man swing outside on the other side of a revolving door. The police officer refuses to give up the chase, but the Chinese man proves very elusive.</plot><url>http://localhost:8983/solr/movie.html?103704</url></doc>

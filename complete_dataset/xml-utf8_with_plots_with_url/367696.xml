@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="367696">
+  <docid>367696</docid>
+  <title>Mi Marilyn</title>
+  <year>1975</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>Spanish</language>
+  </languages>
+  <countries>
+    <country>Spain</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Garci, José Luis</director>
+  </directors>
+  <writers>
+    <writer>Garci, José Luis</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Sacristán, José (I)</actor>
+      <role>Comentarista</role>
+    </credit>
+  </cast>
+<plot>Documental sobre el mito de Marilyn Monroe y su influencia sexual.</plot><url>http://localhost:8983/solr/movie.html?367696</url></doc>

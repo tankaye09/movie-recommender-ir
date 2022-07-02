@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="553502">
+  <docid>553502</docid>
+  <title>The Director's Cut</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="USA">17</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Oh, Albert</director>
+  </directors>
+  <writers>
+    <writer>Oh, Albert</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Colman, Dan</actor>
+      <role>Joshua</role>
+    </credit>
+    <credit>
+      <actor>Moment, Emily</actor>
+      <role>Lisa</role>
+    </credit>
+  </cast>
+<plot>A young film director, haunted by the sudden death of his former girlfriend, decides to make a movie in order to recreate what happened. But as he struggles to understand what went wrong, the lines between reality and fantasy begin to blur. He doesn't know whether life is giving him a second chance or if he's just going crazy.</plot><url>http://localhost:8983/solr/movie.html?553502</url></doc>

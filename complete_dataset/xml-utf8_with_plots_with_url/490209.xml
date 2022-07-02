@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="490209">
+  <docid>490209</docid>
+  <title>Shakespearian Spinach</title>
+  <year>1940</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>romeo-and-juliet</keyword>
+    <keyword>popeye</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>lightning</keyword>
+    <keyword>funeral-march-by-chopin</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">19 January 1940</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">6</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fleischer, Dave (I)</director>
+  </directors>
+  <producers>
+    <producer>Fleischer, Max</producer>
+  </producers>
+  <writers>
+    <writer>Manuell, George</writer>
+  </writers>
+  <composers>
+    <composer>Sharples, Winston</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Colvig, Pinto</actor>
+      <role>Bluto</role>
+    </credit>
+    <credit>
+      <actor>Hines, Margie</actor>
+      <role>Olive Oyl</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Jack</actor>
+      <role>Popeye</role>
+    </credit>
+  </cast>
+<plot>Popeye has replaced Bluto in the Spinach Theatre's production of Romeo and Juliet (Olive, of course), much to Bluto's surprise and dismay. Bluto does what he can to sabotage the production, like cranking up the snow and wind machines, and eventually coming onstage, even though Olive wants no part of him.</plot><url>http://localhost:8983/solr/movie.html?490209</url></doc>

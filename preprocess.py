@@ -31,10 +31,26 @@ for filename in os.listdir(directory):
         # corresponding to json data, but as a string, to be stored in a file
 
         json_str = json.dumps(data_dict)
-        json_data = json.loads(json_str)
+        json_data = json.loads(json_str)["doc"]
+        new_json_data = {}
+
+        # remove nested keys
+        # colorinfo: {genre: {genre: [Music, Horror, Thriller]}} -> {genre: [Music, Horror, Thriller]}
+        new_json_data["docid"] = json_data["docid"]
+        new_json_data["title"] = json_data["title"]
+        new_json_data["year"] = json_data["year"]
+        new_json_data["genres"] = json_data.get("genres", {}).get("genre")
+        new_json_data["languages"] = json_data.get("languages", {}).get("language")
+        new_json_data["countries"] = json_data.get("countries", {}).get("country")
+        new_json_data["directors"] = json_data.get("directors", {}).get("director")
+        new_json_data["composers"] = json_data.get("composers", {}).get("composer")
+        new_json_data["cast"] = json_data.get("cast", {}).get("credit")
+        new_json_data["editors"] = json_data.get("editors", {}).get("editor")
+        new_json_data["keywords"] = json_data.get("keywords", {}).get("keyword")
+        new_json_data["writers"] = json_data.get("writers", {}).get("writer")
 
         # preprocess plot text
-        json_plot = json_data["doc"]["plot"]
+        json_plot = json_data["plot"]
 
         # text lowercase
         json_plot = str(json_plot).lower()
@@ -55,15 +71,9 @@ for filename in os.listdir(directory):
         # KIV
 
         # update json data
-        json_data["doc"]["plot"] = json_plot
+        new_json_data["plot"] = json_plot
 
-        data_list.append(json_data["doc"])
-
-        # Write the json data to output
-        # json file
-        # with open("sample.json", "w", encoding="utf8") as json_file:
-        #     json.dump(json_data, json_file, ensure_ascii=False)
-        #     json_file.close()
+        data_list.append(new_json_data)
 
 df = pd.DataFrame(data_list)
 df.to_csv("processed_data.csv", encoding="utf-8")

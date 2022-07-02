@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="235037">
+  <docid>235037</docid>
+  <title>Hello</title>
+  <year>2003</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Parker, Jeremy (I)</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Romance</genre>
+    <genre>Music</genre>
+  </genres>
+  <keywords>
+    <keyword>gramophone</keyword>
+    <keyword>shyness</keyword>
+    <keyword>boom-box</keyword>
+    <keyword>compact-disc</keyword>
+    <keyword>male-female-relationship</keyword>
+    <keyword>love</keyword>
+    <keyword>audio-cassette</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Australia</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Unrated</certificate>
+    <certificate country="Canada">F</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Argentina">11 March 2006</releasedate>
+    <releasedate country="Brazil">11 July 2003</releasedate>
+    <releasedate country="Australia">27 July 2003</releasedate>
+    <releasedate country="USA">15 March 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Nix, Jonathan</director>
+  </directors>
+  <composers>
+    <composer>Nix, Jonathan</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bates, Simon (II)</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Brownhill, Kathryn</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Evans, Samuel</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Knight, Peter (V)</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Nicholas, Miles</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Nix, Jonathan</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Rehak, Ralph</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Rob</actor>
+      <role>Performer</role>
+    </credit>
+    <credit>
+      <actor>Walker, J. (I)</actor>
+      <role>Performer</role>
+    </credit>
+  </cast>
+<plot>A boy whose head is a cassette boombox tries to say "hello" to a girl who lives down the hall (her head is a CD boombox). However, he is too tongue-tied (or rather, he fumbles the cassettes). He gets advice from a mentor with a gramophone for a head.</plot><url>http://localhost:8983/solr/movie.html?235037</url></doc>

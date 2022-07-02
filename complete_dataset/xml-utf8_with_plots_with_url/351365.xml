@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="351365">
+  <docid>351365</docid>
+  <title>Madrid</title>
+  <year>1974</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>García Valcárcel, Antonio</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <countries>
+    <country>Spain</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">32</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fernández Santos, Jesús</director>
+  </directors>
+  <writers>
+    <writer>Fernández Santos, Jesús</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ramírez, Simón (I)</actor>
+      <role>Locutor</role>
+    </credit>
+  </cast>
+<plot>Documental sobre la ciudad de Madrid: historia, arte, arquitectura, monumentos, calles, jardines, vida cultural, turismo.</plot><url>http://localhost:8983/solr/movie.html?351365</url></doc>

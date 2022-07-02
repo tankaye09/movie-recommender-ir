@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="475196">
+  <docid>475196</docid>
+  <title>Sam Goes Shopping</title>
+  <year>1939</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">1939</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="UK">6</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Purcell, Harold</director>
+  </directors>
+  <writers>
+    <writer>Purcell, Harold</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Holloway, Stanley</actor>
+      <role>Sam/Narrator</role>
+    </credit>
+    <credit>
+      <actor>Terry-Thomas</actor>
+      <role>Boyfriend</role>
+    </credit>
+    <credit>
+      <actor>Walters, Hal</actor>
+      <role>Shop Assistant</role>
+    </credit>
+  </cast>
+<plot>Sam walks into a shop just before closing time, intent on buying a certain item. But he has completely forgotten what it is -- only that it begins with the letter "D". One after another, all the members of the staff try to help him with suggestions, from the sales girl who is eager to get away to meet her boyfriend up to the manager himself.</plot><url>http://localhost:8983/solr/movie.html?475196</url></doc>

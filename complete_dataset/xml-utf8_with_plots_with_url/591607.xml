@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="591607">
+  <docid>591607</docid>
+  <title>The Smith Family</title>
+  <year>1971</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+  </genres>
+  <keywords>
+    <keyword>police</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>sergeant</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="France">30 June 1980</releasedate>
+    <releasedate country="USA">19 April 1972</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Daugherty, Herschel</director>
+  </directors>
+  <producers>
+    <producer>Fedderson, Don</producer>
+    <producer>Stephens, John G.</producer>
+  </producers>
+  <writers>
+    <writer>Boehm, Sydney</writer>
+    <writer>Hartmann, Edmund L.</writer>
+    <writer>Levitt, Alan J.</writer>
+    <writer>McGreevey, John</writer>
+    <writer>Wood, Preston (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Allman, Elvia</actor>
+      <role>Clara</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Herbert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Herb (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Arngrim, Stefan</actor>
+      <role>Lennie</role>
+    </credit>
+    <credit>
+      <actor>Arvan, Jan</actor>
+      <role>Womrath</role>
+    </credit>
+    <credit>
+      <actor>Baer, John (I)</actor>
+      <role>Al</role>
+    </credit>
+    <credit>
+      <actor>Baird, Jeanne</actor>
+      <role>Mrs. Grimm</role>
+    </credit>
+    <credit>
+      <actor>Barton, David (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bates, Jeanne</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Benedict, Joan</actor>
+      <role>Marge</role>
+    </credit>
+    <credit>
+      <actor>Bernard, Sue</actor>
+      <role>Linda</role>
+    </credit>
+    <credit>
+      <actor>Biheller, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blair, Janet (I)</actor>
+      <role>Betty Smith</role>
+    </credit>
+    <credit>
+      <actor>Bonney, Gail</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Boyett, William</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Brand, Neville</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Victor</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brodie, Steve (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brooke, Walter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brubaker, Robert (I)</actor>
+      <role>Mr. Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Bull, Richard (I)</actor>
+      <role>Wilson</role>
+    </credit>
+    <credit>
+      <actor>Burchett, Kevin</actor>
+      <role>Jeff Benton</role>
+    </credit>
+    <credit>
+      <actor>Burns, Bart</actor>
+      <role>Deputy Green</role>
+    </credit>
+    <credit>
+      <actor>Capri, Ahna</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Karen (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Carr, Darleen</actor>
+      <role>Cindy Smith</role>
+    </credit>
+    <credit>
+      <actor>Carter, John (IV)</actor>
+      <role>Sgt. Ray Martin</role>
+    </credit>
+    <credit>
+      <actor>Chinea-Varela, Migdia</actor>
+      <role>Young girl</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Gary (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cleveland, Patience</actor>
+      <role>Martha</role>
+    </credit>
+    <credit>
+      <actor>Cleveland, Patience</actor>
+      <role>Pat Keefer</role>
+    </credit>
+    <credit>
+      <actor>Cole, Selette</actor>
+      <role>Laura</role>
+    </credit>
+    <credit>
+      <actor>Collentine, Barbara</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Collins, Sheldon (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Colman, Booth</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Considine, Tim</actor>
+      <role>Jim York</role>
+    </credit>
+    <credit>
+      <actor>Cos, Vicki</actor>
+      <role>Debbie</role>
+    </credit>
+    <credit>
+      <actor>Dayton, June</actor>
+      <role>Helen</role>
+    </credit>
+    <credit>
+      <actor>Deuel, Geoffrey</actor>
+      <role>Roy Hunter</role>
+    </credit>
+    <credit>
+      <actor>Dreier, Alex</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dru, Joanne</actor>
+      <role>Lisa Benton</role>
+    </credit>
+    <credit>
+      <actor>Evans, Gene (I)</actor>
+      <role>Captain Dexter</role>
+    </credit>
+    <credit>
+      <actor>Fonda, Henry</actor>
+      <role>Det. Sgt. Chad Smith</role>
+    </credit>
+    <credit>
+      <actor>Fong, Benson</actor>
+      <role>Frank Low</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Tony (II)</actor>
+      <role>Donald</role>
+    </credit>
+    <credit>
+      <actor>Freed, Bert</actor>
+      <role>Tom Weaver</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Bruce (II)</actor>
+      <role>Ziggie</role>
+    </credit>
+    <credit>
+      <actor>Graham, Tim (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Graham, Tim (I)</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Grimm, Maria (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Guenther, Craig</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hammack, Warren</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harens, Dean</actor>
+      <role>Morgan</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jo Ann</actor>
+      <role>Lynn Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Heffley, Wayne</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Helm, Peter (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Henry, Mike (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hoag, Mitzi</actor>
+      <role>Mrs. Torrey</role>
+    </credit>
+    <credit>
+      <actor>Holly, Diane</actor>
+      <role>Maria</role>
+    </credit>
+    <credit>
+      <actor>Howard, Ron (I)</actor>
+      <role>Bob Smith</role>
+    </credit>
+    <credit>
+      <actor>Howard, Vince</actor>
+      <role>Ed Thomas</role>
+    </credit>
+    <credit>
+      <actor>January, Lois</actor>
+      <role>Stella</role>
+    </credit>
+    <credit>
+      <actor>Jason, Rick (I)</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Jones, Hank (I)</actor>
+      <role>Bellboy</role>
+    </credit>
+    <credit>
+      <actor>Jones, Henry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Morgan (II)</actor>
+      <role>Chandler</role>
+    </credit>
+    <credit>
+      <actor>Keller, Dorothy</actor>
+      <role>Jane</role>
+    </credit>
+    <credit>
+      <actor>Kincaid, Aron</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Lake, Florence</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lanti, Al</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Larch, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lauter, Harry</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Levine, Larry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lippe, Jonathan</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Locatell, Carol</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lormer, Jon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Loughlin, Lori</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Betty</actor>
+      <role>Barbara Martin</role>
+    </credit>
+    <credit>
+      <actor>Madison, Guy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marden, Adrienne</actor>
+      <role>Mrs. Groman</role>
+    </credit>
+    <credit>
+      <actor>Margetts, Monty</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Martinez, A</actor>
+      <role>Ramon</role>
+    </credit>
+    <credit>
+      <actor>Masters, Natalie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Matheson, Tim (I)</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>McGraw, Charles</actor>
+      <role>Capt. Hughes (1971-1972)</role>
+    </credit>
+    <credit>
+      <actor>McGreevey, Michael</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>McMyler, Pamela</actor>
+      <role>Barbara</role>
+    </credit>
+    <credit>
+      <actor>Menzies, Heather</actor>
+      <role>Janie Bradford</role>
+    </credit>
+    <credit>
+      <actor>Miller, Mark (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mims, William (I)</actor>
+      <role>Ritter</role>
+    </credit>
+    <credit>
+      <actor>Moode, Marsha</actor>
+      <role>Bit Part</role>
+    </credit>
+    <credit>
+      <actor>Moorehead, Agnes</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moran, Erin (I)</actor>
+      <role>Julie</role>
+    </credit>
+    <credit>
+      <actor>Mullavy, Greg</actor>
+      <role>Willis</role>
+    </credit>
+    <credit>
+      <actor>Nardini, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Richard (II)</actor>
+      <role>Captain O'Farrell</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Arthur</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Butch</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Butch</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Petersen, Paul (I)</actor>
+      <role>Paul</role>
+    </credit>
+    <credit>
+      <actor>Romero, Carlos (I)</actor>
+      <role>Blanco</role>
+    </credit>
+    <credit>
+      <actor>Romero, Ned</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Roya, David</actor>
+      <role>Ricardo</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Bit Part</role>
+    </credit>
+    <credit>
+      <actor>Serna, Gil</actor>
+      <role>George Lopez</role>
+    </credit>
+    <credit>
+      <actor>Summers, Yale</actor>
+      <role>Mr. Bowers</role>
+    </credit>
+    <credit>
+      <actor>Troupe, Tom</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Trumbull, Brad</actor>
+      <role>Gifford</role>
+    </credit>
+    <credit>
+      <actor>Vitanza, A.G.</actor>
+      <role>Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Vivyan, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Walker, Scott (I)</actor>
+      <role>Holdup Man</role>
+    </credit>
+    <credit>
+      <actor>Webb, Richard (I)</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Webb, Richard (I)</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Wintersole, William</actor>
+      <role>Grimm</role>
+    </credit>
+    <credit>
+      <actor>Wixted, Michael-James</actor>
+      <role>Brian Smith</role>
+    </credit>
+  </cast>
+<plot>Henry Fonda starred in this light-hearted, family-oriented show about a police detective, his wife (Janet Blair) and their three children. At a time when several established movie stars were trying their hands at series television (James Stewart, Shirley MacLaine, Glenn Ford, among many others), this program fared better than most, with the emphasis on Fonda's character's home life over his professional life. Producer Don Fedderson was no stranger to family-oriented TV, having served as producer of "My Three Sons" and "The Lawrence Welk Show." Although the critcs praised "The Smith Family," marginal ratings limited it to a season's run.</plot><url>http://localhost:8983/solr/movie.html?591607</url></doc>

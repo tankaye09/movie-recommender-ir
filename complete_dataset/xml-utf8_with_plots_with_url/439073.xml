@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="439073">
+  <docid>439073</docid>
+  <title>Popular Science</title>
+  <year>1941</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <writers>
+    <writer>Anthony, Walter (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>MacMurray, Fred</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whitman, Gayne</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>Huge electric sign operated by photo cell animation; freshwater fauna propagated by Carolina Biological, sold and used for research; pickup and delivery of airmail in flight with small planes.</plot><url>http://localhost:8983/solr/movie.html?439073</url></doc>

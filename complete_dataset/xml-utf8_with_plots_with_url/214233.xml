@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="214233">
+  <docid>214233</docid>
+  <title>Ghost Story</title>
+  <year>1972</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Baratta, Fred</editor>
+    <editor>Chaloupka, Hugh</editor>
+    <editor>Sheets, John (I)</editor>
+    <editor>Wages, David</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Horror</genre>
+  </genres>
+  <keywords>
+    <keyword>ghost</keyword>
+    <keyword>supernatural-power</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>movie-studio-guard</keyword>
+    <keyword>anthology</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">8 December 1972</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">48</runningtime>
+    <runningtime country="default">60</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Brown, James H. (I)</director>
+    <director>Daugherty, Herschel</director>
+    <director>Day, Robert (I)</director>
+    <director>Doniger, Walter</director>
+    <director>Donner, Richard</director>
+    <director>Dubin, Charles S.</director>
+    <director>Duke, Daryl</director>
+    <director>Laven, Arnold</director>
+    <director>Martinson, Leslie H.</director>
+    <director>McDougall, Don</director>
+    <director>Moxey, John Llewellyn</director>
+    <director>Neilson, James</director>
+    <director>Penn, Leo</director>
+    <director>Rich, David Lowell</director>
+    <director>Singer, Alexander</director>
+    <director>Stanley, Paul (I)</director>
+  </directors>
+  <writers>
+    <writer>Ballinger, Bill S.</writer>
+    <writer>Bast, William</writer>
+    <writer>Bloch, Robert</writer>
+    <writer>Blum, Rick</writer>
+    <writer>DeBlasio, Edward</writer>
+    <writer>Dixon, Peter L.</writer>
+    <writer>Elkin, Stanley</writer>
+    <writer>Ellin, Stanley</writer>
+    <writer>Fontana, D.C.</writer>
+    <writer>Lawrence, Anthony (II)</writer>
+    <writer>Lester, Seeleg</writer>
+    <writer>Mason, Paul (II)</writer>
+    <writer>Mason, Paul (XI)</writer>
+    <writer>Matheson, Richard</writer>
+    <writer>McGreevey, John</writer>
+    <writer>Reisman, Del</writer>
+    <writer>Rubin, Mann</writer>
+    <writer>Sangster, Jimmy</writer>
+    <writer>Slesar, Henry</writer>
+    <writer>Specht, Robert</writer>
+    <writer>Walter, Elizabeth M.</writer>
+    <writer>Weingart, Mark</writer>
+    <writer>Welles, Halsted</writer>
+  </writers>
+  <composers>
+    <composer>Goldenberg, Billy</composer>
+    <composer>Prince, Robert (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aidman, Charles</actor>
+      <role>Jack Cameron</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Tod (I)</actor>
+      <role>Andrew Burgess</role>
+    </credit>
+    <credit>
+      <actor>Andrusco, Gene</actor>
+      <role>Davey</role>
+    </credit>
+    <credit>
+      <actor>Angarola, Richard</actor>
+      <role>Gray</role>
+    </credit>
+    <credit>
+      <actor>Ashley, Elizabeth (I)</actor>
+      <role>Karen Dover</role>
+    </credit>
+    <credit>
+      <actor>Astin, John</actor>
+      <role>Fred Colby</role>
+    </credit>
+    <credit>
+      <actor>Ballen, Tony</actor>
+      <role>The Keno Caller</role>
+    </credit>
+    <credit>
+      <actor>Barry, Don 'Red'</actor>
+      <role>Charlie Durham</role>
+    </credit>
+    <credit>
+      <actor>Barry, Don 'Red'</actor>
+      <role>First Cowboy</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Harry Collins</role>
+    </credit>
+    <credit>
+      <actor>Benedict, Richard</actor>
+      <role>Mr. Parker</role>
+    </credit>
+    <credit>
+      <actor>Birney, David</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Black, Karen (I)</actor>
+      <role>Barbara Sanders</role>
+    </credit>
+    <credit>
+      <actor>Blackman, Joan (I)</actor>
+      <role>Ellen Parrish</role>
+    </credit>
+    <credit>
+      <actor>Blake, Larry J.</actor>
+      <role>Mr. Mobley</role>
+    </credit>
+    <credit>
+      <actor>Bokar, Hal</actor>
+      <role>The Apeman</role>
+    </credit>
+    <credit>
+      <actor>Boles, Jim</actor>
+      <role>Dr. Death</role>
+    </credit>
+    <credit>
+      <actor>Boyett, William</actor>
+      <role>The Foreman</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Stephen (I)</actor>
+      <role>Ethan</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Joshua</actor>
+      <role>The Doctor</role>
+    </credit>
+    <credit>
+      <actor>Bundy, Brooke</actor>
+      <role>Holly McCory</role>
+    </credit>
+    <credit>
+      <actor>Burke, Walter</actor>
+      <role>Daniel</role>
+    </credit>
+    <credit>
+      <actor>Busk, Lorie</actor>
+      <role>Young Emily Dover</role>
+    </credit>
+    <credit>
+      <actor>Cabot, Sebastian (I)</actor>
+      <role>Essex</role>
+    </credit>
+    <credit>
+      <actor>Cabot, Sebastian (I)</actor>
+      <role>Winston Essex</role>
+    </credit>
+    <credit>
+      <actor>Calhoun, Rory (I)</actor>
+      <role>Larry</role>
+    </credit>
+    <credit>
+      <actor>Carr, Betty Ann</actor>
+      <role>The Pool Waitress</role>
+    </credit>
+    <credit>
+      <actor>Carr, Paul (I)</actor>
+      <role>Bill Johnson</role>
+    </credit>
+    <credit>
+      <actor>Castle, William</actor>
+      <role>J.B. Filmore</role>
+    </credit>
+    <credit>
+      <actor>Clark, Oliver (I)</actor>
+      <role>Marks</role>
+    </credit>
+    <credit>
+      <actor>Clayton, Jan (I)</actor>
+      <role>The Mother</role>
+    </credit>
+    <credit>
+      <actor>Conley, Darlene</actor>
+      <role>Ruth Jerrold</role>
+    </credit>
+    <credit>
+      <actor>Connelly, Christopher (I)</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Converse, Frank</actor>
+      <role>Sam Richards</role>
+    </credit>
+    <credit>
+      <actor>Conway, Curt</actor>
+      <role>Mr. Prescott</role>
+    </credit>
+    <credit>
+      <actor>Conway, Gary (I)</actor>
+      <role>John Walsh</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Jackie (I)</actor>
+      <role>Dumpy Doyle</role>
+    </credit>
+    <credit>
+      <actor>Cuevas, Nelson D.</actor>
+      <role>Ambulance Doctor</role>
+    </credit>
+    <credit>
+      <actor>Cypher, Jon</actor>
+      <role>Keith</role>
+    </credit>
+    <credit>
+      <actor>Daly, Tyne</actor>
+      <role>Anna Freeman</role>
+    </credit>
+    <credit>
+      <actor>Darby, Kim (I)</actor>
+      <role>Cindy</role>
+    </credit>
+    <credit>
+      <actor>Deel, Sandra</actor>
+      <role>Angie</role>
+    </credit>
+    <credit>
+      <actor>Dey, Susan</actor>
+      <role>Peggy</role>
+    </credit>
+    <credit>
+      <actor>Dickinson, Angie</actor>
+      <role>Carol Finney</role>
+    </credit>
+    <credit>
+      <actor>Donner, Robert (I)</actor>
+      <role>Ralph</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Melvyn</actor>
+      <role>Grandpa</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Andrew (I)</actor>
+      <role>Jeremy</role>
+    </credit>
+    <credit>
+      <actor>Duke, Patty</actor>
+      <role>Linda Colby</role>
+    </credit>
+    <credit>
+      <actor>Dunnock, Mildred</actor>
+      <role>Mrs. Rule</role>
+    </credit>
+    <credit>
+      <actor>Durkin, Jannis</actor>
+      <role>The Cocktail Waitress</role>
+    </credit>
+    <credit>
+      <actor>Eldridge, Anthony</actor>
+      <role>Royal Warlock</role>
+    </credit>
+    <credit>
+      <actor>Eltinge, Patricia</actor>
+      <role>The Coed</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Mike (I)</actor>
+      <role>Frank Simmons</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Harvey</actor>
+      <role>Plumber</role>
+    </credit>
+    <credit>
+      <actor>Fleischman, Larry</actor>
+      <role>The Mailboy</role>
+    </credit>
+    <credit>
+      <actor>Fleischman, Larry</actor>
+      <role>The Moving Man</role>
+    </credit>
+    <credit>
+      <actor>Flory, Med</actor>
+      <role>Ed Talbot</role>
+    </credit>
+    <credit>
+      <actor>Forrest, Steve (I)</actor>
+      <role>Andrew Alcott</role>
+    </credit>
+    <credit>
+      <actor>Foster, Jodie</actor>
+      <role>Judy</role>
+    </credit>
+    <credit>
+      <actor>Foster, Meg</actor>
+      <role>Julie Barnes</role>
+    </credit>
+    <credit>
+      <actor>Foster, Meg</actor>
+      <role>Penny Wiseman</role>
+    </credit>
+    <credit>
+      <actor>Foster, Susan (I)</actor>
+      <role>Fern</role>
+    </credit>
+    <credit>
+      <actor>Francis, Ivor</actor>
+      <role>Priest</role>
+    </credit>
+    <credit>
+      <actor>Franciscus, James</actor>
+      <role>Paul Dover</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Pamela</actor>
+      <role>Christina Burgess/Lisa Burgess</role>
+    </credit>
+    <credit>
+      <actor>Friebus, Florida</actor>
+      <role>Mrs. Prescott</role>
+    </credit>
+    <credit>
+      <actor>Fudge, Alan</actor>
+      <role>Dr. Parker</role>
+    </credit>
+    <credit>
+      <actor>Gallagher, Mel (I)</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Garas, Kaz</actor>
+      <role>Phil Briggs</role>
+    </credit>
+    <credit>
+      <actor>Garfield, David (I)</actor>
+      <role>Royal Warlock</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Leif</actor>
+      <role>Robert</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Roger (I)</actor>
+      <role>Royal Warlock</role>
+    </credit>
+    <credit>
+      <actor>Garwood, John (I)</actor>
+      <role>Police Sgt. Booth</role>
+    </credit>
+    <credit>
+      <actor>Geer, Ellen</actor>
+      <role>Marian</role>
+    </credit>
+    <credit>
+      <actor>Gethers, Eric</actor>
+      <role>Royal Warlock</role>
+    </credit>
+    <credit>
+      <actor>Ghostley, Alice</actor>
+      <role>Betty Carter</role>
+    </credit>
+    <credit>
+      <actor>Gough, Lloyd</actor>
+      <role>The Doctor</role>
+    </credit>
+    <credit>
+      <actor>Greer, Dabbs</actor>
+      <role>Harry Bell</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Lynn (I)</actor>
+      <role>The Attendant</role>
+    </credit>
+    <credit>
+      <actor>Hanley, Bridget</actor>
+      <role>Dana</role>
+    </credit>
+    <credit>
+      <actor>Harrington Jr., Pat</actor>
+      <role>Mark Riceman</role>
+    </credit>
+    <credit>
+      <actor>Harris, Stacy (I)</actor>
+      <role>James Dillon</role>
+    </credit>
+    <credit>
+      <actor>Hartley, Mariette</actor>
+      <role>Sheila Conway</role>
+    </credit>
+    <credit>
+      <actor>Hasso, Signe</actor>
+      <role>Mrs. Eliscu</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Helen (I)</actor>
+      <role>Miss Gilden</role>
+    </credit>
+    <credit>
+      <actor>Hays, Kathryn</actor>
+      <role>Janet</role>
+    </credit>
+    <credit>
+      <actor>Healey, Myron</actor>
+      <role>Police Lt. Maloney</role>
+    </credit>
+    <credit>
+      <actor>Heffley, Wayne</actor>
+      <role>Postman</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Douglas (I)</actor>
+      <role>George Carter</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Douglas (I)</actor>
+      <role>Jack Willis</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Fred (I)</actor>
+      <role>Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Madeleine Taylor</actor>
+      <role>The Old Gypsy</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Horne, Geoffrey</actor>
+      <role>Mr. Harkness</role>
+    </credit>
+    <credit>
+      <actor>Hotchkis, Joan</actor>
+      <role>Fran</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Tab (I)</actor>
+      <role>Bob Herrick</role>
+    </credit>
+    <credit>
+      <actor>Ireland, John (I)</actor>
+      <role>Arthur Mundy</role>
+    </credit>
+    <credit>
+      <actor>Jaffe, Allen</actor>
+      <role>The Hunchback</role>
+    </credit>
+    <credit>
+      <actor>Jaffe, Sam (I)</actor>
+      <role>De Witt</role>
+    </credit>
+    <credit>
+      <actor>James, Lisa (I)</actor>
+      <role>Grown-up Emily</role>
+    </credit>
+    <credit>
+      <actor>Jolley, I. Stanford</actor>
+      <role>The Wolfman</role>
+    </credit>
+    <credit>
+      <actor>Jones, Carolyn (I)</actor>
+      <role>Martha Alcott</role>
+    </credit>
+    <credit>
+      <actor>Jones, Henry (I)</actor>
+      <role>Truthers</role>
+    </credit>
+    <credit>
+      <actor>Jory, Victor (I)</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Joston, Darwin</actor>
+      <role>Danny Ferro</role>
+    </credit>
+    <credit>
+      <actor>Keith, Penelope</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Jack (I)</actor>
+      <role>Motorist</role>
+    </credit>
+    <credit>
+      <actor>Kimmel, Bruce</actor>
+      <role>The Bell Hop</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>Dr. Phillip Pritchard</role>
+    </credit>
+    <credit>
+      <actor>Knight, Shirley (I)</actor>
+      <role>Beth</role>
+    </credit>
+    <credit>
+      <actor>Kroeger, Lee</actor>
+      <role>Nurse Mary Starman</role>
+    </credit>
+    <credit>
+      <actor>Lacher, Taylor</actor>
+      <role>Charlie Eliscu</role>
+    </credit>
+    <credit>
+      <actor>Landy, Hanna</actor>
+      <role>Mrs. King</role>
+    </credit>
+    <credit>
+      <actor>Lang, Doreen</actor>
+      <role>Mrs. Norman</role>
+    </credit>
+    <credit>
+      <actor>Larken, Sheila</actor>
+      <role>Holly Brown</role>
+    </credit>
+    <credit>
+      <actor>Larken, Sheila</actor>
+      <role>Marne Simmons</role>
+    </credit>
+    <credit>
+      <actor>Leigh, Janet</actor>
+      <role>Carol</role>
+    </credit>
+    <credit>
+      <actor>Lenz, Rick (I)</actor>
+      <role>Dr. Stephen Crosley</role>
+    </credit>
+    <credit>
+      <actor>Lieb, Robert P.</actor>
+      <role>The Drunk</role>
+    </credit>
+    <credit>
+      <actor>Linden, Hal</actor>
+      <role>David Wells</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lynn</actor>
+      <role>Janet</role>
+    </credit>
+    <credit>
+      <actor>Love, Phyllis (I)</actor>
+      <role>Joan Howard</role>
+    </credit>
+    <credit>
+      <actor>Luisi, James</actor>
+      <role>Rick</role>
+    </credit>
+    <credit>
+      <actor>Lyn, Dawn (I)</actor>
+      <role>Jane</role>
+    </credit>
+    <credit>
+      <actor>MacLachlan, Janet</actor>
+      <role>Mrs. Dillon</role>
+    </credit>
+    <credit>
+      <actor>Malooly, Maggie</actor>
+      <role>The Nurse</role>
+    </credit>
+    <credit>
+      <actor>Mandan, Robert</actor>
+      <role>Ted Murray</role>
+    </credit>
+    <credit>
+      <actor>Mandan, Robert</actor>
+      <role>Walter Jerrold</role>
+    </credit>
+    <credit>
+      <actor>Marlowe, Scott (I)</actor>
+      <role>Paul Cepeda</role>
+    </credit>
+    <credit>
+      <actor>Mason, Marlyn</actor>
+      <role>Laura Benton</role>
+    </credit>
+    <credit>
+      <actor>Matheson, Murray</actor>
+      <role>Mathews</role>
+    </credit>
+    <credit>
+      <actor>McCallister, George</actor>
+      <role>Rafe Norris Jr.</role>
+    </credit>
+    <credit>
+      <actor>McClure, Doug</actor>
+      <role>Dan Hollis</role>
+    </credit>
+    <credit>
+      <actor>McIntire, Tim (I)</actor>
+      <role>Jake Freeman</role>
+    </credit>
+    <credit>
+      <actor>McLerie, Allyn Ann</actor>
+      <role>Miss Tate</role>
+    </credit>
+    <credit>
+      <actor>McLiam, John</actor>
+      <role>Titus Paul</role>
+    </credit>
+    <credit>
+      <actor>Meyer, Dorothy</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Milford, John</actor>
+      <role>Detective Lt. Thorpe</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Elliott</actor>
+      <role>Harry Alexander</role>
+    </credit>
+    <credit>
+      <actor>Mulligan, Richard</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Barry (I)</actor>
+      <role>Jim</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Gene (I)</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Novack, Shelly</actor>
+      <role>Art</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Arthur</actor>
+      <role>Chief Owen Huston</role>
+    </credit>
+    <credit>
+      <actor>Petrullo, Joe</actor>
+      <role>The Tenant</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Paul</actor>
+      <role>Dr. Richardson</role>
+    </credit>
+    <credit>
+      <actor>Pine, Phillip</actor>
+      <role>Dolf Ellis</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Judson</actor>
+      <role>The Judge</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Louis (I)</actor>
+      <role>The Taxi Driver</role>
+    </credit>
+    <credit>
+      <actor>Reitz, Mathias</actor>
+      <role>The Claw</role>
+    </credit>
+    <credit>
+      <actor>Renteria, Joe</actor>
+      <role>Johnny Horne</role>
+    </credit>
+    <credit>
+      <actor>Riley, Skip</actor>
+      <role>Royal Warlock</role>
+    </credit>
+    <credit>
+      <actor>Ritchie, Clint</actor>
+      <role>Second Cowboy</role>
+    </credit>
+    <credit>
+      <actor>Robards, Jason</actor>
+      <role>Elliot Brent</role>
+    </credit>
+    <credit>
+      <actor>Rocco, Alex</actor>
+      <role>Joseph Moretti</role>
+    </credit>
+    <credit>
+      <actor>Rorke, Hayden</actor>
+      <role>Newsman</role>
+    </credit>
+    <credit>
+      <actor>Savage, Brad</actor>
+      <role>Kevin</role>
+    </credit>
+    <credit>
+      <actor>Sheen, Martin</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Slate, Jeremy (I)</actor>
+      <role>Rafe Norris</role>
+    </credit>
+    <credit>
+      <actor>Smidt, Burr</actor>
+      <role>Jud</role>
+    </credit>
+    <credit>
+      <actor>Smith, Dennis Lee</actor>
+      <role>Art Student</role>
+    </credit>
+    <credit>
+      <actor>Smith, Merritt</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Soul, David</actor>
+      <role>James Barlow</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Craig (I)</actor>
+      <role>Brett</role>
+    </credit>
+    <credit>
+      <actor>Swenson, Karl</actor>
+      <role>Ed Barnes</role>
+    </credit>
+    <credit>
+      <actor>Tapscott, Mark</actor>
+      <role>The Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Scott (I)</actor>
+      <role>The Man</role>
+    </credit>
+    <credit>
+      <actor>Tolan, Michael (I)</actor>
+      <role>Keith Newton</role>
+    </credit>
+    <credit>
+      <actor>Toomey, Regis</actor>
+      <role>Sam Streeter</role>
+    </credit>
+    <credit>
+      <actor>Torn, Rip</actor>
+      <role>Jonathon</role>
+    </credit>
+    <credit>
+      <actor>Ventantonio, John</actor>
+      <role>Al Gordon</role>
+    </credit>
+    <credit>
+      <actor>Wallace, George (I)</actor>
+      <role>The Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Ward, Skip (I)</actor>
+      <role>Tommy Harper</role>
+    </credit>
+    <credit>
+      <actor>Watson Jr., James A.</actor>
+      <role>Police Sgt. Appleton</role>
+    </credit>
+    <credit>
+      <actor>Whiteman, Frank</actor>
+      <role>The Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Whitman, Stuart</actor>
+      <role>Ed Lucas</role>
+    </credit>
+    <credit>
+      <actor>Wilder, Glenn R.</actor>
+      <role>Capt. Jonathan Harker</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Mr. Carlson</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>Charlie Pender</role>
+    </credit>
+    <credit>
+      <actor>Wixted, Michael-James</actor>
+      <role>Robert Cameron</role>
+    </credit>
+  </cast>
+<plot>Anthology series focusing on the supernatural. Winston Essex opened each episode by taking the audience into his spooky old mansion and introducing the plot, which could range from a vampire preying on college students to a ghost haunting a house to an old man using voodoo against his own family. On January 5, 1973, the series changed its title to "Circle of Fear", the Essex character was no longer part of the show, and the stories didn't always feature supernatural themes</plot><url>http://localhost:8983/solr/movie.html?214233</url></doc>

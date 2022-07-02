@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="030009">
+  <docid>030009</docid>
+  <title>Alice's Spooky Adventure</title>
+  <year>1924</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>cat</keyword>
+    <keyword>spirit</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1 April 1924</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Disney, Walt</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Davis, Virginia (I)</actor>
+      <role>Alice</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Leon</actor>
+      <role>Tubby Boy</role>
+    </credit>
+    <credit>
+      <actor>O'Donnell, Spec</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>When a ball is accidentally knocked through the window of a neighborhood haunted house, Alice is the only one brave enough to go inside to retrieve it. While she's in there she falls and bumps her head, sending her to a cartoon dreamworld in which she rescues a cat and battles some spirits in a ghost town.</plot><url>http://localhost:8983/solr/movie.html?030009</url></doc>

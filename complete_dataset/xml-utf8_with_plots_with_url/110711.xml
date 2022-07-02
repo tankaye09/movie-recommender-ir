@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="110711">
+  <docid>110711</docid>
+  <title>College Bowl</title>
+  <year>1987</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Game-Show</genre>
+  </genres>
+  <keywords>
+    <keyword>non-fiction</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Oberembt, Mary</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Cavett, Dick</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>McKrell, Jim</actor>
+      <role>Announcer</role>
+    </credit>
+  </cast>
+<plot>Hosted by veteran television personality Dick Cavett, this quiz show pitted teams of college students against each other in a grueling battle of trivia knowledge. The teams answered questions on a variety of subjects to earn points, with the team earning the most points by the end of the show winning prizes for themselves and prestige for their schools.</plot><url>http://localhost:8983/solr/movie.html?110711</url></doc>

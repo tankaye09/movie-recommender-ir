@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="016833">
+  <docid>016833</docid>
+  <title>A Table for One</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ricarte, Walter</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="Canada">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Ricarte, Walter</director>
+  </directors>
+  <producers>
+    <producer>Ricarte, Walter</producer>
+  </producers>
+  <writers>
+    <writer>Ricarte, Walter</writer>
+    <writer>Stiller, Steven (II)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Lu, Yvette</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Martin, Tori (III)</actor>
+      <role>Franca</role>
+    </credit>
+    <credit>
+      <actor>Rivard, Luc</actor>
+      <role>Handsome man</role>
+    </credit>
+    <credit>
+      <actor>Stephanson, Joel</actor>
+      <role>Peter</role>
+    </credit>
+  </cast>
+<plot>Two years after breaking up with her longtime boyfriend, A young woman is unable to let go of her past.</plot><url>http://localhost:8983/solr/movie.html?016833</url></doc>

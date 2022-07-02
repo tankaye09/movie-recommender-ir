@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="460758">
+  <docid>460758</docid>
+  <title>Request</title>
+  <year>2002</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Park, Jinoh</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Mystery</genre>
+  </genres>
+  <keywords>
+    <keyword>student-film</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>South Korea</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Brazil">1 June 2003</releasedate>
+    <releasedate country="UK">5 October 2002</releasedate>
+    <releasedate country="Taiwan">10 March 2003</releasedate>
+    <releasedate country="France">December 2003</releasedate>
+    <releasedate country="Hong Kong">2 December 2002</releasedate>
+    <releasedate country="Estonia">23 November 2002</releasedate>
+    <releasedate country="Iceland">5 September 2002</releasedate>
+    <releasedate country="South Korea">December 2003</releasedate>
+    <releasedate country="Spain">28 November 2002</releasedate>
+    <releasedate country="Canada">13 November 2002</releasedate>
+    <releasedate country="USA">April 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="France">12</runningtime>
+    <runningtime country="default">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Park, Jinoh</director>
+  </directors>
+  <producers>
+    <producer>Song, Chae-hwan</producer>
+    <producer>Rosdeitcher, Emily</producer>
+  </producers>
+  <writers>
+    <writer>Park, Jinoh</writer>
+  </writers>
+  <composers>
+    <composer>Aspöck, Frederikke</composer>
+    <composer>Masotta, Juan Cruz</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Black, Paul Vincent</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Hovel, Traci</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>Sullivan, T.J. (I)</actor>
+      <role>Paul</role>
+    </credit>
+    <credit>
+      <actor>West, Byron</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>By his own request, an eight year old, Paul, is determined to experience a unique, painful event that normal children will never experience in their lives. After this unusual, tragic experience, Paul begins to realize that he has just lost his mom.</plot><url>http://localhost:8983/solr/movie.html?460758</url></doc>

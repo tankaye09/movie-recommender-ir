@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="029701">
+  <docid>029701</docid>
+  <title>Alias 'La Gringa'</title>
+  <year>1991</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Annichini, Gianfranco</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>escape</keyword>
+    <keyword>fugitive</keyword>
+  </keywords>
+  <languages>
+    <language>Spanish</language>
+  </languages>
+  <countries>
+    <country>Peru</country>
+    <country>Cuba</country>
+    <country>Spain</country>
+    <country>UK</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">92</runningtime>
+    <runningtime country="Colombia">100</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Durant, Alberto</director>
+  </directors>
+  <producers>
+    <producer>Malatesta, Andrés</producer>
+    <producer>Salomón, Emilio</producer>
+  </producers>
+  <writers>
+    <writer>Durant, Alberto</writer>
+    <writer>Salcedo, José María</writer>
+    <writer>Watanabe, José</writer>
+  </writers>
+  <composers>
+    <composer>Marambio, Pochi</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>García, Ramón (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>González, Germán (I)</actor>
+      <role>La Gringa</role>
+    </credit>
+    <credit>
+      <actor>Ochoa, Juan Manuel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Picho, Aristóteles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sacha, Orlando</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Victoria, Enrique</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>de Miguel, Gonzalo</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>This powerful political drama follows the adventures and escapades of "La Gringa", a likeable criminal capable of escaping from any jail. When he escapes from one with the help of an imprisoned intellectual, "La Gringa", returns in disguise to help pay back the favor but finds himself caught in a prison riot.</plot><url>http://localhost:8983/solr/movie.html?029701</url></doc>

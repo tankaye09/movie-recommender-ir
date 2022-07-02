@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="479114">
+  <docid>479114</docid>
+  <title>Saved from the Titanic</title>
+  <year>1912</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>ship-wreck</keyword>
+    <keyword>titanic</keyword>
+    <keyword>ship-sinking</keyword>
+    <keyword>historical-event</keyword>
+    <keyword>lost-film</keyword>
+    <keyword>panic</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">25 July 1912</releasedate>
+    <releasedate country="USA">14 May 1912</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arnaud, Étienne</director>
+  </directors>
+  <producers>
+    <producer>Raver, Harry</producer>
+  </producers>
+  <writers>
+    <writer>Gibson, Dorothy (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Adolfi, John G.</actor>
+      <role>Ens. Jack</role>
+    </credit>
+    <credit>
+      <actor>Dunn, William R.</actor>
+      <role>Jack's pal</role>
+    </credit>
+    <credit>
+      <actor>Francis, Alec B.</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Dorothy (I)</actor>
+      <role>Miss Dorothy</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Guy</actor>
+      <role>Jack's pal</role>
+    </credit>
+  </cast>
+<plot>A young woman tells her parents and fiance (in flashback) about the recent sinking of the Titanic and her experiences as a passenger during the disaster. Her intended marriage now faces a new hazard because her fiance is a sailor and her parents have just been reminded of the dangers of the sea.</plot><url>http://localhost:8983/solr/movie.html?479114</url></doc>

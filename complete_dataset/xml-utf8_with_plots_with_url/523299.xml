@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="523299">
+  <docid>523299</docid>
+  <title>Surprise!</title>
+  <year>1995</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <keywords>
+    <keyword>fuse</keyword>
+    <keyword>surprise</keyword>
+    <keyword>wake</keyword>
+    <keyword>sleep</keyword>
+    <keyword>black-comedy</keyword>
+  </keywords>
+  <languages>
+    <language>None</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <certificates>
+    <certificate country="Spain">T</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Hungary">28 April 2005</releasedate>
+    <releasedate country="Spain">21 February 1996</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">6</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Helmer, Veit</director>
+  </directors>
+  <composers>
+    <composer>Reiser, Niki</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Lorenz, Yutah</actor>
+      <role>The Woman</role>
+    </credit>
+    <credit>
+      <actor>Tidof, Max</actor>
+      <role>The Man</role>
+    </credit>
+  </cast>
+<plot>While his lover is sleeping, a man assembles around her a Rube Goldberg collection of malevolent-looking implements. Then he leaves and lights the fuse . . .</plot><url>http://localhost:8983/solr/movie.html?523299</url></doc>

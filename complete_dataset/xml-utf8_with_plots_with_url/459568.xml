@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="459568">
+  <docid>459568</docid>
+  <title>Relation</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Mosley, Frank</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">14 December 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hall, Ashley (IV)</director>
+  </directors>
+  <producers>
+    <producer>Hall, Ashley (IV)</producer>
+    <producer>Mosley, Frank</producer>
+    <producer>Storey, Robby</producer>
+  </producers>
+  <writers>
+    <writer>Mosley, Frank</writer>
+    <writer>Storey, Robby</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Mosley, Frank</actor>
+      <role>Darren</role>
+    </credit>
+    <credit>
+      <actor>Rainone, John</actor>
+      <role>Dad</role>
+    </credit>
+    <credit>
+      <actor>Storey, Robby</actor>
+      <role>Scott</role>
+    </credit>
+  </cast>
+<plot>Scott and Amanda have an announcement. Over Sunday dinner they admit to their father and younger brother, Darren, that they've been involved in an incestuous relationship for some years and that Amanda is pregnant. Now Scott and Amanda find themselves not only ostracized from their family but at odds with each other over the pregnancy.</plot><url>http://localhost:8983/solr/movie.html?459568</url></doc>

@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="051966">
+  <docid>051966</docid>
+  <title>Automan</title>
+  <year>1983</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Dumas, John J.</editor>
+    <editor>Hayes, Buford F.</editor>
+    <editor>Ranney, Gene</editor>
+  </editors>
+  <genres>
+    <genre>Adventure</genre>
+    <genre>Crime</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>superhero</keyword>
+    <keyword>tv-series-pilot</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Sweden">14 February 1985</releasedate>
+    <releasedate country="UK">12 May 1984</releasedate>
+    <releasedate country="USA">26 March 1984</releasedate>
+    <releasedate country="France">25 December 1987</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+    <runningtime country="Germany">70</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Baron, Allen (I)</director>
+    <director>Bettman, Gil</director>
+    <director>Burns, Allan (I)</director>
+    <director>Claver, Bob</director>
+    <director>Crosland, Alan (II)</director>
+    <director>Green, Bruce Seth</director>
+    <director>Katzin, Lee H.</director>
+    <director>Kolbe, Winrich</director>
+    <director>Manners, Kim</director>
+  </directors>
+  <producers>
+    <producer>Wade, Harker (I)</producer>
+    <producer>Brody, Larry</producer>
+    <producer>Larson, Glen A.</producer>
+    <producer>Garber, David (II)</producer>
+    <producer>Kushner, Donald</producer>
+    <producer>Locke, Peter (I)</producer>
+  </producers>
+  <writers>
+    <writer>Baser, Michael S.</writer>
+    <writer>Brody, Larry</writer>
+    <writer>Egan, Sam (I)</writer>
+    <writer>Garber, David (II)</writer>
+    <writer>Heyes Jr., Doug</writer>
+    <writer>Kalish, Bruce (I)</writer>
+    <writer>Larson, Glen A.</writer>
+    <writer>Perine, Parke</writer>
+    <writer>Reisman, Bruce</writer>
+    <writer>Schwartz, John Alan</writer>
+    <writer>Trueblood, Guerdon (I)</writer>
+    <writer>Weiskopf, Kim</writer>
+    <writer>Willens, Shel</writer>
+  </writers>
+  <composers>
+    <composer>Phillips, Stu</composer>
+    <composer>Stevens, Morton (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aames, Angela</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Alderson, John (I)</actor>
+      <role>Rummy</role>
+    </credit>
+    <credit>
+      <actor>Aletter, Frank</actor>
+      <role>James Dowling</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Abraham</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Alverson, Tammy</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Richard (I)</actor>
+      <role>Carl Donovan</role>
+    </credit>
+    <credit>
+      <actor>Andre, Jill</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Andronica, James</actor>
+      <role>Parsons</role>
+    </credit>
+    <credit>
+      <actor>Antonio, Jim</actor>
+      <role>Cramer</role>
+    </credit>
+    <credit>
+      <actor>Arnaz Jr., Desi</actor>
+      <role>Walter Nebicher</role>
+    </credit>
+    <credit>
+      <actor>Askew, Luke</actor>
+      <role>Eric LeBlanc</role>
+    </credit>
+    <credit>
+      <actor>Astrow, JoAnne</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Barber, Tami</actor>
+      <role>Laurie</role>
+    </credit>
+    <credit>
+      <actor>Bauer, Bruce</actor>
+      <role>Randy</role>
+    </credit>
+    <credit>
+      <actor>Berman, Barry (I)</actor>
+      <role>Tate</role>
+    </credit>
+    <credit>
+      <actor>Berns, Gerald</actor>
+      <role>Leo Shane</role>
+    </credit>
+    <credit>
+      <actor>Blackburn, Greta</actor>
+      <role>Gretchen Lewis</role>
+    </credit>
+    <credit>
+      <actor>Blake, Timothy</actor>
+      <role>Sam Maroni</role>
+    </credit>
+    <credit>
+      <actor>Branigan, Laura</actor>
+      <role>Jessie Cole</role>
+    </credit>
+    <credit>
+      <actor>Braverman, Bart (I)</actor>
+      <role>Frank Loren</role>
+    </credit>
+    <credit>
+      <actor>Brewer, Tammy</actor>
+      <role>Tisha</role>
+    </credit>
+    <credit>
+      <actor>Brooke, Walter</actor>
+      <role>Mr. Theodore Behrens</role>
+    </credit>
+    <credit>
+      <actor>Burke, Delta</actor>
+      <role>Rachel Innis</role>
+    </credit>
+    <credit>
+      <actor>Callahan, James T.</actor>
+      <role>Dennis Stanton</role>
+    </credit>
+    <credit>
+      <actor>Callan, Michael</actor>
+      <role>Kevin Mayhew</role>
+    </credit>
+    <credit>
+      <actor>Carnell, Cliff</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Catalano, Frank</actor>
+      <role>Young punk</role>
+    </credit>
+    <credit>
+      <actor>Cervera Jr., Jorge</actor>
+      <role>Jackson</role>
+    </credit>
+    <credit>
+      <actor>Claridge, Christie</actor>
+      <role>Josie</role>
+    </credit>
+    <credit>
+      <actor>Cole, Dennis (I)</actor>
+      <role>Roger Crandall</role>
+    </credit>
+    <credit>
+      <actor>Corbett, Glenn (I)</actor>
+      <role>Jarrett Powers</role>
+    </credit>
+    <credit>
+      <actor>Crear, Johnny</actor>
+      <role>Joseph Sylvana</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Mary (I)</actor>
+      <role>Ellen Fowler/'Miss Simmons'</role>
+    </credit>
+    <credit>
+      <actor>Dangler, Anita</actor>
+      <role>Madame Russo</role>
+    </credit>
+    <credit>
+      <actor>Danova, Cesare</actor>
+      <role>Captain Romano</role>
+    </credit>
+    <credit>
+      <actor>Davis, Bud</actor>
+      <role>Sieger</role>
+    </credit>
+    <credit>
+      <actor>Davis, Deborah Ludwig</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Dayton, Danny</actor>
+      <role>Bookie</role>
+    </credit>
+    <credit>
+      <actor>Derr, Richard</actor>
+      <role>Robinson</role>
+    </credit>
+    <credit>
+      <actor>Dorsey, Reginald T.</actor>
+      <role>Freddie</role>
+    </credit>
+    <credit>
+      <actor>Drago, Billy</actor>
+      <role>Chico Fuentes</role>
+    </credit>
+    <credit>
+      <actor>Dunlap, Robert (I)</actor>
+      <role>Chuck Wilson</role>
+    </credit>
+    <credit>
+      <actor>Eisenman, Robin</actor>
+      <role>Laura Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Emery, James</actor>
+      <role>Dean Springer</role>
+    </credit>
+    <credit>
+      <actor>Emmich, Cliff</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Epper, Gary</actor>
+      <role>Brandt</role>
+    </credit>
+    <credit>
+      <actor>Ericson, John</actor>
+      <role>Woodrow 'Woody' Oster</role>
+    </credit>
+    <credit>
+      <actor>Everett, Tom</actor>
+      <role>Stanley</role>
+    </credit>
+    <credit>
+      <actor>Ewing, Bill (I)</actor>
+      <role>Chief Controller</role>
+    </credit>
+    <credit>
+      <actor>Fabiani, Joel</actor>
+      <role>Alex</role>
+    </credit>
+    <credit>
+      <actor>Fimple, Dennis</actor>
+      <role>Taxi Driver</role>
+    </credit>
+    <credit>
+      <actor>Formicola, Fil</actor>
+      <role>Solt</role>
+    </credit>
+    <credit>
+      <actor>Franken, Steve</actor>
+      <role>P.J. Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Gallego, Gina (I)</actor>
+      <role>Teresa Fuentes</role>
+    </credit>
+    <credit>
+      <actor>Galloway, Don</actor>
+      <role>Martin Wills</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Rick (I)</actor>
+      <role>Bank Guard</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Winnie</actor>
+      <role>Kitty Hopkins</role>
+    </credit>
+    <credit>
+      <actor>Garlington, Lee</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Gazzo, Michael V.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gedeon, Conroy</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Gochberg, Jonathan</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Abraham</actor>
+      <role>Valet</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Don (I)</actor>
+      <role>Leonard Martin</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Gerald (II)</actor>
+      <role>Edward M. Scanlin</role>
+    </credit>
+    <credit>
+      <actor>Grajeda, Javier</actor>
+      <role>Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Green, Bobby E.</actor>
+      <role>Travis</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Michael (I)</actor>
+      <role>Tony Lupus</role>
+    </credit>
+    <credit>
+      <actor>Gribbin, Robert</actor>
+      <role>Bomb Squad Man #1</role>
+    </credit>
+    <credit>
+      <actor>Griffith, Ed (I)</actor>
+      <role>Seymour Laird</role>
+    </credit>
+    <credit>
+      <actor>Gulager, Clu</actor>
+      <role>Rudolph Brock</role>
+    </credit>
+    <credit>
+      <actor>Haber, Paul</actor>
+      <role>Delivery Boy</role>
+    </credit>
+    <credit>
+      <actor>Haig, Sid (I)</actor>
+      <role>Gang Member #1</role>
+    </credit>
+    <credit>
+      <actor>Hall, J.D.</actor>
+      <role>Noah Jeffries</role>
+    </credit>
+    <credit>
+      <actor>Halsey, Brett (I)</actor>
+      <role>Felipe Valdez</role>
+    </credit>
+    <credit>
+      <actor>Hanks, Steve</actor>
+      <role>Woody</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Ron (II)</actor>
+      <role>Frank Cooney</role>
+    </credit>
+    <credit>
+      <actor>Harville, Dan</actor>
+      <role>Disc Jockey</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Robert (I)</actor>
+      <role>Peterson</role>
+    </credit>
+    <credit>
+      <actor>Holden, Michael (I)</actor>
+      <role>2nd Air Controller</role>
+    </credit>
+    <credit>
+      <actor>Horan, Barbara</actor>
+      <role>Geri</role>
+    </credit>
+    <credit>
+      <actor>Horsley, Michael</actor>
+      <role>Jeff Coe</role>
+    </credit>
+    <credit>
+      <actor>Howard, Andrea</actor>
+      <role>Lauren Robinson</role>
+    </credit>
+    <credit>
+      <actor>Iden, Mindi</actor>
+      <role>Kevie Wright</role>
+    </credit>
+    <credit>
+      <actor>Jason, Rick (I)</actor>
+      <role>Nelson Trotter</role>
+    </credit>
+    <credit>
+      <actor>Jeris, Nancy</actor>
+      <role>Mrs. Stanton</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Sander</actor>
+      <role>Sam Clementine</role>
+    </credit>
+    <credit>
+      <actor>Jones, Mickey (I)</actor>
+      <role>Gang Member #2</role>
+    </credit>
+    <credit>
+      <actor>Kazann, Zitto</actor>
+      <role>Carlo Crane</role>
+    </credit>
+    <credit>
+      <actor>Keats, Steven</actor>
+      <role>Collins</role>
+    </credit>
+    <credit>
+      <actor>Kiser, Terry</actor>
+      <role>Stone</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>Inspector Mercer</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Paul (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lansing, Robert (I)</actor>
+      <role>Lt. Jack Curtis</role>
+    </credit>
+    <credit>
+      <actor>Lansing, Robert (I)</actor>
+      <role>Lt. Jack Curtis</role>
+    </credit>
+    <credit>
+      <actor>Lauter, Ed</actor>
+      <role>Michael Hagedorn</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Eric</actor>
+      <role>Guard #1</role>
+    </credit>
+    <credit>
+      <actor>LeGault, Lance</actor>
+      <role>Simon Rafferty</role>
+    </credit>
+    <credit>
+      <actor>LeRoy, Gloria</actor>
+      <role>Landlady</role>
+    </credit>
+    <credit>
+      <actor>Lenz, Rick (I)</actor>
+      <role>Ronald Tilson</role>
+    </credit>
+    <credit>
+      <actor>Levine, Floyd</actor>
+      <role>Seymour Grodkin</role>
+    </credit>
+    <credit>
+      <actor>Little, Tawny</actor>
+      <role>Tawny Schneider</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Tracy Morgan</role>
+    </credit>
+    <credit>
+      <actor>Long Jr., William</actor>
+      <role>Russo</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Richard (I)</actor>
+      <role>Sheriff Clay Horton</role>
+    </credit>
+    <credit>
+      <actor>Lyons, Robert F. (I)</actor>
+      <role>Jason</role>
+    </credit>
+    <credit>
+      <actor>MacRae, Michael (I)</actor>
+      <role>J.P. Crazy</role>
+    </credit>
+    <credit>
+      <actor>Macnee, Patrick</actor>
+      <role>Lydell Hamilton</role>
+    </credit>
+    <credit>
+      <actor>Mahon, John (I)</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Mallory, Edward</actor>
+      <role>Nate Hester</role>
+    </credit>
+    <credit>
+      <actor>Marlowe, Scott (I)</actor>
+      <role>Robert Sawyer</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Peter (I)</actor>
+      <role>Keith Gillette</role>
+    </credit>
+    <credit>
+      <actor>Martin, Todd (I)</actor>
+      <role>Gritch</role>
+    </credit>
+    <credit>
+      <actor>Marx, Gertrude</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>McClure, Doug</actor>
+      <role>Det. Ted Smithers</role>
+    </credit>
+    <credit>
+      <actor>McGuire, Michael (I)</actor>
+      <role>Sid Cole</role>
+    </credit>
+    <credit>
+      <actor>McNair, Heather</actor>
+      <role>Roxanne</role>
+    </credit>
+    <credit>
+      <actor>McNair, Heather</actor>
+      <role>Roxanne Caldwell</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Kristen</actor>
+      <role>Ellie Harmon</role>
+    </credit>
+    <credit>
+      <actor>Milholland, Richard</actor>
+      <role>Bomb Squad Man #2</role>
+    </credit>
+    <credit>
+      <actor>Mirault, Don</actor>
+      <role>Robin Hood</role>
+    </credit>
+    <credit>
+      <actor>Morrison, James (II)</actor>
+      <role>Gary Baxley</role>
+    </credit>
+    <credit>
+      <actor>Mullavy, Greg</actor>
+      <role>Philip Eames</role>
+    </credit>
+    <credit>
+      <actor>Núñez Jr., Miguel A.</actor>
+      <role>Valet Parking Attendant</role>
+    </credit>
+    <credit>
+      <actor>O'Loughlin, Gerald S.</actor>
+      <role>Police Capt. E. G. Boyd</role>
+    </credit>
+    <credit>
+      <actor>Pataki, Michael</actor>
+      <role>Pool Player</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Frank Ladrone</role>
+    </credit>
+    <credit>
+      <actor>Perkins, Jack (I)</actor>
+      <role>Drunk</role>
+    </credit>
+    <credit>
+      <actor>Perry, Felton</actor>
+      <role>Bart Johnson</role>
+    </credit>
+    <credit>
+      <actor>Pomerantz, Jeff</actor>
+      <role>Lt. Malcolm Whittaker</role>
+    </credit>
+    <credit>
+      <actor>Pomerantz, Jeff</actor>
+      <role>Malcom Whittaker</role>
+    </credit>
+    <credit>
+      <actor>Poppe, Herman</actor>
+      <role>Swiss Guard</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Hari</actor>
+      <role>Rollie Dumont</role>
+    </credit>
+    <credit>
+      <actor>Richmond, Branscombe</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Rossovich, Tim</actor>
+      <role>Oscar Selby</role>
+    </credit>
+    <credit>
+      <actor>Sampson, Robert (I)</actor>
+      <role>Henry Innis</role>
+    </credit>
+    <credit>
+      <actor>Sansom, Ken</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Savior, Paul (I)</actor>
+      <role>Flood Control Engineer</role>
+    </credit>
+    <credit>
+      <actor>Scott, Dennis (I)</actor>
+      <role>Reedy</role>
+    </credit>
+    <credit>
+      <actor>Server, Eric</actor>
+      <role>Gill</role>
+    </credit>
+    <credit>
+      <actor>Sharkey, Billy Ray</actor>
+      <role>Buck</role>
+    </credit>
+    <credit>
+      <actor>Sheiner, David</actor>
+      <role>Norman</role>
+    </credit>
+    <credit>
+      <actor>Simons, Talbot Perry</actor>
+      <role>Taxi Driver</role>
+    </credit>
+    <credit>
+      <actor>Simons, Talbot Perry</actor>
+      <role>Taxi Driver/Killer</role>
+    </credit>
+    <credit>
+      <actor>Spielberg, David</actor>
+      <role>Tom Sholes</role>
+    </credit>
+    <credit>
+      <actor>Stern, Erik</actor>
+      <role>Victor</role>
+    </credit>
+    <credit>
+      <actor>Storm, Jim</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Tanner, Roscoe</actor>
+      <role>Tennis Pro</role>
+    </credit>
+    <credit>
+      <actor>Teague, Marshall R.</actor>
+      <role>Ted</role>
+    </credit>
+    <credit>
+      <actor>Torppe, Danil</actor>
+      <role>Sam Lymon</role>
+    </credit>
+    <credit>
+      <actor>Vahanian, Marc</actor>
+      <role>Carty</role>
+    </credit>
+    <credit>
+      <actor>Vernon, John (I)</actor>
+      <role>Carlos Rayner</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Chuck (I)</actor>
+      <role>Automan</role>
+    </credit>
+    <credit>
+      <actor>Walker, Charles (I)</actor>
+      <role>Guard #2</role>
+    </credit>
+    <credit>
+      <actor>Wheeler, Mark (I)</actor>
+      <role>Roland Green</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>Judge Alexander Farnsworth</role>
+    </credit>
+    <credit>
+      <actor>Zema, Stefan</actor>
+      <role>Man</role>
+    </credit>
+  </cast>
+<plot>Walter Nebicher is the police department's resident computer expert, although his immediate superior gives no respect as to his contribution to the force. To fix that, he creates a special program that creates Automan, an artificially intelligent computer construct that looks real, sounds reals and, given enough power, can have an actual physical presence outside the computer that feels real. Together, Walter and Automan along with Cursor, a small floating droid that can create any object Automan needs, battle the criminal elements of the city.</plot><url>http://localhost:8983/solr/movie.html?051966</url></doc>

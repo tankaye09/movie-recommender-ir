@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="050664">
+  <docid>050664</docid>
+  <title>Au Pair</title>
+  <year>1994</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Dolby</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">92</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Weber, Angelika (I)</director>
+  </directors>
+  <writers>
+    <writer>Hernadi, Thomas</writer>
+  </writers>
+  <composers>
+    <composer>Daum, Gerhard</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Cates, Georgina</actor>
+      <role>Susan</role>
+    </credit>
+    <credit>
+      <actor>Chadwick, Justin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rapley, Dale</actor>
+      <role>Ivo</role>
+    </credit>
+    <credit>
+      <actor>Tessler, Karl</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>A coming of age comedy about Susan, a young Welsh woman who leaves her quiet country for Germany in search of some real adventure. She falls in love with her boss's lover, but when Susan's boyfriend from Wales shows up, sparks begin to fly.</plot><url>http://localhost:8983/solr/movie.html?050664</url></doc>

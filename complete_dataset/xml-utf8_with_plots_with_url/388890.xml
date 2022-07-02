@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="388890">
+  <docid>388890</docid>
+  <title>Nalayak</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Crime</genre>
+  </genres>
+  <languages>
+    <language>Punjabi</language>
+  </languages>
+  <countries>
+    <country>India</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">15</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="India">2005</releasedate>
+    <releasedate country="UK">15 June 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">165</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Nishand, Ravi</director>
+  </directors>
+  <producers>
+    <producer>Nishand, Ravi</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Bhatti, Jaspal</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Deol, Bobby</actor>
+      <role>Special Appearance</role>
+    </credit>
+    <credit>
+      <actor>Gill, Gugu</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shaq, Vivek</actor>
+      <role>Nalayak</role>
+    </credit>
+    <credit>
+      <actor>Tandon, Vijay</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The storyline is simple: a police officer's son wants to become a Dacoit and this leads to hilarious situations.</plot><url>http://localhost:8983/solr/movie.html?388890</url></doc>

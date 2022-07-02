@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="209184">
+  <docid>209184</docid>
+  <title>Game Over</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Louhivuori, Joona</editor>
+    <editor>Olson, Sean (I)</editor>
+    <editor>Weiss, Oli</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Thriller</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <languages>
+    <language>Spanish</language>
+    <language>Finnish</language>
+    <language>German</language>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Germany</country>
+    <country>UK</country>
+    <country>Finland</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Finland">K-15</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">20 September 2005</releasedate>
+    <releasedate country="Germany">30 May 2005</releasedate>
+    <releasedate country="Finland">14 June 2006</releasedate>
+    <releasedate country="USA">4 April 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">85</runningtime>
+    <runningtime country="USA">90</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lehto, Pekka (I)</director>
+    <director>Schlotterer, Franziska</director>
+    <director>Sullivan, Peter (V)</director>
+  </directors>
+  <producers>
+    <producer>Crawford, Daz</producer>
+    <producer>Duke, Mark</producer>
+    <producer>Jones, Christopher W.</producer>
+    <producer>Thomas, Andrew (V)</producer>
+  </producers>
+  <writers>
+    <writer>Aldridge, William (I)</writer>
+    <writer>Fandos, Diego</writer>
+    <writer>Miller, Max (VIII)</writer>
+    <writer>Müller, Jette</writer>
+    <writer>Saul, Kasim</writer>
+  </writers>
+  <composers>
+    <composer>Bjerre, Jonas</composer>
+    <composer>Sumén, Mauri</composer>
+    <composer>Vainshtein, Dmitry</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Albalá, Javier</actor>
+      <role>Él</role>
+    </credit>
+    <credit>
+      <actor>Antoine, Katja</actor>
+      <role>Girl Watching Fight #1</role>
+    </credit>
+    <credit>
+      <actor>Aro, Lilli</actor>
+      <role>Salla</role>
+    </credit>
+    <credit>
+      <actor>Baine, Grace</actor>
+      <role>Anya</role>
+    </credit>
+    <credit>
+      <actor>Bhambree, Nitasha</actor>
+      <role>Girl Watching Fight #2</role>
+    </credit>
+    <credit>
+      <actor>Blackburn, Karoliina</actor>
+      <role>Inspector Karoliina Ranta</role>
+    </credit>
+    <credit>
+      <actor>Boller, David</actor>
+      <role>Greasy Boxing Manager</role>
+    </credit>
+    <credit>
+      <actor>Brix, Adam</actor>
+      <role>Violet's Driver</role>
+    </credit>
+    <credit>
+      <actor>Caruso, Brett</actor>
+      <role>FSU</role>
+    </credit>
+    <credit>
+      <actor>Costello, Alex (II)</actor>
+      <role>Fighter in Alley</role>
+    </credit>
+    <credit>
+      <actor>Costilliano, Miguel</actor>
+      <role>Crooked Cop #2</role>
+    </credit>
+    <credit>
+      <actor>Crawford, Daz</actor>
+      <role>The Ref</role>
+    </credit>
+    <credit>
+      <actor>Dabier</actor>
+      <role>Trace</role>
+    </credit>
+    <credit>
+      <actor>Elliott, John (IX)</actor>
+      <role>Crooked Cop #1</role>
+    </credit>
+    <credit>
+      <actor>Ferris, James (II)</actor>
+      <role>AKO</role>
+    </credit>
+    <credit>
+      <actor>Flaherty, Patrick (II)</actor>
+      <role>Boxing Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Granat, Jonas</actor>
+      <role>Ulosottomies</role>
+    </credit>
+    <credit>
+      <actor>Green, Paul (X)</actor>
+      <role>Hanisek</role>
+    </credit>
+    <credit>
+      <actor>Gurpegui, Jorge</actor>
+      <role>Autoestopista</role>
+    </credit>
+    <credit>
+      <actor>Gustafsson, Göran (II)</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>Hail, Jessie</actor>
+      <role>Round Girl #2</role>
+    </credit>
+    <credit>
+      <actor>Hakola, Riina</actor>
+      <role>Sairaanhoitaja</role>
+    </credit>
+    <credit>
+      <actor>Harper, La Trice</actor>
+      <role>Violet</role>
+    </credit>
+    <credit>
+      <actor>Heikkinen, Juhani (I)</actor>
+      <role>Rikun isä</role>
+    </credit>
+    <credit>
+      <actor>Heino, Milja</actor>
+      <role>Thai boxing -ottelija</role>
+    </credit>
+    <credit>
+      <actor>Hockwin, Natascha</actor>
+      <role>Lilly</role>
+    </credit>
+    <credit>
+      <actor>Holm, Jukka</actor>
+      <role>Vartija</role>
+    </credit>
+    <credit>
+      <actor>Hänninen, Mikko</actor>
+      <role>Kimi's father</role>
+    </credit>
+    <credit>
+      <actor>Jeff, Brian</actor>
+      <role>Man Watching on Couch</role>
+    </credit>
+    <credit>
+      <actor>Jeff, Tracy</actor>
+      <role>Woman Watching on Couch</role>
+    </credit>
+    <credit>
+      <actor>Järvenhelmi, Maria</actor>
+      <role>Minna Ilola</role>
+    </credit>
+    <credit>
+      <actor>Kahakorpi, Hannu</actor>
+      <role>Oikeuden puheenjohtaja</role>
+    </credit>
+    <credit>
+      <actor>Kaitue, Katariina</actor>
+      <role>Kimi's mother</role>
+    </credit>
+    <credit>
+      <actor>Kallio, Helena</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>King, Joel (III)</actor>
+      <role>Acton</role>
+    </credit>
+    <credit>
+      <actor>Kosteczko, Marek</actor>
+      <role>Thai boxing - tuomari</role>
+    </credit>
+    <credit>
+      <actor>Kotkaniemi, Pentti</actor>
+      <role>Rikosteknikko</role>
+    </credit>
+    <credit>
+      <actor>Lannigan, Sean</actor>
+      <role>Man Watching in Office</role>
+    </credit>
+    <credit>
+      <actor>Larivaara, Merja</actor>
+      <role>Kimi's advocate</role>
+    </credit>
+    <credit>
+      <actor>Lavonen, Julius</actor>
+      <role>HooPee</role>
+    </credit>
+    <credit>
+      <actor>Lepistö, Tomi</actor>
+      <role>Vartija</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Jonny (I)</actor>
+      <role>Job Interviewer</role>
+    </credit>
+    <credit>
+      <actor>Liinoja, Tapio</actor>
+      <role>Pertti Ilola</role>
+    </credit>
+    <credit>
+      <actor>Malmberg, Laura</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Martiskainen, Riikka</actor>
+      <role>Tarjoilija ylioppilasjuhlissa</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Andre (I)</actor>
+      <role>Victor Knox</role>
+    </credit>
+    <credit>
+      <actor>Melander, Marco</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>Miale, Joe</actor>
+      <role>Cop under the bridge #2</role>
+    </credit>
+    <credit>
+      <actor>Mulvey, Declan</actor>
+      <role>Cop under the bridge #2</role>
+    </credit>
+    <credit>
+      <actor>Nemlander, Niklas</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>Niemi, Jarkko</actor>
+      <role>Valtteri</role>
+    </credit>
+    <credit>
+      <actor>Nordin, Reino</actor>
+      <role>Kimi</role>
+    </credit>
+    <credit>
+      <actor>Oliva, Matthew</actor>
+      <role>Job Candidate</role>
+    </credit>
+    <credit>
+      <actor>Olson, Sean (I)</actor>
+      <role>Broncos Fan</role>
+    </credit>
+    <credit>
+      <actor>Ong, Jack</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Orr, Clarence</actor>
+      <role>Janitor</role>
+    </credit>
+    <credit>
+      <actor>Ortega, Orlando (I)</actor>
+      <role>Victim Under the Pier/Boxer #1</role>
+    </credit>
+    <credit>
+      <actor>Pearlstein, Daniel</actor>
+      <role>Cop in Lyse's Apt #2</role>
+    </credit>
+    <credit>
+      <actor>Pekkinen, Juuso</actor>
+      <role>Riku</role>
+    </credit>
+    <credit>
+      <actor>Perry, Steven K.</actor>
+      <role>Businessman</role>
+    </credit>
+    <credit>
+      <actor>Pieskä, Patchariwan</actor>
+      <role>Sihteeri</role>
+    </credit>
+    <credit>
+      <actor>Räsänen, Aimo</actor>
+      <role>Chief Inspector Jussi Vuori</role>
+    </credit>
+    <credit>
+      <actor>Saarinen, Jussi</actor>
+      <role>Autonkuljettaja</role>
+    </credit>
+    <credit>
+      <actor>Saartamo, Joonas</actor>
+      <role>Harri</role>
+    </credit>
+    <credit>
+      <actor>Salasmaa, Niko</actor>
+      <role>Vartija</role>
+    </credit>
+    <credit>
+      <actor>Salli, Miikka</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>Saul, Kasim</actor>
+      <role>Cop in Lyse's Apt #1</role>
+    </credit>
+    <credit>
+      <actor>Schodos, Christian</actor>
+      <role>Herr Helm</role>
+    </credit>
+    <credit>
+      <actor>Simmons, David Lawrence</actor>
+      <role>Geoff</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Cody</actor>
+      <role>Boxer #2</role>
+    </credit>
+    <credit>
+      <actor>Stovall, Larnell</actor>
+      <role>Garage Fighter #4</role>
+    </credit>
+    <credit>
+      <actor>Ullmann, Kostja</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Vanhala, Mikko</actor>
+      <role>Tomppa</role>
+    </credit>
+    <credit>
+      <actor>Viinamäki, Reijo</actor>
+      <role>Poliisi</role>
+    </credit>
+    <credit>
+      <actor>Villa, Edwin</actor>
+      <role>Tallor/Boxer #3/Garage Fighter #3/Anonymous Fighter in Alley #1</role>
+    </credit>
+    <credit>
+      <actor>Ware, Ron</actor>
+      <role>Stone</role>
+    </credit>
+    <credit>
+      <actor>Wong, Kerry (II)</actor>
+      <role>Fighter on Roof</role>
+    </credit>
+    <credit>
+      <actor>Wu, Colin Weltin</actor>
+      <role>Garage Fighter #1</role>
+    </credit>
+    <credit>
+      <actor>Yu, Samuel</actor>
+      <role>Garage Fighter #2/Anonymous Fighter in Alley #2</role>
+    </credit>
+  </cast>
+<plot>Street fighter Victor Knox (Andre McCoy), just freed from prison, needs money to be re-united with his wife and child. When invited to join an underground fight tournament promising easy cash, he quickly signs up. Under constant surveillance by virtual spectators, the matches becomes increasingly violent; Vic soon finds himself held captive in a game of endless fighting. To free himself, he must confront the game's creator, known only as The Ref (Daz Crawford, UK Gladiators' "Diesel").</plot><url>http://localhost:8983/solr/movie.html?209184</url></doc>

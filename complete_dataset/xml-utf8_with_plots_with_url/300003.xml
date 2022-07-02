@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="300003">
+  <docid>300003</docid>
+  <title>Kylie: The Videos 2</title>
+  <year>1989</year>
+  <type>DirectToVideo</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">E</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">20</runningtime>
+  </runningtimes>
+  <composers>
+    <composer>Aitken, Matt (II)</composer>
+    <composer>Stock, Mike (II)</composer>
+    <composer>Waterman, Pete (III)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Minogue, Kylie</actor>
+      <role>Herself</role>
+    </credit>
+  </cast>
+<plot>The second collection of promotional videos from Kylie Minogue at the start of her music career. The video features four tracks, "It's No Secret", "Hand On You Heart", "Wouldn't Change A Thing", and "Never Too Late", interspersed with clips of Kylie talking about her career so far.</plot><url>http://localhost:8983/solr/movie.html?300003</url></doc>

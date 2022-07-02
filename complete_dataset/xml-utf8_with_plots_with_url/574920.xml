@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="574920">
+  <docid>574920</docid>
+  <title>The Man in Room 17</title>
+  <year>1965</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>number-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">13 May 1966</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Boisseau, David</director>
+    <director>Casson, Philip</director>
+    <director>Cunliffe, David (I)</director>
+    <director>Dews, Peter</director>
+    <director>Dynevor, Gerard</director>
+    <director>Everitt, Richard</director>
+    <director>Hird, Bob</director>
+    <director>Plummer, Peter</director>
+    <director>Whatham, Claude</director>
+  </directors>
+  <producers>
+    <producer>Everitt, Richard</producer>
+  </producers>
+  <writers>
+    <writer>Black, Ian Stuart</writer>
+    <writer>Burke, John (III)</writer>
+    <writer>Cavander, Kenneth (I)</writer>
+    <writer>Chapman, Robin (I)</writer>
+    <writer>Crisp, N.J.</writer>
+    <writer>De Rouen, Reed</writer>
+    <writer>Gilbert, Michael (I)</writer>
+    <writer>Hawkesworth, John</writer>
+    <writer>Kruse, John</writer>
+    <writer>Linter, Anthony</writer>
+    <writer>Lucarotti, John</writer>
+    <writer>Luke, Michael</writer>
+    <writer>Peters, Ludovic</writer>
+    <writer>Strutton, Bill</writer>
+    <writer>Thursfield, Patrick (II)</writer>
+    <writer>Weir, David (III)</writer>
+    <writer>Wilson, Gerald (I)</writer>
+    <writer>Woodhouse, Martin</writer>
+  </writers>
+  <composers>
+    <composer>Hilton, Derek</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbot, Charles</actor>
+      <role>Boote</role>
+    </credit>
+    <credit>
+      <actor>Adams, Jonathan (I)</actor>
+      <role>DCS Cannon</role>
+    </credit>
+    <credit>
+      <actor>Aldridge, Michael</actor>
+      <role>Dimmock</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Geoffrey</actor>
+      <role>Supt. Shaw</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Terence</actor>
+      <role>Paul Paragon</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Gene (I)</actor>
+      <role>Violetta Petrovic</role>
+    </credit>
+    <credit>
+      <actor>Aris, Ann</actor>
+      <role>Research lady</role>
+    </credit>
+    <credit>
+      <actor>Aris, Ann</actor>
+      <role>Sir Geoffrey's secretary</role>
+    </credit>
+    <credit>
+      <actor>Ashley, Liz</actor>
+      <role>Juanita</role>
+    </credit>
+    <credit>
+      <actor>Atienza, Edward</actor>
+      <role>2nd Elder</role>
+    </credit>
+    <credit>
+      <actor>Austin, Jack (I)</actor>
+      <role>Ambulance man</role>
+    </credit>
+    <credit>
+      <actor>Austin, Jack (I)</actor>
+      <role>Priest</role>
+    </credit>
+    <credit>
+      <actor>Austin, Jack (I)</actor>
+      <role>Supt. Small</role>
+    </credit>
+    <credit>
+      <actor>Baddeley, John</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Bannister, Trevor</actor>
+      <role>Martin Fowler</role>
+    </credit>
+    <credit>
+      <actor>Barclay, Arthur</actor>
+      <role>Patrick Hendy</role>
+    </credit>
+    <credit>
+      <actor>Barker, Katharine</actor>
+      <role>Madame Guinon</role>
+    </credit>
+    <credit>
+      <actor>Barrard, John</actor>
+      <role>Dr. Macken</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Ray (I)</actor>
+      <role>Al Gover</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Tim (I)</actor>
+      <role>Rickie Mayne</role>
+    </credit>
+    <credit>
+      <actor>Beint, Michael</actor>
+      <role>Air traffic control officer</role>
+    </credit>
+    <credit>
+      <actor>Benjamin, Christopher (I)</actor>
+      <role>Chief Supt. Craythorpe</role>
+    </credit>
+    <credit>
+      <actor>Benson, George (I)</actor>
+      <role>Marcus Oliver</role>
+    </credit>
+    <credit>
+      <actor>Booth, Jolyan</actor>
+      <role>Sergei</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Rex</actor>
+      <role>Commissionaire</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Rex</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Brightman, Geoffrey</actor>
+      <role>Palethorpe</role>
+    </credit>
+    <credit>
+      <actor>Brook, Lyndon</actor>
+      <role>Haynes</role>
+    </credit>
+    <credit>
+      <actor>Brown, A.J. (I)</actor>
+      <role>Peter Hendy</role>
+    </credit>
+    <credit>
+      <actor>Brown, John (XIII)</actor>
+      <role>Wallie Massie</role>
+    </credit>
+    <credit>
+      <actor>Burden, Hugh</actor>
+      <role>Charles Morrow</role>
+    </credit>
+    <credit>
+      <actor>Burke, David (I)</actor>
+      <role>Lt. Quatrano</role>
+    </credit>
+    <credit>
+      <actor>Burke, David (I)</actor>
+      <role>Mark Cranshaw</role>
+    </credit>
+    <credit>
+      <actor>Calderisi, David</actor>
+      <role>Roberto</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Keith (III)</actor>
+      <role>Bayers</role>
+    </credit>
+    <credit>
+      <actor>Cashman, Michael</actor>
+      <role>Blossom</role>
+    </credit>
+    <credit>
+      <actor>Castle, Ann</actor>
+      <role>Sheila Bladen</role>
+    </credit>
+    <credit>
+      <actor>Cater, John</actor>
+      <role>Bell</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Edward</actor>
+      <role>Crawford</role>
+    </credit>
+    <credit>
+      <actor>Chinnery, Dennis</actor>
+      <role>Police Inspector</role>
+    </credit>
+    <credit>
+      <actor>Chinnery, Dennis</actor>
+      <role>Walker</role>
+    </credit>
+    <credit>
+      <actor>Clark, Jameson</actor>
+      <role>Inspector</role>
+    </credit>
+    <credit>
+      <actor>Clark, Leslie</actor>
+      <role>Workman</role>
+    </credit>
+    <credit>
+      <actor>Cleveland, Carol</actor>
+      <role>Marya Ference</role>
+    </credit>
+    <credit>
+      <actor>Cole, David (I)</actor>
+      <role>Moulay Ahmed El Gharbi</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Richard (I)</actor>
+      <role>Jaroslav Brunewski</role>
+    </credit>
+    <credit>
+      <actor>Colin, Ian</actor>
+      <role>Sir Hugh Roderick</role>
+    </credit>
+    <credit>
+      <actor>Collins, John D.</actor>
+      <role>Bob Henty</role>
+    </credit>
+    <credit>
+      <actor>Comer, John (I)</actor>
+      <role>Sgt. Lynch</role>
+    </credit>
+    <credit>
+      <actor>Cossins, James</actor>
+      <role>Harry Morrison</role>
+    </credit>
+    <credit>
+      <actor>Courtney, Nicholas</actor>
+      <role>Gilles</role>
+    </credit>
+    <credit>
+      <actor>Cox, Clifford</actor>
+      <role>Dore</role>
+    </credit>
+    <credit>
+      <actor>Croasdale, Bill</actor>
+      <role>Rankin</role>
+    </credit>
+    <credit>
+      <actor>Croasdale, William</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Daniely, Lisa</actor>
+      <role>Fidessa Elphinstone</role>
+    </credit>
+    <credit>
+      <actor>Davis, Penelope</actor>
+      <role>Joyce Brown</role>
+    </credit>
+    <credit>
+      <actor>Dawkins, Paul (I)</actor>
+      <role>Hogben</role>
+    </credit>
+    <credit>
+      <actor>Dixon, Jill</actor>
+      <role>Moira Leigh</role>
+    </credit>
+    <credit>
+      <actor>Dorning, Robert</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Edwynn, Colin</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Denholm</actor>
+      <role>Defraits</role>
+    </credit>
+    <credit>
+      <actor>Evans, Barbara (III)</actor>
+      <role>Maria</role>
+    </credit>
+    <credit>
+      <actor>Falls-Hand, Thelma</actor>
+      <role>Moira's neighbour</role>
+    </credit>
+    <credit>
+      <actor>Fanning, Rio</actor>
+      <role>John Corry</role>
+    </credit>
+    <credit>
+      <actor>Fielding, Athene</actor>
+      <role>Arab nurse</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Kate</actor>
+      <role>Girl at party</role>
+    </credit>
+    <credit>
+      <actor>Forbes, Scott (II)</actor>
+      <role>Major Myers</role>
+    </credit>
+    <credit>
+      <actor>Fowlds, Derek</actor>
+      <role>Bruce</role>
+    </credit>
+    <credit>
+      <actor>Franklyn-Robbins, John</actor>
+      <role>Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Gatenby, Ray</actor>
+      <role>2nd Assassin</role>
+    </credit>
+    <credit>
+      <actor>Gatenby, Ray</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Ghent, George (I)</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Ghent, George (I)</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Glyn-Jones, John</actor>
+      <role>Davos</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Willoughby</actor>
+      <role>Sir Geoffrey Norton</role>
+    </credit>
+    <credit>
+      <actor>Goolden, Richard</actor>
+      <role>Curator</role>
+    </credit>
+    <credit>
+      <actor>Gosney, Barrie</actor>
+      <role>Little</role>
+    </credit>
+    <credit>
+      <actor>Gough, Michael (I)</actor>
+      <role>Andrei Konev</role>
+    </credit>
+    <credit>
+      <actor>Gover, Michael</actor>
+      <role>Hatton</role>
+    </credit>
+    <credit>
+      <actor>Gover, Michael</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Graham, David (II)</actor>
+      <role>3rd Elder</role>
+    </credit>
+    <credit>
+      <actor>Graham, Rex (I)</actor>
+      <role>Sergeant McCall</role>
+    </credit>
+    <credit>
+      <actor>Grant, Joyce (II)</actor>
+      <role>Ambassadress</role>
+    </credit>
+    <credit>
+      <actor>Green, Danny (I)</actor>
+      <role>Kipper Da Vinci</role>
+    </credit>
+    <credit>
+      <actor>Greenhalgh, Barbara</actor>
+      <role>June Ticehurst</role>
+    </credit>
+    <credit>
+      <actor>Guidotti, Stewart</actor>
+      <role>Nikola</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Hal</actor>
+      <role>Jason Bruger</role>
+    </credit>
+    <credit>
+      <actor>Hammond, Roger</actor>
+      <role>Bannerman</role>
+    </credit>
+    <credit>
+      <actor>Hansard, Paul</actor>
+      <role>Supply officer</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Hilary</actor>
+      <role>Dominique Garcia</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Hilary</actor>
+      <role>Joan</role>
+    </credit>
+    <credit>
+      <actor>Hardy, Laurence</actor>
+      <role>General Colquhon</role>
+    </credit>
+    <credit>
+      <actor>Heath, Eira</actor>
+      <role>Penny Flower</role>
+    </credit>
+    <credit>
+      <actor>Hely, Gerard</actor>
+      <role>Osman</role>
+    </credit>
+    <credit>
+      <actor>Hennessy, Emmett</actor>
+      <role>St. Sebastian</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Anthony</actor>
+      <role>Dr. Harding</role>
+    </credit>
+    <credit>
+      <actor>Hopner, Abbet</actor>
+      <role>The Devil</role>
+    </credit>
+    <credit>
+      <actor>Horne, David (I)</actor>
+      <role>Lord Bowers</role>
+    </credit>
+    <credit>
+      <actor>James, Keith (I)</actor>
+      <role>Old man</role>
+    </credit>
+    <credit>
+      <actor>Jardine, John</actor>
+      <role>Embassy butler</role>
+    </credit>
+    <credit>
+      <actor>Jayne, Jennifer (I)</actor>
+      <role>Corinna Easterbrook</role>
+    </credit>
+    <credit>
+      <actor>Jeavons, Colin</actor>
+      <role>Dr. Jim Pearson</role>
+    </credit>
+    <credit>
+      <actor>Jefford, Barbara</actor>
+      <role>Ursula Dallendorf</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Arthur (I)</actor>
+      <role>Sefton</role>
+    </credit>
+    <credit>
+      <actor>Jervis, Louise</actor>
+      <role>Mrs. Thornton</role>
+    </credit>
+    <credit>
+      <actor>John, Bettina</actor>
+      <role>Lynn Cranshaw</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Michael (I)</actor>
+      <role>Peter Mandell</role>
+    </credit>
+    <credit>
+      <actor>Jones, Dudley</actor>
+      <role>Bailey</role>
+    </credit>
+    <credit>
+      <actor>Joyner, Vernon</actor>
+      <role>Duxbury</role>
+    </credit>
+    <credit>
+      <actor>Kammer, Amber</actor>
+      <role>Tracey Peverill</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Brenda</actor>
+      <role>Celia</role>
+    </credit>
+    <credit>
+      <actor>Keats, Viola</actor>
+      <role>Lady Colquhoun</role>
+    </credit>
+    <credit>
+      <actor>Keen, Geoffrey</actor>
+      <role>Robert Grimes</role>
+    </credit>
+    <credit>
+      <actor>Kelly, David Blake</actor>
+      <role>El Tewfik Ali</role>
+    </credit>
+    <credit>
+      <actor>Kidd, Delena</actor>
+      <role>Pat Hardacre</role>
+    </credit>
+    <credit>
+      <actor>Knight, Elizabeth (I)</actor>
+      <role>Angela Hendy</role>
+    </credit>
+    <credit>
+      <actor>Knox, Barbara</actor>
+      <role>Martha Ross</role>
+    </credit>
+    <credit>
+      <actor>Landen, Dinsdale</actor>
+      <role>Peter Nash</role>
+    </credit>
+    <credit>
+      <actor>Langton, David (I)</actor>
+      <role>George Henderson</role>
+    </credit>
+    <credit>
+      <actor>Law, Kenneth (III)</actor>
+      <role>Cunningham</role>
+    </credit>
+    <credit>
+      <actor>Laye, Dilys</actor>
+      <role>Karen</role>
+    </credit>
+    <credit>
+      <actor>Letts, Barry</actor>
+      <role>Alec Hewitt</role>
+    </credit>
+    <credit>
+      <actor>Li Shiu, Paula</actor>
+      <role>Min Lo</role>
+    </credit>
+    <credit>
+      <actor>Linehan, Barry</actor>
+      <role>Lampeter</role>
+    </credit>
+    <credit>
+      <actor>Lloyd Pack, Charles</actor>
+      <role>Lord Welsford</role>
+    </credit>
+    <credit>
+      <actor>Lott, Barbara</actor>
+      <role>Mary Horton</role>
+    </credit>
+    <credit>
+      <actor>Lyster, Carolyn</actor>
+      <role>Jackie</role>
+    </credit>
+    <credit>
+      <actor>MacCarthy, Karin</actor>
+      <role>Jenny</role>
+    </credit>
+    <credit>
+      <actor>MacNaughton, Alan</actor>
+      <role>Mr. Justice Easterbrook</role>
+    </credit>
+    <credit>
+      <actor>Mackriel, Peter</actor>
+      <role>Alf Spriggs</role>
+    </credit>
+    <credit>
+      <actor>Mahoney, Louis</actor>
+      <role>Chaka</role>
+    </credit>
+    <credit>
+      <actor>Malloy, Tony (I)</actor>
+      <role>Workman</role>
+    </credit>
+    <credit>
+      <actor>March, Elspeth</actor>
+      <role>Eva Pantadopolis</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Roy</actor>
+      <role>Lt. David Stanton</role>
+    </credit>
+    <credit>
+      <actor>Martin, Paul A.</actor>
+      <role>Kipps</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Roy (I)</actor>
+      <role>Captain Rafaelo</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Roy (I)</actor>
+      <role>Richardson</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, William (I)</actor>
+      <role>Seaman</role>
+    </credit>
+    <credit>
+      <actor>McDermott, Brian (III)</actor>
+      <role>Sky Ryder</role>
+    </credit>
+    <credit>
+      <actor>McIntyre, Janet (I)</actor>
+      <role>Celia</role>
+    </credit>
+    <credit>
+      <actor>Mellor, James (I)</actor>
+      <role>Blake</role>
+    </credit>
+    <credit>
+      <actor>Miller, John (I)</actor>
+      <role>Sir Charles</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Warren (I)</actor>
+      <role>Petropolous</role>
+    </credit>
+    <credit>
+      <actor>Moffatt, John (I)</actor>
+      <role>Ambassador Don Diego Porto</role>
+    </credit>
+    <credit>
+      <actor>Moody, Carolyn</actor>
+      <role>Waitress</role>
+    </credit>
+    <credit>
+      <actor>Moon, George</actor>
+      <role>Mr. Crabtree</role>
+    </credit>
+    <credit>
+      <actor>Moore, William (II)</actor>
+      <role>Squires</role>
+    </credit>
+    <credit>
+      <actor>Morrell, David (II)</actor>
+      <role>Maitland</role>
+    </credit>
+    <credit>
+      <actor>Morton, Hugh (I)</actor>
+      <role>President Da Silva</role>
+    </credit>
+    <credit>
+      <actor>Myers, Peter (II)</actor>
+      <role>Carpman</role>
+    </credit>
+    <credit>
+      <actor>Nagy, Bill (I)</actor>
+      <role>Klinger</role>
+    </credit>
+    <credit>
+      <actor>Napier, Russell</actor>
+      <role>Col. White-Jones</role>
+    </credit>
+    <credit>
+      <actor>Neal, David (I)</actor>
+      <role>Walker</role>
+    </credit>
+    <credit>
+      <actor>Newlands, Anthony</actor>
+      <role>Sir Graham Brome</role>
+    </credit>
+    <credit>
+      <actor>Norton, Martin</actor>
+      <role>Sharpie Dingle</role>
+    </credit>
+    <credit>
+      <actor>O'Keefe, Allan (I)</actor>
+      <role>Croupier</role>
+    </credit>
+    <credit>
+      <actor>Ogilvy, Ian</actor>
+      <role>Pedro Da Silva</role>
+    </credit>
+    <credit>
+      <actor>Palmer, Geoffrey</actor>
+      <role>Ian McWatt</role>
+    </credit>
+    <credit>
+      <actor>Paul, John (I)</actor>
+      <role>Porter</role>
+    </credit>
+    <credit>
+      <actor>Payne, Laurence</actor>
+      <role>Norman Morden-Cross</role>
+    </credit>
+    <credit>
+      <actor>Peacock, Trevor</actor>
+      <role>Clean-up Clayson</role>
+    </credit>
+    <credit>
+      <actor>Pearce, Vincent</actor>
+      <role>Workman</role>
+    </credit>
+    <credit>
+      <actor>Pemberton, Charles</actor>
+      <role>Robin Farquarson</role>
+    </credit>
+    <credit>
+      <actor>Pentelow, Arthur</actor>
+      <role>Dr. Probyn</role>
+    </credit>
+    <credit>
+      <actor>Perry, Morris</actor>
+      <role>George Davis</role>
+    </credit>
+    <credit>
+      <actor>Pickering, Donald</actor>
+      <role>Hatier</role>
+    </credit>
+    <credit>
+      <actor>Poynter, Guy Kingsley</actor>
+      <role>Drew</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Mike (I)</actor>
+      <role>Jack Simpson</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Mike (I)</actor>
+      <role>Lt. Achara</role>
+    </credit>
+    <credit>
+      <actor>Prebble, Simon</actor>
+      <role>Lt. Anthony Kenrick</role>
+    </credit>
+    <credit>
+      <actor>Quayle, John</actor>
+      <role>Lt. Julian Goltheart</role>
+    </credit>
+    <credit>
+      <actor>Quilley, Denis</actor>
+      <role>Huston</role>
+    </credit>
+    <credit>
+      <actor>Randall, Walter</actor>
+      <role>Hassan</role>
+    </credit>
+    <credit>
+      <actor>Rees, John (I)</actor>
+      <role>David Grant</role>
+    </credit>
+    <credit>
+      <actor>Richardson, David (V)</actor>
+      <role>Det. Sgt. Farrell</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Michael (I)</actor>
+      <role>CPO Bradshaw</role>
+    </credit>
+    <credit>
+      <actor>Sachs, Leonard</actor>
+      <role>General Gavreau</role>
+    </credit>
+    <credit>
+      <actor>Sekka, Johnny</actor>
+      <role>Kumano</role>
+    </credit>
+    <credit>
+      <actor>Sewell, George</actor>
+      <role>Shelton</role>
+    </credit>
+    <credit>
+      <actor>Sheybal, Vladek</actor>
+      <role>Max Opals</role>
+    </credit>
+    <credit>
+      <actor>Sheybal, Vladek</actor>
+      <role>Yasha Saroya</role>
+    </credit>
+    <credit>
+      <actor>Sinden, Leon</actor>
+      <role>Ticehurst</role>
+    </credit>
+    <credit>
+      <actor>Smith, Graham (XX)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Southwick, Leslie</actor>
+      <role>James</role>
+    </credit>
+    <credit>
+      <actor>Stacy, Neil</actor>
+      <role>Fabbri</role>
+    </credit>
+    <credit>
+      <actor>Steedman, Tony</actor>
+      <role>Hardacre</role>
+    </credit>
+    <credit>
+      <actor>Steele, Brian (III)</actor>
+      <role>Lt. Tom Hatchard</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Peter (I)</actor>
+      <role>Moresby-Smith</role>
+    </credit>
+    <credit>
+      <actor>Stratton, John (I)</actor>
+      <role>Leonard Finch</role>
+    </credit>
+    <credit>
+      <actor>Sumner, David (I)</actor>
+      <role>Stefan Pantadopolis</role>
+    </credit>
+    <credit>
+      <actor>Sutton, Eric (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Tanner, Gordon (II)</actor>
+      <role>Commander Tolen</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Duncan (I)</actor>
+      <role>Auctioneer</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Duncan (I)</actor>
+      <role>Voice of prosecuting counsel</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Eric (I)</actor>
+      <role>Manuel</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Frank (I)</actor>
+      <role>Inspector Bascombe</role>
+    </credit>
+    <credit>
+      <actor>Tingwell, Charles 'Bud'</actor>
+      <role>Maj. David Winton</role>
+    </credit>
+    <credit>
+      <actor>Tomlinson, D. Geoff</actor>
+      <role>Phillips</role>
+    </credit>
+    <credit>
+      <actor>Tomlinson, D. Geoff</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Trenaman, John</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Van Gyseghem, Andre</actor>
+      <role>Professor Czerny</role>
+    </credit>
+    <credit>
+      <actor>Vernon, Richard (II)</actor>
+      <role>Oldenshaw</role>
+    </credit>
+    <credit>
+      <actor>Walter-Ellis, Desmond</actor>
+      <role>Milo Vine</role>
+    </credit>
+    <credit>
+      <actor>Warner, John (I)</actor>
+      <role>Hugo Beadle</role>
+    </credit>
+    <credit>
+      <actor>Warren, Michael (II)</actor>
+      <role>Sparrow</role>
+    </credit>
+    <credit>
+      <actor>Wilde, Brian</actor>
+      <role>Dr. Boddington</role>
+    </credit>
+    <credit>
+      <actor>Wilde, Brian</actor>
+      <role>George Horton</role>
+    </credit>
+    <credit>
+      <actor>Williams, Derek (VIII)</actor>
+      <role>Police Constable</role>
+    </credit>
+    <credit>
+      <actor>Williams, Derek (VIII)</actor>
+      <role>Workman</role>
+    </credit>
+    <credit>
+      <actor>Williams, Peter (II)</actor>
+      <role>Brown</role>
+    </credit>
+    <credit>
+      <actor>Williamson, Paul (I)</actor>
+      <role>Nigel Hendy</role>
+    </credit>
+    <credit>
+      <actor>Willis, Jerome</actor>
+      <role>Guy Leduc</role>
+    </credit>
+    <credit>
+      <actor>Woodnutt, John</actor>
+      <role>Martinez</role>
+    </credit>
+    <credit>
+      <actor>Woolf, Henry</actor>
+      <role>Luis</role>
+    </credit>
+    <credit>
+      <actor>Woolgar, Jack</actor>
+      <role>1st Elder</role>
+    </credit>
+    <credit>
+      <actor>Woolgar, Jack</actor>
+      <role>Armthwaite</role>
+    </credit>
+    <credit>
+      <actor>Wright, Neville</actor>
+      <role>Voice of pathologist</role>
+    </credit>
+    <credit>
+      <actor>Wyngarde, Peter</actor>
+      <role>Paul Panacek</role>
+    </credit>
+    <credit>
+      <actor>Zenios, George</actor>
+      <role>Dari</role>
+    </credit>
+  </cast>
+<plot>Crime series about a secret government department, "Room 17", set up to deal with crimes that baffle police &amp; government agencies. Headed by veteran WW2 agent Oldenshaw and partnered, initially, with criminologist Dimmock (later replaced by Imlac Defraits in series 2), the two men solved all manner of crimes with one unique difference - they never left the confines of their office, working out the problems of the case from "home"...</plot><url>http://localhost:8983/solr/movie.html?574920</url></doc>

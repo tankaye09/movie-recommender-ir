@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="559788">
+  <docid>559788</docid>
+  <title>The Garage</title>
+  <year>1920</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>auto-repair</keyword>
+    <keyword>fire</keyword>
+    <keyword>service-station</keyword>
+    <keyword>car-wash</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">January 1921</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">25</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arbuckle, Roscoe 'Fatty'</director>
+  </directors>
+  <writers>
+    <writer>Havez, Jean C.</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Arbuckle, Roscoe 'Fatty'</actor>
+      <role>Mechanic/Fireman</role>
+    </credit>
+    <credit>
+      <actor>Crimmins, Dan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dog, Luke the</actor>
+      <role>The Mad Dog</role>
+    </credit>
+    <credit>
+      <actor>Keaton, Buster</actor>
+      <role>Mechanic/Fireman</role>
+    </credit>
+    <credit>
+      <actor>Lake, Alice</actor>
+      <role>Undetermined Role</role>
+    </credit>
+    <credit>
+      <actor>Malone, Molly (I)</actor>
+      <role>Garage Owner's Daughter</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Harry (I)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Roscoe and Buster operate a combination garage and fire station. In the first half they destroy a car left for them to clean. In the second half they go off on a false alarm and return to find their own building on fire.</plot><url>http://localhost:8983/solr/movie.html?559788</url></doc>

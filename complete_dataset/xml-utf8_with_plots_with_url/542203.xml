@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="542203">
+  <docid>542203</docid>
+  <title>The Batman</title>
+  <year>2004</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Hou, Margaret</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+    <genre>Animation</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>revenge</keyword>
+    <keyword>based-on-comic</keyword>
+    <keyword>laser</keyword>
+    <keyword>poison-gas</keyword>
+    <keyword>gadget</keyword>
+    <keyword>arson</keyword>
+    <keyword>dc-comics</keyword>
+    <keyword>poisonous-gas</keyword>
+    <keyword>halloween</keyword>
+    <keyword>superhero</keyword>
+    <keyword>puppet</keyword>
+    <keyword>jet-pack</keyword>
+    <keyword>remote-control</keyword>
+    <keyword>kidnapping</keyword>
+    <keyword>based-on-comic-book</keyword>
+    <keyword>ninja</keyword>
+    <keyword>swamp</keyword>
+    <keyword>mayor</keyword>
+    <keyword>arsonist</keyword>
+    <keyword>detective</keyword>
+    <keyword>early-batman</keyword>
+    <keyword>ventriloquist</keyword>
+    <keyword>prequel</keyword>
+    <keyword>balloon</keyword>
+    <keyword>pogo-stick</keyword>
+    <keyword>insane-asylum</keyword>
+    <keyword>corporate-crime</keyword>
+    <keyword>playing-card</keyword>
+    <keyword>secret-identity</keyword>
+    <keyword>cat-woman</keyword>
+    <keyword>legend</keyword>
+    <keyword>villain</keyword>
+    <keyword>orderly</keyword>
+    <keyword>penthouse</keyword>
+    <keyword>gold</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>batman</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Finland">K-11</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">13 May 2006</releasedate>
+    <releasedate country="Finland">21 January 2007</releasedate>
+    <releasedate country="USA">13 October 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Berkeley, Christopher</director>
+    <director>Chun, Anthony</director>
+    <director>Fang, John</director>
+    <director>Heuck, Vinton</director>
+    <director>Kim, Seung Eun</director>
+    <director>Liu, Sam</director>
+    <director>Vietti, Brandon</director>
+    <director>Youngberg, Matt</director>
+  </directors>
+  <producers>
+    <producer>Smith, Kimberly (V)</producer>
+    <producer>Burnett, Alan</producer>
+    <producer>Schwartz, Sander</producer>
+    <producer>Smith, Kimberly (V)</producer>
+    <producer>Matsuda, Jeff</producer>
+    <producer>Murakami, Glen</producer>
+    <producer>Steiner, Linda</producer>
+    <producer>Burnett, Alan</producer>
+    <producer>Capizzi, Duane</producer>
+    <producer>Goguen, Michael (I)</producer>
+  </producers>
+  <writers>
+    <writer>Berkowitz, Stan</writer>
+    <writer>Capizzi, Duane</writer>
+    <writer>Cuden, Steve</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Espenson, Jane</writer>
+    <writer>Giacoppo, Paul</writer>
+    <writer>Goodman, Bob (II)</writer>
+    <writer>Jelenic, Michael</writer>
+    <writer>Klein, Greg (I)</writer>
+    <writer>Kuhr, Joseph</writer>
+    <writer>Melching, Steven</writer>
+    <writer>Murray, J.D.</writer>
+    <writer>Petrie, Douglas (I)</writer>
+    <writer>Pugsley, Thomas</writer>
+    <writer>Swenlin, Brian</writer>
+    <writer>Uhley, Len</writer>
+    <writer>Van Dyne, Alexx</writer>
+    <writer>Weisman, Greg (I)</writer>
+    <writer>Yost, Christopher</writer>
+    <writer>Beechen, Adam</writer>
+  </writers>
+  <composers>
+    <composer>Chase, Thomas</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abercrombie, Ian</actor>
+      <role>Ewan</role>
+    </credit>
+    <credit>
+      <actor>Abercrombie, Ian</actor>
+      <role>Ewen</role>
+    </credit>
+    <credit>
+      <actor>Anka, Amanda</actor>
+      <role>Smoke</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Captain Slash</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Number 1</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Shadow Thief/Sands</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Crime Boss #2</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Reporter/Guard</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>D.A.V.E.</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Killer Moth/Ragdoll</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Ragdoll</role>
+    </credit>
+    <credit>
+      <actor>Berkeley, Xander</actor>
+      <role>Paul</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Victor</actor>
+      <role>Rupert Thorne</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Lex Luthor</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Lex Luthor</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Mr. Freeze</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Victor Fries/Mr. Freeze</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Arnold Wesker/Scarface</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Scarface</role>
+    </credit>
+    <credit>
+      <actor>Cavadini, Cathy</actor>
+      <role>Wife/Moviestar/Reporter</role>
+    </credit>
+    <credit>
+      <actor>Clotworthy, Robert</actor>
+      <role>Warden</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Campus Guard</role>
+    </credit>
+    <credit>
+      <actor>Conroy, Kevin (I)</actor>
+      <role>John Grayson</role>
+    </credit>
+    <credit>
+      <actor>Coppola, Piera</actor>
+      <role>Pamela Isley/Poison Ivy</role>
+    </credit>
+    <credit>
+      <actor>Coppola, Piera</actor>
+      <role>Poison Ivy</role>
+    </credit>
+    <credit>
+      <actor>Corti, Jesse</actor>
+      <role>Chief Angel Rojas</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Temblor</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Vic/Freddy</role>
+    </credit>
+    <credit>
+      <actor>De Sena, Jack</actor>
+      <role>Jimmy Olsen</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Amanda/Ms. Vintrup</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Amber/Vulture</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Mary Grayson</role>
+    </credit>
+    <credit>
+      <actor>Delany, Dana</actor>
+      <role>Lois Lane</role>
+    </credit>
+    <credit>
+      <actor>Di Maggio, John</actor>
+      <role>Rhino/Mugsy</role>
+    </credit>
+    <credit>
+      <actor>Donnellan, Sean</actor>
+      <role>Mr. Herbert</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Alastair (I)</actor>
+      <role>Alfred</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Alastair (I)</actor>
+      <role>Alfred</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Alastair (I)</actor>
+      <role>Alfred</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Alastair (I)</actor>
+      <role>Alfred Pennyworth</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Alastair (I)</actor>
+      <role>Alfred Pennyworth</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Greg (II)</actor>
+      <role>Count Vertigo</role>
+    </credit>
+    <credit>
+      <actor>Englund, Robert</actor>
+      <role>The Riddler</role>
+    </credit>
+    <credit>
+      <actor>Englund, Robert</actor>
+      <role>The Riddler</role>
+    </credit>
+    <credit>
+      <actor>Faustino, David</actor>
+      <role>David/Fox</role>
+    </credit>
+    <credit>
+      <actor>Ferrer, Miguel</actor>
+      <role>Sinestro</role>
+    </credit>
+    <credit>
+      <actor>Fiore, Kathryn</actor>
+      <role>Sally Galt</role>
+    </credit>
+    <credit>
+      <actor>Foley, Dave (I)</actor>
+      <role>Francis Grey</role>
+    </credit>
+    <credit>
+      <actor>Friedle, Will</actor>
+      <role>Gearhead</role>
+    </credit>
+    <credit>
+      <actor>Fuller, Kurt</actor>
+      <role>Superior</role>
+    </credit>
+    <credit>
+      <actor>Gershon, Gina</actor>
+      <role>Catwoman</role>
+    </credit>
+    <credit>
+      <actor>Gershon, Gina</actor>
+      <role>Catwoman/Selina Kyle</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Henry (I)</actor>
+      <role>Bagley</role>
+    </credit>
+    <credit>
+      <actor>Gorham, Christopher</actor>
+      <role>William Mallery/Wrath</role>
+    </credit>
+    <credit>
+      <actor>Gorshin, Frank</actor>
+      <role>Professor Hugo Strange</role>
+    </credit>
+    <credit>
+      <actor>Gossett Jr., Louis</actor>
+      <role>Lucius Fox</role>
+    </credit>
+    <credit>
+      <actor>Green, Richard (V)</actor>
+      <role>Hugo Strange</role>
+    </credit>
+    <credit>
+      <actor>Green, Richard (V)</actor>
+      <role>Professor Hugo Strange</role>
+    </credit>
+    <credit>
+      <actor>Green, Richard (V)</actor>
+      <role>Toyman/Hugo Strange</role>
+    </credit>
+    <credit>
+      <actor>Gress, Googy</actor>
+      <role>Justin/Shark</role>
+    </credit>
+    <credit>
+      <actor>Grevioux, Kevin</actor>
+      <role>Solomon Grundy</role>
+    </credit>
+    <credit>
+      <actor>Grossman, Julianne</actor>
+      <role>Lady, Reporter</role>
+    </credit>
+    <credit>
+      <actor>Gunton, Bob</actor>
+      <role>Gorman</role>
+    </credit>
+    <credit>
+      <actor>Hale, Jennifer (I)</actor>
+      <role>Becky</role>
+    </credit>
+    <credit>
+      <actor>Hall, Robert David</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Mark (I)</actor>
+      <role>Tony Zucco</role>
+    </credit>
+    <credit>
+      <actor>Hardwick, Chris (I)</actor>
+      <role>Green Arrow</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Martian Manhunter</role>
+    </credit>
+    <credit>
+      <actor>Harris, Steve (I)</actor>
+      <role>Clayface</role>
+    </credit>
+    <credit>
+      <actor>Harris, Steve (I)</actor>
+      <role>Detective Ethan Bennett</role>
+    </credit>
+    <credit>
+      <actor>Harris, Steve (I)</actor>
+      <role>Detective Ethan Bennett/Clayface</role>
+    </credit>
+    <credit>
+      <actor>Harris, Steve (I)</actor>
+      <role>Ethan Bennett/Clayface</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Billie</actor>
+      <role>Virgina/Georgia</role>
+    </credit>
+    <credit>
+      <actor>Jessop, Peter (II)</actor>
+      <role>Curator</role>
+    </credit>
+    <credit>
+      <actor>Judovits, Danielle</actor>
+      <role>Batgirl</role>
+    </credit>
+    <credit>
+      <actor>Judovits, Danielle</actor>
+      <role>Batgirl/Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Judovits, Danielle</actor>
+      <role>Batgirl/Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Judovits, Danielle</actor>
+      <role>Batgirl/Barbara Gordon</role>
+    </credit>
+    <credit>
+      <actor>Judovits, Danielle</actor>
+      <role>Moira</role>
+    </credit>
+    <credit>
+      <actor>Kenny, Tom (I)</actor>
+      <role>Oswalt Cobblepot/The Penguin</role>
+    </credit>
+    <credit>
+      <actor>Kenny, Tom (I)</actor>
+      <role>The Penguin</role>
+    </credit>
+    <credit>
+      <actor>Kier, Udo</actor>
+      <role>Herbert Ziegler</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Bruiser</role>
+    </credit>
+    <credit>
+      <actor>LaMarr, Phil</actor>
+      <role>Maximillion Zeus</role>
+    </credit>
+    <credit>
+      <actor>Lala, Joe</actor>
+      <role>Bomb Tech</role>
+    </credit>
+    <credit>
+      <actor>Lala, Joe</actor>
+      <role>Crime Boss #1 and #3</role>
+    </credit>
+    <credit>
+      <actor>Lang, Lex</actor>
+      <role>Clayface/Metallo</role>
+    </credit>
+    <credit>
+      <actor>Lang, Lex</actor>
+      <role>Riddleman #1</role>
+    </credit>
+    <credit>
+      <actor>Lang, Lex</actor>
+      <role>Tech 2</role>
+    </credit>
+    <credit>
+      <actor>Langham, Wallace</actor>
+      <role>Basil Karlo/Clayface 2</role>
+    </credit>
+    <credit>
+      <actor>Larroquette, John</actor>
+      <role>Mirror Master</role>
+    </credit>
+    <credit>
+      <actor>MacFarlane, Rachael</actor>
+      <role>Blaise</role>
+    </credit>
+    <credit>
+      <actor>MacNicol, Peter</actor>
+      <role>Dr. Kirk Langstrom</role>
+    </credit>
+    <credit>
+      <actor>MacNicol, Peter</actor>
+      <role>Dr. Langstrom</role>
+    </credit>
+    <credit>
+      <actor>Mack, Allison</actor>
+      <role>Clea</role>
+    </credit>
+    <credit>
+      <actor>Mariano, John</actor>
+      <role>Number 1</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Jason</actor>
+      <role>Boy #1/Boy #2</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Jason</actor>
+      <role>Firefly</role>
+    </credit>
+    <credit>
+      <actor>Martin, Kellie</actor>
+      <role>Oracle</role>
+    </credit>
+    <credit>
+      <actor>Massee, Michael</actor>
+      <role>Spellbinder</role>
+    </credit>
+    <credit>
+      <actor>McClurg, Edie</actor>
+      <role>Mrs. Brown</role>
+    </credit>
+    <credit>
+      <actor>Mellor, Christie</actor>
+      <role>Female Caller</role>
+    </credit>
+    <credit>
+      <actor>Meskimen, Jim</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Ming-Na</actor>
+      <role>Detective Ellen Yin</role>
+    </credit>
+    <credit>
+      <actor>Mulroney, Dermot</actor>
+      <role>Green Lantern</role>
+    </credit>
+    <credit>
+      <actor>Napier, Charles</actor>
+      <role>Killgore Steed</role>
+    </credit>
+    <credit>
+      <actor>Newbern, George</actor>
+      <role>Clark Kent/Superman</role>
+    </credit>
+    <credit>
+      <actor>Newbern, George</actor>
+      <role>Superman</role>
+    </credit>
+    <credit>
+      <actor>Norris, Daran</actor>
+      <role>Brent</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Jerry</actor>
+      <role>Nightwing</role>
+    </credit>
+    <credit>
+      <actor>Olmos, Edward James</actor>
+      <role>Chief Angel Rojas</role>
+    </credit>
+    <credit>
+      <actor>Oswalt, Patton</actor>
+      <role>Cosmo Krank/Toymaker</role>
+    </credit>
+    <credit>
+      <actor>Oswalt, Patton</actor>
+      <role>Marty Slack</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Robert (I)</actor>
+      <role>Hawkman</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Kid</role>
+    </credit>
+    <credit>
+      <actor>Perlman, Ron</actor>
+      <role>Bane/Killer Croc</role>
+    </credit>
+    <credit>
+      <actor>Perlman, Ron</actor>
+      <role>Killer Croc</role>
+    </credit>
+    <credit>
+      <actor>Perlman, Ron</actor>
+      <role>Killer Croc/Rumor</role>
+    </credit>
+    <credit>
+      <actor>Pileggi, Mitch</actor>
+      <role>Commissioner Gordon</role>
+    </credit>
+    <credit>
+      <actor>Pileggi, Mitch</actor>
+      <role>Commissioner Gordon</role>
+    </credit>
+    <credit>
+      <actor>Pileggi, Mitch</actor>
+      <role>Commissioner James Gordon</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Chris (I)</actor>
+      <role>Jake</role>
+    </credit>
+    <credit>
+      <actor>Reisz, Michael</actor>
+      <role>Donnie/Prank</role>
+    </credit>
+    <credit>
+      <actor>Remar, James</actor>
+      <role>Black Mask</role>
+    </credit>
+    <credit>
+      <actor>Remar, James</actor>
+      <role>Black Mask</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>The Joker</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>The Joker</role>
+    </credit>
+    <credit>
+      <actor>Romano, Rino</actor>
+      <role>Bruce Wayne/The Batman</role>
+    </credit>
+    <credit>
+      <actor>Romano, Rino</actor>
+      <role>The Batman/Bruce Wayne</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Worker #2</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Robinson Sprang</role>
+    </credit>
+    <credit>
+      <actor>Routh, Brandon</actor>
+      <role>John Marlowe/Everywhere Man</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Daryl</actor>
+      <role>Andy/Scorn</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Daryl</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Evan</actor>
+      <role>Dick Grayson/Robin</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Evan</actor>
+      <role>Robin/Dick Grayson</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Evan</actor>
+      <role>Robin/Dick Grayson</role>
+    </credit>
+    <credit>
+      <actor>Sabara, Evan</actor>
+      <role>Robin/Dick Grayson</role>
+    </credit>
+    <credit>
+      <actor>Sandoval, Miguel (I)</actor>
+      <role>Thug #1</role>
+    </credit>
+    <credit>
+      <actor>Schlatter, Charlie</actor>
+      <role>Flash</role>
+    </credit>
+    <credit>
+      <actor>Shada, Zack</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Shadix, Glenn</actor>
+      <role>Arthur 'Artie' Brown/The Cluemaster</role>
+    </credit>
+    <credit>
+      <actor>Sogliuzzo, André</actor>
+      <role>Duncan</role>
+    </credit>
+    <credit>
+      <actor>Throne, Zachary</actor>
+      <role>Anchor/Doctor</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Cash Tankinson</role>
+    </credit>
+    <credit>
+      <actor>West, Adam (I)</actor>
+      <role>Mayor Grange</role>
+    </credit>
+    <credit>
+      <actor>Willard, Fred</actor>
+      <role>Ross Darren</role>
+    </credit>
+    <credit>
+      <actor>Willard, Fred</actor>
+      <role>Speedway Announcer</role>
+    </credit>
+    <credit>
+      <actor>Wise, Jim (I)</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Young, Keone</actor>
+      <role>Hideo Katsu</role>
+    </credit>
+    <credit>
+      <actor>de Almeida, Joaquim</actor>
+      <role>Bane</role>
+    </credit>
+  </cast>
+<plot>A young Bruce Wayne is in his third year of trying to establish himself as Batman, protector of Gotham City. Living in Gotham, a metropolis where shadows run long and deep, beneath elevated train tracks, this younger Batman will confront each of his familiar foes for the first time.</plot><url>http://localhost:8983/solr/movie.html?542203</url></doc>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="101432">
+  <docid>101432</docid>
+  <title>Cheese</title>
+  <year>2011</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Comedy</genre>
+    <genre>Crime</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">2011</releasedate>
+  </releasedates>
+  <directors>
+    <director>Lands, John</director>
+  </directors>
+  <writers>
+    <writer>Daquin, Carlo</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Beoubay, Brett</actor>
+      <role>Robicheaux</role>
+    </credit>
+    <credit>
+      <actor>Daquin, Carlo</actor>
+      <role>Jack Harleaux</role>
+    </credit>
+  </cast>
+<plot>A suspenseful, crime caper about a struggling couple and part-time bounty hunters, Jack and Jill who uncover a brown bag of $80,000 at a rundown motel called 'Zydeco'. Hidden by two bank robbers, Cajun Jeau and Diego Volant, to be split between them and their partner Mr. Pierre, a loan shark. Days later, two drug entrepreneurs, Roscoe and Mouse, who are tenants at the motel, learn of the money, then join up with the crooks to plunder the loot. But along with another motel couple Ace and Angel, Jack and Jill devise a plan to hoodwink the robbers.</plot><url>http://localhost:8983/solr/movie.html?101432</url></doc>

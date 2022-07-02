@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="085898">
+  <docid>085898</docid>
+  <title>Bugs</title>
+  <year>1995</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Fisher, Ardan</editor>
+    <editor>Rees, David (II)</editor>
+    <editor>Ritson, Tim</editor>
+    <editor>Webb, Frank (II)</editor>
+  </editors>
+  <genres>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>photograph</keyword>
+    <keyword>security-system</keyword>
+    <keyword>explosion</keyword>
+    <keyword>tracking-device</keyword>
+    <keyword>bomb</keyword>
+    <keyword>car-off-bridge</keyword>
+    <keyword>car-crush</keyword>
+    <keyword>gadget</keyword>
+    <keyword>traitor</keyword>
+    <keyword>satellite</keyword>
+    <keyword>pursuit</keyword>
+    <keyword>audio-surveillance</keyword>
+    <keyword>motorcycle</keyword>
+    <keyword>kidnapping</keyword>
+    <keyword>restaurant</keyword>
+    <keyword>industrial-espionage</keyword>
+    <keyword>helicopter-crash</keyword>
+    <keyword>government-agent</keyword>
+    <keyword>helicopter-pilot</keyword>
+    <keyword>voice-changer</keyword>
+    <keyword>bomb-victim</keyword>
+    <keyword>train-station</keyword>
+    <keyword>murder</keyword>
+    <keyword>theft</keyword>
+    <keyword>high-tech</keyword>
+    <keyword>surveillance-camera</keyword>
+    <keyword>exploding-helicopter</keyword>
+    <keyword>secret-agent</keyword>
+    <keyword>spy</keyword>
+    <keyword>car-crash</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>hidden-camera</keyword>
+    <keyword>framed</keyword>
+    <keyword>exploding-car</keyword>
+    <keyword>surveillance-device</keyword>
+    <keyword>car-chase</keyword>
+    <keyword>security-guard</keyword>
+    <keyword>shooting</keyword>
+    <keyword>security-camera</keyword>
+    <keyword>audio-cassette</keyword>
+    <keyword>high-security</keyword>
+    <keyword>security-breach</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>break-in</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">PG</certificate>
+    <certificate country="Australia">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">14 January 1998</releasedate>
+    <releasedate country="Portugal">10 January 1999</releasedate>
+    <releasedate country="Israel">7 February 1996</releasedate>
+    <releasedate country="UK">27 April 1996</releasedate>
+    <releasedate country="Germany">22 March 1997</releasedate>
+    <releasedate country="France">11 February 1996</releasedate>
+    <releasedate country="Australia">19 April 1996</releasedate>
+    <releasedate country="Russia">10 September 1998</releasedate>
+    <releasedate country="New Zealand">24 September 1996</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">50</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Evans, Matthew (III)</director>
+    <director>Farnham, Brian</director>
+    <director>Grant, Brian (I)</director>
+    <director>Grieve, Andrew (I)</director>
+    <director>Grieve, Ken</director>
+    <director>Johnson, Sandy (I)</director>
+    <director>King, Christopher (III)</director>
+    <director>Sage, Gwennan</director>
+    <director>Stroud, John (II)</director>
+  </directors>
+  <writers>
+    <writer>Borst, Terry</writer>
+    <writer>Brake, Colin</writer>
+    <writer>Clemens, Brian</writer>
+    <writer>Coe, Amanda</writer>
+    <writer>De Palma, Frank</writer>
+    <writer>Doughty, Stuart</writer>
+    <writer>Evans, Gregory (I)</writer>
+    <writer>Gallagher, Stephen (I)</writer>
+    <writer>Gould, Duncan</writer>
+    <writer>Hopkins, Clive (II)</writer>
+    <writer>Stewart, Alex (V)</writer>
+    <writer>Clemens, Brian</writer>
+  </writers>
+  <composers>
+    <composer>Bolton, Roger (II)</composer>
+    <composer>Greenaway, Gavin</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbott, Gavin</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Aberdein, Chris</actor>
+      <role>Major Cardenas</role>
+    </credit>
+    <credit>
+      <actor>Addie, Robert</actor>
+      <role>Gen. Russell</role>
+    </credit>
+    <credit>
+      <actor>Adolphi, Dianne</actor>
+      <role>Linda</role>
+    </credit>
+    <credit>
+      <actor>Amsbury, Janet</actor>
+      <role>Selina</role>
+    </credit>
+    <credit>
+      <actor>Angell, Robert</actor>
+      <role>Jeff</role>
+    </credit>
+    <credit>
+      <actor>Ansell, Abigail</actor>
+      <role>Katie</role>
+    </credit>
+    <credit>
+      <actor>Aris, Jonathan</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Arlington, Paul (I)</actor>
+      <role>Vice-Chairman</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Chris (I)</actor>
+      <role>Byron</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Linda (I)</actor>
+      <role>Prison Guard</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Linda (I)</actor>
+      <role>Prison Guard</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Linda (I)</actor>
+      <role>Prison Guard</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Sean (I)</actor>
+      <role>Colonel Stone</role>
+    </credit>
+    <credit>
+      <actor>Ash, Leslie</actor>
+      <role>Kitty McHaig</role>
+    </credit>
+    <credit>
+      <actor>Attwell, Michael (I)</actor>
+      <role>Alan Moore</role>
+    </credit>
+    <credit>
+      <actor>Ayub, Razia</actor>
+      <role>Researcher</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Ewan</actor>
+      <role>Security</role>
+    </credit>
+    <credit>
+      <actor>Bain, Allister</actor>
+      <role>Airport Guard</role>
+    </credit>
+    <credit>
+      <actor>Bain, Imogen</actor>
+      <role>Mrs Gardner</role>
+    </credit>
+    <credit>
+      <actor>Bain, Imogen</actor>
+      <role>Mrs Gardner</role>
+    </credit>
+    <credit>
+      <actor>Bajic, Brana</actor>
+      <role>Elena Johnson</role>
+    </credit>
+    <credit>
+      <actor>Baker, Rupert</actor>
+      <role>Mission Control</role>
+    </credit>
+    <credit>
+      <actor>Baker, Rupert</actor>
+      <role>Mission Control</role>
+    </credit>
+    <credit>
+      <actor>Bardini, Dean</actor>
+      <role>Airport Man</role>
+    </credit>
+    <credit>
+      <actor>Barker, Eve</actor>
+      <role>Rona</role>
+    </credit>
+    <credit>
+      <actor>Barker, Tim (I)</actor>
+      <role>Spencer</role>
+    </credit>
+    <credit>
+      <actor>Barnden, Bruce</actor>
+      <role>Security Man</role>
+    </credit>
+    <credit>
+      <actor>Barnett, Angus</actor>
+      <role>North</role>
+    </credit>
+    <credit>
+      <actor>Bartlett, Nick</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Bates, Rupert</actor>
+      <role>Bob</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Lynsey</actor>
+      <role>Sally</role>
+    </credit>
+    <credit>
+      <actor>Bazeley, Mark</actor>
+      <role>Vigo</role>
+    </credit>
+    <credit>
+      <actor>Beck, Ralf</actor>
+      <role>Ekberg</role>
+    </credit>
+    <credit>
+      <actor>Beckinsale, Samantha</actor>
+      <role>Pascal</role>
+    </credit>
+    <credit>
+      <actor>Behar, Sasha</actor>
+      <role>Yasmine</role>
+    </credit>
+    <credit>
+      <actor>Bendix, Simone</actor>
+      <role>Sasha</role>
+    </credit>
+    <credit>
+      <actor>Birdsall, Jesse</actor>
+      <role>Nicholas Beckett</role>
+    </credit>
+    <credit>
+      <actor>Birdsall, Jesse</actor>
+      <role>Nicholas Beckett</role>
+    </credit>
+    <credit>
+      <actor>Bleasdale, John</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Bonneville, Hugh</actor>
+      <role>Nathan Pym</role>
+    </credit>
+    <credit>
+      <actor>Boorman, Neil (I)</actor>
+      <role>Kolvek</role>
+    </credit>
+    <credit>
+      <actor>Bourke, Peter</actor>
+      <role>Rushbrook</role>
+    </credit>
+    <credit>
+      <actor>Bowen, Philip</actor>
+      <role>Simon</role>
+    </credit>
+    <credit>
+      <actor>Bowen, Philip</actor>
+      <role>Simon</role>
+    </credit>
+    <credit>
+      <actor>Bower, Sharon</actor>
+      <role>Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Bowerman, Robin</actor>
+      <role>Storeman</role>
+    </credit>
+    <credit>
+      <actor>Boyce, Todd (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Bradford, Tom (III)</actor>
+      <role>Windette</role>
+    </credit>
+    <credit>
+      <actor>Brennen, Paul (I)</actor>
+      <role>Michael</role>
+    </credit>
+    <credit>
+      <actor>Brenner, Richard</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Brightwell, Paul</actor>
+      <role>Zealander</role>
+    </credit>
+    <credit>
+      <actor>Brimble, Nick</actor>
+      <role>Rokov</role>
+    </credit>
+    <credit>
+      <actor>Brimble, Vincent</actor>
+      <role>Strate</role>
+    </credit>
+    <credit>
+      <actor>Britten, Bill (II)</actor>
+      <role>Marcus</role>
+    </credit>
+    <credit>
+      <actor>Brook, Jeremy</actor>
+      <role>Aide</role>
+    </credit>
+    <credit>
+      <actor>Brook, Joss</actor>
+      <role>Sean</role>
+    </credit>
+    <credit>
+      <actor>Broome, Peter</actor>
+      <role>Agent</role>
+    </credit>
+    <credit>
+      <actor>Brough, Steven</actor>
+      <role>Journalist</role>
+    </credit>
+    <credit>
+      <actor>Brown, Lee (X)</actor>
+      <role>Employee</role>
+    </credit>
+    <credit>
+      <actor>Bush, Louise</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Butcher, Tom</actor>
+      <role>Terry</role>
+    </credit>
+    <credit>
+      <actor>Butcher, Tom</actor>
+      <role>Terry</role>
+    </credit>
+    <credit>
+      <actor>Byron, Bruce (I)</actor>
+      <role>Security</role>
+    </credit>
+    <credit>
+      <actor>Caballero, Katia</actor>
+      <role>Anna Fabrizi</role>
+    </credit>
+    <credit>
+      <actor>Caine, Adam</actor>
+      <role>Kane</role>
+    </credit>
+    <credit>
+      <actor>Caine, Charlie</actor>
+      <role>Ballantyne</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Alister</actor>
+      <role>Dr Siegel</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Shenagh</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Carr, Michael Joseph</actor>
+      <role>Taylor</role>
+    </credit>
+    <credit>
+      <actor>Carte, Eric</actor>
+      <role>Guyana Control</role>
+    </credit>
+    <credit>
+      <actor>Cartwright, Jon (I)</actor>
+      <role>Wence</role>
+    </credit>
+    <credit>
+      <actor>Cartwright, Jon (I)</actor>
+      <role>Wence</role>
+    </credit>
+    <credit>
+      <actor>Chadbon, Tom</actor>
+      <role>Richard Wyman</role>
+    </credit>
+    <credit>
+      <actor>Chagrin, Nicolas</actor>
+      <role>Cameron</role>
+    </credit>
+    <credit>
+      <actor>Chamchoun, Hash</actor>
+      <role>Security Man</role>
+    </credit>
+    <credit>
+      <actor>Chantrell, Shirley</actor>
+      <role>Kituma Aide</role>
+    </credit>
+    <credit>
+      <actor>Chase, Carl (I)</actor>
+      <role>Varetsky</role>
+    </credit>
+    <credit>
+      <actor>Chinn, Anthony</actor>
+      <role>Haikudu</role>
+    </credit>
+    <credit>
+      <actor>Christian, Wolf</actor>
+      <role>Security</role>
+    </credit>
+    <credit>
+      <actor>Chubb, William</actor>
+      <role>John Cottrell</role>
+    </credit>
+    <credit>
+      <actor>Churchett, Stephen (I)</actor>
+      <role>Neumann</role>
+    </credit>
+    <credit>
+      <actor>Churchill, Jemma</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Clay, Nicholas (I)</actor>
+      <role>Ethan Rockridge</role>
+    </credit>
+    <credit>
+      <actor>Cleall, Damian</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Conrich, Neil</actor>
+      <role>Gibson</role>
+    </credit>
+    <credit>
+      <actor>Coombes, James</actor>
+      <role>William Swift</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Garry (I)</actor>
+      <role>Johns</role>
+    </credit>
+    <credit>
+      <actor>Cordery, Richard</actor>
+      <role>Croll</role>
+    </credit>
+    <credit>
+      <actor>Coulthard, Raymond</actor>
+      <role>Young Man</role>
+    </credit>
+    <credit>
+      <actor>Craze, Ben</actor>
+      <role>Male Nurse</role>
+    </credit>
+    <credit>
+      <actor>Croft, Emma</actor>
+      <role>Morag</role>
+    </credit>
+    <credit>
+      <actor>Croft, Emma</actor>
+      <role>Morag</role>
+    </credit>
+    <credit>
+      <actor>Crosbie, Craig</actor>
+      <role>Executive</role>
+    </credit>
+    <credit>
+      <actor>Crouch, Adam</actor>
+      <role>Peacock</role>
+    </credit>
+    <credit>
+      <actor>Curran, James</actor>
+      <role>Governor</role>
+    </credit>
+    <credit>
+      <actor>Curry, Julian (I)</actor>
+      <role>Admiral Lansdale</role>
+    </credit>
+    <credit>
+      <actor>Dale, Sam</actor>
+      <role>Commander</role>
+    </credit>
+    <credit>
+      <actor>Deacon, Brian</actor>
+      <role>Bryan Brody</role>
+    </credit>
+    <credit>
+      <actor>Denham, Virginia</actor>
+      <role>Bella</role>
+    </credit>
+    <credit>
+      <actor>Dhudwar, Nrinder</actor>
+      <role>Jason Rupta</role>
+    </credit>
+    <credit>
+      <actor>Digby, Max</actor>
+      <role>Grigori Rostov</role>
+    </credit>
+    <credit>
+      <actor>Dixon, Russell (I)</actor>
+      <role>Dr. Corcoran</role>
+    </credit>
+    <credit>
+      <actor>Dixon, Russell (I)</actor>
+      <role>Dr. Corcoran</role>
+    </credit>
+    <credit>
+      <actor>Dormandy, Simon</actor>
+      <role>Zito</role>
+    </credit>
+    <credit>
+      <actor>Dower, Alex</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Durden, Richard</actor>
+      <role>Dent</role>
+    </credit>
+    <credit>
+      <actor>Durden, Richard</actor>
+      <role>Dent</role>
+    </credit>
+    <credit>
+      <actor>Durden, Richard</actor>
+      <role>Dent</role>
+    </credit>
+    <credit>
+      <actor>Durham, David (I)</actor>
+      <role>Sonny</role>
+    </credit>
+    <credit>
+      <actor>Durr, Jason</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>Easton, Ian</actor>
+      <role>Young Man</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Martyn</actor>
+      <role>Tour Guide</role>
+    </credit>
+    <credit>
+      <actor>Eriera, Michael</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Evans, Tenniel</actor>
+      <role>Archive Man</role>
+    </credit>
+    <credit>
+      <actor>Fancy, Brett</actor>
+      <role>Hex</role>
+    </credit>
+    <credit>
+      <actor>Faraday, Tim</actor>
+      <role>Vellor</role>
+    </credit>
+    <credit>
+      <actor>Feast, Michael</actor>
+      <role>David O'Neill</role>
+    </credit>
+    <credit>
+      <actor>Felton, Tom</actor>
+      <role>James</role>
+    </credit>
+    <credit>
+      <actor>Fenton, Kim (I)</actor>
+      <role>Civilian #1</role>
+    </credit>
+    <credit>
+      <actor>Fielding, Rachel</actor>
+      <role>Davina</role>
+    </credit>
+    <credit>
+      <actor>Fisk, Martin</actor>
+      <role>Witcher</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Mark (I)</actor>
+      <role>Glass</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Daniel (I)</actor>
+      <role>Reinhold</role>
+    </credit>
+    <credit>
+      <actor>Foreman, Jamie</actor>
+      <role>Decker</role>
+    </credit>
+    <credit>
+      <actor>Formby, Nicola</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Franklyn, Susan</actor>
+      <role>Governor</role>
+    </credit>
+    <credit>
+      <actor>Freedman, Regina</actor>
+      <role>GNC Reception</role>
+    </credit>
+    <credit>
+      <actor>Frost, Nick (IV)</actor>
+      <role>Fisk</role>
+    </credit>
+    <credit>
+      <actor>Gale, Peter (VI)</actor>
+      <role>Mr. Patrixon</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Ray (II)</actor>
+      <role>Warden</role>
+    </credit>
+    <credit>
+      <actor>Gelder, Ian</actor>
+      <role>Vermeer</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Jennifer (I)</actor>
+      <role>Selina's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Gilchrist, Gilly</actor>
+      <role>Terrorist</role>
+    </credit>
+    <credit>
+      <actor>Gilder, Sean</actor>
+      <role>Kristo</role>
+    </credit>
+    <credit>
+      <actor>Giles, Selina</actor>
+      <role>Andrea</role>
+    </credit>
+    <credit>
+      <actor>Gillies, Fiona</actor>
+      <role>Clare</role>
+    </credit>
+    <credit>
+      <actor>Glenton, Justine</actor>
+      <role>Khalif</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Ben (III)</actor>
+      <role>Bank Clerk</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Beth</actor>
+      <role>Cassandra</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Beth</actor>
+      <role>Cassandra</role>
+    </credit>
+    <credit>
+      <actor>Grace, Nickolas</actor>
+      <role>Raymond Charlesworth</role>
+    </credit>
+    <credit>
+      <actor>Graham, Julie (I)</actor>
+      <role>Sarita</role>
+    </credit>
+    <credit>
+      <actor>Grandage, Michael</actor>
+      <role>Channing Hardy</role>
+    </credit>
+    <credit>
+      <actor>Grandage, Michael</actor>
+      <role>Channing Hardy</role>
+    </credit>
+    <credit>
+      <actor>Grandage, Michael</actor>
+      <role>Channing Hardy</role>
+    </credit>
+    <credit>
+      <actor>Grant, David (IV)</actor>
+      <role>Talbot</role>
+    </credit>
+    <credit>
+      <actor>Gray, Stephen (VIII)</actor>
+      <role>Real Paramedic</role>
+    </credit>
+    <credit>
+      <actor>Greenough, Andrew</actor>
+      <role>Wallace</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Milly</actor>
+      <role>Carly</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Tom (I)</actor>
+      <role>Civilian Programmer</role>
+    </credit>
+    <credit>
+      <actor>Griffiths, Jaye</actor>
+      <role>Roslyn 'Ros' Henderson</role>
+    </credit>
+    <credit>
+      <actor>Griffiths, Jaye</actor>
+      <role>Roslyn 'Ros' Henderson</role>
+    </credit>
+    <credit>
+      <actor>Grimstead, Glyn</actor>
+      <role>Iain</role>
+    </credit>
+    <credit>
+      <actor>Guard, Christopher</actor>
+      <role>David Lance</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Peter (I)</actor>
+      <role>Mackenzie</role>
+    </credit>
+    <credit>
+      <actor>Gwaspari, Brian</actor>
+      <role>Dench</role>
+    </credit>
+    <credit>
+      <actor>Hall, Francesca</actor>
+      <role>Lesley</role>
+    </credit>
+    <credit>
+      <actor>Hallam, Elaine</actor>
+      <role>Warder</role>
+    </credit>
+    <credit>
+      <actor>Hardcastle, Diana</actor>
+      <role>Elaine Harman</role>
+    </credit>
+    <credit>
+      <actor>Harding, Jeff (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Harding, John (II)</actor>
+      <role>Gilbert Gallerne</role>
+    </credit>
+    <credit>
+      <actor>Harford, Ruth</actor>
+      <role>Samantha</role>
+    </credit>
+    <credit>
+      <actor>Hargreaves, David (I)</actor>
+      <role>Sir Anthony Fairchild</role>
+    </credit>
+    <credit>
+      <actor>Hargreaves, David (I)</actor>
+      <role>Sir Anthony Fairchild</role>
+    </credit>
+    <credit>
+      <actor>Harries, Davyd</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Jan (I)</actor>
+      <role>Barbara 'Jan'</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Jan (I)</actor>
+      <role>Barbara 'Jan'</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Andrew (I)</actor>
+      <role>Greenville</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Hugh</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Hazemore, Keith</actor>
+      <role>Dealer</role>
+    </credit>
+    <credit>
+      <actor>Heath, Laura</actor>
+      <role>Controller</role>
+    </credit>
+    <credit>
+      <actor>Heffer, Richard</actor>
+      <role>Michaelson</role>
+    </credit>
+    <credit>
+      <actor>Hickling, Elizabeth</actor>
+      <role>Female Executive</role>
+    </credit>
+    <credit>
+      <actor>Hicks, Greg (I)</actor>
+      <role>Zander</role>
+    </credit>
+    <credit>
+      <actor>Hinchley, Pippa</actor>
+      <role>Sarah</role>
+    </credit>
+    <credit>
+      <actor>Holder, Roy</actor>
+      <role>Raymond</role>
+    </credit>
+    <credit>
+      <actor>Hooley, Joan</actor>
+      <role>Registrar</role>
+    </credit>
+    <credit>
+      <actor>Hope, Nicholas (II)</actor>
+      <role>Yerevenkian</role>
+    </credit>
+    <credit>
+      <actor>Horne, Barbara</actor>
+      <role>Mrs. Michaelson</role>
+    </credit>
+    <credit>
+      <actor>Houghton, Stephen</actor>
+      <role>Ed Russell</role>
+    </credit>
+    <credit>
+      <actor>Hounslow, David</actor>
+      <role>Conners</role>
+    </credit>
+    <credit>
+      <actor>Hoyland, William</actor>
+      <role>A Mighty Heart (2007) [John Bauman</role>
+    </credit>
+    <credit>
+      <actor>Hoyle, Myles</actor>
+      <role>Chairman</role>
+    </credit>
+    <credit>
+      <actor>Hulland, Jack</actor>
+      <role>Airport Guard</role>
+    </credit>
+    <credit>
+      <actor>Humphreys, Chris (I)</actor>
+      <role>Cordray</role>
+    </credit>
+    <credit>
+      <actor>Hunnisett, Caroline</actor>
+      <role>Helen</role>
+    </credit>
+    <credit>
+      <actor>Hunt, Paula (I)</actor>
+      <role>Alex Jordan</role>
+    </credit>
+    <credit>
+      <actor>Hunt, Paula (I)</actor>
+      <role>Alex Jordan</role>
+    </credit>
+    <credit>
+      <actor>Hyu, Paul Courtenay</actor>
+      <role>Floor Manager</role>
+    </credit>
+    <credit>
+      <actor>Hyu, Paul Courtenay</actor>
+      <role>Kituma TV</role>
+    </credit>
+    <credit>
+      <actor>Igawa, Togo</actor>
+      <role>Embassy Man</role>
+    </credit>
+    <credit>
+      <actor>Ineson, Ralph</actor>
+      <role>Korvig</role>
+    </credit>
+    <credit>
+      <actor>Jackos, George</actor>
+      <role>Alberto Corelli</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Michael J.</actor>
+      <role>Colonel Conrad Easterhaus</role>
+    </credit>
+    <credit>
+      <actor>James, Sam (II)</actor>
+      <role>Customer</role>
+    </credit>
+    <credit>
+      <actor>Jarman, Otto</actor>
+      <role>Prison Chief</role>
+    </credit>
+    <credit>
+      <actor>Jenkinson, Karl</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Jenn, Michael</actor>
+      <role>General</role>
+    </credit>
+    <credit>
+      <actor>Jewesbury, Edward</actor>
+      <role>Quentin Elverson</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jona</actor>
+      <role>Cranleigh</role>
+    </credit>
+    <credit>
+      <actor>Jones, Laura (I)</actor>
+      <role>Angela</role>
+    </credit>
+    <credit>
+      <actor>Jones, Laura (I)</actor>
+      <role>Angela</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Philip (II)</actor>
+      <role>Nigel Todd</role>
+    </credit>
+    <credit>
+      <actor>Kangas, David</actor>
+      <role>Grant</role>
+    </credit>
+    <credit>
+      <actor>Kanter, Katherine</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Kavanagh, Paul (I)</actor>
+      <role>Ryan</role>
+    </credit>
+    <credit>
+      <actor>Kaye Campbell, Alexi</actor>
+      <role>Grey</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Ivan</actor>
+      <role>General Maliq</role>
+    </credit>
+    <credit>
+      <actor>Kent, Graham (I)</actor>
+      <role>Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Kilvington, Denzil</actor>
+      <role>Chenlov</role>
+    </credit>
+    <credit>
+      <actor>King, Misha</actor>
+      <role>Lord Fulwood</role>
+    </credit>
+    <credit>
+      <actor>Kyd, Susan</actor>
+      <role>Jerry Langford</role>
+    </credit>
+    <credit>
+      <actor>Labanowski, John</actor>
+      <role>Trozek</role>
+    </credit>
+    <credit>
+      <actor>Lacoux, Paul</actor>
+      <role>Christopher</role>
+    </credit>
+    <credit>
+      <actor>Lacoux, Paul</actor>
+      <role>Christopher Mchaig</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Lawrence</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Larkin, Michael (I)</actor>
+      <role>Security</role>
+    </credit>
+    <credit>
+      <actor>Leadbitter, Bill</actor>
+      <role>Newsom</role>
+    </credit>
+    <credit>
+      <actor>Lee, Hugh</actor>
+      <role>Lemon</role>
+    </credit>
+    <credit>
+      <actor>Lee-Wilson, Pete</actor>
+      <role>Tangsen</role>
+    </credit>
+    <credit>
+      <actor>Leeson, John</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Leppard, Alex</actor>
+      <role>Mr. Hayes</role>
+    </credit>
+    <credit>
+      <actor>Leslie, Tariq</actor>
+      <role>Deardon</role>
+    </credit>
+    <credit>
+      <actor>Lesser, Anton</actor>
+      <role>Patrick Marcel</role>
+    </credit>
+    <credit>
+      <actor>Liston, Ian</actor>
+      <role>Agent</role>
+    </credit>
+    <credit>
+      <actor>Livesay, Julie</actor>
+      <role>Layla</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Dugald Bruce</actor>
+      <role>Alex</role>
+    </credit>
+    <credit>
+      <actor>Lockyer, Thomas</actor>
+      <role>McNair</role>
+    </credit>
+    <credit>
+      <actor>Loncq, Caroline</actor>
+      <role>Kent</role>
+    </credit>
+    <credit>
+      <actor>Looi, Su Lin</actor>
+      <role>Joy</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Nicholas</actor>
+      <role>DSA Guard</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Andy</actor>
+      <role>Diaz</role>
+    </credit>
+    <credit>
+      <actor>Mabey, Russell</actor>
+      <role>Officer</role>
+    </credit>
+    <credit>
+      <actor>MacCreedy, David</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>MacCreedy, David</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Magnanti, Jonathan</actor>
+      <role>Hawkes</role>
+    </credit>
+    <credit>
+      <actor>Magnanti, Jonathan</actor>
+      <role>Hawkes</role>
+    </credit>
+    <credit>
+      <actor>Malden, Jennifer Scott</actor>
+      <role>Tansy</role>
+    </credit>
+    <credit>
+      <actor>Marinker, Peter</actor>
+      <role>McKormac</role>
+    </credit>
+    <credit>
+      <actor>Marks, Gareth</actor>
+      <role>Jean-Daniel Marcel</role>
+    </credit>
+    <credit>
+      <actor>Marks, Gareth</actor>
+      <role>Jean-Daniel Marcel</role>
+    </credit>
+    <credit>
+      <actor>Marks, Gareth</actor>
+      <role>Jean-Daniel Marcel</role>
+    </credit>
+    <credit>
+      <actor>Marks, Gareth</actor>
+      <role>Jean-Daniel Marcel</role>
+    </credit>
+    <credit>
+      <actor>Marsh, Antony</actor>
+      <role>Kirkby</role>
+    </credit>
+    <credit>
+      <actor>Marsh, Matthew (I)</actor>
+      <role>Graeme Hurry</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Qarie</actor>
+      <role>Gudgeon</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Rocky</actor>
+      <role>Mechanic</role>
+    </credit>
+    <credit>
+      <actor>May, Joseph</actor>
+      <role>Adam Mosby</role>
+    </credit>
+    <credit>
+      <actor>Maynard, Ted</actor>
+      <role>Newscaster</role>
+    </credit>
+    <credit>
+      <actor>McAllister, David (I)</actor>
+      <role>Neville</role>
+    </credit>
+    <credit>
+      <actor>McCormick, Barry (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>McDermottroe, Conor</actor>
+      <role>Liam</role>
+    </credit>
+    <credit>
+      <actor>McDougall, Martin</actor>
+      <role>Lacombe</role>
+    </credit>
+    <credit>
+      <actor>McGlade, Martin</actor>
+      <role>Carter</role>
+    </credit>
+    <credit>
+      <actor>McGlynn, John (I)</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>McGlynn, John (I)</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>McGough, Philip</actor>
+      <role>Lennox</role>
+    </credit>
+    <credit>
+      <actor>McKenna, Jonathan</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Jack</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>McKeown, Fintan</actor>
+      <role>Barry Stokes</role>
+    </credit>
+    <credit>
+      <actor>McKeown, Fintan</actor>
+      <role>Barry Stokes</role>
+    </credit>
+    <credit>
+      <actor>McKern, Roger</actor>
+      <role>Naval Officer</role>
+    </credit>
+    <credit>
+      <actor>McLachlan, Craig</actor>
+      <role>Ed Russell</role>
+    </credit>
+    <credit>
+      <actor>McMichael, Peter</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>McNeice, Ian</actor>
+      <role>Doctor Peter Hunter</role>
+    </credit>
+    <credit>
+      <actor>McQuarrie, Stuart</actor>
+      <role>Donaldson</role>
+    </credit>
+    <credit>
+      <actor>Melainey, John</actor>
+      <role>Captain</role>
+    </credit>
+    <credit>
+      <actor>Melvin, Murray</actor>
+      <role>Delamere</role>
+    </credit>
+    <credit>
+      <actor>Michie, John</actor>
+      <role>Paul Cray</role>
+    </credit>
+    <credit>
+      <actor>Miles, Nick (I)</actor>
+      <role>Dawson</role>
+    </credit>
+    <credit>
+      <actor>Miller, Kia</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Minnikin, Tom (II)</actor>
+      <role>Chairman</role>
+    </credit>
+    <credit>
+      <actor>Minster, Hilary</actor>
+      <role>Bjorn</role>
+    </credit>
+    <credit>
+      <actor>Moloney, Aedin</actor>
+      <role>DeSoto</role>
+    </credit>
+    <credit>
+      <actor>Monsen, Heidi</actor>
+      <role>Duchess of Fortezza</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Flora</actor>
+      <role>Joanne</role>
+    </credit>
+    <credit>
+      <actor>Moran, Pauline</actor>
+      <role>Juliet Brody</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Ric</actor>
+      <role>McTiernan</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Robert (VI)</actor>
+      <role>Roland Blatty</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Robert (VI)</actor>
+      <role>Roland Blatty</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Robert (VI)</actor>
+      <role>Roland Blatty</role>
+    </credit>
+    <credit>
+      <actor>Myerscough, Damian</actor>
+      <role>Driscoll</role>
+    </credit>
+    <credit>
+      <actor>Naylor, Christopher</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Nealon, Ben</actor>
+      <role>Blenco</role>
+    </credit>
+    <credit>
+      <actor>Newth, Jonathan (I)</actor>
+      <role>Van Straaten</role>
+    </credit>
+    <credit>
+      <actor>Nicolson, Roderick</actor>
+      <role>Specialist</role>
+    </credit>
+    <credit>
+      <actor>O'Shea, Steven</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Oliver, William (IV)</actor>
+      <role>Zak</role>
+    </credit>
+    <credit>
+      <actor>Oliver, William (IV)</actor>
+      <role>Zak</role>
+    </credit>
+    <credit>
+      <actor>Osborne, Steven</actor>
+      <role>Duncan</role>
+    </credit>
+    <credit>
+      <actor>Osoba, Tony</actor>
+      <role>Security Chief</role>
+    </credit>
+    <credit>
+      <actor>Otoin, Bazil</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Pang, Adrian</actor>
+      <role>Tachibana</role>
+    </credit>
+    <credit>
+      <actor>Panto, Clive</actor>
+      <role>Asst Governor</role>
+    </credit>
+    <credit>
+      <actor>Parkhouse, Michael</actor>
+      <role>Cooper</role>
+    </credit>
+    <credit>
+      <actor>Patresi, Matt</actor>
+      <role>Ralph</role>
+    </credit>
+    <credit>
+      <actor>Peacock, Trevor</actor>
+      <role>Nikolai Rostov</role>
+    </credit>
+    <credit>
+      <actor>Pearsall, Simon</actor>
+      <role>Briggs</role>
+    </credit>
+    <credit>
+      <actor>Peart, David</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Pelka, Valentine</actor>
+      <role>Vaizey</role>
+    </credit>
+    <credit>
+      <actor>Perkins, Robert (I)</actor>
+      <role>Flood</role>
+    </credit>
+    <credit>
+      <actor>Poole, Tim</actor>
+      <role>Floor Manager</role>
+    </credit>
+    <credit>
+      <actor>Power, Henry</actor>
+      <role>Computer Geek</role>
+    </credit>
+    <credit>
+      <actor>Preston, Christopher (III)</actor>
+      <role>Ground Controller</role>
+    </credit>
+    <credit>
+      <actor>Price, Ben (I)</actor>
+      <role>Wymark</role>
+    </credit>
+    <credit>
+      <actor>Puddephatt, James</actor>
+      <role>Erhardt</role>
+    </credit>
+    <credit>
+      <actor>Rawi, Raad</actor>
+      <role>Joseph Da Silva</role>
+    </credit>
+    <credit>
+      <actor>Readman, Andrew</actor>
+      <role>Oxendale</role>
+    </credit>
+    <credit>
+      <actor>Reding, Nick</actor>
+      <role>Peter Morasco</role>
+    </credit>
+    <credit>
+      <actor>Rees, Richard (I)</actor>
+      <role>Starkey</role>
+    </credit>
+    <credit>
+      <actor>Refoy, Niall</actor>
+      <role>Frane</role>
+    </credit>
+    <credit>
+      <actor>Reid, Kenny</actor>
+      <role>Computer Operator</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Russell (I)</actor>
+      <role>Mechanic</role>
+    </credit>
+    <credit>
+      <actor>Riddington, Jason</actor>
+      <role>Dr. Hemmings</role>
+    </credit>
+    <credit>
+      <actor>Ripman, Jamie</actor>
+      <role>Clarke</role>
+    </credit>
+    <credit>
+      <actor>Robins, Alistair</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Rossi, George (I)</actor>
+      <role>Alkmaar</role>
+    </credit>
+    <credit>
+      <actor>Rylands, Peter</actor>
+      <role>Hammer</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Michael (II)</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Schiller, Adrian</actor>
+      <role>Travis</role>
+    </credit>
+    <credit>
+      <actor>Scott-Masson, William</actor>
+      <role>Filsinger</role>
+    </credit>
+    <credit>
+      <actor>Sharma, Madhav</actor>
+      <role>Chandra</role>
+    </credit>
+    <credit>
+      <actor>Shelley, David (I)</actor>
+      <role>Kreshenski</role>
+    </credit>
+    <credit>
+      <actor>Shend</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Simkins, Michael (I)</actor>
+      <role>Quayle</role>
+    </credit>
+    <credit>
+      <actor>Simpson, Nicholas</actor>
+      <role>Process Server</role>
+    </credit>
+    <credit>
+      <actor>Skyers, Michael</actor>
+      <role>Luba</role>
+    </credit>
+    <credit>
+      <actor>Smee, Anthony</actor>
+      <role>Chichester</role>
+    </credit>
+    <credit>
+      <actor>Stimpson, Karl Glenn</actor>
+      <role>Stefano</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Daniel</actor>
+      <role>Kanin</role>
+    </credit>
+    <credit>
+      <actor>Stroud, Michael (I)</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Stuart, Robert (III)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Styles, Robert (I)</actor>
+      <role>Security Man</role>
+    </credit>
+    <credit>
+      <actor>Sweeney, Colin</actor>
+      <role>Ornithologist</role>
+    </credit>
+    <credit>
+      <actor>Tansey, Andrew</actor>
+      <role>Spencer</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Giles</actor>
+      <role>Hawk</role>
+    </credit>
+    <credit>
+      <actor>Trussell, Paul</actor>
+      <role>Airport Guard</role>
+    </credit>
+    <credit>
+      <actor>Turner, John (I)</actor>
+      <role>Andrew</role>
+    </credit>
+    <credit>
+      <actor>Vaughan, James (I)</actor>
+      <role>Spring</role>
+    </credit>
+    <credit>
+      <actor>Villiers, Jay</actor>
+      <role>Hurry</role>
+    </credit>
+    <credit>
+      <actor>Walker, David (XIII)</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Walker, Rudolph (I)</actor>
+      <role>Gage</role>
+    </credit>
+    <credit>
+      <actor>Watts, Aidan</actor>
+      <role>Co-Pilot</role>
+    </credit>
+    <credit>
+      <actor>Webb, Mark (II)</actor>
+      <role>Patrolman</role>
+    </credit>
+    <credit>
+      <actor>Webber, Christopher (I)</actor>
+      <role>Mindscope Guard</role>
+    </credit>
+    <credit>
+      <actor>Wei, Rex</actor>
+      <role>Regent</role>
+    </credit>
+    <credit>
+      <actor>Welling, Albert</actor>
+      <role>Governor</role>
+    </credit>
+    <credit>
+      <actor>Welling, Albert</actor>
+      <role>Prison Governor</role>
+    </credit>
+    <credit>
+      <actor>Welling, Albert</actor>
+      <role>Prison Governor</role>
+    </credit>
+    <credit>
+      <actor>Welling, Albert</actor>
+      <role>Prisoner Governor</role>
+    </credit>
+    <credit>
+      <actor>Wheatley, John (I)</actor>
+      <role>Jerome</role>
+    </credit>
+    <credit>
+      <actor>Wheatley, Thomas (I)</actor>
+      <role>Drake</role>
+    </credit>
+    <credit>
+      <actor>Whitby, Paul</actor>
+      <role>Kennedy</role>
+    </credit>
+    <credit>
+      <actor>White, Philip (I)</actor>
+      <role>Aide</role>
+    </credit>
+    <credit>
+      <actor>Woodward, Peter (I)</actor>
+      <role>Bixon</role>
+    </credit>
+    <credit>
+      <actor>Wyatt, Colin (I)</actor>
+      <role>DSA Guard</role>
+    </credit>
+    <credit>
+      <actor>Wylton, Tim</actor>
+      <role>Owen</role>
+    </credit>
+    <credit>
+      <actor>Yardley, Stephen</actor>
+      <role>Matt Beckett</role>
+    </credit>
+    <credit>
+      <actor>Yip, David</actor>
+      <role>Chaku</role>
+    </credit>
+    <credit>
+      <actor>Young, Chris (V)</actor>
+      <role>Dan</role>
+    </credit>
+    <credit>
+      <actor>du Sautoy, Carmen</actor>
+      <role>Irene Campbell</role>
+    </credit>
+  </cast>
+<plot>When Beckett, an agent for a top secret intelligence agency known as The Hive, uncovers a sinister plot by his employers, he is expelled and joins a freelance group of investigators dedicated to solving high tech crimes.</plot><url>http://localhost:8983/solr/movie.html?085898</url></doc>

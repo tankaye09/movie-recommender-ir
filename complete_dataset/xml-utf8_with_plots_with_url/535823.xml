@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="535823">
+  <docid>535823</docid>
+  <title>Terje Vigen</title>
+  <year>1917</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Sweden</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">Btl</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">29 January 1917</releasedate>
+    <releasedate country="Brazil">21 October 2005</releasedate>
+    <releasedate country="Norway">8 February 1918</releasedate>
+    <releasedate country="Finland">13 January 1918</releasedate>
+    <releasedate country="USA">25 April 1920</releasedate>
+    <releasedate country="Denmark">29 January 1917</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Norway">48</runningtime>
+    <runningtime country="Finland">56</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Sjöström, Victor</director>
+  </directors>
+  <writers>
+    <writer>Molander, Gustaf</writer>
+    <writer>Sjöström, Victor</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Erastoff, Edith</actor>
+      <role>The Lady</role>
+    </credit>
+    <credit>
+      <actor>Falck, August</actor>
+      <role>The Lord</role>
+    </credit>
+    <credit>
+      <actor>Husberg, Bergliot</actor>
+      <role>Mrs. Vigen</role>
+    </credit>
+    <credit>
+      <actor>Sjöström, Victor</actor>
+      <role>Terje Vigen</role>
+    </credit>
+  </cast>
+<plot>Terje Vigen, a sailor, suffers the loss of his family through the cruelty of another man. Years later, when his enemy's family finds itself dependent on Terje's beneficence, Terje must decide whether to avenge himself.</plot><url>http://localhost:8983/solr/movie.html?535823</url></doc>

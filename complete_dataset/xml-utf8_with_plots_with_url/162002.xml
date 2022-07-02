@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="162002">
+  <docid>162002</docid>
+  <title>Dummies</title>
+  <year>1928</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1 January 1928</releasedate>
+  </releasedates>
+  <directors>
+    <director>Semon, Larry</director>
+  </directors>
+  <producers>
+    <producer>Semon, Larry</producer>
+  </producers>
+  <writers>
+    <writer>Baker, C. Graham</writer>
+    <writer>Semon, Larry</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Astaire, Marie</actor>
+      <role>The Professor's Daughter</role>
+    </credit>
+    <credit>
+      <actor>Donnelly, James (I)</actor>
+      <role>The Professor</role>
+    </credit>
+    <credit>
+      <actor>Semon, Larry</actor>
+      <role>The Entertainer</role>
+    </credit>
+  </cast>
+<plot>A young man is part of a traveling medicine show owned by an elderly "professor" and his beautiful daughter. His job is to keep the audience entertained with his ventriloquist's act (which includes a monkey) while the professor hawks his patent medicines. One day the show's receipts are stolen by a gang of thieves, and in order to impress the professor's daughter, the young sets out to catch the crooks and retrieve the money.</plot><url>http://localhost:8983/solr/movie.html?162002</url></doc>

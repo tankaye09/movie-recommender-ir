@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="446744">
+  <docid>446744</docid>
+  <title>Provider</title>
+  <year>2004</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Swartz, Robert (I)</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Poland">16 May 2006</releasedate>
+    <releasedate country="Canada">11 May 2004</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">26</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Swartz, Robert (I)</director>
+  </directors>
+  <producers>
+    <producer>Hayes, Mina</producer>
+  </producers>
+  <composers>
+    <composer>Vena, Claudio</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Kay, Sheldon</actor>
+      <role>Documentary subject</role>
+    </credit>
+    <credit>
+      <actor>Swartz, Lesley</actor>
+      <role>Documentary subject</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Gord</actor>
+      <role>Documentary subject</role>
+    </credit>
+  </cast>
+<plot>Provider creates a lyrical and rich portrait of Marvin Swartz, a prolific abstract artist who died tragically in a car accident. Seventeen years later Swartz's son, the filmmaker, searches for his lost father through the powerful images that were left behind.</plot><url>http://localhost:8983/solr/movie.html?446744</url></doc>

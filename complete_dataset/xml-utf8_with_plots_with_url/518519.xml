@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="518519">
+  <docid>518519</docid>
+  <title>String Beans</title>
+  <year>1918</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Mansfield, W. Duncan</editor>
+  </editors>
+  <genres>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>swindler</keyword>
+    <keyword>rural</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">29 December 1918</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">50</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schertzinger, Victor</director>
+  </directors>
+  <producers>
+    <producer>Ince, Thomas H.</producer>
+  </producers>
+  <writers>
+    <writer>Josephson, Julien</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Devore, Dorothy</actor>
+      <role>Minor Role</role>
+    </credit>
+    <credit>
+      <actor>Filson, Al W.</actor>
+      <role>Lot Morris</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Otto</actor>
+      <role>Joe Farley</role>
+    </credit>
+    <credit>
+      <actor>Lockney, J.P.</actor>
+      <role>Zachary Bartrum</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Donald (I)</actor>
+      <role>Kendall Reeves</role>
+    </credit>
+    <credit>
+      <actor>Ray, Charles (I)</actor>
+      <role>Toby Watkins</role>
+    </credit>
+  </cast>
+<plot>After being treated unfairly on his father's farm, a young man runs away to the city and gets a job on a newspaper. He falls in love with the daughter of the mayor. His reporter job allows him to expose a bigtime criminal who it turns out has been threatening his own father.</plot><url>http://localhost:8983/solr/movie.html?518519</url></doc>

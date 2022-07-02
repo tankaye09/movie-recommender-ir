@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="042001">
+  <docid>042001</docid>
+  <title>Another Day</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Gautot, Patrice</editor>
+    <editor>Katsikian, Haik</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>adult-film</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>student-film</keyword>
+    <keyword>coming-of-age</keyword>
+  </keywords>
+  <languages>
+    <language>None</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Belgium</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Belgium">KT</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Belgium">2005</releasedate>
+    <releasedate country="USA">May 2005</releasedate>
+    <releasedate country="France">13 April 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">16</runningtime>
+    <runningtime country="Belgium">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Coppé, Ingrid</director>
+    <director>Smith, Nikolas</director>
+  </directors>
+  <producers>
+    <producer>Smith, Nikolas</producer>
+  </producers>
+  <writers>
+    <writer>Coppé, Ingrid</writer>
+    <writer>Kost, David</writer>
+  </writers>
+  <composers>
+    <composer>Camaro</composer>
+    <composer>Haines, Andy</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Confer, Brian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harrigan, Dennis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Picotte-Harper, Suthi</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schoenaerts, Matthias</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Jim Kober, a 17 year old boy, is unaware of how precarious the relationships in his life are. On this day all these relationships will be put to the test. Jim must find a way to change his errant ways before he loses a family and the girl he loves.</plot><url>http://localhost:8983/solr/movie.html?042001</url></doc>

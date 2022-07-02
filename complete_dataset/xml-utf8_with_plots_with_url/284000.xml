@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="284000">
+  <docid>284000</docid>
+  <title>Kafka</title>
+  <year>1991</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Soderbergh, Steven</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>photograph</keyword>
+    <keyword>human-experimentation</keyword>
+    <keyword>brother-brother-relationship</keyword>
+    <keyword>skin-disease</keyword>
+    <keyword>bar</keyword>
+    <keyword>tuberculosis</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>twins</keyword>
+    <keyword>alternative-reality</keyword>
+    <keyword>toilet</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>voice-over-narration</keyword>
+    <keyword>murder-investigation</keyword>
+    <keyword>office</keyword>
+    <keyword>black-&amp;-white-to-color</keyword>
+    <keyword>author</keyword>
+    <keyword>conspiracy</keyword>
+    <keyword>spy</keyword>
+    <keyword>co-worker</keyword>
+    <keyword>writer</keyword>
+    <keyword>expressionism</keyword>
+    <keyword>castle</keyword>
+    <keyword>steampunk</keyword>
+    <keyword>1910s</keyword>
+    <keyword>letter</keyword>
+    <keyword>kafka-esque</keyword>
+    <keyword>paranoia</keyword>
+    <keyword>insanity</keyword>
+    <keyword>underworld</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>job-promotion</keyword>
+    <keyword>typewriter</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Germany">16</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Finland">K-16</certificate>
+    <certificate country="USA">PG-13</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">9 October 1992</releasedate>
+    <releasedate country="Argentina">29 October 1992</releasedate>
+    <releasedate country="Netherlands">22 April 1993</releasedate>
+    <releasedate country="Brazil">November 1992</releasedate>
+    <releasedate country="UK">25 February 1994</releasedate>
+    <releasedate country="Germany">1 October 1992</releasedate>
+    <releasedate country="France">25 March 1992</releasedate>
+    <releasedate country="Russia">30 October 2001</releasedate>
+    <releasedate country="Finland">14 May 1993</releasedate>
+    <releasedate country="USA">15 November 1991</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">98</runningtime>
+    <runningtime country="Germany">92</runningtime>
+    <runningtime country="default">98</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Soderbergh, Steven</director>
+  </directors>
+  <producers>
+    <producer>Johnson, Mark (I)</producer>
+    <producer>Levinson, Barry (I)</producer>
+    <producer>Rassam, Paul</producer>
+    <producer>Benn, Harry</producer>
+    <producer>Cornfeld, Stuart</producer>
+  </producers>
+  <composers>
+    <composer>Martinez, Cliff</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abrhám, Josef</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Agterberg, Toon (I)</actor>
+      <role>Youthful Anarchist</role>
+    </credit>
+    <credit>
+      <actor>Allen, Keith (I)</actor>
+      <role>Assistant Ludwig</role>
+    </credit>
+    <credit>
+      <actor>Belohradský, Karel</actor>
+      <role>Inspector's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Bouchner, Vitezslav</actor>
+      <role>Lens room cleaner</role>
+    </credit>
+    <credit>
+      <actor>Caramitru, Ion</actor>
+      <role>Solemn Anarchist</role>
+    </credit>
+    <credit>
+      <actor>Fithen, Guy</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Flemyng, Robert</actor>
+      <role>The Keeper of the Files</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Jerome</actor>
+      <role>Castle Attendant</role>
+    </credit>
+    <credit>
+      <actor>Gibbs, Matyelok</actor>
+      <role>Concierge</role>
+    </credit>
+    <credit>
+      <actor>Glover, Brian (I)</actor>
+      <role>Castle Henchman</role>
+    </credit>
+    <credit>
+      <actor>Grey, Joel</actor>
+      <role>Burgel</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Alec</actor>
+      <role>The Chief Clerk</role>
+    </credit>
+    <credit>
+      <actor>Gut, Vladimir</actor>
+      <role>Edward</role>
+    </credit>
+    <credit>
+      <actor>Halustokova, Zuzana</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Havelka, Ondrej</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Holm, Ian</actor>
+      <role>Doctor Murnau</role>
+    </credit>
+    <credit>
+      <actor>Irons, Jeremy</actor>
+      <role>Kafka</role>
+    </credit>
+    <credit>
+      <actor>Jensen, David (II)</actor>
+      <role>The Laughing Man</role>
+    </credit>
+    <credit>
+      <actor>Jákl, Petr (I)</actor>
+      <role>Quarry Labourer</role>
+    </credit>
+    <credit>
+      <actor>Korínková, Lenka</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Krabbé, Jeroen</actor>
+      <role>Bizzlebek</role>
+    </credit>
+    <credit>
+      <actor>Krejcik, Robert</actor>
+      <role>Evil Wagon Driver</role>
+    </credit>
+    <credit>
+      <actor>Lepsa, Petr</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>McBurney, Simon</actor>
+      <role>Assistant Oscar</role>
+    </credit>
+    <credit>
+      <actor>McPhee, James</actor>
+      <role>Castle Attendant</role>
+    </credit>
+    <credit>
+      <actor>Miles, Maria (I)</actor>
+      <role>Anna</role>
+    </credit>
+    <credit>
+      <actor>Mueller-Stahl, Armin</actor>
+      <role>Grubach</role>
+    </credit>
+    <credit>
+      <actor>Myslik, Pavel</actor>
+      <role>Vagrant</role>
+    </credit>
+    <credit>
+      <actor>Nemejovsky, Jan</actor>
+      <role>Mustachioed Anarchist</role>
+    </credit>
+    <credit>
+      <actor>Rychvalsky, Lubos</actor>
+      <role>Kidnapped Vagrant</role>
+    </credit>
+    <credit>
+      <actor>Sebek, Josef</actor>
+      <role>Inspector's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Shaw Parker, David</actor>
+      <role>Interrogating Attendant</role>
+    </credit>
+    <credit>
+      <actor>Silver, Leon</actor>
+      <role>Friend of Kafka</role>
+    </credit>
+    <credit>
+      <actor>Slovák, Jan</actor>
+      <role>Man at Bar</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Ewan (I)</actor>
+      <role>Castle Attendant</role>
+    </credit>
+    <credit>
+      <actor>Stupka, Frantisek</actor>
+      <role>Vagrant</role>
+    </credit>
+    <credit>
+      <actor>Wolk, Emil</actor>
+      <role>Man Under Microscope</role>
+    </credit>
+  </cast>
+<plot>Kafka, an insurance worker gets embroiled in an underground group after a co-worker is murdered. The underground group is responsible for bombings all over town, attempting to thwart a secret organization that controls the major events in society. He eventually penetrates the secret organization and must confront them.</plot><url>http://localhost:8983/solr/movie.html?284000</url></doc>

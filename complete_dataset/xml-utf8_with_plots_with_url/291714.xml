@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="291714">
+  <docid>291714</docid>
+  <title>Killer Instinct</title>
+  <year>2005</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bornstein, Ken</editor>
+    <editor>Haight, Catherine</editor>
+    <editor>Hess, Augie</editor>
+    <editor>Ross, Kevin D.</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>new-unit</keyword>
+    <keyword>san-francisco-california</keyword>
+    <keyword>tattoo</keyword>
+    <keyword>loss-of-lover</keyword>
+    <keyword>murder-investigation</keyword>
+    <keyword>female-cop</keyword>
+    <keyword>co-worker</keyword>
+    <keyword>police-work</keyword>
+    <keyword>killer-instinct</keyword>
+    <keyword>morley-cigarettes</keyword>
+    <keyword>black-cop</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="USA">TV-14</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">14 January 2006</releasedate>
+    <releasedate country="Netherlands">17 October 2008</releasedate>
+    <releasedate country="UK">2006</releasedate>
+    <releasedate country="Belgium">9 September 2008</releasedate>
+    <releasedate country="France">30 November 2006</releasedate>
+    <releasedate country="Ireland">18 October 2007</releasedate>
+    <releasedate country="Finland">24 April 2007</releasedate>
+    <releasedate country="Italy">10 May 2007</releasedate>
+    <releasedate country="USA">4 November 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Netherlands">55</runningtime>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Contner, James A.</director>
+    <director>Grismer, Chris</director>
+    <director>Grossman, Michael (I)</director>
+    <director>Kretchmer, John T.</director>
+    <director>Lieberman, Robert (I)</director>
+    <director>Matheson, Tim (I)</director>
+    <director>Misiano, Vincent (I)</director>
+    <director>Spicer, Bryan (I)</director>
+    <director>Straiton, David</director>
+  </directors>
+  <producers>
+    <producer>Fenneman, Cliff</producer>
+    <producer>Kettner, Carla</producer>
+    <producer>Murray, Charles (II)</producer>
+  </producers>
+  <writers>
+    <writer>Berman, Josh (I)</writer>
+    <writer>Kettner, Carla</writer>
+    <writer>Lieberman, Robert (I)</writer>
+    <writer>Maher, Erin</writer>
+    <writer>Reindl, Kay</writer>
+    <writer>Zuckerman, Ed</writer>
+  </writers>
+  <composers>
+    <composer>Morgan, Mark (III)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abrahams, Doug</actor>
+      <role>Heller</role>
+    </credit>
+    <credit>
+      <actor>Adachi, Leanne</actor>
+      <role>CSI Tech</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Matt (X)</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Michasha</actor>
+      <role>Greg</role>
+    </credit>
+    <credit>
+      <actor>Ashbaugh, Dena</actor>
+      <role>Bridget</role>
+    </credit>
+    <credit>
+      <actor>Ayres, Benjamin</actor>
+      <role>Ty Graham</role>
+    </credit>
+    <credit>
+      <actor>Bailly, Simone</actor>
+      <role>Dr. Maria Rodriguez</role>
+    </credit>
+    <credit>
+      <actor>Beggs, Noah</actor>
+      <role>Campus Cop</role>
+    </credit>
+    <credit>
+      <actor>Bellsmith, Christian</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Sonja</actor>
+      <role>Darla</role>
+    </credit>
+    <credit>
+      <actor>Bernard, Rukiya</actor>
+      <role>Eden Cavanaugh</role>
+    </credit>
+    <credit>
+      <actor>Blacker, Josh</actor>
+      <role>Officer</role>
+    </credit>
+    <credit>
+      <actor>Blake, Bianca</actor>
+      <role>Lily</role>
+    </credit>
+    <credit>
+      <actor>Boisselle, Miles</actor>
+      <role>Tuxedo</role>
+    </credit>
+    <credit>
+      <actor>Boisvert, Michael</actor>
+      <role>Sam</role>
+    </credit>
+    <credit>
+      <actor>Borycki, Amber</actor>
+      <role>Justine</role>
+    </credit>
+    <credit>
+      <actor>Boynton, Alexander</actor>
+      <role>Park Worker</role>
+    </credit>
+    <credit>
+      <actor>Brazeau, Jay</actor>
+      <role>Adam Benton</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Aaron (I)</actor>
+      <role>Jason Benton</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Brenda (I)</actor>
+      <role>Vanessa</role>
+    </credit>
+    <credit>
+      <actor>Carro, Luciana</actor>
+      <role>Eljay</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Erica</actor>
+      <role>Female Cop</role>
+    </credit>
+    <credit>
+      <actor>Chamberlain, Chaz</actor>
+      <role>Bad Boy</role>
+    </credit>
+    <credit>
+      <actor>Chan, Jim K.</actor>
+      <role>Uniform Cop</role>
+    </credit>
+    <credit>
+      <actor>Chang, Stephen (I)</actor>
+      <role>Mr. Yimang</role>
+    </credit>
+    <credit>
+      <actor>Chin, Simon (II)</actor>
+      <role>Scott Lim</role>
+    </credit>
+    <credit>
+      <actor>Coles, David (I)</actor>
+      <role>Officer Fanitini</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Ben (I)</actor>
+      <role>Carney</role>
+    </credit>
+    <credit>
+      <actor>Craig, Georgia</actor>
+      <role>Janet Hansen</role>
+    </credit>
+    <credit>
+      <actor>Craven, Aaron</actor>
+      <role>Responding Officer</role>
+    </credit>
+    <credit>
+      <actor>Cutshall, D. Harlan</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Dadey, John</actor>
+      <role>Rangemaster</role>
+    </credit>
+    <credit>
+      <actor>De Ocampo, Ramon</actor>
+      <role>Harry Oka</role>
+    </credit>
+    <credit>
+      <actor>De Ocampo, Ramon</actor>
+      <role>Harry Oka</role>
+    </credit>
+    <credit>
+      <actor>De Ocampo, Ramon</actor>
+      <role>Harry Oka</role>
+    </credit>
+    <credit>
+      <actor>Desjardins, Jayme</actor>
+      <role>Clark</role>
+    </credit>
+    <credit>
+      <actor>Dobbs, Kathryn</actor>
+      <role>Angry Woman</role>
+    </credit>
+    <credit>
+      <actor>Doig, Lexa</actor>
+      <role>Hospital Doctor</role>
+    </credit>
+    <credit>
+      <actor>Down, Alisen</actor>
+      <role>Lesley/Cleo</role>
+    </credit>
+    <credit>
+      <actor>Dzenkiw, Paul</actor>
+      <role>Windsurfer Ed</role>
+    </credit>
+    <credit>
+      <actor>Emanuel, Jason (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fatkin, Grace</actor>
+      <role>Pearl Lim</role>
+    </credit>
+    <credit>
+      <actor>Febres, Gustavo</actor>
+      <role>Vigilante</role>
+    </credit>
+    <credit>
+      <actor>Feurzeig, Larry</actor>
+      <role>San Francisco Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Funk, Nolan Gerard</actor>
+      <role>Allan Harris</role>
+    </credit>
+    <credit>
+      <actor>Genzel, Carrie</actor>
+      <role>Marta Madison</role>
+    </credit>
+    <credit>
+      <actor>Goorjian, Michael A.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Graham, Emily Anne</actor>
+      <role>Lacey</role>
+    </credit>
+    <credit>
+      <actor>Graham, Jodie</actor>
+      <role>Calvin Miller</role>
+    </credit>
+    <credit>
+      <actor>Guinee, Tim</actor>
+      <role>Professor Whitfield</role>
+    </credit>
+    <credit>
+      <actor>Gustafson, Geoff</actor>
+      <role>Pergamont</role>
+    </credit>
+    <credit>
+      <actor>Ha, Benita</actor>
+      <role>Riley</role>
+    </credit>
+    <credit>
+      <actor>Ha, Benita</actor>
+      <role>Riley</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Jessica</actor>
+      <role>Jennifer Crossland</role>
+    </credit>
+    <credit>
+      <actor>Hayden, Josh (I)</actor>
+      <role>Marty Jr.</role>
+    </credit>
+    <credit>
+      <actor>Holden, Gina</actor>
+      <role>Angela Wilkins</role>
+    </credit>
+    <credit>
+      <actor>Howe, Brian</actor>
+      <role>Marty</role>
+    </credit>
+    <credit>
+      <actor>Husband, Alana</actor>
+      <role>Delia</role>
+    </credit>
+    <credit>
+      <actor>Jarrett, Paul (I)</actor>
+      <role>Will Hansen</role>
+    </credit>
+    <credit>
+      <actor>Jeffreys, Woody</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kayle, Marten</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Kim, Lee</actor>
+      <role>Chinese Man</role>
+    </credit>
+    <credit>
+      <actor>Kosovic, Jennifer</actor>
+      <role>Karen</role>
+    </credit>
+    <credit>
+      <actor>Kozuki, T. Roy</actor>
+      <role>Zack</role>
+    </credit>
+    <credit>
+      <actor>Kremeniuk, Danielle</actor>
+      <role>Suzanne</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Vicky</actor>
+      <role>Hostage</role>
+    </credit>
+    <credit>
+      <actor>Law, Raymond</actor>
+      <role>Matt</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Byron</actor>
+      <role>Detective Lee</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Byron</actor>
+      <role>Detective Lee</role>
+    </credit>
+    <credit>
+      <actor>Lehman, Kristin</actor>
+      <role>Detective Danielle Carter</role>
+    </credit>
+    <credit>
+      <actor>Liebert, Ali</actor>
+      <role>Dr. Kit Ellsworth</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Rhys</actor>
+      <role>Braymore</role>
+    </credit>
+    <credit>
+      <actor>Lough Haggquist, Catherine</actor>
+      <role>Bank Manager</role>
+    </credit>
+    <credit>
+      <actor>Louie, Mark</actor>
+      <role>Officer Lee</role>
+    </credit>
+    <credit>
+      <actor>Lovgren, David</actor>
+      <role>Robbie Dobson</role>
+    </credit>
+    <credit>
+      <actor>Lowe, Crystal (I)</actor>
+      <role>Yvette</role>
+    </credit>
+    <credit>
+      <actor>Luk, Elfina</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Lyndall-Knight, Tiffany</actor>
+      <role>Legal Aid #1</role>
+    </credit>
+    <credit>
+      <actor>Mackenzie, Karina</actor>
+      <role>Amelia Kallick</role>
+    </credit>
+    <credit>
+      <actor>Mass, J.P.</actor>
+      <role>Dead Guy</role>
+    </credit>
+    <credit>
+      <actor>May, Joseph</actor>
+      <role>Max Keller</role>
+    </credit>
+    <credit>
+      <actor>McBride, Chi</actor>
+      <role>Lt. Matt Cavanaugh</role>
+    </credit>
+    <credit>
+      <actor>McComb, Heather (I)</actor>
+      <role>Sarah Miller</role>
+    </credit>
+    <credit>
+      <actor>McInnis, Matt</actor>
+      <role>Pivitnick</role>
+    </credit>
+    <credit>
+      <actor>McNally, Christopher</actor>
+      <role>Ice Cream Clerk</role>
+    </credit>
+    <credit>
+      <actor>Messner, Johnny</actor>
+      <role>Detective Jack Hale</role>
+    </credit>
+    <credit>
+      <actor>Miller, Alex (II)</actor>
+      <role>Dr. Ralph Malcolm</role>
+    </credit>
+    <credit>
+      <actor>Miller, Graham (I)</actor>
+      <role>Ron/Randy Trasker</role>
+    </credit>
+    <credit>
+      <actor>Monteith, Cory</actor>
+      <role>Windsurfer Bob</role>
+    </credit>
+    <credit>
+      <actor>Moore, Staci Tara</actor>
+      <role>Annabelle</role>
+    </credit>
+    <credit>
+      <actor>Moreau, Marguerite (I)</actor>
+      <role>Detective Ava Lyford</role>
+    </credit>
+    <credit>
+      <actor>Nordling, Jeffrey</actor>
+      <role>The Professor</role>
+    </credit>
+    <credit>
+      <actor>O'Donnell, Keir</actor>
+      <role>Chester</role>
+    </credit>
+    <credit>
+      <actor>Orr, Matthew</actor>
+      <role>Search Team Leader</role>
+    </credit>
+    <credit>
+      <actor>Pellerin, Rafael</actor>
+      <role>Midway Worker</role>
+    </credit>
+    <credit>
+      <actor>Perri, Paul (I)</actor>
+      <role>Wallace Stevens</role>
+    </credit>
+    <credit>
+      <actor>Peterson, David (VIII)</actor>
+      <role>Lou Gilliam</role>
+    </credit>
+    <credit>
+      <actor>Pope, Kris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pyper-Ferguson, John</actor>
+      <role>Detective Sean Landry</role>
+    </credit>
+    <credit>
+      <actor>Quinlan, David (I)</actor>
+      <role>Marshall</role>
+    </credit>
+    <credit>
+      <actor>Reid, Adam (I)</actor>
+      <role>Boze</role>
+    </credit>
+    <credit>
+      <actor>Reid, Kenton</actor>
+      <role>Dr. Gary McClain</role>
+    </credit>
+    <credit>
+      <actor>Richmond-Peck, David</actor>
+      <role>Jeff Deever</role>
+    </credit>
+    <credit>
+      <actor>Rodgers, Michael E.</actor>
+      <role>Mace/Edward Peterson</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Benjamin</actor>
+      <role>Gavin</role>
+    </credit>
+    <credit>
+      <actor>Rozylo, Ian</actor>
+      <role>Connor Dafoe</role>
+    </credit>
+    <credit>
+      <actor>Ruptash, Troy</actor>
+      <role>Chris Gordon</role>
+    </credit>
+    <credit>
+      <actor>Scott, Malcolm (IV)</actor>
+      <role>Big Ben</role>
+    </credit>
+    <credit>
+      <actor>Sim, Marcus</actor>
+      <role>Sketch Artist</role>
+    </credit>
+    <credit>
+      <actor>Simmonds, Benson</actor>
+      <role>Martin</role>
+    </credit>
+    <credit>
+      <actor>Slezak, Tobias</actor>
+      <role>Thomas Ianesco</role>
+    </credit>
+    <credit>
+      <actor>Smith, Kavan</actor>
+      <role>Jonas Mentzel</role>
+    </credit>
+    <credit>
+      <actor>Spence, Sebastian</actor>
+      <role>John Moore</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Malcolm (I)</actor>
+      <role>Carl Neeson</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Peter (I)</actor>
+      <role>Robert Hale</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Adam (I)</actor>
+      <role>Marvin</role>
+    </credit>
+    <credit>
+      <actor>Tremblett, Ken</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Tso, Yee Jee</actor>
+      <role>Legal Aid #2</role>
+    </credit>
+    <credit>
+      <actor>de Klerk, Richard</actor>
+      <role>Jerry</role>
+    </credit>
+  </cast>
+<plot>Detective Jack Hale works for the San Francisco Police Department Deviant Crimes Division which means he investigates unusual crimes. He has a special insight into criminals because his father is a serial killer. His partner is Danielle Carter. His boss is Lt. Cavanaugh.</plot><url>http://localhost:8983/solr/movie.html?291714</url></doc>

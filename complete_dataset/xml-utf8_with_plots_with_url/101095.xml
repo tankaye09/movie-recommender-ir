@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="101095">
+  <docid>101095</docid>
+  <title>Che: Part One</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Zumárraga, Pablo</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Drama</genre>
+    <genre>History</genre>
+    <genre>Biography</genre>
+  </genres>
+  <keywords>
+    <keyword>guerilla-warfare</keyword>
+    <keyword>doctor</keyword>
+    <keyword>surrender</keyword>
+    <keyword>farmer</keyword>
+    <keyword>rainforest</keyword>
+    <keyword>fidel-castro</keyword>
+    <keyword>dignity</keyword>
+    <keyword>first-part</keyword>
+    <keyword>shot-back-to-back</keyword>
+    <keyword>agrarian-reform</keyword>
+    <keyword>train-derailment</keyword>
+    <keyword>1960s</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>gunshot-wound</keyword>
+    <keyword>1950s</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>dead-pig</keyword>
+    <keyword>1957</keyword>
+    <keyword>dead-animal</keyword>
+    <keyword>execution</keyword>
+    <keyword>shot-in-the-head</keyword>
+    <keyword>stolen-car</keyword>
+    <keyword>train</keyword>
+    <keyword>united-nations-building</keyword>
+    <keyword>rape</keyword>
+    <keyword>soldier</keyword>
+    <keyword>breaking-through-brick-wall</keyword>
+    <keyword>jungle-warfare</keyword>
+    <keyword>revolution</keyword>
+    <keyword>bazooka</keyword>
+    <keyword>adult-illiteracy</keyword>
+    <keyword>guerilla</keyword>
+    <keyword>united-nations</keyword>
+    <keyword>illiterate</keyword>
+    <keyword>havana-cigar</keyword>
+    <keyword>female-soldier</keyword>
+    <keyword>desertion</keyword>
+    <keyword>independence</keyword>
+    <keyword>violence</keyword>
+    <keyword>dictatorship</keyword>
+    <keyword>1958</keyword>
+    <keyword>che-guevara</keyword>
+    <keyword>box-office-flop</keyword>
+    <keyword>hotel</keyword>
+    <keyword>cuba</keyword>
+    <keyword>cigar</keyword>
+    <keyword>illiteracy</keyword>
+    <keyword>tropical</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>cuban-revolution</keyword>
+    <keyword>epic</keyword>
+    <keyword>plaster</keyword>
+    <keyword>cigar-smoking</keyword>
+    <keyword>guerilla-army</keyword>
+    <keyword>speech</keyword>
+  </keywords>
+  <languages>
+    <language>Spanish</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>Spain</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Brazil">12</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">NC-16</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="Czech Republic">15</certificate>
+    <certificate country="Spain">7</certificate>
+    <certificate country="Switzerland">10</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-13</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="USA">Not Rated</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">13 March 2009</releasedate>
+    <releasedate country="Peru">5 March 2009</releasedate>
+    <releasedate country="Argentina">13 November 2008</releasedate>
+    <releasedate country="Portugal">19 March 2009</releasedate>
+    <releasedate country="Latvia">6 March 2009</releasedate>
+    <releasedate country="Netherlands">19 March 2009</releasedate>
+    <releasedate country="Brazil">27 March 2009</releasedate>
+    <releasedate country="Japan">10 January 2009</releasedate>
+    <releasedate country="UK">2 January 2009</releasedate>
+    <releasedate country="Bulgaria">10 April 2009</releasedate>
+    <releasedate country="Romania">26 June 2009</releasedate>
+    <releasedate country="Germany">11 June 2009</releasedate>
+    <releasedate country="Belgium">18 February 2009</releasedate>
+    <releasedate country="France">7 January 2009</releasedate>
+    <releasedate country="Hungary">29 March 2009</releasedate>
+    <releasedate country="Hong Kong">4 April 2009</releasedate>
+    <releasedate country="Czech Republic">15 January 2009</releasedate>
+    <releasedate country="Iceland">10 September 2009</releasedate>
+    <releasedate country="Mexico">16 January 2009</releasedate>
+    <releasedate country="Slovakia">2 April 2009</releasedate>
+    <releasedate country="Poland">3 April 2009</releasedate>
+    <releasedate country="Spain">5 September 2008</releasedate>
+    <releasedate country="Australia">1 August 2009</releasedate>
+    <releasedate country="Lithuania">5 June 2009</releasedate>
+    <releasedate country="Norway">20 March 2009</releasedate>
+    <releasedate country="Canada">20 February 2009</releasedate>
+    <releasedate country="Finland">27 February 2009</releasedate>
+    <releasedate country="Austria">12 June 2009</releasedate>
+    <releasedate country="Italy">10 April 2009</releasedate>
+    <releasedate country="USA">24 January 2009</releasedate>
+    <releasedate country="Denmark">7 May 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">134</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Soderbergh, Steven</director>
+  </directors>
+  <producers>
+    <producer>Benito, Pilar</producer>
+    <producer>Paternostro, Silvana</producer>
+    <producer>Atienza, Belén</producer>
+    <producer>Augustín, Álvaro</producer>
+    <producer>Brost, Frederic W.</producer>
+    <producer>Chioua, Brahim</producer>
+    <producer>Elway, Philip</producer>
+    <producer>Jacobs, Gregory (I)</producer>
+    <producer>Longoria, Alvaro</producer>
+    <producer>Maraval, Vincent</producer>
+    <producer>Zumárraga, Cristina</producer>
+    <producer>Roth, Anna (I)</producer>
+    <producer>Costas, Celia D.</producer>
+    <producer>Bickford, Laura</producer>
+    <producer>Del Toro, Benicio</producer>
+  </producers>
+  <writers>
+    <writer>Buchman, Peter</writer>
+  </writers>
+  <composers>
+    <composer>Iglesias, Alberto (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adorno, Milo</actor>
+      <role>Mario Leal</role>
+    </credit>
+    <credit>
+      <actor>Adorno, Pedro (II)</actor>
+      <role>Epifanío Díaz</role>
+    </credit>
+    <credit>
+      <actor>Albarrán, Gerardo</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Alberti, Jorge</actor>
+      <role>Soldier Hector</role>
+    </credit>
+    <credit>
+      <actor>Alicea, Doel</actor>
+      <role>Oltuski's Messenger</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Marisé</actor>
+      <role>Vilma Espín</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Rafa</actor>
+      <role>Lieutenant Pérez Valencia</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Ricardo (I)</actor>
+      <role>Antonio Jiménez</role>
+    </credit>
+    <credit>
+      <actor>Andricain, Ana Maria</actor>
+      <role>Angry Demonstrator #2</role>
+    </credit>
+    <credit>
+      <actor>Andújar, Laura</actor>
+      <role>Laura</role>
+    </credit>
+    <credit>
+      <actor>Armando, Jorge</actor>
+      <role>Enrique Acevedo</role>
+    </credit>
+    <credit>
+      <actor>Arria, Diego</actor>
+      <role>Venezuela Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Arriaga, Xaiex</actor>
+      <role>Bazooka Guy #2</role>
+    </credit>
+    <credit>
+      <actor>Arroyo, Fernando</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Arvelo, Juan Carlos</actor>
+      <role>Rolando Cubela</role>
+    </credit>
+    <credit>
+      <actor>Benjamin, P.J.</actor>
+      <role>Captain Stanton</role>
+    </credit>
+    <credit>
+      <actor>Bichir, Bruno</actor>
+      <role>Colonel Rojas</role>
+    </credit>
+    <credit>
+      <actor>Bichir, Demián</actor>
+      <role>Fidel Castro</role>
+    </credit>
+    <credit>
+      <actor>Borri, Georgina</actor>
+      <role>Old Woman #1</role>
+    </credit>
+    <credit>
+      <actor>Bottoms, Io</actor>
+      <role>Make-Up Artist</role>
+    </credit>
+    <credit>
+      <actor>Bravo, Andres Santiago</actor>
+      <role>Hermes Peña Torres</role>
+    </credit>
+    <credit>
+      <actor>Brocco, Jose</actor>
+      <role>Ovidio Díaz Rodríguez</role>
+    </credit>
+    <credit>
+      <actor>Cabral, Manuel (I)</actor>
+      <role>Cuban Man at Bar #1</role>
+    </credit>
+    <credit>
+      <actor>Cabrera, Francisco (III)</actor>
+      <role>Rebel Guide</role>
+    </credit>
+    <credit>
+      <actor>Cabrera, Santiago</actor>
+      <role>Camilo Cienfuegos</role>
+    </credit>
+    <credit>
+      <actor>Caraballo, Alba</actor>
+      <role>Aleida's Friend</role>
+    </credit>
+    <credit>
+      <actor>Caro, Jose</actor>
+      <role>Esteban</role>
+    </credit>
+    <credit>
+      <actor>Carpio, Alejandro</actor>
+      <role>Eloy Gutiérrez Menoyo</role>
+    </credit>
+    <credit>
+      <actor>Castro, Leonardo (II)</actor>
+      <role>Army Medic</role>
+    </credit>
+    <credit>
+      <actor>Cintron, Javier Bellido</actor>
+      <role>Soldier Jose</role>
+    </credit>
+    <credit>
+      <actor>Collazo, Yamil</actor>
+      <role>Enrique Oltuski</role>
+    </credit>
+    <credit>
+      <actor>Colon, Oscar A.</actor>
+      <role>Cuban Man at Bar #2</role>
+    </credit>
+    <credit>
+      <actor>Cortés, Eduardo</actor>
+      <role>Sánchez Mosquera</role>
+    </credit>
+    <credit>
+      <actor>Cotte, Jose</actor>
+      <role>Dr. Fernandez Mell</role>
+    </credit>
+    <credit>
+      <actor>Countryman, Michael</actor>
+      <role>U.S. Ambassador Stevenson</role>
+    </credit>
+    <credit>
+      <actor>Cruz, Blanca Lissette</actor>
+      <role>María</role>
+    </credit>
+    <credit>
+      <actor>Cruz, Vladimir</actor>
+      <role>Ramiro Valdés Menéndez</role>
+    </credit>
+    <credit>
+      <actor>Curnen, Monique Gabriela</actor>
+      <role>Secretary</role>
+    </credit>
+    <credit>
+      <actor>D'Amato, Lou</actor>
+      <role>U.N. Delegate</role>
+    </credit>
+    <credit>
+      <actor>De La Fe Colon, Oscar</actor>
+      <role>Bazooka Guy #1</role>
+    </credit>
+    <credit>
+      <actor>De Quesada, Alfredo</actor>
+      <role>Israel Pardo</role>
+    </credit>
+    <credit>
+      <actor>DeVries, Jon</actor>
+      <role>Sen. Eugene McCarthy</role>
+    </credit>
+    <credit>
+      <actor>Del Toro, Benicio</actor>
+      <role>Ernesto 'Che' Guevara</role>
+    </credit>
+    <credit>
+      <actor>Díaz, Franklin</actor>
+      <role>Dinner Guest #2</role>
+    </credit>
+    <credit>
+      <actor>Díaz, María Isabel</actor>
+      <role>María Antonia</role>
+    </credit>
+    <credit>
+      <actor>Espinosa, Al</actor>
+      <role>Angry Demonstrator #1</role>
+    </credit>
+    <credit>
+      <actor>Espinosa, Victoria</actor>
+      <role>Old Woman #2</role>
+    </credit>
+    <credit>
+      <actor>Faxas, Ernesto</actor>
+      <role>Fernández Suero</role>
+    </credit>
+    <credit>
+      <actor>Fernandez, Ramon (I)</actor>
+      <role>Héctor</role>
+    </credit>
+    <credit>
+      <actor>Fret, Jonathan</actor>
+      <role>Aleida's companion</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Jsu</actor>
+      <role>Jorge Sotús</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Luis Alberto</actor>
+      <role>Colonel Joaquín Casillas Lumpuy</role>
+    </credit>
+    <credit>
+      <actor>Garza Balboa, Ramiro</actor>
+      <role>Man Greeting Che</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Meg</actor>
+      <role>Partygoer #2</role>
+    </credit>
+    <credit>
+      <actor>Gonzaga Hernandez, Luis</actor>
+      <role>Lalo Sardiñas</role>
+    </credit>
+    <credit>
+      <actor>Graniela, Israel Lugo</actor>
+      <role>Omar</role>
+    </credit>
+    <credit>
+      <actor>Guevara, Pablo</actor>
+      <role>Dinner Guest #1</role>
+    </credit>
+    <credit>
+      <actor>Gutiérrez Vargas, Fernando</actor>
+      <role>Aide to Hernández</role>
+    </credit>
+    <credit>
+      <actor>Gutiérrez, José Luis (IV)</actor>
+      <role>Polo</role>
+    </credit>
+    <credit>
+      <actor>Gómez Berríos, Octavio</actor>
+      <role>Otto</role>
+    </credit>
+    <credit>
+      <actor>Gómez, Mateo</actor>
+      <role>Cuban Diplomat #1</role>
+    </credit>
+    <credit>
+      <actor>Hernandez, Santa Fe Osmin</actor>
+      <role>Gustavo</role>
+    </credit>
+    <credit>
+      <actor>Huffman, Bryant (I)</actor>
+      <role>Cuervo</role>
+    </credit>
+    <credit>
+      <actor>Isaac, Oscar</actor>
+      <role>Interpreter</role>
+    </credit>
+    <credit>
+      <actor>Lavan, René</actor>
+      <role>Cuban Diplomat #2</role>
+    </credit>
+    <credit>
+      <actor>Lima, Aurelio</actor>
+      <role>Victor Bordón Machado</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Liddy Paoli</actor>
+      <role>Quike Escalona</role>
+    </credit>
+    <credit>
+      <actor>Losada, Euriamis</actor>
+      <role>Carlos</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Sheridan</actor>
+      <role>Partygoer #5</role>
+    </credit>
+    <credit>
+      <actor>Lyles, Leslie</actor>
+      <role>Partygoer #1</role>
+    </credit>
+    <credit>
+      <actor>Mahiques, Carmen</actor>
+      <role>Cook at Cuban Embassy</role>
+    </credit>
+    <credit>
+      <actor>Mailer, Stephen</actor>
+      <role>Paul Niven</role>
+    </credit>
+    <credit>
+      <actor>Manette, Alex</actor>
+      <role>Partygoer #3</role>
+    </credit>
+    <credit>
+      <actor>Mejias, Aris</actor>
+      <role>Carmen</role>
+    </credit>
+    <credit>
+      <actor>Mendez, Kahlil</actor>
+      <role>Leonardo Tamayo Núñez</role>
+    </credit>
+    <credit>
+      <actor>Merle, Rebecca</actor>
+      <role>Protestor at United Nations</role>
+    </credit>
+    <credit>
+      <actor>Monclova, Eugenio</actor>
+      <role>Emilio Cabrera</role>
+    </credit>
+    <credit>
+      <actor>Morales, Julio Cesar</actor>
+      <role>Jesús</role>
+    </credit>
+    <credit>
+      <actor>Morales, Xavier Antonio</actor>
+      <role>Esteban's Accomplice</role>
+    </credit>
+    <credit>
+      <actor>Munar, Andres</actor>
+      <role>Joel Iglesias Leyva</role>
+    </credit>
+    <credit>
+      <actor>Myers, Robert (IX)</actor>
+      <role>U.N. Diplomat</role>
+    </credit>
+    <credit>
+      <actor>Méndez, Joaquín (II)</actor>
+      <role>Faustino Pérez</role>
+    </credit>
+    <credit>
+      <actor>Nieves, Christian</actor>
+      <role>Oñante Cantinflás</role>
+    </credit>
+    <credit>
+      <actor>Nieves, Jose A.</actor>
+      <role>Dr. Julio Martínez Páez</role>
+    </credit>
+    <credit>
+      <actor>Nolasco, Elvis</actor>
+      <role>Partygoer #4</role>
+    </credit>
+    <credit>
+      <actor>Ortiz, Javier (I)</actor>
+      <role>Felipe Pazos</role>
+    </credit>
+    <credit>
+      <actor>Padrón, Luije</actor>
+      <role>Batista's Soldier</role>
+    </credit>
+    <credit>
+      <actor>Perugorría, Jorge</actor>
+      <role>Vilo</role>
+    </credit>
+    <credit>
+      <actor>Potter, Jay</actor>
+      <role>Richard Hottelet</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Joksan</actor>
+      <role>Raúl Chibás</role>
+    </credit>
+    <credit>
+      <actor>Ramírez, Édgar (II)</actor>
+      <role>Ciro Redondo García</role>
+    </credit>
+    <credit>
+      <actor>Rasuk, Victor</actor>
+      <role>Rogelio Acevedo</role>
+    </credit>
+    <credit>
+      <actor>Rensoli, Othello</actor>
+      <role>Pombo</role>
+    </credit>
+    <credit>
+      <actor>Renteria, Alejandro</actor>
+      <role>Umberto</role>
+    </credit>
+    <credit>
+      <actor>Riesco, Armando</actor>
+      <role>Benigno</role>
+    </credit>
+    <credit>
+      <actor>Robards, Sam</actor>
+      <role>Tad Szulc</role>
+    </credit>
+    <credit>
+      <actor>Rodarte, Miguel (I)</actor>
+      <role>Man with Sledgehammer</role>
+    </credit>
+    <credit>
+      <actor>Rodriguez Sanchez, Luis</actor>
+      <role>Rebel Messenger #1</role>
+    </credit>
+    <credit>
+      <actor>Rodríguez, Omar (I)</actor>
+      <role>Panama Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Rodulfo, Néstor</actor>
+      <role>Miguel</role>
+    </credit>
+    <credit>
+      <actor>Rosario, Luis (I)</actor>
+      <role>Rebel Luis</role>
+    </credit>
+    <credit>
+      <actor>Ruiz Ruiz, Carlitos</actor>
+      <role>Ventriloquist</role>
+    </credit>
+    <credit>
+      <actor>Ríos, Guillermo (I)</actor>
+      <role>Comandante Gómez Calderón</role>
+    </credit>
+    <credit>
+      <actor>Santana, Roberto</actor>
+      <role>Juan Almeida</role>
+    </credit>
+    <credit>
+      <actor>Santiago, Norman</actor>
+      <role>Tuma</role>
+    </credit>
+    <credit>
+      <actor>Santoro, Rodrigo</actor>
+      <role>Raúl Castro</role>
+    </credit>
+    <credit>
+      <actor>Simón, Rafael</actor>
+      <role>Rebel Messenger #2</role>
+    </credit>
+    <credit>
+      <actor>Sladyk, Ken</actor>
+      <role>Romanian Diplomat at U.N.</role>
+    </credit>
+    <credit>
+      <actor>Soto, Jerry Nelson</actor>
+      <role>Nico Torres</role>
+    </credit>
+    <credit>
+      <actor>Suárez Cobián, Armando</actor>
+      <role>Dinner Guest #3</role>
+    </credit>
+    <credit>
+      <actor>Suárez, Miguel Ángel (I)</actor>
+      <role>Army Doctor</role>
+    </credit>
+    <credit>
+      <actor>Sánchez-Vahamondes, Roy</actor>
+      <role>Faure Chomón</role>
+    </credit>
+    <credit>
+      <actor>Telémaco, Pedro</actor>
+      <role>Eligio Mendoza</role>
+    </credit>
+    <credit>
+      <actor>Torres, Teofilo</actor>
+      <role>Colonel Hernández</role>
+    </credit>
+    <credit>
+      <actor>Torriente, Juan Pedro</actor>
+      <role>Pedro Chape</role>
+    </credit>
+    <credit>
+      <actor>Ugalde, Unax</actor>
+      <role>Vaquerito</role>
+    </credit>
+    <credit>
+      <actor>Urbina, Roberto</actor>
+      <role>Guile Pardo</role>
+    </credit>
+    <credit>
+      <actor>Urla, Joe</actor>
+      <role>Nicaragua Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Vazquez, Yul</actor>
+      <role>Alejandro Ramírez</role>
+    </credit>
+    <credit>
+      <actor>Venegas Colón, Pablo</actor>
+      <role>René Ramos Latour</role>
+    </credit>
+    <credit>
+      <actor>Villacis, Victor Angulo</actor>
+      <role>Red Cross Worler</role>
+    </credit>
+  </cast>
+<plot>The Argentine, begins as Che and a band of Cuban exiles (led by Fidel Castro) reach the Cuban shore from Mexico in 1956. Within two years, they mobilized popular support and an army and toppled the U.S.-friendly regime of dictator Fulgencio Batista.</plot><url>http://localhost:8983/solr/movie.html?101095</url></doc>

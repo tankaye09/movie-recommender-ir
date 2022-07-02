@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="007932">
+  <docid>007932</docid>
+  <title>A Broadway Romeo</title>
+  <year>1931</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">28 March 1931</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Blumenstock, Mort</director>
+  </directors>
+  <writers>
+    <writer>Nadel, E.K.</writer>
+    <writer>Smith, Paul Girard</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Benny, Jack</actor>
+      <role>Jack Benny</role>
+    </credit>
+    <credit>
+      <actor>Brody, Estelle</actor>
+      <role>Girl from Kokomo</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Walter (I)</actor>
+      <role>Counterman</role>
+    </credit>
+    <credit>
+      <actor>Young, Tammany</actor>
+      <role>Tony, the newsdealer</role>
+    </credit>
+  </cast>
+<plot>While watching a friend's news stand, Jack meets and woos a lonely out-of-towner. When they read that his girl and her fiance are getting married, they decide to pair up.</plot><url>http://localhost:8983/solr/movie.html?007932</url></doc>

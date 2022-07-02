@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="441245">
+  <docid>441245</docid>
+  <title>Power Rangers S.P.D.</title>
+  <year>2005</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Thriller</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>sentai-adaptation</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>New Zealand</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Canada">G</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">31 October 2005</releasedate>
+    <releasedate country="Canada">30 July 2005</releasedate>
+    <releasedate country="USA">25 July 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">22</runningtime>
+    <runningtime country="default">22</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Aronowitz, Greg</director>
+    <director>Beesley, Mark (I)</director>
+    <director>Grinder, Paul</director>
+    <director>Haskell, Charlie</director>
+    <director>Johnstone, Britta</director>
+    <director>Laing, John (II)</director>
+    <director>Merrifield, Andrew</director>
+  </directors>
+  <producers>
+    <producer>Aronowitz, Greg</producer>
+    <producer>Kalish, Bruce (I)</producer>
+    <producer>Sakamoto, Koichi</producer>
+    <producer>Knight, Charles (III)</producer>
+    <producer>Campbell, Sally (II)</producer>
+  </producers>
+  <writers>
+    <writer>Aronowitz, Greg</writer>
+    <writer>Garber, David (II)</writer>
+    <writer>Horsting, Jessie</writer>
+    <writer>Kalish, Bruce (I)</writer>
+    <writer>Marchand, Jackie</writer>
+    <writer>Tellegen, John</writer>
+  </writers>
+  <composers>
+    <composer>Lynch, Bruce</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Allen, Beth (II)</actor>
+      <role>Aly Samuels</role>
+    </credit>
+    <credit>
+      <actor>Austin, Matt (I)</actor>
+      <role>Bridge Carson/Green SPD Ranger</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Paul (III)</actor>
+      <role>Thresher</role>
+    </credit>
+    <credit>
+      <actor>Birchall, Jeremy (I)</actor>
+      <role>Slate</role>
+    </credit>
+    <credit>
+      <actor>Birchall, Jeremy (I)</actor>
+      <role>Wootox</role>
+    </credit>
+    <credit>
+      <actor>Black, Owen</actor>
+      <role>Dr. Felix</role>
+    </credit>
+    <credit>
+      <actor>Bosher, Shane</actor>
+      <role>Gineka</role>
+    </credit>
+    <credit>
+      <actor>Browning, Alistair</actor>
+      <role>Green Monster</role>
+    </credit>
+    <credit>
+      <actor>Brunton, Stephen</actor>
+      <role>Chiaggo</role>
+    </credit>
+    <credit>
+      <actor>Buchanan, Zahn</actor>
+      <role>Cadet</role>
+    </credit>
+    <credit>
+      <actor>Buckingham, Ross</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Dwayne</actor>
+      <role>Dru Harrington/Gigantis</role>
+    </credit>
+    <credit>
+      <actor>Cassin, David</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Coleman, James (II)</actor>
+      <role>Sinuku</role>
+    </credit>
+    <credit>
+      <actor>Cooley, Campbell</actor>
+      <role>Tomars</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Greg (III)</actor>
+      <role>A-Squad Yellow Ranger</role>
+    </credit>
+    <credit>
+      <actor>Davison, Josephine</actor>
+      <role>Morgana</role>
+    </credit>
+    <credit>
+      <actor>Davison, Josephine</actor>
+      <role>Morgana</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Geoff</actor>
+      <role>Herock</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Geoff</actor>
+      <role>Omni</role>
+    </credit>
+    <credit>
+      <actor>Dougan, Claire</actor>
+      <role>A-Squad Pink Ranger</role>
+    </credit>
+    <credit>
+      <actor>Drake, Glen</actor>
+      <role>Delapoo</role>
+    </credit>
+    <credit>
+      <actor>Drew, Mike (II)</actor>
+      <role>Mirloc</role>
+    </credit>
+    <credit>
+      <actor>Duhaney, Kevin</actor>
+      <role>Ethan James/Blue DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Barnie</actor>
+      <role>Al/Mysticon</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Barnie</actor>
+      <role>Piggy</role>
+    </credit>
+    <credit>
+      <actor>Dungey, Lori</actor>
+      <role>Louise Boom</role>
+    </credit>
+    <credit>
+      <actor>Eldred, Stig</actor>
+      <role>Kraw/Professor Cerebros</role>
+    </credit>
+    <credit>
+      <actor>Eldred, Stig</actor>
+      <role>Professor Cerebros</role>
+    </credit>
+    <credit>
+      <actor>Feeney, Peter</actor>
+      <role>Spotty Eyed Monster</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Benaag</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Orange Head</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Orange Head/Benaag</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Orange Head/Zeltrax</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Shopkeeper</role>
+    </credit>
+    <credit>
+      <actor>Hall, Jaxin</actor>
+      <role>Tall Cadet</role>
+    </credit>
+    <credit>
+      <actor>Havoc, Mikey</actor>
+      <role>Drakel</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Boom</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Bugglesworth</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Devastation</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Indian Guard</role>
+    </credit>
+    <credit>
+      <actor>Holt, Jarrod</actor>
+      <role>One-Eye</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Bruce (I)</actor>
+      <role>Praxis</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Bruce (I)</actor>
+      <role>Ringbah</role>
+    </credit>
+    <credit>
+      <actor>Hoyte, Jason</actor>
+      <role>Icthior</role>
+    </credit>
+    <credit>
+      <actor>Hoyte, Jason</actor>
+      <role>Valko</role>
+    </credit>
+    <credit>
+      <actor>Hurst, Michael (I)</actor>
+      <role>Silverhead</role>
+    </credit>
+    <credit>
+      <actor>Hutchison, Natacha</actor>
+      <role>Sophie</role>
+    </credit>
+    <credit>
+      <actor>Innes, Mick</actor>
+      <role>Alien #3</role>
+    </credit>
+    <credit>
+      <actor>James-Baird, Olivia</actor>
+      <role>Mora</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Greg (I)</actor>
+      <role>Stench</role>
+    </credit>
+    <credit>
+      <actor>Judge, Derek</actor>
+      <role>Bluehead</role>
+    </credit>
+    <credit>
+      <actor>Kane, Tom (II)</actor>
+      <role>Monster</role>
+    </credit>
+    <credit>
+      <actor>Kemplen, Nick</actor>
+      <role>A-Squad Blue Ranger</role>
+    </credit>
+    <credit>
+      <actor>Kemplen, Nick</actor>
+      <role>A-Squad Blue Ranger/A-Squad Green Ranger</role>
+    </credit>
+    <credit>
+      <actor>Khutze, Patrick</actor>
+      <role>Security Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Lahana, Emma</actor>
+      <role>Kira Ford/Yellow DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Laing, Andrew (I)</actor>
+      <role>Delex</role>
+    </credit>
+    <credit>
+      <actor>Langstone, Michelle</actor>
+      <role>Dr. Katherine 'Kat' Manx</role>
+    </credit>
+    <credit>
+      <actor>Langstone, Michelle</actor>
+      <role>Dr. Katherine 'Kat' Manx/Cat Ranger</role>
+    </credit>
+    <credit>
+      <actor>Lawless, Elliot</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Jim (I)</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>May, Monica (II)</actor>
+      <role>Elizabeth 'Z' Delgado/Yellow SPD Ranger</role>
+    </credit>
+    <credit>
+      <actor>McLaren, Brandon Jay</actor>
+      <role>Jack Landors/Red SPD Ranger</role>
+    </credit>
+    <credit>
+      <actor>McLarty, Jim</actor>
+      <role>Broodwing</role>
+    </credit>
+    <credit>
+      <actor>McNaughton, Kiel</actor>
+      <role>Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Mignault, Robert</actor>
+      <role>Crabhead</role>
+    </credit>
+    <credit>
+      <actor>Miyazaki, Tamaki</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Morelli, Stephanie</actor>
+      <role>Young Z</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Aaron (II)</actor>
+      <role>Sam</role>
+    </credit>
+    <credit>
+      <actor>Napier, James (I)</actor>
+      <role>Conner McKnight</role>
+    </credit>
+    <credit>
+      <actor>Naufahu, Rene</actor>
+      <role>Emperor Gruumm</role>
+    </credit>
+    <credit>
+      <actor>Naufahu, Rene</actor>
+      <role>Stevedore</role>
+    </credit>
+    <credit>
+      <actor>Norell, Paul</actor>
+      <role>Supreme Commander Fowler Birdy</role>
+    </credit>
+    <credit>
+      <actor>Parazzo, Jeffrey</actor>
+      <role>Trent Fernandez/White DinoThunder Ranger/Dr. Tommy Oliver/Black DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Parker, Craig (I)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Pollock, Robert (I)</actor>
+      <role>Vine Monster</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Cameron</actor>
+      <role>Mooney</role>
+    </credit>
+    <credit>
+      <actor>Robertt, Andrew</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Saccente, Michael</actor>
+      <role>Phil Boom</role>
+    </credit>
+    <credit>
+      <actor>Sainei, Ryuuji</actor>
+      <role>Ancient Sensei</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Brett (I)</actor>
+      <role>Omega Ranger</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Brett (I)</actor>
+      <role>Radio Message</role>
+    </credit>
+    <credit>
+      <actor>Strang, Blair</actor>
+      <role>Bork</role>
+    </credit>
+    <credit>
+      <actor>Sunderland, Matthew (II)</actor>
+      <role>Green Eyes</role>
+    </credit>
+    <credit>
+      <actor>Trickett, Ray</actor>
+      <role>Shorty</role>
+    </credit>
+    <credit>
+      <actor>Tui, John</actor>
+      <role>Commander Anubis 'Doggie' Cruger/Shadow Ranger</role>
+    </credit>
+    <credit>
+      <actor>Tui, John</actor>
+      <role>Commander Anubis 'Doggie' Cruger/Shadow Ranger/Sargeant Silverback</role>
+    </credit>
+    <credit>
+      <actor>Tui, John</actor>
+      <role>Commander Anubis 'Doggie' Kruegger/Shadow Ranger/Sargeant Silverback</role>
+    </credit>
+    <credit>
+      <actor>Tui, John</actor>
+      <role>Sargeant Silverback</role>
+    </credit>
+    <credit>
+      <actor>Violette, Chris</actor>
+      <role>Sky Tate/Blue SPD Ranger</role>
+    </credit>
+    <credit>
+      <actor>Williams, Emlyn (II)</actor>
+      <role>Cadet #2</role>
+    </credit>
+    <credit>
+      <actor>Willis, Paul (III)</actor>
+      <role>Baskin</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Patrick (VI)</actor>
+      <role>Dragoul</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Patrick (VI)</actor>
+      <role>Security Guard #2</role>
+    </credit>
+    <credit>
+      <actor>Wong, Andy (I)</actor>
+      <role>Cadet #1</role>
+    </credit>
+    <credit>
+      <actor>Wright, Edwin (I)</actor>
+      <role>Monster #1</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>Katana</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>Rhinix</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>Rhinix/T-Top</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>T-Top</role>
+    </credit>
+    <credit>
+      <actor>Young, Darren (II)</actor>
+      <role>Changtor</role>
+    </credit>
+  </cast>
+<plot>Fifteen years into the future, Earth has welcomed alien beings to live with humans. But peace is short lived, as a planet conquering alien force turns its destructive attention to Earth! Evil and smart, they seem unstoppable. Only the Power Rangers - elite warriors trained at a newly established Ranger Academy and led by chief Anubis - can stop them. When the Red Power Ranger joins the team, tensions threaten to tear them apart. With the alien threat growing stronger every moment, the Rangers must forget their differences and go into action as one! Using teamwork, intergalactic weaponry and light-speed Zord vehicles to battle evil, they unite to become the ultimate force for good. Power Rangers SPD!</plot><url>http://localhost:8983/solr/movie.html?441245</url></doc>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="090198">
+  <docid>090198</docid>
+  <title>Cadfael</title>
+  <year>1994</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Dearberg, Robert C.</editor>
+    <editor>Illing, Joe</editor>
+    <editor>Jones, Alan (III)</editor>
+    <editor>McCoan, Jamie</editor>
+    <editor>Méry-Clark, Laurence</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>profits-dispute</keyword>
+    <keyword>decomposed-body</keyword>
+    <keyword>monastery</keyword>
+    <keyword>amateur-detective</keyword>
+    <keyword>rain</keyword>
+    <keyword>merchant</keyword>
+    <keyword>historic-fiction</keyword>
+    <keyword>drug</keyword>
+    <keyword>peasant</keyword>
+    <keyword>blunt-instrument</keyword>
+    <keyword>siege</keyword>
+    <keyword>detective-series</keyword>
+    <keyword>suicide-by-sword</keyword>
+    <keyword>fair</keyword>
+    <keyword>death</keyword>
+    <keyword>sheriff</keyword>
+    <keyword>chastity</keyword>
+    <keyword>sanctuary</keyword>
+    <keyword>herbarium</keyword>
+    <keyword>herb-extract</keyword>
+    <keyword>prayer</keyword>
+    <keyword>monk</keyword>
+    <keyword>ring</keyword>
+    <keyword>nobleman</keyword>
+    <keyword>red-herring</keyword>
+    <keyword>peasantry</keyword>
+    <keyword>civil-war</keyword>
+    <keyword>poisoning</keyword>
+    <keyword>british-mystery</keyword>
+    <keyword>feudal-system</keyword>
+    <keyword>epileptic-seizure</keyword>
+    <keyword>wales</keyword>
+    <keyword>vision</keyword>
+    <keyword>apothecary</keyword>
+    <keyword>chapel</keyword>
+    <keyword>rent</keyword>
+    <keyword>grief</keyword>
+    <keyword>bow-and-arrow</keyword>
+    <keyword>former-sweetheart</keyword>
+    <keyword>mistress</keyword>
+    <keyword>saint</keyword>
+    <keyword>betrothal</keyword>
+    <keyword>duel</keyword>
+    <keyword>gregorian-chant</keyword>
+    <keyword>grandmother</keyword>
+    <keyword>suspect</keyword>
+    <keyword>traitor</keyword>
+    <keyword>squire</keyword>
+    <keyword>metalsmith</keyword>
+    <keyword>novice</keyword>
+    <keyword>crusader</keyword>
+    <keyword>prior</keyword>
+    <keyword>lost-love</keyword>
+    <keyword>secret</keyword>
+    <keyword>unwed-pregnancy</keyword>
+    <keyword>shepherd</keyword>
+    <keyword>bronze</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>saint-winifred</keyword>
+    <keyword>romantic-triangle</keyword>
+    <keyword>deputy-sheriff</keyword>
+    <keyword>jealousy</keyword>
+    <keyword>hemlock</keyword>
+    <keyword>girl-dressed-as-boy</keyword>
+    <keyword>kidnapping</keyword>
+    <keyword>serf</keyword>
+    <keyword>body</keyword>
+    <keyword>suicide-by-drowning</keyword>
+    <keyword>sister-sister-relationship</keyword>
+    <keyword>clue</keyword>
+    <keyword>arranged-marriage</keyword>
+    <keyword>wedding-banquet</keyword>
+    <keyword>jewel</keyword>
+    <keyword>confessor</keyword>
+    <keyword>flagellation</keyword>
+    <keyword>false-accusation</keyword>
+    <keyword>dowager</keyword>
+    <keyword>brother-cadfael</keyword>
+    <keyword>gossip</keyword>
+    <keyword>love-potion</keyword>
+    <keyword>herb-garden</keyword>
+    <keyword>marriage</keyword>
+    <keyword>thread</keyword>
+    <keyword>murder-investigation</keyword>
+    <keyword>blind-girl</keyword>
+    <keyword>well</keyword>
+    <keyword>convent</keyword>
+    <keyword>detective</keyword>
+    <keyword>father-daughter-relationship</keyword>
+    <keyword>mass-execution</keyword>
+    <keyword>murder</keyword>
+    <keyword>refuge</keyword>
+    <keyword>slave</keyword>
+    <keyword>sleuth</keyword>
+    <keyword>monkshood</keyword>
+    <keyword>theft</keyword>
+    <keyword>church</keyword>
+    <keyword>holy-relic</keyword>
+    <keyword>priest</keyword>
+    <keyword>footprint</keyword>
+    <keyword>mill</keyword>
+    <keyword>pilgrim</keyword>
+    <keyword>exhumation</keyword>
+    <keyword>english-civil-war</keyword>
+    <keyword>festival</keyword>
+    <keyword>torture</keyword>
+    <keyword>widow</keyword>
+    <keyword>spy</keyword>
+    <keyword>absolution</keyword>
+    <keyword>king</keyword>
+    <keyword>flashback</keyword>
+    <keyword>feudal-society</keyword>
+    <keyword>geneva-liquor</keyword>
+    <keyword>rebel</keyword>
+    <keyword>crime-scene-investigation</keyword>
+    <keyword>castle</keyword>
+    <keyword>heiress</keyword>
+    <keyword>white-rose</keyword>
+    <keyword>stabbed-to-death</keyword>
+    <keyword>potter</keyword>
+    <keyword>leper</keyword>
+    <keyword>martyr</keyword>
+    <keyword>pride</keyword>
+    <keyword>treason</keyword>
+    <keyword>nun</keyword>
+    <keyword>pregnancy</keyword>
+    <keyword>husband-wife-relationship</keyword>
+    <keyword>balm</keyword>
+    <keyword>ward</keyword>
+    <keyword>bastard-son</keyword>
+    <keyword>rebellion</keyword>
+    <keyword>lead</keyword>
+    <keyword>landowner</keyword>
+    <keyword>baron</keyword>
+    <keyword>herbalist</keyword>
+    <keyword>weaver</keyword>
+    <keyword>abbot</keyword>
+    <keyword>gallows</keyword>
+    <keyword>cell</keyword>
+    <keyword>boil</keyword>
+    <keyword>confession</keyword>
+    <keyword>cathedral</keyword>
+    <keyword>opportunist</keyword>
+    <keyword>epileptic</keyword>
+    <keyword>norman</keyword>
+    <keyword>family-abandonment</keyword>
+    <keyword>vigil</keyword>
+    <keyword>medieval</keyword>
+    <keyword>saloon-singer</keyword>
+    <keyword>benedictine</keyword>
+    <keyword>blackmail</keyword>
+    <keyword>grave</keyword>
+    <keyword>donation</keyword>
+    <keyword>treasure</keyword>
+    <keyword>guilt</keyword>
+    <keyword>1100s</keyword>
+    <keyword>investigation</keyword>
+    <keyword>trial-by-ordeal</keyword>
+    <keyword>raven</keyword>
+    <keyword>abbey</keyword>
+    <keyword>guardian</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>christmas</keyword>
+    <keyword>greed</keyword>
+    <keyword>gin</keyword>
+    <keyword>12th-century</keyword>
+    <keyword>whodunit</keyword>
+    <keyword>minstrel</keyword>
+    <keyword>rose-bush</keyword>
+    <keyword>irony</keyword>
+    <keyword>war-comrade</keyword>
+    <keyword>blacksmith</keyword>
+    <keyword>murder-by-drowning</keyword>
+    <keyword>remarriage</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Australia">M</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">26 December 1995</releasedate>
+    <releasedate country="USA">12 January 1995</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">75</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Grieve, Ken</director>
+    <director>Jones, Sebastian Graham</director>
+    <director>McMurray, Mary</director>
+    <director>Mowbray, Malcolm</director>
+    <director>Stroud, Richard</director>
+    <director>Theakston, Graham</director>
+    <director>Wise, Herbert</director>
+  </directors>
+  <producers>
+    <producer>Thompson, Neville C.</producer>
+    <producer>Childs, Ted (I)</producer>
+    <producer>Smallwood, Stephen (I)</producer>
+  </producers>
+  <writers>
+    <writer>Burke, Simon (II)</writer>
+    <writer>Lewis, Russell (I)</writer>
+    <writer>Rostul, Ben</writer>
+    <writer>Russell, Christopher (III)</writer>
+    <writer>Stoneman, Richard</writer>
+    <writer>Lewis, Russell (I)</writer>
+    <writer>Pargeter, Edith</writer>
+    <writer>Pender, Paul (II)</writer>
+    <writer>Russell, Christopher (III)</writer>
+  </writers>
+  <composers>
+    <composer>Towns, Colin</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abineri, Sebastian</actor>
+      <role>Godfrey Fuller</role>
+    </credit>
+    <credit>
+      <actor>Aldridge, Kitty</actor>
+      <role>Judith Perle</role>
+    </credit>
+    <credit>
+      <actor>Anholt, Christien</actor>
+      <role>Meriet</role>
+    </credit>
+    <credit>
+      <actor>Annett, Chloë</actor>
+      <role>Rosanna</role>
+    </credit>
+    <credit>
+      <actor>Ashton-Griffiths, Roger</actor>
+      <role>Thomas of Bristol</role>
+    </credit>
+    <credit>
+      <actor>Aubrey, Peter</actor>
+      <role>Peter</role>
+    </credit>
+    <credit>
+      <actor>Badel, Sarah</actor>
+      <role>Avice of Thornbury</role>
+    </credit>
+    <credit>
+      <actor>Badel, Sarah</actor>
+      <role>Sister Magdalen</role>
+    </credit>
+    <credit>
+      <actor>Baker, Frank (III)</actor>
+      <role>Rémy</role>
+    </credit>
+    <credit>
+      <actor>Bakó, Márta</actor>
+      <role>Madlen</role>
+    </credit>
+    <credit>
+      <actor>Baldwin, Peter (III)</actor>
+      <role>Prior Mortimer</role>
+    </credit>
+    <credit>
+      <actor>Bareham, Adam</actor>
+      <role>Cynric</role>
+    </credit>
+    <credit>
+      <actor>Barker, Tim (I)</actor>
+      <role>Reyner Dutton</role>
+    </credit>
+    <credit>
+      <actor>Barraclough, Roy</actor>
+      <role>Walter Aurifaber</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Sally (I)</actor>
+      <role>Sibil Bellecote</role>
+    </credit>
+    <credit>
+      <actor>Beard, Steven (I)</actor>
+      <role>Brother Anselm</role>
+    </credit>
+    <credit>
+      <actor>Beard, Steven (I)</actor>
+      <role>Brother Anselm</role>
+    </credit>
+    <credit>
+      <actor>Beesley, Terence</actor>
+      <role>Simeon Bagot</role>
+    </credit>
+    <credit>
+      <actor>Bennett, John (I)</actor>
+      <role>Lazarus the Leper</role>
+    </credit>
+    <credit>
+      <actor>Betts, Daniel</actor>
+      <role>Janyn</role>
+    </credit>
+    <credit>
+      <actor>Boardley, Freddie</actor>
+      <role>Brother Petrus</role>
+    </credit>
+    <credit>
+      <actor>Body, Gregory</actor>
+      <role>Kitchen Boy</role>
+    </credit>
+    <credit>
+      <actor>Bonham-Carter, Crispin</actor>
+      <role>Miles Coliar</role>
+    </credit>
+    <credit>
+      <actor>Bonneville, Hugh</actor>
+      <role>Daniel Aurifaber</role>
+    </credit>
+    <credit>
+      <actor>Booth, Roger (I)</actor>
+      <role>Baldwin Peche</role>
+    </credit>
+    <credit>
+      <actor>Bowler, John (I)</actor>
+      <role>Badon</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Niven</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Brennan, Patrick (III)</actor>
+      <role>John Boneth</role>
+    </credit>
+    <credit>
+      <actor>Broughton, Paul (I)</actor>
+      <role>Baron's Steward</role>
+    </credit>
+    <credit>
+      <actor>Burgess, Christian</actor>
+      <role>Adam Courcelle</role>
+    </credit>
+    <credit>
+      <actor>Cadman, Michael (I)</actor>
+      <role>FitzAlan</role>
+    </credit>
+    <credit>
+      <actor>Caple, Neil</actor>
+      <role>Alfred</role>
+    </credit>
+    <credit>
+      <actor>Caton, Juliette</actor>
+      <role>Godith/Godric</role>
+    </credit>
+    <credit>
+      <actor>Cavanah, Robert</actor>
+      <role>Olivier de Bretagne</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Sean (I)</actor>
+      <role>William/Edmund</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Charnock, Mark</actor>
+      <role>Brother Oswin</role>
+    </credit>
+    <credit>
+      <actor>Clifford, Richard</actor>
+      <role>Glover of Shotwick</role>
+    </credit>
+    <credit>
+      <actor>Copley, Peter</actor>
+      <role>Abbot Heribert</role>
+    </credit>
+    <credit>
+      <actor>Copley, Peter</actor>
+      <role>Abbot Herribert</role>
+    </credit>
+    <credit>
+      <actor>Copley, Peter</actor>
+      <role>Abbott Heribert</role>
+    </credit>
+    <credit>
+      <actor>Craig, Barney</actor>
+      <role>Luc</role>
+    </credit>
+    <credit>
+      <actor>Craig, Thomas (I)</actor>
+      <role>Aelfric</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Juliana Aurifaber</role>
+    </credit>
+    <credit>
+      <actor>Culver, Michael</actor>
+      <role>Prior Robert</role>
+    </credit>
+    <credit>
+      <actor>Culver, Michael</actor>
+      <role>Prior Robert</role>
+    </credit>
+    <credit>
+      <actor>Culver, Michael</actor>
+      <role>Prior Robert</role>
+    </credit>
+    <credit>
+      <actor>Culver, Michael</actor>
+      <role>Prior Robert</role>
+    </credit>
+    <credit>
+      <actor>Culver, Michael</actor>
+      <role>Prior Robert</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Amelia</actor>
+      <role>Ermina Hugonin</role>
+    </credit>
+    <credit>
+      <actor>Cusack, Catherine</actor>
+      <role>Catherine</role>
+    </credit>
+    <credit>
+      <actor>Dallimore, John</actor>
+      <role>Harald</role>
+    </credit>
+    <credit>
+      <actor>Defferary, Jacqueline</actor>
+      <role>Emma Vernold</role>
+    </credit>
+    <credit>
+      <actor>Delamere, Louise</actor>
+      <role>Daalny</role>
+    </credit>
+    <credit>
+      <actor>Duffy, Brigid (II)</actor>
+      <role>Branwen</role>
+    </credit>
+    <credit>
+      <actor>Dyer, Danny (I)</actor>
+      <role>Bran</role>
+    </credit>
+    <credit>
+      <actor>Eshley, Norman</actor>
+      <role>Baron Huon de Domville</role>
+    </credit>
+    <credit>
+      <actor>Firth, Jonathan</actor>
+      <role>Joscelyn</role>
+    </credit>
+    <credit>
+      <actor>Firth, Julian</actor>
+      <role>Brother Jerome</role>
+    </credit>
+    <credit>
+      <actor>Firth, Julian</actor>
+      <role>Brother Jerome</role>
+    </credit>
+    <credit>
+      <actor>Firth, Julian</actor>
+      <role>Brother Jerome</role>
+    </credit>
+    <credit>
+      <actor>Firth, Julian</actor>
+      <role>Brother Jerome</role>
+    </credit>
+    <credit>
+      <actor>Firth, Julian</actor>
+      <role>Brother Jerome</role>
+    </credit>
+    <credit>
+      <actor>Fitzgerald, Tara (I)</actor>
+      <role>Iveta de Massard</role>
+    </credit>
+    <credit>
+      <actor>Fitzherbert, Elizabeth</actor>
+      <role>Apparition</role>
+    </credit>
+    <credit>
+      <actor>Fleetwood, Susan</actor>
+      <role>Agnes Piccard</role>
+    </credit>
+    <credit>
+      <actor>Friel, Anna</actor>
+      <role>Sioned</role>
+    </credit>
+    <credit>
+      <actor>Gallagher, Bernard</actor>
+      <role>Gervase Bonel</role>
+    </credit>
+    <credit>
+      <actor>Garfield, David (II)</actor>
+      <role>Sergeant Rhys</role>
+    </credit>
+    <credit>
+      <actor>Garmon, Huw</actor>
+      <role>Meurig</role>
+    </credit>
+    <credit>
+      <actor>Georgeson, Tom</actor>
+      <role>Lord Giffard</role>
+    </credit>
+    <credit>
+      <actor>Gillies, Fiona</actor>
+      <role>Susanna Aurifaber</role>
+    </credit>
+    <credit>
+      <actor>Glover, Jamie (I)</actor>
+      <role>Simon</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Leoric Ashby</role>
+    </credit>
+    <credit>
+      <actor>Grandage, Michael</actor>
+      <role>King Stephen</role>
+    </credit>
+    <credit>
+      <actor>Green, Anthony (II)</actor>
+      <role>Lord Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>Green, Anthony (II)</actor>
+      <role>Lord Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>Green, Anthony (II)</actor>
+      <role>Lord Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>Green, Anthony (II)</actor>
+      <role>Sheriff Hugh Beringar (1997)</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Peter (I)</actor>
+      <role>Father Ailnoth</role>
+    </credit>
+    <credit>
+      <actor>Gyukár, Tibor</actor>
+      <role>Brother Porter</role>
+    </credit>
+    <credit>
+      <actor>Györi, Péter</actor>
+      <role>Daniel's Friend</role>
+    </credit>
+    <credit>
+      <actor>Hallam, John</actor>
+      <role>Lord Rhysart</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulfus</role>
+    </credit>
+    <credit>
+      <actor>Hardiman, Terrence</actor>
+      <role>Abbot Radulphus</role>
+    </credit>
+    <credit>
+      <actor>Harries, Davyd</actor>
+      <role>Presiding Judge</role>
+    </credit>
+    <credit>
+      <actor>Hastings, Nigel (I)</actor>
+      <role>Giles Siward</role>
+    </credit>
+    <credit>
+      <actor>Heather, Roy</actor>
+      <role>Wat the Innkeeper</role>
+    </credit>
+    <credit>
+      <actor>Henders, Richard</actor>
+      <role>Torold Blund</role>
+    </credit>
+    <credit>
+      <actor>Herbert, Philip</actor>
+      <role>Rabble Rouser</role>
+    </credit>
+    <credit>
+      <actor>Hickmott, Shane</actor>
+      <role>Brother Adam</role>
+    </credit>
+    <credit>
+      <actor>Holliday-Evans, Rupert</actor>
+      <role>Roger Dodd</role>
+    </credit>
+    <credit>
+      <actor>Hyde, Jonathan</actor>
+      <role>Godfrid Piccard</role>
+    </credit>
+    <credit>
+      <actor>Illyés, Barna</actor>
+      <role>Edward Perle</role>
+    </credit>
+    <credit>
+      <actor>Imre, István (II)</actor>
+      <role>Martin Bellecote</role>
+    </credit>
+    <credit>
+      <actor>Ingleby, Lee</actor>
+      <role>Walter</role>
+    </credit>
+    <credit>
+      <actor>Irving, George (II)</actor>
+      <role>Prior Herluin</role>
+    </credit>
+    <credit>
+      <actor>Jacobi, Derek</actor>
+      <role>Brother Cadfael</role>
+    </credit>
+    <credit>
+      <actor>Jacobi, Derek</actor>
+      <role>Brother Cadfael</role>
+    </credit>
+    <credit>
+      <actor>John, Terry (I)</actor>
+      <role>Fowler</role>
+    </credit>
+    <credit>
+      <actor>Jones, Ellis</actor>
+      <role>Father Ianto</role>
+    </credit>
+    <credit>
+      <actor>Jones, Natalie (III)</actor>
+      <role>Gunnild</role>
+    </credit>
+    <credit>
+      <actor>Jones, Sioned (I)</actor>
+      <role>Generys</role>
+    </credit>
+    <credit>
+      <actor>Jones, Toby (I)</actor>
+      <role>Griffin</role>
+    </credit>
+    <credit>
+      <actor>Kavanagh, Paul (I)</actor>
+      <role>Ralf</role>
+    </credit>
+    <credit>
+      <actor>Kirwood, Tony</actor>
+      <role>Warrin</role>
+    </credit>
+    <credit>
+      <actor>Klaff, Jack</actor>
+      <role>Lord Eudo Blount</role>
+    </credit>
+    <credit>
+      <actor>Kowalski, Stanley (I)</actor>
+      <role>Brother Mark</role>
+    </credit>
+    <credit>
+      <actor>Laing, Robin (II)</actor>
+      <role>Sulien Blount</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Sophie</actor>
+      <role>Aldith</role>
+    </credit>
+    <credit>
+      <actor>Leesley, Geoffrey</actor>
+      <role>Sheriff Prestcote</role>
+    </credit>
+    <credit>
+      <actor>Lintern, Richard</actor>
+      <role>Lord Beaumont</role>
+    </credit>
+    <credit>
+      <actor>Little, Natasha</actor>
+      <role>Melangell</role>
+    </credit>
+    <credit>
+      <actor>Llewellyn, Raymond</actor>
+      <role>Madog</role>
+    </credit>
+    <credit>
+      <actor>Llewellyn, Raymond</actor>
+      <role>Madog</role>
+    </credit>
+    <credit>
+      <actor>Llewellyn, Raymond</actor>
+      <role>Madog</role>
+    </credit>
+    <credit>
+      <actor>Mackintosh, Steven</actor>
+      <role>Liliwin</role>
+    </credit>
+    <credit>
+      <actor>Madarász, Éva</actor>
+      <role>Sister Hilaria</role>
+    </credit>
+    <credit>
+      <actor>Mannering, William</actor>
+      <role>Yves Hugonin</role>
+    </credit>
+    <credit>
+      <actor>Mannion, Tom</actor>
+      <role>Niall Bronzesmith</role>
+    </credit>
+    <credit>
+      <actor>Martin, Mel (I)</actor>
+      <role>Lady Astola Blount</role>
+    </credit>
+    <credit>
+      <actor>Mason, Margery</actor>
+      <role>Agatha Coliar</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Eoin</actor>
+      <role>Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Eoin</actor>
+      <role>Sheriff Beringar</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Eoin</actor>
+      <role>Sheriff Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>McElhone, Natascha</actor>
+      <role>Cecily Corde</role>
+    </credit>
+    <credit>
+      <actor>McGrath, Graham</actor>
+      <role>Brother Eluric</role>
+    </credit>
+    <credit>
+      <actor>McNeice, Ian</actor>
+      <role>Canon Eluard</role>
+    </credit>
+    <credit>
+      <actor>Mezey, Lajos</actor>
+      <role>William Hynde</role>
+    </credit>
+    <credit>
+      <actor>Miles, Maria (I)</actor>
+      <role>Margery Aurifaber</role>
+    </credit>
+    <credit>
+      <actor>Miller, Jonny Lee</actor>
+      <role>Edwin Gurney</role>
+    </credit>
+    <credit>
+      <actor>Miller, Mary (I)</actor>
+      <role>Richildis</role>
+    </credit>
+    <credit>
+      <actor>Millwood-Haigh, Louisa</actor>
+      <role>Isobel</role>
+    </credit>
+    <credit>
+      <actor>Moyer, Stephen (I)</actor>
+      <role>Godwin</role>
+    </credit>
+    <credit>
+      <actor>Neville, Bill</actor>
+      <role>Nicholas Faintree</role>
+    </credit>
+    <credit>
+      <actor>Nightingale, Michael (I)</actor>
+      <role>Ailwin Corde</role>
+    </credit>
+    <credit>
+      <actor>O'Hea, Brendan</actor>
+      <role>Philip Corviser</role>
+    </credit>
+    <credit>
+      <actor>Oates, Robert (I)</actor>
+      <role>Edric Flescher</role>
+    </credit>
+    <credit>
+      <actor>Oliver-Watts, Guy</actor>
+      <role>John Druel</role>
+    </credit>
+    <credit>
+      <actor>Papp, Zoltán (I)</actor>
+      <role>Captain Ten Heyt</role>
+    </credit>
+    <credit>
+      <actor>Patresi, Matt</actor>
+      <role>Ciaran</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Nick (I)</actor>
+      <role>Brother Columbanus</role>
+    </credit>
+    <credit>
+      <actor>Pelka, Valentine</actor>
+      <role>Richard Boterel</role>
+    </credit>
+    <credit>
+      <actor>Pertwee, Sean</actor>
+      <role>Hugh Beringar</role>
+    </credit>
+    <credit>
+      <actor>Pullen, Ben</actor>
+      <role>Ivo Corbiere</role>
+    </credit>
+    <credit>
+      <actor>Rawi, Raad</actor>
+      <role>Cassale</role>
+    </credit>
+    <credit>
+      <actor>Reddington, Ian</actor>
+      <role>Peter Clemence</role>
+    </credit>
+    <credit>
+      <actor>Richards, Aubrey</actor>
+      <role>Brother Rhys</role>
+    </credit>
+    <credit>
+      <actor>Ross Magenty, Adrian</actor>
+      <role>Guy</role>
+    </credit>
+    <credit>
+      <actor>Rowlands, Phil (I)</actor>
+      <role>Bened</role>
+    </credit>
+    <credit>
+      <actor>Sandiford, Benedict</actor>
+      <role>Tutilo</role>
+    </credit>
+    <credit>
+      <actor>Saunders, Greg (I)</actor>
+      <role>Tom Bellecote</role>
+    </credit>
+    <credit>
+      <actor>Spooner, Tony</actor>
+      <role>Falconer</role>
+    </credit>
+    <credit>
+      <actor>Suranyi, Adam</actor>
+      <role>Brother Urien</role>
+    </credit>
+    <credit>
+      <actor>Szilágyi, István (I)</actor>
+      <role>Boterel's Steward</role>
+    </credit>
+    <credit>
+      <actor>Tafler, Jonathan</actor>
+      <role>Money Lender</role>
+    </credit>
+    <credit>
+      <actor>Toomey, Patrick</actor>
+      <role>Tristan</role>
+    </credit>
+    <credit>
+      <actor>Trefor, Steffan</actor>
+      <role>Peredur</role>
+    </credit>
+    <credit>
+      <actor>Trussell, Paul</actor>
+      <role>Bertred</role>
+    </credit>
+    <credit>
+      <actor>Truter, Gregor</actor>
+      <role>Ruald</role>
+    </credit>
+    <credit>
+      <actor>Tysall, David</actor>
+      <role>Iestyn</role>
+    </credit>
+    <credit>
+      <actor>Téri, Sándor</actor>
+      <role>Adeney</role>
+    </credit>
+    <credit>
+      <actor>Urmai, Gábor</actor>
+      <role>Jehan</role>
+    </credit>
+    <credit>
+      <actor>Urmai, Gábor</actor>
+      <role>Jehan</role>
+    </credit>
+    <credit>
+      <actor>Urmai, Gábor</actor>
+      <role>Jehan</role>
+    </credit>
+    <credit>
+      <actor>Varga, Tamás (I)</actor>
+      <role>Fairground Carter</role>
+    </credit>
+    <credit>
+      <actor>Vibert, Ronan</actor>
+      <role>Le Gaucher</role>
+    </credit>
+    <credit>
+      <actor>Whitby, Martyn</actor>
+      <role>Alfred</role>
+    </credit>
+    <credit>
+      <actor>Whitby, Paul</actor>
+      <role>Thomas Hynde</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sargeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Woodington, Albie</actor>
+      <role>Sergeant Warden</role>
+    </credit>
+    <credit>
+      <actor>Wylton, Tim</actor>
+      <role>Geoffrey Corviser</role>
+    </credit>
+    <credit>
+      <actor>Young, Jeremy (I)</actor>
+      <role>Arnulf of Hesdin</role>
+    </credit>
+  </cast>
+<plot>At and around the Shewsberry abbey, Brother Cadfael is a monk with a difference. Given a choice, he would enjoy just being a simple gardener and herbalist for his home. However too often, events force him to use his other talent as a master sleuth in response to mysterious crimes happening in his community. While he investigates these crimes, he often finds himself at odds with the contemporary attitudes of the times with his own ahead of his time beliefs.</plot><url>http://localhost:8983/solr/movie.html?090198</url></doc>

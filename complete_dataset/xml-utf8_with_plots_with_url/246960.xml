@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="246960">
+  <docid>246960</docid>
+  <title>Hotel</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>French</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">10 July 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Blouin, Francois</director>
+  </directors>
+  <producers>
+    <producer>Barbeau, Paul</producer>
+  </producers>
+  <writers>
+    <writer>Blouin, François</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Boucher, Daniel (I)</actor>
+      <role>Man</role>
+    </credit>
+  </cast>
+<plot>On the river shore, in a motel room, a guy learns that his girlfriend is not coming back, that he will no more be able to call her HIS girlfriend. It's over. The relation is over. Alone, he tries to change his mind. He's looking for his girlfriend that is no longer there. Maybe he's even trying to find her, alone, in a motel room.</plot><url>http://localhost:8983/solr/movie.html?246960</url></doc>

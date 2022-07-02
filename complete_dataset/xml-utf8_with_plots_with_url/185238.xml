@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="185238">
+  <docid>185238</docid>
+  <title>Exemplo Regenerador</title>
+  <year>1919</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Brazil</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Medina, José (I)</director>
+  </directors>
+  <producers>
+    <producer>Rossi, Gilberto</producer>
+  </producers>
+  <writers>
+    <writer>Medina, José (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ferreira, Carlos (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Laís, Lúcia</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moreno, Waldemar</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>de Castro, J. Guedes</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>On the day of the first anniversary of their marriage, an upper class man leaves his wife alone again to go to a "conference". Their butler gives an advice to her, proposing "an eye for an eye" to save their marriage. The husband receives a note written by her and comes back home, finding his pleased wife drinking and smoking with the butler. From this night on, he stays at home with his beloved wife</plot><url>http://localhost:8983/solr/movie.html?185238</url></doc>

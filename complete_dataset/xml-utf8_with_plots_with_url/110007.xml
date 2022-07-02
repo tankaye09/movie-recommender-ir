@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="110007">
+  <docid>110007</docid>
+  <title>Code Monkeys</title>
+  <year>2007</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">TV-14</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">19 September 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>De La Peña, Adam</director>
+  </directors>
+  <producers>
+    <producer>Lal, Keith</producer>
+    <producer>Dameshek, David</producer>
+    <producer>Eilenberg, David</producer>
+    <producer>Gutin, Laura</producer>
+    <producer>Jordan, Jason (I)</producer>
+    <producer>Kelly, Joe (XIX)</producer>
+    <producer>Lawton, Matthew (I)</producer>
+    <producer>Martin, Dan (IX)</producer>
+    <producer>Martin, Dan (XII)</producer>
+    <producer>Phillips, Glasgow</producer>
+    <producer>Weiner, Joshua</producer>
+    <producer>McNeil, Gretchen</producer>
+    <producer>De La Peña, Adam</producer>
+    <producer>Strickland, Tony</producer>
+    <producer>McNeil, Gretchen</producer>
+    <producer>Gore, Jennifer Saxon</producer>
+    <producer>Strickland, Tony</producer>
+  </producers>
+  <writers>
+    <writer>De La Peña, Adam</writer>
+  </writers>
+  <composers>
+    <composer>Kaplan, Al</composer>
+    <composer>Kaplan, Jon (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Acquaviva Jr., Billy</actor>
+      <role>Hitler Film Narrator</role>
+    </credit>
+    <credit>
+      <actor>Acquaviva Jr., Billy</actor>
+      <role>Neil Horowitz</role>
+    </credit>
+    <credit>
+      <actor>Boon, Ed</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Burns, Burnie</actor>
+      <role>Blue Guard</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Bulk Brogan</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Construction Worker</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Jeff</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Nerdling #2</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Producer</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Salesman</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Secret Service Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Store Clerk</role>
+    </credit>
+    <credit>
+      <actor>Busby, Tommy</actor>
+      <role>Suit Guy</role>
+    </credit>
+    <credit>
+      <actor>Bushnell, Nolan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Scott (VII)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Casey, Stacey</actor>
+      <role>Social Worker #1</role>
+    </credit>
+    <credit>
+      <actor>Chong, Tommy</actor>
+      <role>Laird Boony</role>
+    </credit>
+    <credit>
+      <actor>Connor, Christine (II)</actor>
+      <role>Dr. Masterson</role>
+    </credit>
+    <credit>
+      <actor>Connor, Christine (II)</actor>
+      <role>Ms. Teschmacher</role>
+    </credit>
+    <credit>
+      <actor>Dameshek, David</actor>
+      <role>Boba Phat</role>
+    </credit>
+    <credit>
+      <actor>Dameshek, David</actor>
+      <role>Darth Vader</role>
+    </credit>
+    <credit>
+      <actor>Dameshek, David</actor>
+      <role>Delivery Man</role>
+    </credit>
+    <credit>
+      <actor>Dameshek, David</actor>
+      <role>The Hog</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Bonedog</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Dave</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Dave</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Dave's Mom</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Snowball</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Teddy</role>
+    </credit>
+    <credit>
+      <actor>De La Peña, Adam</actor>
+      <role>Vampire</role>
+    </credit>
+    <credit>
+      <actor>Diosdado, Adam</actor>
+      <role>Gay Yakuza</role>
+    </credit>
+    <credit>
+      <actor>Diosdado, Adam</actor>
+      <role>Opie</role>
+    </credit>
+    <credit>
+      <actor>Duguay, Rachel</actor>
+      <role>Dolly Parton</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Chris (I)</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Clay</actor>
+      <role>Sonar Officer</role>
+    </credit>
+    <credit>
+      <actor>Gutin, Laura</actor>
+      <role>Barbara Walters</role>
+    </credit>
+    <credit>
+      <actor>Gygax, E. Gary</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Heyman, Joel</actor>
+      <role>Head Guard</role>
+    </credit>
+    <credit>
+      <actor>Hullum, Matt</actor>
+      <role>Red Guard</role>
+    </credit>
+    <credit>
+      <actor>Hurley, Steve (II)</actor>
+      <role>Lucifex</role>
+    </credit>
+    <credit>
+      <actor>Isao</actor>
+      <role>Noshi</role>
+    </credit>
+    <credit>
+      <actor>Isao</actor>
+      <role>Yogetsu</role>
+    </credit>
+    <credit>
+      <actor>Ivy, Howell</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jaffe, David (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Keilly, Suzanne</actor>
+      <role>Clare</role>
+    </credit>
+    <credit>
+      <actor>Keilly, Suzanne</actor>
+      <role>Clare</role>
+    </credit>
+    <credit>
+      <actor>Keilly, Suzanne</actor>
+      <role>Clare</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Joe (XII)</actor>
+      <role>Cereal Killer</role>
+    </credit>
+    <credit>
+      <actor>Kushi, Blake</actor>
+      <role>Takeda</role>
+    </credit>
+    <credit>
+      <actor>Kushi, Blake</actor>
+      <role>Yamada</role>
+    </credit>
+    <credit>
+      <actor>Lal, Keith</actor>
+      <role>Dr. Gupta</role>
+    </credit>
+    <credit>
+      <actor>Lal, Keith</actor>
+      <role>Rookie Cop</role>
+    </credit>
+    <credit>
+      <actor>Lal, Keith</actor>
+      <role>Whip Master</role>
+    </credit>
+    <credit>
+      <actor>Lanning, Lorne</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Sandra (III)</actor>
+      <role>Bea Arthur</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Sandra (III)</actor>
+      <role>Nancy Reagan</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matt</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matt</actor>
+      <role>John Hinckley</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matt</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matt</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matthew (I)</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Lawton, Matthew (I)</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>MacKinnon, Jesse</actor>
+      <role>Bellecovision Schlub</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Anthony Michael Hall</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Jerry</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Jerry</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Jerry</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Jerry/Remus</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Randy Ravage</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Seth Rubix</role>
+    </credit>
+    <credit>
+      <actor>Mariska, Matt</actor>
+      <role>Sneaks</role>
+    </credit>
+    <credit>
+      <actor>McCrory, B.J.</actor>
+      <role>Hondo</role>
+    </credit>
+    <credit>
+      <actor>McCrory, B.J.</actor>
+      <role>Johnny Cochran</role>
+    </credit>
+    <credit>
+      <actor>McCrory, B.J.</actor>
+      <role>Ronnie Jean</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Gretchen</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Gretchen</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Gretchen</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Gretchen</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Cafeteria Worker</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Hooker</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Misty</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Molly Ringwald</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Stripper</role>
+    </credit>
+    <credit>
+      <actor>Meyerson, Jessica</actor>
+      <role>Truck Stop Gal</role>
+    </credit>
+    <credit>
+      <actor>Mizuno, Taishi</actor>
+      <role>Matsui</role>
+    </credit>
+    <credit>
+      <actor>Nandy, Amos</actor>
+      <role>Judge Wapner</role>
+    </credit>
+    <credit>
+      <actor>Phi, Mike</actor>
+      <role>Bellecovision Employee</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Glasgow</actor>
+      <role>Grotini</role>
+    </credit>
+    <credit>
+      <actor>Pinsky, Drew</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Raff, Paul (I)</actor>
+      <role>Blackie</role>
+    </credit>
+    <credit>
+      <actor>Raff, Paul (I)</actor>
+      <role>President Reagan</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Dennis Hopper</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Harrison Ford</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Judd Nelson</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Sean</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Travis Bickle</role>
+    </credit>
+    <credit>
+      <actor>Raimi, Ted</actor>
+      <role>Ugly</role>
+    </credit>
+    <credit>
+      <actor>Romero, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Santiago, Donovan</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Santiago, Donovan</actor>
+      <role>Salary Man</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Larrity</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Larrity</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Larrity</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Massive Pussy</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Sergeant Murder</role>
+    </credit>
+    <credit>
+      <actor>Sipes, Andrew (II)</actor>
+      <role>Steve Jobs</role>
+    </credit>
+    <credit>
+      <actor>Snyder, Dana (II)</actor>
+      <role>Todd</role>
+    </credit>
+    <credit>
+      <actor>Snyder, Dana (II)</actor>
+      <role>Todd</role>
+    </credit>
+    <credit>
+      <actor>Snyder, Dana (II)</actor>
+      <role>Todd</role>
+    </credit>
+    <credit>
+      <actor>Snyder, Dana (II)</actor>
+      <role>Warden Shank</role>
+    </credit>
+    <credit>
+      <actor>Spahr, Todd</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Strickland, Tony</actor>
+      <role>Black Steve</role>
+    </credit>
+    <credit>
+      <actor>Strickland, Tony</actor>
+      <role>Black Steve</role>
+    </credit>
+    <credit>
+      <actor>Strickland, Tony</actor>
+      <role>Black Steve</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Chinese Man</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Fall Guy</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Gary Busey</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Gill Bates</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Hitler</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Police Captain</role>
+    </credit>
+    <credit>
+      <actor>Tiberius, James</actor>
+      <role>Steve Ploznik</role>
+    </credit>
+    <credit>
+      <actor>Tubbins, Lionel</actor>
+      <role>Clarence</role>
+    </credit>
+    <credit>
+      <actor>Tubbins, Lionel</actor>
+      <role>Clarence</role>
+    </credit>
+    <credit>
+      <actor>Tubbins, Lionel</actor>
+      <role>Clarence</role>
+    </credit>
+    <credit>
+      <actor>Tubbins, Lionel</actor>
+      <role>Clarence</role>
+    </credit>
+    <credit>
+      <actor>Tubbins, Lionel</actor>
+      <role>Psych Doctor</role>
+    </credit>
+    <credit>
+      <actor>Warshaw, Howard Scott</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wozniak, Steve</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Zumwalt, Jason</actor>
+      <role>Boris</role>
+    </credit>
+    <credit>
+      <actor>de la Pena, Ariz</actor>
+      <role>Nerdling #1</role>
+    </credit>
+    <credit>
+      <actor>de la Pena, Ariz</actor>
+      <role>Random Employee</role>
+    </credit>
+  </cast>
+<plot>Code Monkeys is an animated comedy about Dave and Jerry, two video game makers who have just got jobs at a company called Gameavision. What the two didn't know was that their new boss, Mr. Larrity, is crazy. Watch as Dave and Jerry go through a multitude of misadventures at their new jobs at Gameavision.</plot><url>http://localhost:8983/solr/movie.html?110007</url></doc>

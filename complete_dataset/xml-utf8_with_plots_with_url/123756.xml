@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="123756">
+  <docid>123756</docid>
+  <title>Daburusu</title>
+  <year>2001</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Kikuchi, Junichi</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>Japanese</language>
+  </languages>
+  <countries>
+    <country>Japan</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Japan">21 April 2001</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">91</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Isaka, Satoshi</director>
+  </directors>
+  <writers>
+    <writer>Azuma, Masayoshi</writer>
+    <writer>Yonemura, Shoji</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Hagiwara, Kenichi</actor>
+      <role>Key</role>
+    </credit>
+    <credit>
+      <actor>Kawahara, Ayako</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Suzuki, Kazuma</actor>
+      <role>Gun</role>
+    </credit>
+  </cast>
+<plot>A hard-up locksmith and a vengeful computer nerd meet online, adopting the monikers Key and Gun respectively. Together they hatch a perfect heist against a consulting company -- Gun's former employer. At first everything goes perfectly. Gun's expert hacking from his laptop and Key's veteran touch quickly open the safe. Unfortunately, an overzealous security guard makes an unscheduled visit. After dispatching him, the two flee to the closest elevator, only to get stuck between the eighth and ninth floors.</plot><url>http://localhost:8983/solr/movie.html?123756</url></doc>

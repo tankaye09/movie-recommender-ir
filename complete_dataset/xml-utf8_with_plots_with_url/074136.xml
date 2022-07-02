@@ -1,0 +1,3180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="074136">
+  <docid>074136</docid>
+  <title>Blakes 7</title>
+  <year>1978</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Adams, M.A.C.</editor>
+    <editor>Martin, David (II)</editor>
+    <editor>Sharpe, Martin (I)</editor>
+    <editor>Smith, John S.</editor>
+    <editor>Tomlinson, Sheila S.</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>spaceship-collision</keyword>
+    <keyword>digit-in-title</keyword>
+    <keyword>cliffhanger</keyword>
+    <keyword>spacecraft</keyword>
+    <keyword>secret-base</keyword>
+    <keyword>intergalactic-travel</keyword>
+    <keyword>coup-d'état</keyword>
+    <keyword>shape-shifting-alien</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>traitor</keyword>
+    <keyword>teleportation</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>series-finale</keyword>
+    <keyword>sabotage</keyword>
+    <keyword>returning-character-killed-off</keyword>
+    <keyword>wobbly-sets</keyword>
+    <keyword>space-station</keyword>
+    <keyword>andromeda-galaxy</keyword>
+    <keyword>alien-invasion</keyword>
+    <keyword>minefield</keyword>
+    <keyword>cult-tv</keyword>
+    <keyword>sequel</keyword>
+    <keyword>characters-killed-in-final-episode</keyword>
+    <keyword>futuristic</keyword>
+    <keyword>explosive</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Canada</country>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">U</certificate>
+    <certificate country="Australia">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">15 May 1979</releasedate>
+    <releasedate country="Spain">16 August 1981</releasedate>
+    <releasedate country="UK">23 January 1979</releasedate>
+    <releasedate country="New Zealand">21 June 2001</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="UK">52</runningtime>
+    <runningtime country="default">52</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Blake, Gerald (II)</director>
+    <director>Briant, Michael E.</director>
+    <director>Camfield, Douglas</director>
+    <director>Cozens, Vivienne</director>
+    <director>Cumming, Fiona</director>
+    <director>Lighthill, Brian</director>
+    <director>Lorrimer, Vere</director>
+    <director>Maloney, David</director>
+    <director>Martinus, Derek</director>
+    <director>McCarthy, Desmond</director>
+    <director>Morgan, Andrew (I)</director>
+    <director>Proudfoot, David Sullivan</director>
+    <director>Ridge, Mary</director>
+    <director>Ritelis, Viktors</director>
+    <director>Roberts, Pennant</director>
+    <director>Spenton-Foster, George</director>
+    <director>Wright-Miller, Jonathan</director>
+  </directors>
+  <producers>
+    <producer>Lorrimer, Vere</producer>
+    <producer>Maloney, David</producer>
+  </producers>
+  <writers>
+    <writer>Beacham, Rod</writer>
+    <writer>Boucher, Chris (I)</writer>
+    <writer>Davis, Colin (III)</writer>
+    <writer>Follett, James (I)</writer>
+    <writer>Holmes, Robert (II)</writer>
+    <writer>Hoyle, Trevor</writer>
+    <writer>Lee, Tanith</writer>
+    <writer>Lyons, Bill</writer>
+    <writer>Masters, Simon</writer>
+    <writer>Nation, Terry</writer>
+    <writer>Parkes, Roger</writer>
+    <writer>Prior, Allan (I)</writer>
+    <writer>Steed, Ben</writer>
+  </writers>
+  <composers>
+    <composer>Simpson, Dudley</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abineri, John</actor>
+      <role>Ushton</role>
+    </credit>
+    <credit>
+      <actor>Adam, Keith</actor>
+      <role>Pyroan</role>
+    </credit>
+    <credit>
+      <actor>Adams, Leslie (II)</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Alan, Mark (I)</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Lindy</actor>
+      <role>Ralli</role>
+    </credit>
+    <credit>
+      <actor>Allington, Mark</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Angadi, Darien</actor>
+      <role>Ro</role>
+    </credit>
+    <credit>
+      <actor>Annandale, Mark (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Appleton, Cyril</actor>
+      <role>Sgt. Hask</role>
+    </credit>
+    <credit>
+      <actor>Apted, Karen</actor>
+      <role>Customer/Gambler</role>
+    </credit>
+    <credit>
+      <actor>Arbisman, Franklyn</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Gareth</actor>
+      <role>Parton</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Robert (I)</actor>
+      <role>Sergeant Selson</role>
+    </credit>
+    <credit>
+      <actor>Ashworth, Dicken</actor>
+      <role>Gunn-Sar</role>
+    </credit>
+    <credit>
+      <actor>Aston, John (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Atkinson, Sarah (I)</actor>
+      <role>Franton</role>
+    </credit>
+    <credit>
+      <actor>Attard, Peter</actor>
+      <role>Benos</role>
+    </credit>
+    <credit>
+      <actor>Augins, Charles</actor>
+      <role>Lod</role>
+    </credit>
+    <credit>
+      <actor>Bache, David</actor>
+      <role>Avon's Brother/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Bacon, Norman</actor>
+      <role>Cevedic's Heavy</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Gillian (I)</actor>
+      <role>Ravella</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Rosalind</actor>
+      <role>Gambit</role>
+    </credit>
+    <credit>
+      <actor>Bailie, David</actor>
+      <role>Chevner</role>
+    </credit>
+    <credit>
+      <actor>Baker, Colin (I)</actor>
+      <role>Bayban</role>
+    </credit>
+    <credit>
+      <actor>Baker, Del (I)</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Baker, John (I)</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>Barber, Glynis</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Barber, Glynis</actor>
+      <role>Soolin</role>
+    </credit>
+    <credit>
+      <actor>Barber, Glynis</actor>
+      <role>Soolin</role>
+    </credit>
+    <credit>
+      <actor>Barr, Linda</actor>
+      <role>Luxia</role>
+    </credit>
+    <credit>
+      <actor>Barratt, Mark (II)</actor>
+      <role>Servalan's Captain</role>
+    </credit>
+    <credit>
+      <actor>Barrie, Clive</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Barritt, Ian</actor>
+      <role>Ultra 3</role>
+    </credit>
+    <credit>
+      <actor>Barry, Morris</actor>
+      <role>Dr. Wiler</role>
+    </credit>
+    <credit>
+      <actor>Barry, Paul (IX)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Bartlett, David (IV)</actor>
+      <role>Medical Orderly</role>
+    </credit>
+    <credit>
+      <actor>Bassett, Paul (II)</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Bauer, Michael (VIII)</actor>
+      <role>Cabin Bounty Hunter/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Beale, Richard</actor>
+      <role>Saymon</role>
+    </credit>
+    <credit>
+      <actor>Beatty, Robert (I)</actor>
+      <role>Bran Foster</role>
+    </credit>
+    <credit>
+      <actor>Bebb, Richard</actor>
+      <role>Ven Glynd</role>
+    </credit>
+    <credit>
+      <actor>Bellingham, Lynda</actor>
+      <role>Vena</role>
+    </credit>
+    <credit>
+      <actor>Benfield, Peter</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Bennett, John (I)</actor>
+      <role>Coser</role>
+    </credit>
+    <credit>
+      <actor>Berkshire, Sue</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Bevan, Stewart</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Bird, Doyne</actor>
+      <role>Harmon</role>
+    </credit>
+    <credit>
+      <actor>Bird, Doyne</actor>
+      <role>Harmon</role>
+    </credit>
+    <credit>
+      <actor>Bishop, Sue (I)</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Bishop, Sue (I)</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Blackwood, Adam</actor>
+      <role>Tok</role>
+    </credit>
+    <credit>
+      <actor>Blair, Isla</actor>
+      <role>Sinofar</role>
+    </credit>
+    <credit>
+      <actor>Blatch, Helen</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Blatch, Helen</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Bleasdale, Ian</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Blessed, Brian</actor>
+      <role>Vargas</role>
+    </credit>
+    <credit>
+      <actor>Bloomfield, Philip</actor>
+      <role>Balon</role>
+    </credit>
+    <credit>
+      <actor>Blythe, Debbi</actor>
+      <role>Poola</role>
+    </credit>
+    <credit>
+      <actor>Bowerman, Alan</actor>
+      <role>Battle Fleet Commander</role>
+    </credit>
+    <credit>
+      <actor>Bown, John</actor>
+      <role>Durkim</role>
+    </credit>
+    <credit>
+      <actor>Boyce, David (I)</actor>
+      <role>Og</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Roy</actor>
+      <role>Zukan</role>
+    </credit>
+    <credit>
+      <actor>Bradshaw, Chris (I)</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Branche, Derrick</actor>
+      <role>Amagon Guard</role>
+    </credit>
+    <credit>
+      <actor>Brattle, John</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Briggs, Johanna</actor>
+      <role>Cally/Zelda</role>
+    </credit>
+    <credit>
+      <actor>Brimble, Nick</actor>
+      <role>General</role>
+    </credit>
+    <credit>
+      <actor>Brook, Terence</actor>
+      <role>Hommik Warrior</role>
+    </credit>
+    <credit>
+      <actor>Broome, Derek</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Brown, Antony (I)</actor>
+      <role>Doctor Slaten</role>
+    </credit>
+    <credit>
+      <actor>Brown, Bobbie (II)</actor>
+      <role>Zeeona</role>
+    </credit>
+    <credit>
+      <actor>Browne, David (I)</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Browne, David (I)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Browne, Michael Gordon</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Browne, Michael Gordon</actor>
+      <role>Laboratory Technician</role>
+    </credit>
+    <credit>
+      <actor>Bryans, John (I)</actor>
+      <role>Senator Bercol</role>
+    </credit>
+    <credit>
+      <actor>Bryans, John (I)</actor>
+      <role>Senator Bercol</role>
+    </credit>
+    <credit>
+      <actor>Bryans, John (I)</actor>
+      <role>Shrinker</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Monique</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Bullivant, Malcolm</actor>
+      <role>Bershar</role>
+    </credit>
+    <credit>
+      <actor>Bunsford, Nikki</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Burch, Karen</actor>
+      <role>Pyroan</role>
+    </credit>
+    <credit>
+      <actor>Burgess, Adrienne</actor>
+      <role>Hanna</role>
+    </credit>
+    <credit>
+      <actor>Burridge, Geoffrey</actor>
+      <role>Dorian</role>
+    </credit>
+    <credit>
+      <actor>Burt, Andrew (I)</actor>
+      <role>Ven Jarvik</role>
+    </credit>
+    <credit>
+      <actor>Butler, Alan (II)</actor>
+      <role>Dal Richie</role>
+    </credit>
+    <credit>
+      <actor>Butler, Pat (V)</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Buxton, Judy</actor>
+      <role>Inga</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Peter (I)</actor>
+      <role>Justin</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Toby (I)</actor>
+      <role>Albian Rebel</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Toby (I)</actor>
+      <role>Zondawl Citizen</role>
+    </credit>
+    <credit>
+      <actor>Byron, Kathleen</actor>
+      <role>Clonemaster Fen</role>
+    </credit>
+    <credit>
+      <actor>Callender, Bruce</actor>
+      <role>Adapted Helot</role>
+    </credit>
+    <credit>
+      <actor>Cann, David</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Cannon, John (X)</actor>
+      <role>Cevedic's Heavy</role>
+    </credit>
+    <credit>
+      <actor>Cannon, John (X)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Cannon, John (X)</actor>
+      <role>Labourer</role>
+    </credit>
+    <credit>
+      <actor>Capron, Brian</actor>
+      <role>Rafford</role>
+    </credit>
+    <credit>
+      <actor>Cardiff, Rodney</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Carey, Denis (I)</actor>
+      <role>Docholli</role>
+    </credit>
+    <credit>
+      <actor>Carney, John J.</actor>
+      <role>Sherm</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Celestine</actor>
+      <role>Walk-on</role>
+    </credit>
+    <credit>
+      <actor>Caton, Peter (II)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Caton, Peter (II)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Caunter, Tony</actor>
+      <role>Ensor Jr</role>
+    </credit>
+    <credit>
+      <actor>Caunter, Tony</actor>
+      <role>Ensor Jr.</role>
+    </credit>
+    <credit>
+      <actor>Cecil, Hugh</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Chadbon, Tom</actor>
+      <role>Del Grant</role>
+    </credit>
+    <credit>
+      <actor>Chaney, Ray</actor>
+      <role>Joson - Technician at Autopsy</role>
+    </credit>
+    <credit>
+      <actor>Channon, Jean</actor>
+      <role>Zondawl Citizen</role>
+    </credit>
+    <credit>
+      <actor>Chappell, Jan</actor>
+      <role>Cally</role>
+    </credit>
+    <credit>
+      <actor>Chappell, Jan</actor>
+      <role>Cally</role>
+    </credit>
+    <credit>
+      <actor>Chappell, Jan</actor>
+      <role>Cally</role>
+    </credit>
+    <credit>
+      <actor>Chappell, Jan</actor>
+      <role>Cally/Zelda</role>
+    </credit>
+    <credit>
+      <actor>Charles, David (VII)</actor>
+      <role>Alta Guard/Slave</role>
+    </credit>
+    <credit>
+      <actor>Charles, David (VII)</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Charles, David (VII)</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Charles, David (VII)</actor>
+      <role>Subterron</role>
+    </credit>
+    <credit>
+      <actor>Chase, Catherine (III)</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Childs, Peter (I)</actor>
+      <role>Arco</role>
+    </credit>
+    <credit>
+      <actor>Christian, David (III)</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Christopher, Tony (VI)</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Clamp, John</actor>
+      <role>Convict</role>
+    </credit>
+    <credit>
+      <actor>Clare, Ina</actor>
+      <role>Zondawl Citizen</role>
+    </credit>
+    <credit>
+      <actor>Clare, Peter</actor>
+      <role>Alta Guard/Slave</role>
+    </credit>
+    <credit>
+      <actor>Clark, Les (III)</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Clark, Les (III)</actor>
+      <role>Pirate</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Martin (I)</actor>
+      <role>Native</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Trisha (I)</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Clay, Peter (I)</actor>
+      <role>Chesku</role>
+    </credit>
+    <credit>
+      <actor>Clifford, Richard</actor>
+      <role>Toron</role>
+    </credit>
+    <credit>
+      <actor>Clifton, Lisa (I)</actor>
+      <role>Space Rat</role>
+    </credit>
+    <credit>
+      <actor>Clover, Val</actor>
+      <role>Mourner</role>
+    </credit>
+    <credit>
+      <actor>Clover, Val</actor>
+      <role>Patient in Hospital Ship</role>
+    </credit>
+    <credit>
+      <actor>Cohen, Gilda (I)</actor>
+      <role>Decima</role>
+    </credit>
+    <credit>
+      <actor>Cole, Graham (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Cole, Graham (I)</actor>
+      <role>Gerren's Associate</role>
+    </credit>
+    <credit>
+      <actor>Coleridge, Kate</actor>
+      <role>Levett</role>
+    </credit>
+    <credit>
+      <actor>Coleridge, Sylvia</actor>
+      <role>Croupier</role>
+    </credit>
+    <credit>
+      <actor>Collings, David</actor>
+      <role>Deva</role>
+    </credit>
+    <credit>
+      <actor>Collings, David</actor>
+      <role>Deva</role>
+    </credit>
+    <credit>
+      <actor>Collins, Mark (XIII)</actor>
+      <role>Armed Crewman</role>
+    </credit>
+    <credit>
+      <actor>Collins, Vaughan</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Compton, Philip</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Connor, Martin (II)</actor>
+      <role>Berg</role>
+    </credit>
+    <credit>
+      <actor>Connor, Maurice</actor>
+      <role>Space Princess Guard</role>
+    </credit>
+    <credit>
+      <actor>Conrad, Les</actor>
+      <role>Space Princess Guard/Passenger</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Karen (II)</actor>
+      <role>Customer/Gambler</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Karen (II)</actor>
+      <role>Mourner</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Karen (II)</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Karen (II)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Coyle, James (I)</actor>
+      <role>Molok</role>
+    </credit>
+    <credit>
+      <actor>Crane, Michael (I)</actor>
+      <role>Mall</role>
+    </credit>
+    <credit>
+      <actor>Crane, Michael (I)</actor>
+      <role>Mall</role>
+    </credit>
+    <credit>
+      <actor>Craze, Peter</actor>
+      <role>Prell</role>
+    </credit>
+    <credit>
+      <actor>Craze, Peter</actor>
+      <role>Servalan's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Keezarn Native</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Crisp, Alan</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Crosland, Sue</actor>
+      <role>Jenna Stannis</role>
+    </credit>
+    <credit>
+      <actor>Croucher, Brian</actor>
+      <role>Space Commander Travis</role>
+    </credit>
+    <credit>
+      <actor>Croucher, Brian</actor>
+      <role>Space Commander Travis</role>
+    </credit>
+    <credit>
+      <actor>Croucher, Brian</actor>
+      <role>Space Commander Travis</role>
+    </credit>
+    <credit>
+      <actor>Croucher, Brian</actor>
+      <role>Travis</role>
+    </credit>
+    <credit>
+      <actor>Croucher, Brian</actor>
+      <role>Travis</role>
+    </credit>
+    <credit>
+      <actor>Crowne, Judy</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Cryer, Geoff</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Ian</actor>
+      <role>Base Commander Escon</role>
+    </credit>
+    <credit>
+      <actor>Curry, John (III)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Curry, John (III)</actor>
+      <role>Slave</role>
+    </credit>
+    <credit>
+      <actor>Curry, Shaun (I)</actor>
+      <role>Rod</role>
+    </credit>
+    <credit>
+      <actor>Daly, Keith</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Daneman, Paul</actor>
+      <role>Dr. Bellfriar</role>
+    </credit>
+    <credit>
+      <actor>Daniels, Bookie</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Darrow, Paul</actor>
+      <role>Kerr Avon</role>
+    </credit>
+    <credit>
+      <actor>Darrow, Paul</actor>
+      <role>Kerr Avon</role>
+    </credit>
+    <credit>
+      <actor>Dastor, Sam</actor>
+      <role>The Caliph</role>
+    </credit>
+    <credit>
+      <actor>David, Jonathan (I)</actor>
+      <role>Don Keller</role>
+    </credit>
+    <credit>
+      <actor>Davies, Hywel (II)</actor>
+      <role>Interceptor Leader</role>
+    </credit>
+    <credit>
+      <actor>Davies, Sam (I)</actor>
+      <role>Carlon</role>
+    </credit>
+    <credit>
+      <actor>Dempsey, Andy</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Dempsey, Andy</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Denham, Barbie</actor>
+      <role>Pyroan</role>
+    </credit>
+    <credit>
+      <actor>Denton, Russell</actor>
+      <role>Milus</role>
+    </credit>
+    <credit>
+      <actor>Dickson, Hugh</actor>
+      <role>Keldon Traffic Controller</role>
+    </credit>
+    <credit>
+      <actor>Dickson, Neil (I)</actor>
+      <role>Avandir</role>
+    </credit>
+    <credit>
+      <actor>Diggins, Cliff</actor>
+      <role>Albian Rebel/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Diggins, Cliff</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Dobtcheff, Vernon</actor>
+      <role>The Chairman</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Christopher (III)</actor>
+      <role>Leader One/Leader Three</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donald (III)</actor>
+      <role>Major Grenlee</role>
+    </credit>
+    <credit>
+      <actor>Dowdall, Jim</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Dowdall, Jim</actor>
+      <role>Space Rat</role>
+    </credit>
+    <credit>
+      <actor>Dukes, Peter (III)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Colin</actor>
+      <role>Guard Commander</role>
+    </credit>
+    <credit>
+      <actor>Duran, Terry</actor>
+      <role>Hommik</role>
+    </credit>
+    <credit>
+      <actor>Dyall, Valentine</actor>
+      <role>Norl</role>
+    </credit>
+    <credit>
+      <actor>Dyer, Jay (II)</actor>
+      <role>Subterron</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Paul Mark</actor>
+      <role>Vinni</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Ian (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Ian (I)</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Evans, Roy (I)</actor>
+      <role>Slave</role>
+    </credit>
+    <credit>
+      <actor>Fairbrother, Victoria</actor>
+      <role>Major Thania</role>
+    </credit>
+    <credit>
+      <actor>Fanning, Rio</actor>
+      <role>Captain Deral</role>
+    </credit>
+    <credit>
+      <actor>Faress, Souad</actor>
+      <role>Selma</role>
+    </credit>
+    <credit>
+      <actor>Farmer, Suzan</actor>
+      <role>Meegat</role>
+    </credit>
+    <credit>
+      <actor>Farr, Derek</actor>
+      <role>Ensor/Orac</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Colin (II)</actor>
+      <role>Gambrill</role>
+    </credit>
+    <credit>
+      <actor>Faulkner, Max</actor>
+      <role>Death Squad Trooper</role>
+    </credit>
+    <credit>
+      <actor>Faulkner, Max</actor>
+      <role>Death Squad trooper</role>
+    </credit>
+    <credit>
+      <actor>Faulkner, Ray</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Fechter, George</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Dortmunn</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Goth Warrior</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Gunman</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Hommik Warrior</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Labourer</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Link</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Fell, Stuart</actor>
+      <role>Trooper</role>
+    </credit>
+    <credit>
+      <actor>Field, Susan</actor>
+      <role>Alta Morag</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Armed Crewman</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Fielding, Douglas</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Figaro, Rodney</actor>
+      <role>Clerk of Court</role>
+    </credit>
+    <credit>
+      <actor>Finbar, Mike</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Finbarr, Michael</actor>
+      <role>Federation Officer</role>
+    </credit>
+    <credit>
+      <actor>Finn, Peter</actor>
+      <role>Disintegrating Dorian</role>
+    </credit>
+    <credit>
+      <actor>Flanagan, Noel</actor>
+      <role>Auron Technician/Auron Orderly</role>
+    </credit>
+    <credit>
+      <actor>Forbes, Alan (II)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Forestal, Terry</actor>
+      <role>Rebel Technician</role>
+    </credit>
+    <credit>
+      <actor>Forgione, Carl</actor>
+      <role>Grovane</role>
+    </credit>
+    <credit>
+      <actor>Forrest, Brett</actor>
+      <role>Krell</role>
+    </credit>
+    <credit>
+      <actor>Fothergill, Miles</actor>
+      <role>Novara</role>
+    </credit>
+    <credit>
+      <actor>Frankau, Nicholas</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Richard (II)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Franklyn, Sabina</actor>
+      <role>Chesil</role>
+    </credit>
+    <credit>
+      <actor>Fredericks, Scott</actor>
+      <role>Carnell</role>
+    </credit>
+    <credit>
+      <actor>Fuller, Tex (I)</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Anthony</actor>
+      <role>Captain Shad</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Salo</actor>
+      <role>Labourer</role>
+    </credit>
+    <credit>
+      <actor>Gardner, Salo</actor>
+      <role>Zondawl Citizen</role>
+    </credit>
+    <credit>
+      <actor>Garland, Bunty</actor>
+      <role>Avalon</role>
+    </credit>
+    <credit>
+      <actor>Gasnier, Harold</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Gasnier, Harold</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Gates-Fleming, Peter</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Gatliff, Frank</actor>
+      <role>Dastor</role>
+    </credit>
+    <credit>
+      <actor>Gaunt, Michael</actor>
+      <role>Base Computer</role>
+    </credit>
+    <credit>
+      <actor>Gaunt, Michael</actor>
+      <role>Dr. Bax/Voice of Boarding Party</role>
+    </credit>
+    <credit>
+      <actor>Gaunt, Michael</actor>
+      <role>Game Computer on Orbiter</role>
+    </credit>
+    <credit>
+      <actor>Gaunt, Michael</actor>
+      <role>XK72 Personnel/Pursuit Ship Leader</role>
+    </credit>
+    <credit>
+      <actor>Gay, Norman (II)</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Gibbs, Roberta</actor>
+      <role>Cally</role>
+    </credit>
+    <credit>
+      <actor>Gilbey, Len</actor>
+      <role>Convict</role>
+    </credit>
+    <credit>
+      <actor>Gillies, David (I)</actor>
+      <role>Hob</role>
+    </credit>
+    <credit>
+      <actor>Glen, David</actor>
+      <role>Crimo</role>
+    </credit>
+    <credit>
+      <actor>Glen, David</actor>
+      <role>Federation Medic</role>
+    </credit>
+    <credit>
+      <actor>Glen, David</actor>
+      <role>Frell - Technician at Autopsy</role>
+    </credit>
+    <credit>
+      <actor>Glen, David</actor>
+      <role>Laboratory Technician</role>
+    </credit>
+    <credit>
+      <actor>Glen, David</actor>
+      <role>Servalan's Bodyguard</role>
+    </credit>
+    <credit>
+      <actor>Glendenning, Candace</actor>
+      <role>Rashel</role>
+    </credit>
+    <credit>
+      <actor>Glennie, Alison</actor>
+      <role>Kate</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Professor Kayn</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Brian (I)</actor>
+      <role>Slave</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Brian (I)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Goldston, Jill (I)</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Gooch, John (IV)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Good, Jason (II)</actor>
+      <role>Laboratory Technician</role>
+    </credit>
+    <credit>
+      <actor>Goode, Laurie</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Goodyear, Ernie</actor>
+      <role>Albian Rebel/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Death Squad Trooper</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Death Squad trooper</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Freighter Captain</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Hommik Warrior</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Pat (I)</actor>
+      <role>Trooper</role>
+    </credit>
+    <credit>
+      <actor>Gough, Michael (I)</actor>
+      <role>Hower</role>
+    </credit>
+    <credit>
+      <actor>Govey, Ronald</actor>
+      <role>Relf</role>
+    </credit>
+    <credit>
+      <actor>Graeme, Carl</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Grant, Cy (I)</actor>
+      <role>Hal Mellanby</role>
+    </credit>
+    <credit>
+      <actor>Gray, Billy (VI)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Nigel (I)</actor>
+      <role>Arrian</role>
+    </credit>
+    <credit>
+      <actor>Greif, Stephen</actor>
+      <role>Space Commander Travis</role>
+    </credit>
+    <credit>
+      <actor>Grist, Paul (I)</actor>
+      <role>Cevedic</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Bidding Agent</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Death Squad Trooper</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Death Squad trooper</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Guest, Bruce</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Haggerty, Fred</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Haggerty, Fred</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Haig, David (I)</actor>
+      <role>Forres</role>
+    </credit>
+    <credit>
+      <actor>Haley, Paul (I)</actor>
+      <role>Chief Guard</role>
+    </credit>
+    <credit>
+      <actor>Hall, Melinda (II)</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Halley, Alan</actor>
+      <role>Arle</role>
+    </credit>
+    <credit>
+      <actor>Halliwell, Ken</actor>
+      <role>Bidding Agent</role>
+    </credit>
+    <credit>
+      <actor>Halliwell, Ken</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Halsey, Michael</actor>
+      <role>Tel Varon</role>
+    </credit>
+    <credit>
+      <actor>Halsey, Michael</actor>
+      <role>Zee</role>
+    </credit>
+    <credit>
+      <actor>Halstead, Christina</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Hammond, Juliet</actor>
+      <role>Pella</role>
+    </credit>
+    <credit>
+      <actor>Hampshire, Barbara</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Hampshire, Barbara</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Hardy, Alan</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Hargreaves, Bob</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Harries, Davyd</actor>
+      <role>Doran</role>
+    </credit>
+    <credit>
+      <actor>Harris, Beth (I)</actor>
+      <role>C.A. Two</role>
+    </credit>
+    <credit>
+      <actor>Harris, Dean (I)</actor>
+      <role>Finn</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Eric (IX)</actor>
+      <role>Pyroan</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Sally (I)</actor>
+      <role>Lauren Mellanby</role>
+    </credit>
+    <credit>
+      <actor>Hart, Bobby</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Hartley, John (II)</actor>
+      <role>Section Leader Grose</role>
+    </credit>
+    <credit>
+      <actor>Hartley, Norman</actor>
+      <role>Captain Kennedy</role>
+    </credit>
+    <credit>
+      <actor>Harvey, James (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Malcolm</actor>
+      <role>Space Princess Guard/Passenger</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Max</actor>
+      <role>Borr</role>
+    </credit>
+    <credit>
+      <actor>Hassan, Guy</actor>
+      <role>Robot</role>
+    </credit>
+    <credit>
+      <actor>Hassan, Ismed</actor>
+      <role>Decima</role>
+    </credit>
+    <credit>
+      <actor>Hastings, Jean</actor>
+      <role>Teal Star Announcer</role>
+    </credit>
+    <credit>
+      <actor>Hastings, Valerie (II)</actor>
+      <role>Native</role>
+    </credit>
+    <credit>
+      <actor>Haswell, James</actor>
+      <role>Auron Technician</role>
+    </credit>
+    <credit>
+      <actor>Haswell, James</actor>
+      <role>Labourer</role>
+    </credit>
+    <credit>
+      <actor>Havilland, Jean</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Goth Guard</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Hommik</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Hawkes, Ridgewell</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Carol (I)</actor>
+      <role>Kerril</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Barry (I)</actor>
+      <role>Citizen/Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Barry (I)</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Barry (I)</actor>
+      <role>Space Commander Travis</role>
+    </credit>
+    <credit>
+      <actor>Hayward, David (III)</actor>
+      <role>Teague</role>
+    </credit>
+    <credit>
+      <actor>Hayward, Dennis</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Healy, David (I)</actor>
+      <role>Sphere Voice</role>
+    </credit>
+    <credit>
+      <actor>Heasman, Paul</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Heath, Kathleen</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Heilbron, Lorna</actor>
+      <role>Sula/Anna Grant</role>
+    </credit>
+    <credit>
+      <actor>Hemmings, Bill</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Henry, Walter</actor>
+      <role>Zukan's Technician</role>
+    </credit>
+    <credit>
+      <actor>Henson, Frank</actor>
+      <role>3rd Alien</role>
+    </credit>
+    <credit>
+      <actor>Henson, Frank</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Hewlett, Arthur</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Higgins, Anne</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Higgins, Colin (II)</actor>
+      <role>Tak</role>
+    </credit>
+    <credit>
+      <actor>Hill, Daniel (I)</actor>
+      <role>Chasgo</role>
+    </credit>
+    <credit>
+      <actor>Hill, Les (II)</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Hillier, Fay</actor>
+      <role>Customer/Gambler</role>
+    </credit>
+    <credit>
+      <actor>Hindle, Tim</actor>
+      <role>Natin</role>
+    </credit>
+    <credit>
+      <actor>Hobbs, Nick (I)</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Holdaway, Caroline</actor>
+      <role>Piri</role>
+    </credit>
+    <credit>
+      <actor>Holland, Dave (I)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Holland, John (IX)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Hollis, John (I)</actor>
+      <role>Lom</role>
+    </credit>
+    <credit>
+      <actor>Hollis, John (I)</actor>
+      <role>Lom</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Christopher (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Christopher (I)</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Christopher (I)</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Christopher (I)</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Christopher (I)</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Mark (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Mark (I)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Holt, Derek (II)</actor>
+      <role>Citizen/Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Holt, Derek (II)</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Hopkin, Gaye</actor>
+      <role>Subterron</role>
+    </credit>
+    <credit>
+      <actor>Horn, Ronald</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Horrigan, Billy</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Howard, Ben (II)</actor>
+      <role>Mori</role>
+    </credit>
+    <credit>
+      <actor>Howman, Karl</actor>
+      <role>Bek</role>
+    </credit>
+    <credit>
+      <actor>Howse, George (I)</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>Humphreys, Alan</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Humphreys, Nigel (I)</actor>
+      <role>Sonheim</role>
+    </credit>
+    <credit>
+      <actor>Hurndall, Richard</actor>
+      <role>Nebrox</role>
+    </credit>
+    <credit>
+      <actor>Ianson, David</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Iddon, Kathy</actor>
+      <role>Karla</role>
+    </credit>
+    <credit>
+      <actor>Islip, Sean</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Ismay, Steve</actor>
+      <role>Convict</role>
+    </credit>
+    <credit>
+      <actor>Ismay, Steve</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Ismay, Steve</actor>
+      <role>Hommik</role>
+    </credit>
+    <credit>
+      <actor>Ismay, Steve</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Barry (I)</actor>
+      <role>Dr. Kendall</role>
+    </credit>
+    <credit>
+      <actor>Jackson, David (II)</actor>
+      <role>Olag Gan</role>
+    </credit>
+    <credit>
+      <actor>Jackson, David (II)</actor>
+      <role>Olag Gan</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Freda</actor>
+      <role>Tara</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Mort</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>James, Bobby (I)</actor>
+      <role>Communications Technician/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>James, Bobby (I)</actor>
+      <role>Death Squad Trooper</role>
+    </credit>
+    <credit>
+      <actor>James, Bobby (I)</actor>
+      <role>Death Squad trooper</role>
+    </credit>
+    <credit>
+      <actor>James, Bobby (I)</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>James, Bobby (I)</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>James, Juliette</actor>
+      <role>Jenna's Mother</role>
+    </credit>
+    <credit>
+      <actor>James, Rick (IV)</actor>
+      <role>Chalsa</role>
+    </credit>
+    <credit>
+      <actor>James, Robert (I)</actor>
+      <role>Ven Glynd</role>
+    </credit>
+    <credit>
+      <actor>Jamieson, Charles</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Jarvis, Graham (III)</actor>
+      <role>Pyroan</role>
+    </credit>
+    <credit>
+      <actor>Jenn, Stephen</actor>
+      <role>Ultra 2</role>
+    </credit>
+    <credit>
+      <actor>Jensen, John (IX)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Jessup, Peter</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>John, Margaret</actor>
+      <role>Arbiter</role>
+    </credit>
+    <credit>
+      <actor>Johns, Stratford</actor>
+      <role>Belkov</role>
+    </credit>
+    <credit>
+      <actor>Jones, Astley</actor>
+      <role>Eldon</role>
+    </credit>
+    <credit>
+      <actor>Jones, Harry (I)</actor>
+      <role>Jarriere</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Derry</actor>
+      <role>Vila's Guide</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Nick</actor>
+      <role>Android</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Nick</actor>
+      <role>Animal</role>
+    </credit>
+    <credit>
+      <actor>Kane, Stephen (IV)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Kavanagh, Leonard</actor>
+      <role>Napier</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Joe</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Kean, Sidney</actor>
+      <role>Vetnor</role>
+    </credit>
+    <credit>
+      <actor>Keating, Michael (I)</actor>
+      <role>Vila Restal</role>
+    </credit>
+    <credit>
+      <actor>Keating, Michael (I)</actor>
+      <role>Vila Restal</role>
+    </credit>
+    <credit>
+      <actor>Keating, Michael (I)</actor>
+      <role>Vila Restal</role>
+    </credit>
+    <credit>
+      <actor>Keating, Michael (I)</actor>
+      <role>Vila Restal</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Steve (VII)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Steve (VII)</actor>
+      <role>Goth Guard</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Steve (VII)</actor>
+      <role>Hommik Warrior</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Steve (VII)</actor>
+      <role>Plantation Bounty Hunter</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Steve (VII)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Tom (I)</actor>
+      <role>Nova</role>
+    </credit>
+    <credit>
+      <actor>Kemp, Ellison</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Kennedy Smith, Graham</actor>
+      <role>Petey</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Martin (I)</actor>
+      <role>Space Rat</role>
+    </credit>
+    <credit>
+      <actor>Kent, Eric</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Kenwright, Mike</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Kerry, James</actor>
+      <role>Cauder</role>
+    </credit>
+    <credit>
+      <actor>Khan, Samura</actor>
+      <role>Native</role>
+    </credit>
+    <credit>
+      <actor>Kidd, Paul (I)</actor>
+      <role>Phibian</role>
+    </credit>
+    <credit>
+      <actor>Kimber, Nicola</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Kingsley, Roberta</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>Kinnear, Roy</actor>
+      <role>Keiller</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Mark (I)</actor>
+      <role>Communications Technician/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Mark (I)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ray (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ray (I)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Knorr, Freda</actor>
+      <role>Governor LeGrand</role>
+    </credit>
+    <credit>
+      <actor>Knyvette, Sally</actor>
+      <role>Jenna Stannis</role>
+    </credit>
+    <credit>
+      <actor>Lacey, Ronald</actor>
+      <role>Tynus</role>
+    </credit>
+    <credit>
+      <actor>Lake, Alan (I)</actor>
+      <role>Chel</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Nigel</actor>
+      <role>Computer Operator</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Barney</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Barney</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Barney</actor>
+      <role>Zukan's Technician</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Ian (II)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Le Roy, Eddie</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>Leader, Michael (I)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Leader, Michael (I)</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Lee, Arnold (I)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Lee, George (I)</actor>
+      <role>Igin</role>
+    </credit>
+    <credit>
+      <actor>Lees-Price, Janet</actor>
+      <role>Klyn</role>
+    </credit>
+    <credit>
+      <actor>Lees-Price, Janet</actor>
+      <role>Klyn</role>
+    </credit>
+    <credit>
+      <actor>Leeson, John</actor>
+      <role>Pasco</role>
+    </credit>
+    <credit>
+      <actor>Leeson, John</actor>
+      <role>Toise</role>
+    </credit>
+    <credit>
+      <actor>Leigh-Hunt, Ronald</actor>
+      <role>C.A. One</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Claire (I)</actor>
+      <role>Zil</role>
+    </credit>
+    <credit>
+      <actor>Lewis-John, Pauline</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Lindsay, William (II)</actor>
+      <role>Captain</role>
+    </credit>
+    <credit>
+      <actor>Linton, James</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Lister, James (I)</actor>
+      <role>Space Surgeon Maryatt</role>
+    </credit>
+    <credit>
+      <actor>Lister, James (I)</actor>
+      <role>Space Surgeon Maryatt</role>
+    </credit>
+    <credit>
+      <actor>Littlewood, Doris</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Kevin (I)</actor>
+      <role>Trooper Par</role>
+    </credit>
+    <credit>
+      <actor>Lyons, Stephen (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>MacKenzie, Michael (I)</actor>
+      <role>Dainer</role>
+    </credit>
+    <credit>
+      <actor>MacKlaine, Joe</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Maguire, Jack (I)</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Maharaj, Ojah</actor>
+      <role>Big Wheel Patron</role>
+    </credit>
+    <credit>
+      <actor>Maher, Frank (I)</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Maher, Frank (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Maher, Frank (I)</actor>
+      <role>Federation Trooper Cally Fights</role>
+    </credit>
+    <credit>
+      <actor>Mangan, Alf</actor>
+      <role>Labourer</role>
+    </credit>
+    <credit>
+      <actor>Margo, Steve</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Betty</actor>
+      <role>Verlis</role>
+    </credit>
+    <credit>
+      <actor>Marson, Ania</actor>
+      <role>Geela</role>
+    </credit>
+    <credit>
+      <actor>Massy, Brian</actor>
+      <role>Monster</role>
+    </credit>
+    <credit>
+      <actor>Matheson, Judy</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>May, Dinah</actor>
+      <role>Woman Passenger</role>
+    </credit>
+    <credit>
+      <actor>Maynard, Michael (I)</actor>
+      <role>Leeth</role>
+    </credit>
+    <credit>
+      <actor>McAlpine, Fiona</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>McBride, Mark (I)</actor>
+      <role>2nd Alien</role>
+    </credit>
+    <credit>
+      <actor>McBride, Mark (I)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>McCutcheon, Gillian</actor>
+      <role>Kostos</role>
+    </credit>
+    <credit>
+      <actor>McDermott, Gary</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>McKenna, T.P.</actor>
+      <role>Sarkoff</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Jack</actor>
+      <role>Patar</role>
+    </credit>
+    <credit>
+      <actor>McLaughlan, Nigel</actor>
+      <role>Trooper</role>
+    </credit>
+    <credit>
+      <actor>Mechen, Alan</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Melbourne, David</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Melia, Michael (II)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Melville, Giles</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Melville, Giles</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Menzies, Paul</actor>
+      <role>Alta Guard/Slave</role>
+    </credit>
+    <credit>
+      <actor>Menzies, Paul</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Merrick, Simon</actor>
+      <role>Boorva</role>
+    </credit>
+    <credit>
+      <actor>Middleton, Rob</actor>
+      <role>The Creature</role>
+    </credit>
+    <credit>
+      <actor>Miles, Peter (II)</actor>
+      <role>Secretary Rontane</role>
+    </credit>
+    <credit>
+      <actor>Miller, Brian (I)</actor>
+      <role>Assistant Kommissar</role>
+    </credit>
+    <credit>
+      <actor>Miller, Count Prince</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Milne, Gareth</actor>
+      <role>Link</role>
+    </credit>
+    <credit>
+      <actor>Milne, Gareth</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Milne, Gareth</actor>
+      <role>Trooper</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Sasha (II)</actor>
+      <role>Arlen</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Sasha (II)</actor>
+      <role>Arlen</role>
+    </credit>
+    <credit>
+      <actor>Montana, Brian</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Moorehead, Brian</actor>
+      <role>Federation Officer</role>
+    </credit>
+    <credit>
+      <actor>Moorehead, Brian</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Morris, Clinton</actor>
+      <role>Wallace</role>
+    </credit>
+    <credit>
+      <actor>Morris, Robert (I)</actor>
+      <role>Major Hunda</role>
+    </credit>
+    <credit>
+      <actor>Morriss, Monty</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Morse, Ralph</actor>
+      <role>Animal</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Link</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Monster</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Phibian</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Pirate Guard</role>
+    </credit>
+    <credit>
+      <actor>Muir, James (III)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Mundy, Max</actor>
+      <role>Cabin Bounty Hunter/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Mungarvan, Mike</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Mungarvan, Mike</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Mungarvan, Mike</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Mungarvan, Mike</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Mungarvan, Mike</actor>
+      <role>Rebel Technician/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Munro, Ian (II)</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Munro, Ian (II)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Murzynowski, Jan</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Murzynowski, Jan</actor>
+      <role>Goth Guard</role>
+    </credit>
+    <credit>
+      <actor>Myers, Stuart</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Neal, David (I)</actor>
+      <role>Gerren</role>
+    </credit>
+    <credit>
+      <actor>Neame, Christopher (III)</actor>
+      <role>Colonel Quute</role>
+    </credit>
+    <credit>
+      <actor>Noble, Larry (I)</actor>
+      <role>Pinder</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Salvage Man</role>
+    </credit>
+    <credit>
+      <actor>Nunnery, Ronald</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Kevin (I)</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>O'Connor, Rory (IV)</actor>
+      <role>Salvage Man</role>
+    </credit>
+    <credit>
+      <actor>O'Leary, Tony</actor>
+      <role>Wardin</role>
+    </credit>
+    <credit>
+      <actor>Oldroyd, Timothy</actor>
+      <role>Gerren's Associate</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Ian (II)</actor>
+      <role>Rai</role>
+    </credit>
+    <credit>
+      <actor>Olley, Richard</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Owen, Glyn (I)</actor>
+      <role>Commander Leylan</role>
+    </credit>
+    <credit>
+      <actor>Owen, Glyn (I)</actor>
+      <role>Commander Leylan</role>
+    </credit>
+    <credit>
+      <actor>Pacey, Steven</actor>
+      <role>Del Tarrant</role>
+    </credit>
+    <credit>
+      <actor>Pacey, Steven</actor>
+      <role>Del Tarrant</role>
+    </credit>
+    <credit>
+      <actor>Pacey, Steven</actor>
+      <role>Del Tarrant</role>
+    </credit>
+    <credit>
+      <actor>Pacey, Steven</actor>
+      <role>Del Tarrant/Deeta Tarrant</role>
+    </credit>
+    <credit>
+      <actor>Paul, David Roy</actor>
+      <role>Crimo</role>
+    </credit>
+    <credit>
+      <actor>Pearce, Roy (I)</actor>
+      <role>Armed Crewman</role>
+    </credit>
+    <credit>
+      <actor>Pearce, Roy (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Pearce, Roy (I)</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>Perrie, William (I)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Peters, Robert (XV)</actor>
+      <role>Auron Technician</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Perry (I)</actor>
+      <role>Hi-tech Patient</role>
+    </credit>
+    <credit>
+      <actor>Plummer, Terence</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Ponting, David</actor>
+      <role>Alta Guard/Slave</role>
+    </credit>
+    <credit>
+      <actor>Pople, David</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Pople, David</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Potter, Mike (I)</actor>
+      <role>Federation Trooper/Burning Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Potter, Mike (I)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Powell, Dinny</actor>
+      <role>Goth Warrior</role>
+    </credit>
+    <credit>
+      <actor>Powell, Marcus (I)</actor>
+      <role>Decima</role>
+    </credit>
+    <credit>
+      <actor>Powell, Marcus (I)</actor>
+      <role>The Thaarn</role>
+    </credit>
+    <credit>
+      <actor>Powell, Nosher</actor>
+      <role>Goth Warrior</role>
+    </credit>
+    <credit>
+      <actor>Purchase, Bruce</actor>
+      <role>Gola</role>
+    </credit>
+    <credit>
+      <actor>Quentin, John (I)</actor>
+      <role>Practor</role>
+    </credit>
+    <credit>
+      <actor>Quilter, David</actor>
+      <role>The Tracer</role>
+    </credit>
+    <credit>
+      <actor>Read, Martyn</actor>
+      <role>Nagu</role>
+    </credit>
+    <credit>
+      <actor>Reed, Wayne (II)</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Reed, Wayne (II)</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Reynal, Michael</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Richards, Peter (III)</actor>
+      <role>Ultra 1</role>
+    </credit>
+    <credit>
+      <actor>Richards, Terry (I)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Ridley, Paul</actor>
+      <role>Cato</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Christian (I)</actor>
+      <role>Dr. Renor</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Andrew (I)</actor>
+      <role>Space Commander</role>
+    </credit>
+    <credit>
+      <actor>Roe, Doug</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Roe, Douglas</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Rofalia, Neville</actor>
+      <role>Amagon Guard</role>
+    </credit>
+    <credit>
+      <actor>Rolfe, John</actor>
+      <role>Terloc</role>
+    </credit>
+    <credit>
+      <actor>Roy, Deep</actor>
+      <role>Decima</role>
+    </credit>
+    <credit>
+      <actor>Roy, Deep</actor>
+      <role>Link</role>
+    </credit>
+    <credit>
+      <actor>Roy, Deep</actor>
+      <role>Moloch</role>
+    </credit>
+    <credit>
+      <actor>Roy, Deep</actor>
+      <role>The Klute</role>
+    </credit>
+    <credit>
+      <actor>Roy, Peter (I)</actor>
+      <role>Albian Rebel</role>
+    </credit>
+    <credit>
+      <actor>Roy, Peter (I)</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Roy, Peter (I)</actor>
+      <role>Citizen/Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Roy, Peter (I)</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Roy, Peter (I)</actor>
+      <role>Rebel/Trooper</role>
+    </credit>
+    <credit>
+      <actor>Russell, Robert (II)</actor>
+      <role>Laran</role>
+    </credit>
+    <credit>
+      <actor>Ryall, David</actor>
+      <role>Selman</role>
+    </credit>
+    <credit>
+      <actor>San-Sellus, Derek</actor>
+      <role>Amagon Guard</role>
+    </credit>
+    <credit>
+      <actor>Sands, Peter</actor>
+      <role>Bomber</role>
+    </credit>
+    <credit>
+      <actor>Saner, Cengiz</actor>
+      <role>Fool</role>
+    </credit>
+    <credit>
+      <actor>Sansby, Lionel</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Santana, Gito</actor>
+      <role>Big Wheel Patron</role>
+    </credit>
+    <credit>
+      <actor>Santo, Joe</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Sargent, Raymond</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Sartain, Terry</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Sartain, Terry</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Savident, John</actor>
+      <role>Egrorian</role>
+    </credit>
+    <credit>
+      <actor>Savident, John</actor>
+      <role>Fleet Warden-General Samor</role>
+    </credit>
+    <credit>
+      <actor>Schofield, Leslie</actor>
+      <role>Sub-Commander Raiker</role>
+    </credit>
+    <credit>
+      <actor>Schofield, Leslie</actor>
+      <role>Sub-Commander Raiker</role>
+    </credit>
+    <credit>
+      <actor>Scully, Terry</actor>
+      <role>Groff</role>
+    </credit>
+    <credit>
+      <actor>Seely, Roy</actor>
+      <role>Arbiter</role>
+    </credit>
+    <credit>
+      <actor>Sehmi, Heronimo</actor>
+      <role>Amagon Guard</role>
+    </credit>
+    <credit>
+      <actor>Shannon, Les (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Shannon, Les (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Sheara, Willie</actor>
+      <role>Decima</role>
+    </credit>
+    <credit>
+      <actor>Sheard, Michael</actor>
+      <role>Klegg</role>
+    </credit>
+    <credit>
+      <actor>Sheard, Michael</actor>
+      <role>Klegg</role>
+    </credit>
+    <credit>
+      <actor>Sheekey, Richard</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Alva</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Paul (I)</actor>
+      <role>Major Provine</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Philip (II)</actor>
+      <role>Zondawl Citizen</role>
+    </credit>
+    <credit>
+      <actor>Sheridan, Mark (I)</actor>
+      <role>Unit Commander Lector</role>
+    </credit>
+    <credit>
+      <actor>Sibley, David (I)</actor>
+      <role>Commentator</role>
+    </credit>
+    <credit>
+      <actor>Sibley, Nigel</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Simpson, Graham</actor>
+      <role>Officer</role>
+    </credit>
+    <credit>
+      <actor>Sinclair, Graham</actor>
+      <role>Trooper Lye</role>
+    </credit>
+    <credit>
+      <actor>Sinclair, Sandy (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Skeete, Nigel</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Skeete, Nigel</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Smart, Tony</actor>
+      <role>1st Alien</role>
+    </credit>
+    <credit>
+      <actor>Smart, Tony</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Smith, Derek (II)</actor>
+      <role>Largo</role>
+    </credit>
+    <credit>
+      <actor>Smythe, Robert (I)</actor>
+      <role>Albian Rebel/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Smythe, Robert (I)</actor>
+      <role>Crimo</role>
+    </credit>
+    <credit>
+      <actor>Smythe, Robert (I)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Smythe, Robert (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Snell, Geoffrey</actor>
+      <role>Tronos</role>
+    </credit>
+    <credit>
+      <actor>Snell, Tony (I)</actor>
+      <role>Albian Rebel/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Somers, Gordon</actor>
+      <role>Alta Guard/Slave</role>
+    </credit>
+    <credit>
+      <actor>Somers, Gordon</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Sommer, Eddie</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Spice, Michael</actor>
+      <role>Nova Queen Pilot</role>
+    </credit>
+    <credit>
+      <actor>Spink, Brian (I)</actor>
+      <role>Mida</role>
+    </credit>
+    <credit>
+      <actor>Squire, William</actor>
+      <role>Kommissar</role>
+    </credit>
+    <credit>
+      <actor>St. John, Lee</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Standeven, Guy</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Star, Tony</actor>
+      <role>Rebel Technician/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Donald</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Sterne, David</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Charlie (I)</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Malcolm</actor>
+      <role>Leitz</role>
+    </credit>
+    <credit>
+      <actor>Stoney, Kevin</actor>
+      <role>Ardus</role>
+    </credit>
+    <credit>
+      <actor>Stoney, Kevin</actor>
+      <role>Councilor Joban</role>
+    </credit>
+    <credit>
+      <actor>Strike, Paul (II)</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Stuart, Terry (I)</actor>
+      <role>Helot</role>
+    </credit>
+    <credit>
+      <actor>Sullivan, Kevin (IV)</actor>
+      <role>Robot Operator</role>
+    </credit>
+    <credit>
+      <actor>Sumby, Ray</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Monster</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Summerford, Barry</actor>
+      <role>Tando</role>
+    </credit>
+    <credit>
+      <actor>Suthern, Derek</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Suthern, Derek</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Suthern, Derek</actor>
+      <role>Hommik Warrior</role>
+    </credit>
+    <credit>
+      <actor>Suthern, Derek</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Suthern, Derek</actor>
+      <role>Space Princess Guard/Passenger</role>
+    </credit>
+    <credit>
+      <actor>Tarr, Ron</actor>
+      <role>Hommik</role>
+    </credit>
+    <credit>
+      <actor>Tarr, Ron</actor>
+      <role>Patrol Leader</role>
+    </credit>
+    <credit>
+      <actor>Tarr, Ron</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Tate, Stephen (I)</actor>
+      <role>Mandrian</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Malcolm</actor>
+      <role>Hooded Figure</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Rocky (I)</actor>
+      <role>Albian Rebel/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Tew, Archie</actor>
+      <role>Enforcer</role>
+    </credit>
+    <credit>
+      <actor>Theakston, David</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Damien (I)</actor>
+      <role>Atlan</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Roj Blake</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Roj Blake</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Roj Blake</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Roj Blake</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Roj Blake/1st Blake Clone/2nd Blake Clone</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Scott (XVII)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Thomason, Reg</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Ian (I)</actor>
+      <role>Farren</role>
+    </credit>
+    <credit>
+      <actor>Tipton, Norman</actor>
+      <role>Navigator Artix</role>
+    </credit>
+    <credit>
+      <actor>Tonioli, Bruno</actor>
+      <role>Dead Young Man</role>
+    </credit>
+    <credit>
+      <actor>Toothill, Paul</actor>
+      <role>Marcol</role>
+    </credit>
+    <credit>
+      <actor>Town, Cy</actor>
+      <role>Rebel Technician/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Troughton, Michael</actor>
+      <role>Pilot Four-Zero</role>
+    </credit>
+    <credit>
+      <actor>Truss, Jonathan</actor>
+      <role>Bidding Agent</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Orac/Slave</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Orac/Slave</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen/Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen/Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen/Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen/Orac</role>
+    </credit>
+    <credit>
+      <actor>Tuddenham, Peter</actor>
+      <role>Zen/Orac/Tannoy</role>
+    </credit>
+    <credit>
+      <actor>Turner, Reg</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Turner, Reg</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Turner, Reg</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Turner, Reg</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Turner, Walter</actor>
+      <role>Crimo</role>
+    </credit>
+    <credit>
+      <actor>Uttley, Mark (II)</actor>
+      <role>Federation Commando</role>
+    </credit>
+    <credit>
+      <actor>Van Engel, Harry</actor>
+      <role>Disintegrating Dorian</role>
+    </credit>
+    <credit>
+      <actor>Varcoe, Adrian</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Varcoe, Adrian</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Varney, Kelly</actor>
+      <role>Native</role>
+    </credit>
+    <credit>
+      <actor>Varney, Kelly</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Wade, Alan (V)</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Wallis, Cy</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Walters, Jules</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Ward, Nelson E.</actor>
+      <role>Mecronian</role>
+    </credit>
+    <credit>
+      <actor>Ward, Nelson E.</actor>
+      <role>ZVP Guard</role>
+    </credit>
+    <credit>
+      <actor>Ward, Terence (I)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Watson, Robert (VIII)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Wayne, Jeff (III)</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Webb, Chris (I)</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (I)</actor>
+      <role>Stot</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Auron Technician</role>
+    </credit>
+    <credit>
+      <actor>Webb, Philip (II)</actor>
+      <role>Arbiter</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Auron Technician</role>
+    </credit>
+    <credit>
+      <actor>Webber, Bobby</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Weekes, Leslie</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>Weighton, Roger</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Welch, Albert</actor>
+      <role>Disintegrating Dorian</role>
+    </credit>
+    <credit>
+      <actor>West, Jason (IV)</actor>
+      <role>Sarran</role>
+    </credit>
+    <credit>
+      <actor>Westbrook, John (I)</actor>
+      <role>Muller</role>
+    </credit>
+    <credit>
+      <actor>Weston, Bill (I)</actor>
+      <role>Garton</role>
+    </credit>
+    <credit>
+      <actor>Weston, Paul (II)</actor>
+      <role>Goth Warrior</role>
+    </credit>
+    <credit>
+      <actor>Whitaker, Peter</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>White, Kevin (X)</actor>
+      <role>Voice in space</role>
+    </credit>
+    <credit>
+      <actor>White, Les (I)</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>White, Les (I)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Whiteson, Geoffrey</actor>
+      <role>Star One Technician</role>
+    </credit>
+    <credit>
+      <actor>Whymark, Kenny</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Whyment, Steve</actor>
+      <role>Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Whyment, Steve</actor>
+      <role>Plantation Bounty Hunter</role>
+    </credit>
+    <credit>
+      <actor>Whyment, Steve</actor>
+      <role>Space Rat</role>
+    </credit>
+    <credit>
+      <actor>Wilkin, Jeremy</actor>
+      <role>Dev Tarrant</role>
+    </credit>
+    <credit>
+      <actor>Williams, Peter (II)</actor>
+      <role>Dr. Havant</role>
+    </credit>
+    <credit>
+      <actor>Winn, Jay Eden</actor>
+      <role>Native/Federation Trooper</role>
+    </credit>
+    <credit>
+      <actor>Woods, Aubrey</actor>
+      <role>Krantor</role>
+    </credit>
+    <credit>
+      <actor>Woods, Reg</actor>
+      <role>Menial</role>
+    </credit>
+    <credit>
+      <actor>Woods, Reg</actor>
+      <role>Rebel</role>
+    </credit>
+    <credit>
+      <actor>Woods, Reg</actor>
+      <role>Scavenger</role>
+    </credit>
+    <credit>
+      <actor>Woods, Reg</actor>
+      <role>Space Princess Guard/Passenger</role>
+    </credit>
+    <credit>
+      <actor>Woods, Reg</actor>
+      <role>Space Rat</role>
+    </credit>
+    <credit>
+      <actor>Wreford, Edgar</actor>
+      <role>Forbus</role>
+    </credit>
+    <credit>
+      <actor>Wyatt, William</actor>
+      <role>Laboratory Technician</role>
+    </credit>
+    <credit>
+      <actor>Wyatt, William</actor>
+      <role>Servalan's Bodyguard</role>
+    </credit>
+    <credit>
+      <actor>Wyman, John (I)</actor>
+      <role>Cancer</role>
+    </credit>
+    <credit>
+      <actor>Yardley, Stephen</actor>
+      <role>Investigator Reeve</role>
+    </credit>
+    <credit>
+      <actor>York, Mark (I)</actor>
+      <role>Sub-Commander Cheney</role>
+    </credit>
+    <credit>
+      <actor>Yorke, Terry</actor>
+      <role>Alta Guard</role>
+    </credit>
+    <credit>
+      <actor>Young, Eric (I)</actor>
+      <role>Ginka</role>
+    </credit>
+    <credit>
+      <actor>Zuber, Marc</actor>
+      <role>Tarvin</role>
+    </credit>
+    <credit>
+      <actor>de Wilde, Michael</actor>
+      <role>Mutoid</role>
+    </credit>
+    <credit>
+      <actor>van Kaphengst, Robert</actor>
+      <role>Boarding Party/Federation Guard/Firefighter</role>
+    </credit>
+  </cast>
+<plot>In the third century of the second calendar, a corrupt galactic federation, with Earth at its center, drugs its billions of citizens into placid submission. A rebel named Roj Blake, who once tried to organize a resistance group to overthrow this regime, was caught and divested of his memories. But Blake's revolutionary spirit is revived when he witnesses a mass slaughter by police that is covered up by the federation officials. He escapes exile on board a prison spaceship and, together with a lovable band of outlaws, takes over a vacant alien space cruiser of awesome drive capability. Naming their new ship as "The Liberator", Blake and his group travel the Milky Way to seek any opportunity to undermine the evil federation.</plot><url>http://localhost:8983/solr/movie.html?074136</url></doc>

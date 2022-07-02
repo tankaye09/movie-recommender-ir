@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="002265">
+  <docid>002265</docid>
+  <title>13 Tzameti</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Moreau, Noémie</editor>
+  </editors>
+  <genres>
+    <genre>Crime</genre>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <keywords>
+    <keyword>syringe</keyword>
+    <keyword>volkswagen-new-beetle</keyword>
+    <keyword>number-13-in-title</keyword>
+    <keyword>peugeot</keyword>
+    <keyword>pay-phone</keyword>
+    <keyword>black-cat</keyword>
+    <keyword>letter</keyword>
+    <keyword>cloak-and-dagger</keyword>
+    <keyword>locker</keyword>
+    <keyword>limp</keyword>
+    <keyword>bullets</keyword>
+    <keyword>digit-in-title</keyword>
+    <keyword>investigation</keyword>
+    <keyword>drug-overdose</keyword>
+    <keyword>death-of-brother</keyword>
+    <keyword>measuring-tape</keyword>
+    <keyword>10-euro-bill</keyword>
+    <keyword>recognition-code</keyword>
+    <keyword>hiding-place</keyword>
+    <keyword>hoist</keyword>
+    <keyword>following-instructions</keyword>
+    <keyword>u-turn</keyword>
+    <keyword>loading-gun</keyword>
+    <keyword>finger-gun</keyword>
+    <keyword>morphine</keyword>
+    <keyword>carpenter's-plane</keyword>
+    <keyword>taxi</keyword>
+    <keyword>pack-of-money</keyword>
+    <keyword>train-ticket</keyword>
+    <keyword>freeze-frame</keyword>
+    <keyword>money</keyword>
+    <keyword>shot-multiple-times</keyword>
+    <keyword>strip-search</keyword>
+    <keyword>haircut</keyword>
+    <keyword>taxi-driver</keyword>
+    <keyword>revenge</keyword>
+    <keyword>80-percent</keyword>
+    <keyword>gate</keyword>
+    <keyword>peeling-paint</keyword>
+    <keyword>bicycle-courier</keyword>
+    <keyword>100-euro-bill</keyword>
+    <keyword>tip</keyword>
+    <keyword>passed-out</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>sweaty-face</keyword>
+    <keyword>death-of-protagonist</keyword>
+    <keyword>shot-in-the-stomach</keyword>
+    <keyword>overdose</keyword>
+    <keyword>globe-bar</keyword>
+    <keyword>gambling</keyword>
+    <keyword>lost-letter</keyword>
+    <keyword>train</keyword>
+    <keyword>axe</keyword>
+    <keyword>cocking-gun</keyword>
+    <keyword>revolver</keyword>
+    <keyword>bullet</keyword>
+    <keyword>white-picket-fence</keyword>
+    <keyword>looking-at-self-in-the-mirror</keyword>
+    <keyword>money-counter</keyword>
+    <keyword>license-number</keyword>
+    <keyword>bucket</keyword>
+    <keyword>detective</keyword>
+    <keyword>russian-roulette</keyword>
+    <keyword>punching-ticket</keyword>
+    <keyword>aluminium-foil</keyword>
+    <keyword>counting</keyword>
+    <keyword>eating-evidence</keyword>
+    <keyword>upright-piano</keyword>
+    <keyword>35-mm-camera</keyword>
+    <keyword>empty-cylinder</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>spin-pistol-cylinder</keyword>
+    <keyword>shot-in-the-forehead</keyword>
+    <keyword>pile-of-money</keyword>
+    <keyword>playing-piano</keyword>
+    <keyword>lie-to-police</keyword>
+    <keyword>wheelbarrow</keyword>
+    <keyword>passenger-train</keyword>
+    <keyword>duel</keyword>
+    <keyword>ladder</keyword>
+    <keyword>roof</keyword>
+    <keyword>gun</keyword>
+    <keyword>suicide</keyword>
+    <keyword>roof-repair</keyword>
+    <keyword>light-bulb</keyword>
+    <keyword>license-plate</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>German</language>
+    <language>Georgian</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">15</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Switzerland">16</certificate>
+    <certificate country="Singapore">NC-16</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="New Zealand">R18</certificate>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="Japan">R-15</certificate>
+    <certificate country="France">-16</certificate>
+    <certificate country="South Korea">18</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">6 January 2006</releasedate>
+    <releasedate country="Sweden">7 December 2007</releasedate>
+    <releasedate country="Hungary">26 April 2007</releasedate>
+    <releasedate country="Switzerland">26 October 2006</releasedate>
+    <releasedate country="Thailand">19 July 2007</releasedate>
+    <releasedate country="Estonia">1 December 2006</releasedate>
+    <releasedate country="Singapore">22 March 2007</releasedate>
+    <releasedate country="Argentina">10 March 2006</releasedate>
+    <releasedate country="Russia">15 November 2006</releasedate>
+    <releasedate country="Romania">4 June 2006</releasedate>
+    <releasedate country="Greece">28 September 2006</releasedate>
+    <releasedate country="Turkey">6 October 2006</releasedate>
+    <releasedate country="Italy">30 June 2006</releasedate>
+    <releasedate country="Germany">13 March 2008</releasedate>
+    <releasedate country="Serbia">30 November 2006</releasedate>
+    <releasedate country="Belgium">19 April 2006</releasedate>
+    <releasedate country="USA">10 October 2006</releasedate>
+    <releasedate country="Netherlands">31 August 2006</releasedate>
+    <releasedate country="Japan">7 April 2007</releasedate>
+    <releasedate country="France">8 February 2006</releasedate>
+    <releasedate country="South Korea">29 June 2007</releasedate>
+    <releasedate country="Spain">26 January 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">93</runningtime>
+    <runningtime country="Argentina">95</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Babluani, Géla</director>
+  </directors>
+  <producers>
+    <producer>Daniault, Bruno</producer>
+    <producer>Delbary, Jean-Marie</producer>
+    <producer>Karmitz, Nathanaël</producer>
+    <producer>Meliava, Alexandre</producer>
+    <producer>Mohammadi, Morteza</producer>
+    <producer>Oursel, Olivier</producer>
+    <producer>Babluani, Géla</producer>
+    <producer>Legrand, Jean-Baptiste</producer>
+    <producer>Saadi, Fanny</producer>
+  </producers>
+  <writers>
+    <writer>Babluani, Géla</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ameur, Noureddine</actor>
+      <role>Mr. Meyer</role>
+    </credit>
+    <credit>
+      <actor>Amouche, Djalalli</actor>
+      <role>Abel</role>
+    </credit>
+    <credit>
+      <actor>Aquino, Melchior</actor>
+      <role>Keller</role>
+    </credit>
+    <credit>
+      <actor>Babadi, Hervé</actor>
+      <role>Patrick Henri</role>
+    </credit>
+    <credit>
+      <actor>Babluani, George</actor>
+      <role>Sébastien</role>
+    </credit>
+    <credit>
+      <actor>Babluani, Laura</actor>
+      <role>Sissy</role>
+    </credit>
+    <credit>
+      <actor>Babluani, Temur</actor>
+      <role>Sadik</role>
+    </credit>
+    <credit>
+      <actor>Bariteau, Laurent</actor>
+      <role>Florent</role>
+    </credit>
+    <credit>
+      <actor>Beaupré, Robert</actor>
+      <role>Alain Qtull</role>
+    </credit>
+    <credit>
+      <actor>Beautier, Philippe</actor>
+      <role>Jean</role>
+    </credit>
+    <credit>
+      <actor>Billois, Claude</actor>
+      <role>Martin Ott</role>
+    </credit>
+    <credit>
+      <actor>Bobet, Didier</actor>
+      <role>Zachary</role>
+    </credit>
+    <credit>
+      <actor>Bongard, Pascal</actor>
+      <role>Le maître de cérémonie</role>
+    </credit>
+    <credit>
+      <actor>Bongibault, Gilles</actor>
+      <role>Thierry</role>
+    </credit>
+    <credit>
+      <actor>Bouguerra, Karim</actor>
+      <role>Ibrahim</role>
+    </credit>
+    <credit>
+      <actor>Bouillon, Bernard</actor>
+      <role>Le chef de bureau</role>
+    </credit>
+    <credit>
+      <actor>Bouvier, Cédric</actor>
+      <role>Le stagiaire</role>
+    </credit>
+    <credit>
+      <actor>Cancelier, Urbain</actor>
+      <role>Le contrôleur SNCF</role>
+    </credit>
+    <credit>
+      <actor>Capelli, Matteo</actor>
+      <role>Antonio</role>
+    </credit>
+    <credit>
+      <actor>Cardimalli, Alexandre</actor>
+      <role>L'homme à la veste rouge</role>
+    </credit>
+    <credit>
+      <actor>Chambon, Serge</actor>
+      <role>L'Organisateur</role>
+    </credit>
+    <credit>
+      <actor>Champion, Didier</actor>
+      <role>Bernard Loublier</role>
+    </credit>
+    <credit>
+      <actor>Cohen, Simon (IV)</actor>
+      <role>Robin</role>
+    </credit>
+    <credit>
+      <actor>Constant, Didier</actor>
+      <role>L'homme à la veste verte</role>
+    </credit>
+    <credit>
+      <actor>Cormarie, Jean-Pierre</actor>
+      <role>Olivier</role>
+    </credit>
+    <credit>
+      <actor>Cottin, Jean-Pierre</actor>
+      <role>Mr. A</role>
+    </credit>
+    <credit>
+      <actor>Coulée, Christelle</actor>
+      <role>Coralie Dubouvié</role>
+    </credit>
+    <credit>
+      <actor>De Fraia, Stéphane</actor>
+      <role>Alban</role>
+    </credit>
+    <credit>
+      <actor>De La Porte, Benoît</actor>
+      <role>Yann</role>
+    </credit>
+    <credit>
+      <actor>Delaloche, Jean-Michel</actor>
+      <role>Stéphane Delbesque</role>
+    </credit>
+    <credit>
+      <actor>Depricx, Cyril</actor>
+      <role>Tristan</role>
+    </credit>
+    <credit>
+      <actor>Donval, Louis</actor>
+      <role>Nacho</role>
+    </credit>
+    <credit>
+      <actor>Dortone, Jean-Paul</actor>
+      <role>Pascal Robert</role>
+    </credit>
+    <credit>
+      <actor>Du Coulebrat, Emmanuel</actor>
+      <role>Daniel</role>
+    </credit>
+    <credit>
+      <actor>Epaud, Frédéric</actor>
+      <role>Un parieur</role>
+    </credit>
+    <credit>
+      <actor>Faure, Daniel</actor>
+      <role>Mathieu</role>
+    </credit>
+    <credit>
+      <actor>Feuillard, Serge</actor>
+      <role>Joseph</role>
+    </credit>
+    <credit>
+      <actor>Ficher, Laurent</actor>
+      <role>Maxime Sohn</role>
+    </credit>
+    <credit>
+      <actor>Fouchet, Eric</actor>
+      <role>Allan Helbling</role>
+    </credit>
+    <credit>
+      <actor>Frederic, Marc-Antoine</actor>
+      <role>Jonas</role>
+    </credit>
+    <credit>
+      <actor>Galliano, Olivier (II)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Gallo, Jacques (II)</actor>
+      <role>Quentin Gallienne</role>
+    </credit>
+    <credit>
+      <actor>Garelli, Patrice</actor>
+      <role>Ian</role>
+    </credit>
+    <credit>
+      <actor>Girardot, Alain</actor>
+      <role>Fabrice</role>
+    </credit>
+    <credit>
+      <actor>Gluck, Philippe</actor>
+      <role>Kevin</role>
+    </credit>
+    <credit>
+      <actor>Huet, André</actor>
+      <role>Zwuelski</role>
+    </credit>
+    <credit>
+      <actor>Ikrou, Mohammed</actor>
+      <role>Serkan</role>
+    </credit>
+    <credit>
+      <actor>Isoppo, Daniel</actor>
+      <role>Mr. François de Neuilly</role>
+    </credit>
+    <credit>
+      <actor>Ivancic, Pascal</actor>
+      <role>Albert</role>
+    </credit>
+    <credit>
+      <actor>Jean Elie, Franck</actor>
+      <role>Elie</role>
+    </credit>
+    <credit>
+      <actor>Johann, Pierre</actor>
+      <role>Sohan</role>
+    </credit>
+    <credit>
+      <actor>Joseph Edouard, Irène</actor>
+      <role>Tommy</role>
+    </credit>
+    <credit>
+      <actor>Kieffer, Philippe</actor>
+      <role>Théodore Vetter</role>
+    </credit>
+    <credit>
+      <actor>Lalouhi, Nadir</actor>
+      <role>Momo</role>
+    </credit>
+    <credit>
+      <actor>Lapolye, Jacques</actor>
+      <role>Mr. Hypolitte Fussler</role>
+    </credit>
+    <credit>
+      <actor>Legrand, Augustin</actor>
+      <role>José</role>
+    </credit>
+    <credit>
+      <actor>Legrand, François</actor>
+      <role>Marcus</role>
+    </credit>
+    <credit>
+      <actor>Legrand, Jean-Baptiste</actor>
+      <role>Ronald</role>
+    </credit>
+    <credit>
+      <actor>Legrand, Olga</actor>
+      <role>Mme Godon</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Jean-Paul</actor>
+      <role>Charles Edouard</role>
+    </credit>
+    <credit>
+      <actor>Makharadze, Avtandil</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Malerba, Joseph</actor>
+      <role>Le comptable</role>
+    </credit>
+    <credit>
+      <actor>Marcantoni, Gaston</actor>
+      <role>Gaston</role>
+    </credit>
+    <credit>
+      <actor>Martin, Jacqueline</actor>
+      <role>Martina</role>
+    </credit>
+    <credit>
+      <actor>Mary, Bruno</actor>
+      <role>Gernot Schleu</role>
+    </credit>
+    <credit>
+      <actor>Mazari, Mohammed</actor>
+      <role>Sahid</role>
+    </credit>
+    <credit>
+      <actor>Michaelis, Patrick</actor>
+      <role>Ulysse</role>
+    </credit>
+    <credit>
+      <actor>Nedjel, Christian</actor>
+      <role>Noel</role>
+    </credit>
+    <credit>
+      <actor>Oumaklouf, Pascal</actor>
+      <role>Okaladar</role>
+    </credit>
+    <credit>
+      <actor>Paquatte, Jérôme</actor>
+      <role>Emeric Pédé</role>
+    </credit>
+    <credit>
+      <actor>Passon, Philippe</actor>
+      <role>Jean-François Godon</role>
+    </credit>
+    <credit>
+      <actor>Pejoux, Franck</actor>
+      <role>Robert</role>
+    </credit>
+    <credit>
+      <actor>Pignon, Nicolas</actor>
+      <role>Le parrain</role>
+    </credit>
+    <credit>
+      <actor>Pivolot, Jean-Pierre</actor>
+      <role>Ilo</role>
+    </credit>
+    <credit>
+      <actor>Potherath, Hugo</actor>
+      <role>Lucas</role>
+    </credit>
+    <credit>
+      <actor>Prestia, Jo</actor>
+      <role>Pierre Bléreau</role>
+    </credit>
+    <credit>
+      <actor>Rabourdin, Olivier</actor>
+      <role>Benjamin Boudier</role>
+    </credit>
+    <credit>
+      <actor>Recoing, Aurélien</actor>
+      <role>Jacky</role>
+    </credit>
+    <credit>
+      <actor>Rimbau, François</actor>
+      <role>Un flic</role>
+    </credit>
+    <credit>
+      <actor>Roquet, Stéphane</actor>
+      <role>Nicolas Schillcul</role>
+    </credit>
+    <credit>
+      <actor>Rousseau, Jacques-Maurice</actor>
+      <role>Steeve MacDoom</role>
+    </credit>
+    <credit>
+      <actor>Schmidt, Yann</actor>
+      <role>Dave</role>
+    </credit>
+    <credit>
+      <actor>Sebaki, Eric</actor>
+      <role>Allah</role>
+    </credit>
+    <credit>
+      <actor>Smail, Philippe (I)</actor>
+      <role>Smain</role>
+    </credit>
+    <credit>
+      <actor>Solakian Vasken, Philippe</actor>
+      <role>Tobias</role>
+    </credit>
+    <credit>
+      <actor>Solal, Jean-Luc</actor>
+      <role>Mr. le Merdique</role>
+    </credit>
+    <credit>
+      <actor>Songelin, Grégory</actor>
+      <role>L'homme à la veste rose</role>
+    </credit>
+    <credit>
+      <actor>Stupaert, Vincent</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Surmonne, Jean-Pierre</actor>
+      <role>Philippe Lazare</role>
+    </credit>
+    <credit>
+      <actor>Tanchaud, Christophe</actor>
+      <role>Dorian</role>
+    </credit>
+    <credit>
+      <actor>Tissot, François</actor>
+      <role>le gendarme Guillouet</role>
+    </credit>
+    <credit>
+      <actor>Ulysse, Fred</actor>
+      <role>Alain</role>
+    </credit>
+    <credit>
+      <actor>Van Den Houten, Paul</actor>
+      <role>Vancouvert</role>
+    </credit>
+    <credit>
+      <actor>Vandevelde, Christophe</actor>
+      <role>Ludo</role>
+    </credit>
+    <credit>
+      <actor>Vilers, Vania</actor>
+      <role>Mr. Schlondorff</role>
+    </credit>
+    <credit>
+      <actor>Villiers, Philippe</actor>
+      <role>Damien</role>
+    </credit>
+  </cast>
+<plot>Sebastian, a young man, has decided to follow instructions intended for someone else, without knowing where they will take him. Something else he does not know is that Gerard Dorez, a cop on a knife-edge, is tailing him. When he reaches his destination, Sebastian falls into a degenerate, clandestine world of mental chaos behind closed doors in which men gamble on the lives of others men.</plot><plot>Sebastian, a young man, has decided to follow instructions intended for someone else, without knowing where they will take him. Something else he does not know is that Gerard Dorez, a cop on a knife-edge, is tailing him. When he reaches his destination, Sebastian falls into a degenerate, clandestine world of mental chaos behind closed doors in which men gamble on the lives of others men.</plot><url>http://localhost:8983/solr/movie.html?002265</url></doc>

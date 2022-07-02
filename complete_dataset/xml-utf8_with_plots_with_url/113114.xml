@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="113114">
+  <docid>113114</docid>
+  <title>Con Air</title>
+  <year>1997</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lebenzon, Chris</editor>
+    <editor>Mirkovich, Steve</editor>
+    <editor>Scantlebury, Glen</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>diabetic</keyword>
+    <keyword>disaster</keyword>
+    <keyword>revenge</keyword>
+    <keyword>explosion</keyword>
+    <keyword>mastermind</keyword>
+    <keyword>mobile-alabama</keyword>
+    <keyword>police</keyword>
+    <keyword>bomb</keyword>
+    <keyword>blood</keyword>
+    <keyword>bar</keyword>
+    <keyword>body-landing-on-car</keyword>
+    <keyword>terrorism</keyword>
+    <keyword>prison</keyword>
+    <keyword>motorcycle-chase</keyword>
+    <keyword>crushed-head</keyword>
+    <keyword>convicted-felon</keyword>
+    <keyword>native-american</keyword>
+    <keyword>colombian-drug-cartel</keyword>
+    <keyword>escape</keyword>
+    <keyword>federal-agent</keyword>
+    <keyword>weapon</keyword>
+    <keyword>shot-in-the-chest</keyword>
+    <keyword>transsexual</keyword>
+    <keyword>impalement</keyword>
+    <keyword>hero</keyword>
+    <keyword>false-accusation</keyword>
+    <keyword>criminal</keyword>
+    <keyword>villain-played-by-lead-actor</keyword>
+    <keyword>stabbed-through-leg</keyword>
+    <keyword>prisoner</keyword>
+    <keyword>automobile</keyword>
+    <keyword>father-daughter-relationship</keyword>
+    <keyword>murder</keyword>
+    <keyword>honor</keyword>
+    <keyword>machismo</keyword>
+    <keyword>las-vegas-nevada</keyword>
+    <keyword>friendship</keyword>
+    <keyword>airplane-accident</keyword>
+    <keyword>spit-in-the-face</keyword>
+    <keyword>martial-arts</keyword>
+    <keyword>hijacking</keyword>
+    <keyword>bravery</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>person-on-fire</keyword>
+    <keyword>shot-in-the-forehead</keyword>
+    <keyword>attempted-rape</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>serial-child-killer</keyword>
+    <keyword>psychopath</keyword>
+    <keyword>fire-truck</keyword>
+    <keyword>undercover</keyword>
+    <keyword>fall-from-height</keyword>
+    <keyword>serial-killer</keyword>
+    <keyword>nevada</keyword>
+    <keyword>rapist</keyword>
+    <keyword>violence</keyword>
+    <keyword>fake-accent</keyword>
+    <keyword>racial-slur</keyword>
+    <keyword>aviation</keyword>
+    <keyword>warrior</keyword>
+    <keyword>nose-pushed-into-brain</keyword>
+    <keyword>promise</keyword>
+    <keyword>convict</keyword>
+    <keyword>genius</keyword>
+    <keyword>high-concept</keyword>
+    <keyword>title-spoken-by-character</keyword>
+    <keyword>die-hard-scenario</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Brazil">16</certificate>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="UK">18</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">18</certificate>
+    <certificate country="Belgium">KNT</certificate>
+    <certificate country="Chile">14</certificate>
+    <certificate country="France">-12</certificate>
+    <certificate country="Ireland">18</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">18</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Norway">15</certificate>
+    <certificate country="Canada">R</certificate>
+    <certificate country="Finland">K-16</certificate>
+    <certificate country="Italy">VM14</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="New Zealand">R18</certificate>
+    <certificate country="USA">R</certificate>
+    <certificate country="Denmark">15</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">25 June 1997</releasedate>
+    <releasedate country="South Africa">25 July 1997</releasedate>
+    <releasedate country="Argentina">5 June 1997</releasedate>
+    <releasedate country="Portugal">27 June 1997</releasedate>
+    <releasedate country="Turkey">5 September 1997</releasedate>
+    <releasedate country="Netherlands">19 June 1997</releasedate>
+    <releasedate country="Japan">25 October 1997</releasedate>
+    <releasedate country="Israel">6 June 1997</releasedate>
+    <releasedate country="Malta">14 June 1997</releasedate>
+    <releasedate country="UK">6 June 1997</releasedate>
+    <releasedate country="Singapore">19 June 1997</releasedate>
+    <releasedate country="Germany">12 June 1997</releasedate>
+    <releasedate country="Belgium">9 July 1997</releasedate>
+    <releasedate country="Chile">6 June 1997</releasedate>
+    <releasedate country="France">20 August 1997</releasedate>
+    <releasedate country="Hungary">31 July 1997</releasedate>
+    <releasedate country="Hong Kong">5 June 1997</releasedate>
+    <releasedate country="Estonia">15 August 1997</releasedate>
+    <releasedate country="Czech Republic">7 August 1997</releasedate>
+    <releasedate country="Iceland">13 June 1997</releasedate>
+    <releasedate country="Mexico">6 June 1997</releasedate>
+    <releasedate country="South Korea">28 June 1997</releasedate>
+    <releasedate country="Poland">25 July 1997</releasedate>
+    <releasedate country="Spain">17 June 1997</releasedate>
+    <releasedate country="Australia">17 July 1997</releasedate>
+    <releasedate country="Switzerland">20 June 1997</releasedate>
+    <releasedate country="Norway">27 June 1997</releasedate>
+    <releasedate country="Canada">6 June 1997</releasedate>
+    <releasedate country="Finland">27 June 1997</releasedate>
+    <releasedate country="Austria">13 June 1997</releasedate>
+    <releasedate country="Italy">22 August 1997</releasedate>
+    <releasedate country="Philippines">13 August 1997</releasedate>
+    <releasedate country="New Zealand">12 June 1997</releasedate>
+    <releasedate country="USA">6 June 1997</releasedate>
+    <releasedate country="Kuwait">17 September 1997</releasedate>
+    <releasedate country="Denmark">20 June 1997</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">115</runningtime>
+    <runningtime country="USA">123</runningtime>
+  </runningtimes>
+  <directors>
+    <director>West, Simon (I)</director>
+  </directors>
+  <producers>
+    <producer>Bates, Kenny</producer>
+    <producer>Bigelow, Lynn</producer>
+    <producer>Bogart, Peter</producer>
+    <producer>Hensleigh, Jonathan</producer>
+    <producer>Kouf, Jim</producer>
+    <producer>Oman, Chad</producer>
+    <producer>Bruckheimer, Jerry</producer>
+  </producers>
+  <writers>
+    <writer>Rosenberg, Scott</writer>
+  </writers>
+  <composers>
+    <composer>Mancina, Mark</composer>
+    <composer>Rabin, Trevor</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Allbright, Landry</actor>
+      <role>Casey Poe</role>
+    </credit>
+    <credit>
+      <actor>Antico, Pete</actor>
+      <role>Guard Garner</role>
+    </credit>
+    <credit>
+      <actor>Balahoutis, Alexandra</actor>
+      <role>Waitress</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Randee</actor>
+      <role>Stickman</role>
+    </credit>
+    <credit>
+      <actor>Barry, Matthew (I)</actor>
+      <role>Chambers</role>
+    </credit>
+    <credit>
+      <actor>Bell, Dan (I)</actor>
+      <role>Fuel Jockey</role>
+    </credit>
+    <credit>
+      <actor>Bellamy, Ned</actor>
+      <role>Chopper Pilot</role>
+    </credit>
+    <credit>
+      <actor>Billings, Earl</actor>
+      <role>Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Bluford, Dawn</actor>
+      <role>Female Baggage Handler</role>
+    </credit>
+    <credit>
+      <actor>Boothe, Powers</actor>
+      <role>Officer at Leaving Ceremony</role>
+    </credit>
+    <credit>
+      <actor>Borrego, Jesse</actor>
+      <role>Francisco Cindino</role>
+    </credit>
+    <credit>
+      <actor>Bozian, Jamie</actor>
+      <role>Con #2</role>
+    </credit>
+    <credit>
+      <actor>Brownlee, Mongo</actor>
+      <role>Ajax</role>
+    </credit>
+    <credit>
+      <actor>Burkholder, Scott</actor>
+      <role>Air Traffic Controller</role>
+    </credit>
+    <credit>
+      <actor>Burkley, Dennis</actor>
+      <role>Dale, Bartender</role>
+    </credit>
+    <credit>
+      <actor>Burt, Kira</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Buscemi, Steve</actor>
+      <role>Garland 'The Marietta Mangler' Greene</role>
+    </credit>
+    <credit>
+      <actor>Bush, Tommy</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Cage, Nicolas</actor>
+      <role>Cameron Poe</role>
+    </credit>
+    <credit>
+      <actor>Campbell, John (III)</actor>
+      <role>B.O.P. Bus Driver</role>
+    </credit>
+    <credit>
+      <actor>Chappelle, Dave</actor>
+      <role>Joe 'Pinball' Parker</role>
+    </credit>
+    <credit>
+      <actor>Chinlund, Nick</actor>
+      <role>William 'Billy Bedlam' Bedford</role>
+    </credit>
+    <credit>
+      <actor>Ciarfalio, Carl</actor>
+      <role>Con #1</role>
+    </credit>
+    <credit>
+      <actor>Collins, Greg (II)</actor>
+      <role>Guard #2</role>
+    </credit>
+    <credit>
+      <actor>Cooney, Kevin (I)</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Currie, Brian Hayes</actor>
+      <role>Vegas Cop</role>
+    </credit>
+    <credit>
+      <actor>Cusack, Bill</actor>
+      <role>Paramedic #2</role>
+    </credit>
+    <credit>
+      <actor>Cusack, John</actor>
+      <role>U.S. Marshal Vince Larkin</role>
+    </credit>
+    <credit>
+      <actor>Davis, Don S. (I)</actor>
+      <role>Man in Car</role>
+    </credit>
+    <credit>
+      <actor>Dearth, Doug</actor>
+      <role>Con #4</role>
+    </credit>
+    <credit>
+      <actor>Devlin, Billy</actor>
+      <role>Guard #3</role>
+    </credit>
+    <credit>
+      <actor>Diehl, John</actor>
+      <role>Public Defender</role>
+    </credit>
+    <credit>
+      <actor>Ditty, Scott</actor>
+      <role>Bus Guard</role>
+    </credit>
+    <credit>
+      <actor>Duran, Richard L.</actor>
+      <role>Warlock</role>
+    </credit>
+    <credit>
+      <actor>Eastin, Steve</actor>
+      <role>Guard Falzon</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Chris (I)</actor>
+      <role>B.O.P. Official Grant</role>
+    </credit>
+    <credit>
+      <actor>Evans, Dick 'Skip'</actor>
+      <role>Airplane Pilot</role>
+    </credit>
+    <credit>
+      <actor>Featherstone, Angela</actor>
+      <role>Ginny</role>
+    </credit>
+    <credit>
+      <actor>Fresca, Marty</actor>
+      <role>Bald Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Frost, Charles Lynn</actor>
+      <role>DEA Agent</role>
+    </credit>
+    <credit>
+      <actor>Gage, Kevin</actor>
+      <role>Billy Joe</role>
+    </credit>
+    <credit>
+      <actor>Gainey, M.C.</actor>
+      <role>Swamp Thing</role>
+    </credit>
+    <credit>
+      <actor>Ginther, Mark (I)</actor>
+      <role>Guard #4</role>
+    </credit>
+    <credit>
+      <actor>Goode, Conrad</actor>
+      <role>Viking</role>
+    </credit>
+    <credit>
+      <actor>Greer, Dabbs</actor>
+      <role>Old Man under Truck</role>
+    </credit>
+    <credit>
+      <actor>Haggerty, Dylan (I)</actor>
+      <role>Starkey</role>
+    </credit>
+    <credit>
+      <actor>Hood, Christopher Robin</actor>
+      <role>Crash Witness</role>
+    </credit>
+    <credit>
+      <actor>Hulin, Steve</actor>
+      <role>Ronnie</role>
+    </credit>
+    <credit>
+      <actor>Hutchison, Doug</actor>
+      <role>Donald</role>
+    </credit>
+    <credit>
+      <actor>Jones, John Marshall</actor>
+      <role>Gator</role>
+    </credit>
+    <credit>
+      <actor>Jones, Ty Granderson</actor>
+      <role>Blade</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Brendan (I)</actor>
+      <role>Conrad</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Joseph Patrick</actor>
+      <role>Guard #5</role>
+    </credit>
+    <credit>
+      <actor>Kyris, Marco</actor>
+      <role>Cindino's Pilot</role>
+    </credit>
+    <credit>
+      <actor>L'Heureux, Gérard</actor>
+      <role>Guard Renfro</role>
+    </credit>
+    <credit>
+      <actor>Lehne, Fredric</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Ludwig, Walt G.</actor>
+      <role>Firefighter</role>
+    </credit>
+    <credit>
+      <actor>Malkovich, John</actor>
+      <role>Cyrus 'The Virus' Grissom</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Scott</actor>
+      <role>Cindino Gunman #3</role>
+    </credit>
+    <credit>
+      <actor>McGovern, Don</actor>
+      <role>Smoke</role>
+    </credit>
+    <credit>
+      <actor>McSorley, Marty</actor>
+      <role>Mack the Co-Pilot</role>
+    </credit>
+    <credit>
+      <actor>Meaney, Colm</actor>
+      <role>DEA Agent Duncan Malloy</role>
+    </credit>
+    <credit>
+      <actor>Miyashima, Joey</actor>
+      <role>Tech Guy</role>
+    </credit>
+    <credit>
+      <actor>Olson, Jeff (I)</actor>
+      <role>Uncle Bob</role>
+    </credit>
+    <credit>
+      <actor>Paddock, Charlie</actor>
+      <role>Transportation Officer #1</role>
+    </credit>
+    <credit>
+      <actor>Perez, Eddie (I)</actor>
+      <role>Cindino Gunman #2</role>
+    </credit>
+    <credit>
+      <actor>Poindexter, Jeris</actor>
+      <role>Watts</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, David (I)</actor>
+      <role>Londell</role>
+    </credit>
+    <credit>
+      <actor>Randall, George (II)</actor>
+      <role>Old Con on Plane</role>
+    </credit>
+    <credit>
+      <actor>Rhames, Ving</actor>
+      <role>Nathan 'Diamond Dog' Jones</role>
+    </credit>
+    <credit>
+      <actor>Rivera, Emilio (I)</actor>
+      <role>Carlos</role>
+    </credit>
+    <credit>
+      <actor>Roberson, David (I)</actor>
+      <role>Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Mario</actor>
+      <role>Mongoose</role>
+    </credit>
+    <credit>
+      <actor>Robotham, John</actor>
+      <role>Guard Ryan</role>
+    </credit>
+    <credit>
+      <actor>Rodney, Mark</actor>
+      <role>Vegas Cop</role>
+    </credit>
+    <credit>
+      <actor>Rosales Jr., Thomas</actor>
+      <role>Cindino Gunman #1</role>
+    </credit>
+    <credit>
+      <actor>Rosales, Gilbert</actor>
+      <role>Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Roselius, John</actor>
+      <role>Skip Devers</role>
+    </credit>
+    <credit>
+      <actor>Rosenberg, Scott</actor>
+      <role>Garland's Craps Dealer</role>
+    </credit>
+    <credit>
+      <actor>Rudert, Dan</actor>
+      <role>Army Helicopter Pilot</role>
+    </credit>
+    <credit>
+      <actor>Santiago, Renoly</actor>
+      <role>Ramon 'Sally-Can't Dance' Martinez</role>
+    </credit>
+    <credit>
+      <actor>Smock, Ashley</actor>
+      <role>Huey Pilot</role>
+    </credit>
+    <credit>
+      <actor>So, Jay</actor>
+      <role>Tourist</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Bob (II)</actor>
+      <role>Ted, Pilot</role>
+    </credit>
+    <credit>
+      <actor>Taft, Robert</actor>
+      <role>Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Trejo, Danny</actor>
+      <role>Johnny 'Johnny-23' Baca</role>
+    </credit>
+    <credit>
+      <actor>White, Robert (V)</actor>
+      <role>Soldier #2</role>
+    </credit>
+    <credit>
+      <actor>Willems, Brian</actor>
+      <role>Paramedic #1</role>
+    </credit>
+    <credit>
+      <actor>Williamson, Mykelti</actor>
+      <role>Mike 'Baby-O' O'Dell</role>
+    </credit>
+    <credit>
+      <actor>Worthington, Sheldon</actor>
+      <role>Co-Pilot</role>
+    </credit>
+    <credit>
+      <actor>Zumbrum, Harley</actor>
+      <role>Con #3</role>
+    </credit>
+    <credit>
+      <actor>Zúñiga, José (I)</actor>
+      <role>DEA Agent Willie Sims</role>
+    </credit>
+  </cast>
+<plot>Cameron Poe, who is a highly decorated United States Army Ranger came to his home of Alabama to his wife, Tricia. only to run into a few drunken regulars at where Tricia works. Cameron unknowingly kills one of the drunks and was sent to a federal penitentiary for involuntary manslaughter for seven years. Then, Cameron became eligible for parole and can now go home to his wife and daughter, Casey. Unfortunately, Cameron has to share a prison airplane with some of the most dangerous criminals in the country, who somehow took control of the plane and are now planning to escape the country with the plane. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vincent Larkin is trying to help Cameron get free and stop the criminals including, Cyrus "The Virus" Grissom.</plot><url>http://localhost:8983/solr/movie.html?113114</url></doc>

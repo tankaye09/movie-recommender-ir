@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="099079">
+  <docid>099079</docid>
+  <title>Challenge</title>
+  <year>1974</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>independent-film</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">October 1974</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">94</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Beck, Martin (II)</director>
+  </directors>
+  <producers>
+    <producer>Owensby, Earl</producer>
+  </producers>
+  <composers>
+    <composer>Hall, Duke</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Beck, Sandra (I)</actor>
+      <role>Trina</role>
+    </credit>
+    <credit>
+      <actor>Covington, Fred</actor>
+      <role>MacDonald Jennings</role>
+    </credit>
+    <credit>
+      <actor>Devine, Kathleen</actor>
+      <role>Paulette</role>
+    </credit>
+    <credit>
+      <actor>Hale, Doug (I)</actor>
+      <role>Gil Rand</role>
+    </credit>
+    <credit>
+      <actor>Hicks, William T.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moore, Laurens</actor>
+      <role>Comm. Taylor</role>
+    </credit>
+    <credit>
+      <actor>Owensby, Earl</actor>
+      <role>Frank Challenge</role>
+    </credit>
+    <credit>
+      <actor>Popwell, Johnny</actor>
+      <role>Will</role>
+    </credit>
+    <credit>
+      <actor>Smoot, Phil</actor>
+      <role>Headwaiter</role>
+    </credit>
+  </cast>
+<plot>Frank Challenge is a man running for the U.S. Senate who will not sell out to the Syndicate. As a result of his strong stand against the mob, his family is murdered. Then Challenge becomes judge, jury, and executioner.</plot><url>http://localhost:8983/solr/movie.html?099079</url></doc>

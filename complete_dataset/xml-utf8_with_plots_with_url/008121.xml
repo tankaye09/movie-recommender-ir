@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="008121">
+  <docid>008121</docid>
+  <title>A Can of Paint</title>
+  <year>2004</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Michael, Robi</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">9 April 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">25</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Michael, Robi</director>
+  </directors>
+  <producers>
+    <producer>Engel, Winston</producer>
+    <producer>Engle, Winston</producer>
+    <producer>Sammon, Thomas</producer>
+  </producers>
+  <writers>
+    <writer>Engle, Winston</writer>
+    <writer>van Vogt, A.E.</writer>
+  </writers>
+  <composers>
+    <composer>Haab, Gordy</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Franzblau, Jean</actor>
+      <role>Computer</role>
+    </credit>
+    <credit>
+      <actor>Robson, Aaron</actor>
+      <role>Kilgour</role>
+    </credit>
+  </cast>
+<plot>Interstellar junk dealer Kilgour dreams of riches when he discovers an ancient derelict ship of an unknown race. But the find of his life instead becomes a threat to his life. A spot of paint from an alien can begins to grow on his body, out of control. In space, the simplest things can kill you...</plot><url>http://localhost:8983/solr/movie.html?008121</url></doc>

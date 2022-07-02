@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="017020">
+  <docid>017020</docid>
+  <title>A Telegraphic Tangle</title>
+  <year>1916</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">18 March 1918</releasedate>
+  </releasedates>
+  <directors>
+    <director>Drew, Sidney</director>
+  </directors>
+  <writers>
+    <writer>Banner, Maude</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Drew, Mrs. Sidney (II)</actor>
+      <role>Mrs. John Smithers</role>
+    </credit>
+    <credit>
+      <actor>Drew, Sidney</actor>
+      <role>John Smithers</role>
+    </credit>
+  </cast>
+<plot>Instead of going to a lecture with his wife, Smithers plays poker all night. When he hasn't returned by morning, his wife sends telegrams to all his friends asking if he spent the night with any of them. Each friend responds separately that yes, he was with him all night.</plot><url>http://localhost:8983/solr/movie.html?017020</url></doc>

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="636079">
+  <docid>636079</docid>
+  <title>Vanilla Sky</title>
+  <year>2001</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Hutshing, Joe</editor>
+    <editor>Livolsi, Mark (I)</editor>
+  </editors>
+  <genres>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+    <genre>Romance</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>doctor</keyword>
+    <keyword>death</keyword>
+    <keyword>reckless-driving</keyword>
+    <keyword>psychiatrist</keyword>
+    <keyword>mistaken-identity</keyword>
+    <keyword>stalker</keyword>
+    <keyword>parade</keyword>
+    <keyword>attempted-murder</keyword>
+    <keyword>bar</keyword>
+    <keyword>dancer</keyword>
+    <keyword>prison</keyword>
+    <keyword>car-accident</keyword>
+    <keyword>false-memory</keyword>
+    <keyword>lucid-dreaming</keyword>
+    <keyword>ambiguous-ending</keyword>
+    <keyword>jealousy</keyword>
+    <keyword>virtual-reality</keyword>
+    <keyword>skyscraper</keyword>
+    <keyword>jump-from-height</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>mask</keyword>
+    <keyword>infidelity</keyword>
+    <keyword>sex</keyword>
+    <keyword>psychologist</keyword>
+    <keyword>remake</keyword>
+    <keyword>board-of-directors</keyword>
+    <keyword>disfigurement</keyword>
+    <keyword>dream</keyword>
+    <keyword>times-square</keyword>
+    <keyword>murder</keyword>
+    <keyword>no-opening-credits</keyword>
+    <keyword>hallucination</keyword>
+    <keyword>no-title-at-beginning</keyword>
+    <keyword>amnesia</keyword>
+    <keyword>nightmare</keyword>
+    <keyword>rich-snob</keyword>
+    <keyword>love-affair</keyword>
+    <keyword>cryogenics</keyword>
+    <keyword>asylum</keyword>
+    <keyword>suicide</keyword>
+    <keyword>writer</keyword>
+    <keyword>disfigured-face</keyword>
+    <keyword>flashback</keyword>
+    <keyword>talking-while-driving</keyword>
+    <keyword>corporate-take-over</keyword>
+    <keyword>paranoia</keyword>
+    <keyword>reconstructive-surgery</keyword>
+    <keyword>new-york</keyword>
+    <keyword>coma</keyword>
+    <keyword>remake-of-spanish-film</keyword>
+    <keyword>party</keyword>
+  </keywords>
+  <languages>
+    <language>Spanish</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="Portugal">M/16</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">R(A)</certificate>
+    <certificate country="Germany">16</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Hungary">14</certificate>
+    <certificate country="Hong Kong">IIB</certificate>
+    <certificate country="Iceland">12</certificate>
+    <certificate country="South Korea">18</certificate>
+    <certificate country="Spain">13</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">14</certificate>
+    <certificate country="Canada">14A</certificate>
+    <certificate country="Finland">K-15</certificate>
+    <certificate country="Philippines">R-18</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">25 January 2002</releasedate>
+    <releasedate country="South Africa">25 January 2002</releasedate>
+    <releasedate country="Peru">24 January 2002</releasedate>
+    <releasedate country="Argentina">24 January 2002</releasedate>
+    <releasedate country="Portugal">18 January 2002</releasedate>
+    <releasedate country="Turkey">25 January 2002</releasedate>
+    <releasedate country="Brazil">25 January 2002</releasedate>
+    <releasedate country="Netherlands">24 January 2002</releasedate>
+    <releasedate country="Japan">22 December 2001</releasedate>
+    <releasedate country="Israel">24 January 2002</releasedate>
+    <releasedate country="UK">25 January 2002</releasedate>
+    <releasedate country="Taiwan">29 December 2001</releasedate>
+    <releasedate country="Bulgaria">5 April 2002</releasedate>
+    <releasedate country="Singapore">25 December 2001</releasedate>
+    <releasedate country="Greece">25 January 2002</releasedate>
+    <releasedate country="Germany">24 January 2002</releasedate>
+    <releasedate country="Belgium">23 January 2002</releasedate>
+    <releasedate country="France">23 January 2002</releasedate>
+    <releasedate country="Hungary">24 January 2002</releasedate>
+    <releasedate country="Hong Kong">20 December 2001</releasedate>
+    <releasedate country="Estonia">1 February 2002</releasedate>
+    <releasedate country="Czech Republic">24 January 2002</releasedate>
+    <releasedate country="Iceland">25 January 2002</releasedate>
+    <releasedate country="Mexico">28 December 2001</releasedate>
+    <releasedate country="South Korea">21 December 2001</releasedate>
+    <releasedate country="Poland">15 March 2002</releasedate>
+    <releasedate country="Spain">1 February 2002</releasedate>
+    <releasedate country="Egypt">23 January 2002</releasedate>
+    <releasedate country="Australia">20 December 2001</releasedate>
+    <releasedate country="Switzerland">24 January 2002</releasedate>
+    <releasedate country="Norway">1 February 2002</releasedate>
+    <releasedate country="Cyprus">1 February 2002</releasedate>
+    <releasedate country="Russia">24 January 2002</releasedate>
+    <releasedate country="Finland">5 July 2002</releasedate>
+    <releasedate country="Austria">25 January 2002</releasedate>
+    <releasedate country="Philippines">13 February 2002</releasedate>
+    <releasedate country="Italy">1 February 2002</releasedate>
+    <releasedate country="Colombia">25 January 2002</releasedate>
+    <releasedate country="USA">14 December 2001</releasedate>
+    <releasedate country="Kuwait">12 March 2002</releasedate>
+    <releasedate country="Denmark">1 February 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">136</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Crowe, Cameron (I)</director>
+  </directors>
+  <producers>
+    <producer>Lekay, Endrick</producer>
+    <producer>Doven, Michael</producer>
+    <producer>Martin, Scott M.</producer>
+    <producer>Lee Jr., Donald J.</producer>
+    <producer>Block, Bill (II)</producer>
+    <producer>Bovaira, Fernando</producer>
+    <producer>Bramson, Danny</producer>
+    <producer>Sanger, Jonathan</producer>
+    <producer>Wachsberger, Patrick</producer>
+    <producer>Crowe, Cameron (I)</producer>
+    <producer>Cruise, Tom</producer>
+    <producer>Wagner, Paula</producer>
+  </producers>
+  <writers>
+    <writer>Crowe, Cameron (I)</writer>
+  </writers>
+  <composers>
+    <composer>Wilson, Nancy (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aspen, Jennifer</actor>
+      <role>Nina</role>
+    </credit>
+    <credit>
+      <actor>Blossom (IV)</actor>
+      <role>Benny the Dog</role>
+    </credit>
+    <credit>
+      <actor>Bramhall, Mark</actor>
+      <role>Sneezy</role>
+    </credit>
+    <credit>
+      <actor>Brown, W. Earl</actor>
+      <role>Barman</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Carolyn</actor>
+      <role>Beatrice</role>
+    </credit>
+    <credit>
+      <actor>Campagna, Christie</actor>
+      <role>Guest at Funeral</role>
+    </credit>
+    <credit>
+      <actor>Carothers Hughes, Julia</actor>
+      <role>Sofia's Friend</role>
+    </credit>
+    <credit>
+      <actor>Collins, Marty (II)</actor>
+      <role>Martini Waiter</role>
+    </credit>
+    <credit>
+      <actor>Collucci, Tony</actor>
+      <role>Guy at Party</role>
+    </credit>
+    <credit>
+      <actor>Colvin, Steven</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Crowe, Alice Marie</actor>
+      <role>Lucid Dreamer</role>
+    </credit>
+    <credit>
+      <actor>Crowe, Cindy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cruise, Tom</actor>
+      <role>David Aames</role>
+    </credit>
+    <credit>
+      <actor>Cruz, Penélope</actor>
+      <role>Sofia Serrano</role>
+    </credit>
+    <credit>
+      <actor>Dean, Robertson</actor>
+      <role>Third Doctor</role>
+    </credit>
+    <credit>
+      <actor>Decker, Julia</actor>
+      <role>Model</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Cameron</actor>
+      <role>Julie Gianni</role>
+    </credit>
+    <credit>
+      <actor>Fedevich, John</actor>
+      <role>Silent Ed Vallencourt</role>
+    </credit>
+    <credit>
+      <actor>Foster, Janine</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Laura (II)</actor>
+      <role>The Future</role>
+    </credit>
+    <credit>
+      <actor>Galecki, Johnny</actor>
+      <role>Peter Brown</role>
+    </credit>
+    <credit>
+      <actor>Gimenez, Jennifer</actor>
+      <role>Lola</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Jennifer (I)</actor>
+      <role>Happy</role>
+    </credit>
+    <credit>
+      <actor>Haggar, Paul (III)</actor>
+      <role>Frozen Risktaker</role>
+    </credit>
+    <credit>
+      <actor>Hall, Jack (V)</actor>
+      <role>Bashful</role>
+    </credit>
+    <credit>
+      <actor>Harlow, Shalom</actor>
+      <role>Colleen</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Robert F.</actor>
+      <role>Laughing Guy</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Todd</actor>
+      <role>Skyscraper Guy</role>
+    </credit>
+    <credit>
+      <actor>Hart, Oona</actor>
+      <role>Lynette</role>
+    </credit>
+    <credit>
+      <actor>Hopper, Tim (I)</actor>
+      <role>Man in Blue Coat</role>
+    </credit>
+    <credit>
+      <actor>Hudson, Zach (I)</actor>
+      <role>Life Extension Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Keating, Ryan</actor>
+      <role>SWAT Team Officer #3</role>
+    </credit>
+    <credit>
+      <actor>Kehoe, Michael</actor>
+      <role>Chef</role>
+    </credit>
+    <credit>
+      <actor>Kelley, Jennifer Marie</actor>
+      <role>Model</role>
+    </credit>
+    <credit>
+      <actor>Kepley, John</actor>
+      <role>Dopey</role>
+    </credit>
+    <credit>
+      <actor>Kozelek, Mark</actor>
+      <role>Dude, Fix Your Face Guy</role>
+    </credit>
+    <credit>
+      <actor>LeGrant, Adam</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Lee, Jason (I)</actor>
+      <role>Brian Shelby</role>
+    </credit>
+    <credit>
+      <actor>Lee, Tommy (VI)</actor>
+      <role>Frozen Vintage Car Man</role>
+    </credit>
+    <credit>
+      <actor>Lee, Zachary (I)</actor>
+      <role>Joshua</role>
+    </credit>
+    <credit>
+      <actor>Leung, Ken (I)</actor>
+      <role>Art Editor</role>
+    </credit>
+    <credit>
+      <actor>Lewison, David</actor>
+      <role>Sleepy</role>
+    </credit>
+    <credit>
+      <actor>Lezama, Lori</actor>
+      <role>Skyscraper Girl</role>
+    </credit>
+    <credit>
+      <actor>Lim, Roger</actor>
+      <role>SWAT Team Officer #5</role>
+    </credit>
+    <credit>
+      <actor>Lipinski, Tara</actor>
+      <role>Girl at Party</role>
+    </credit>
+    <credit>
+      <actor>Loring, Scotch Ellis</actor>
+      <role>L.E. Building Guard</role>
+    </credit>
+    <credit>
+      <actor>Lunders, Jacob Neal</actor>
+      <role>The Writer</role>
+    </credit>
+    <credit>
+      <actor>Mapother, William</actor>
+      <role>Clubgoer</role>
+    </credit>
+    <credit>
+      <actor>McElmurry, Erin</actor>
+      <role>Model</role>
+    </credit>
+    <credit>
+      <actor>McMullen, Patrick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Meyers, Christine</actor>
+      <role>Girl in Office</role>
+    </credit>
+    <credit>
+      <actor>Milicevic, Ivana</actor>
+      <role>Emma</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Delaina</actor>
+      <role>David's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Munroe, Jan</actor>
+      <role>Older Editor</role>
+    </credit>
+    <credit>
+      <actor>Murtaugh, James</actor>
+      <role>Benny's Owner</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Conan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pinter, Mark</actor>
+      <role>Carlton Kaller</role>
+    </credit>
+    <credit>
+      <actor>Proscia, Ray</actor>
+      <role>Doctor from Berlin</role>
+    </credit>
+    <credit>
+      <actor>Russell, Kurt (I)</actor>
+      <role>McCabe</role>
+    </credit>
+    <credit>
+      <actor>Sanger, Jonathan</actor>
+      <role>Frozen Pediatric Cardiologist</role>
+    </credit>
+    <credit>
+      <actor>Schruers, Fred</actor>
+      <role>Cryo Man</role>
+    </credit>
+    <credit>
+      <actor>Schultz, Armand</actor>
+      <role>Dr. Pomeranz</role>
+    </credit>
+    <credit>
+      <actor>Sexton, Brent</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Shannon, Michael (V)</actor>
+      <role>Aaron</role>
+    </credit>
+    <credit>
+      <actor>Skaggs, Curt</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Spall, Timothy</actor>
+      <role>Thomas Tipp</role>
+    </credit>
+    <credit>
+      <actor>Spielberg, Steven</actor>
+      <role>Guest at David Aames' Party</role>
+    </credit>
+    <credit>
+      <actor>Sterling, Andrei</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Sypolt, The Great John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Noah (I)</actor>
+      <role>Edmund Ventura</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Mel</actor>
+      <role>Life Extension Man</role>
+    </credit>
+    <credit>
+      <actor>Todd, Bryan (II)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Van Sharner, Robin</actor>
+      <role>Grumpy</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Bobby</actor>
+      <role>Young David</role>
+    </credit>
+    <credit>
+      <actor>Watson, Cameron (I)</actor>
+      <role>Other Doctor</role>
+    </credit>
+    <credit>
+      <actor>Weiss, Jeff (I)</actor>
+      <role>Raymond Tooley</role>
+    </credit>
+    <credit>
+      <actor>Willens, Jhaemi</actor>
+      <role>Jamie Berliner</role>
+    </credit>
+    <credit>
+      <actor>Woodside, Randy</actor>
+      <role>Frozen Dad</role>
+    </credit>
+  </cast>
+<plot>David Aames takes all he has for granted; his wealth, his inherited publishing company, his good looks - his relationships. Especially his relationships. It catches up to him when a friend/sometimes sex-partner can't see their relationship the way he sees it. From that point, the movie takes a Lynchian twist that ultimately and literally pulls us into Aames' tortured psyche.</plot><url>http://localhost:8983/solr/movie.html?636079</url></doc>

@@ -1,0 +1,4863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="111420">
+  <docid>111420</docid>
+  <title>Combat!</title>
+  <year>1962</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Benson, Jim (I)</editor>
+    <editor>Faris, Jim</editor>
+    <editor>Holmes, Jack W.</editor>
+    <editor>Mace, William (I)</editor>
+    <editor>McCarthy, Thomas J. (I)</editor>
+    <editor>Van Enger, Richard L.</editor>
+    <editor>Winters, Ralph E.</editor>
+    <editor>Wolfe, Robert L.</editor>
+    <editor>Wrangell, Basil</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Drama</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>mother-superior</keyword>
+    <keyword>postulant</keyword>
+    <keyword>wwii</keyword>
+    <keyword>order-of-sisters-of-charity</keyword>
+    <keyword>convent</keyword>
+    <keyword>lieutenant</keyword>
+    <keyword>nun</keyword>
+    <keyword>sergeant</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Singapore">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">10 March 1964</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Addiss, Jus</director>
+    <director>Altman, Robert (I)</director>
+    <director>Benedek, Laslo</director>
+    <director>Benedict, Richard</director>
+    <director>Caffey, Michael</director>
+    <director>Crosland Jr., Alan</director>
+    <director>Donner, Richard</director>
+    <director>Fenady, Georg</director>
+    <director>Gries, Tom (I)</director>
+    <director>Hoffman, Herman (I)</director>
+    <director>Kennedy, Burt</director>
+    <director>Komack, James</director>
+    <director>McEveety, Bernard (II)</director>
+    <director>Morrow, Vic</director>
+    <director>Paul, Byron</director>
+    <director>Peyser, John (I)</director>
+    <director>Post, Ted</director>
+    <director>Roley, Sutton</director>
+    <director>Sagal, Boris</director>
+    <director>Stanley, Paul (I)</director>
+  </directors>
+  <producers>
+    <producer>Caffey, Michael</producer>
+    <producer>Caffey, Richard</producer>
+    <producer>Fenady, Georg</producer>
+    <producer>McDonagh, Richard P.</producer>
+    <producer>Morheim, Lou</producer>
+  </producers>
+  <writers>
+    <writer>Adams, Richard (XII)</writer>
+    <writer>Adamson, Ed</writer>
+    <writer>Altman, Robert (I)</writer>
+    <writer>Andrews, Robert Hardy</writer>
+    <writer>Barrows, Judith</writer>
+    <writer>Barry, Peter (II)</writer>
+    <writer>Bast, William</writer>
+    <writer>Belgard, Arnold</writer>
+    <writer>Black, John D.F.</writer>
+    <writer>Brown, Harry (I)</writer>
+    <writer>Coon, Gene L.</writer>
+    <writer>Fay, William (III)</writer>
+    <writer>Field, Gustave</writer>
+    <writer>George, George W.</writer>
+    <writer>George, Judy</writer>
+    <writer>Hendryx, Shirl</writer>
+    <writer>Hoffman, Phillip W.</writer>
+    <writer>Hughes, Jonathan (III)</writer>
+    <writer>Kennedy, Burt</writer>
+    <writer>Lakso, Edward J.</writer>
+    <writer>Landis, James</writer>
+    <writer>Levitt, Gene</writer>
+    <writer>Lewis, Mort R.</writer>
+    <writer>Maibaum, Richard</writer>
+    <writer>Menzies, James</writer>
+    <writer>Mitchell, Esther (I)</writer>
+    <writer>Moessinger, David</writer>
+    <writer>Morrow, Vic</writer>
+    <writer>Moss, Frank L.</writer>
+    <writer>Newhafer, Richard</writer>
+    <writer>Peterson, Rod</writer>
+    <writer>Pettus, Ken</writer>
+    <writer>Pirosh, Robert</writer>
+    <writer>Ritch, Steven</writer>
+    <writer>Seller, Tom (I)</writer>
+    <writer>Slavin, George F.</writer>
+    <writer>Smith, Charles B. (I)</writer>
+    <writer>Stark, Sheldon</writer>
+    <writer>Tait, Don</writer>
+    <writer>Thompson, Jim (I)</writer>
+    <writer>Trivers, Barry</writer>
+    <writer>Tunick, Irve</writer>
+    <writer>Vollaerts, Hendrik</writer>
+    <writer>Wald, Malvin</writer>
+    <writer>Wallace, Art (I)</writer>
+    <writer>Waters, Ed (I)</writer>
+    <writer>Weisburd, Dan E.</writer>
+    <writer>Wendley, Richard</writer>
+    <writer>White, Andy (I)</writer>
+    <writer>Wilson, Anthony (I)</writer>
+    <writer>Yates, William R.</writer>
+    <writer>Barry, Peter (II)</writer>
+    <writer>Bast, William</writer>
+    <writer>Bishop, Ron (I)</writer>
+    <writer>Bonner, Edward J.</writer>
+    <writer>Carneol, Jess</writer>
+    <writer>Carnes, Del</writer>
+    <writer>Considine, John</writer>
+    <writer>Considine, Tim</writer>
+    <writer>Conway, Thomas A. (I)</writer>
+    <writer>Coon, Gene L.</writer>
+    <writer>Coopersmith, Jerome</writer>
+    <writer>Davis, Luther (I)</writer>
+    <writer>Ellis, Sidney (I)</writer>
+    <writer>Fay, William (III)</writer>
+    <writer>Fisher, Steve (I)</writer>
+    <writer>Frederick, Bob (II)</writer>
+    <writer>Goodman, David Zelag</writer>
+    <writer>Henerson, James S.</writer>
+    <writer>Jessy, Frank</writer>
+    <writer>Kaufman, Robert (I)</writer>
+    <writer>Lakso, Edward J.</writer>
+    <writer>Lay Jr., Beirne</writer>
+    <writer>Lenard, Kay</writer>
+    <writer>Levitt, Gene</writer>
+    <writer>Marshall, Sidney</writer>
+    <writer>Matheson, Richard</writer>
+    <writer>McDonagh, Richard P.</writer>
+    <writer>Mitchell, Bob (III)</writer>
+    <writer>Mitchell, Esther (I)</writer>
+    <writer>Moessinger, David</writer>
+    <writer>Playdon, Paul</writer>
+    <writer>Ralston, Gilbert</writer>
+    <writer>Root, Wells</writer>
+    <writer>Schoenfeld, Bernard C.</writer>
+    <writer>Seller, Tom (I)</writer>
+    <writer>Shapiro, Richard</writer>
+    <writer>Slavin, George F.</writer>
+    <writer>Sparr, Quentin</writer>
+    <writer>Spinner, Anthony</writer>
+    <writer>Tait, Don</writer>
+    <writer>Tregaskis, Richard</writer>
+    <writer>Vollaerts, Hendrik</writer>
+    <writer>Wallace, Art (I)</writer>
+    <writer>Wallace, Bivings F.</writer>
+    <writer>Waters, Ed (I)</writer>
+    <writer>Wendley, Richard</writer>
+    <writer>Wincelberg, Shimon</writer>
+    <writer>Wixted, James</writer>
+    <writer>Yates, William R.</writer>
+    <writer>Zweiback, A. Martin</writer>
+  </writers>
+  <composers>
+    <composer>Bassman, George</composer>
+    <composer>Rosenman, Leonard</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbott, Philip</actor>
+      <role>Capt. Correlli</role>
+    </credit>
+    <credit>
+      <actor>Adams, David (XXIV)</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Adams, David (XXV)</actor>
+      <role>Peter</role>
+    </credit>
+    <credit>
+      <actor>Adams, Nick (I)</actor>
+      <role>Cpl. Marty Roberts</role>
+    </credit>
+    <credit>
+      <actor>Adams, Nick (I)</actor>
+      <role>Pvt. Mick Hellar</role>
+    </credit>
+    <credit>
+      <actor>Agar, John</actor>
+      <role>Capt. Thorpe</role>
+    </credit>
+    <credit>
+      <actor>Aiello, Anthony (I)</actor>
+      <role>G.I.</role>
+    </credit>
+    <credit>
+      <actor>Akins, Claude</actor>
+      <role>Mastin</role>
+    </credit>
+    <credit>
+      <actor>Akins, Claude</actor>
+      <role>Pelton</role>
+    </credit>
+    <credit>
+      <actor>Akins, Claude</actor>
+      <role>Rosie</role>
+    </credit>
+    <credit>
+      <actor>Albert, Eddie</actor>
+      <role>Phil</role>
+    </credit>
+    <credit>
+      <actor>Alden, Norman</actor>
+      <role>PFC Cooper</role>
+    </credit>
+    <credit>
+      <actor>Alden, Norman</actor>
+      <role>Pvt. Buford</role>
+    </credit>
+    <credit>
+      <actor>Alderson, John (I)</actor>
+      <role>Sgt. Rawlings</role>
+    </credit>
+    <credit>
+      <actor>Alderson, John (I)</actor>
+      <role>Sgt. Rawlings</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Denise (I)</actor>
+      <role>Annette</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Denise (I)</actor>
+      <role>Jacqueline</role>
+    </credit>
+    <credit>
+      <actor>Allen, Corey (I)</actor>
+      <role>Pvt. Garrett</role>
+    </credit>
+    <credit>
+      <actor>Allen, Elizabeth (I)</actor>
+      <role>Eleanora Hunt</role>
+    </credit>
+    <credit>
+      <actor>Alonzo, John A.</actor>
+      <role>Bialos</role>
+    </credit>
+    <credit>
+      <actor>Alonzo, John A.</actor>
+      <role>Bialos</role>
+    </credit>
+    <credit>
+      <actor>Altman, Philip</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Alzmann, Walter</actor>
+      <role>Patrol Leader #2</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>1st Bridge German</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>German #3</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>German Motorcyclist</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Anders, Chris (I)</actor>
+      <role>Lt. Krause</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Richard (I)</actor>
+      <role>Sergeant Perkins</role>
+    </credit>
+    <credit>
+      <actor>Andre, Jeremie Paul</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>Andress, Herb</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Andress, Herb</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Andress, Herb</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Aniston, John</actor>
+      <role>Greek #2</role>
+    </credit>
+    <credit>
+      <actor>Apone, John</actor>
+      <role>Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Ari, Ben</actor>
+      <role>Le Page</role>
+    </credit>
+    <credit>
+      <actor>Ari, Ben</actor>
+      <role>Monk</role>
+    </credit>
+    <credit>
+      <actor>Arlyn, Nadine</actor>
+      <role>Ilsa</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, David (III)</actor>
+      <role>American Corporal</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, David (III)</actor>
+      <role>Poker Player</role>
+    </credit>
+    <credit>
+      <actor>Arngrim, Stefan</actor>
+      <role>Henri</role>
+    </credit>
+    <credit>
+      <actor>Arnold, Maxine</actor>
+      <role>2nd Nurse</role>
+    </credit>
+    <credit>
+      <actor>Arthur, James</actor>
+      <role>German Colonel</role>
+    </credit>
+    <credit>
+      <actor>Arvin, William</actor>
+      <role>Adams</role>
+    </credit>
+    <credit>
+      <actor>Aubry, Danielle (I)</actor>
+      <role>Marie</role>
+    </credit>
+    <credit>
+      <actor>Aubry, Danielle (I)</actor>
+      <role>Renee</role>
+    </credit>
+    <credit>
+      <actor>Aubuchon, Jacques</actor>
+      <role>Kopke</role>
+    </credit>
+    <credit>
+      <actor>Avalon, Frankie</actor>
+      <role>Eddie Cane</role>
+    </credit>
+    <credit>
+      <actor>Avery, Brian (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Ayres, Jerry</actor>
+      <role>Sims</role>
+    </credit>
+    <credit>
+      <actor>Babcock, Barbara (I)</actor>
+      <role>Woman at table in Savoy</role>
+    </credit>
+    <credit>
+      <actor>Backman, George</actor>
+      <role>Capt. Reichhardt</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Mark (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bakalyan, Richard</actor>
+      <role>Sgt. Piper</role>
+    </credit>
+    <credit>
+      <actor>Bakalyan, Richard</actor>
+      <role>Sgt. Wolfson</role>
+    </credit>
+    <credit>
+      <actor>Baker, Joby</actor>
+      <role>Kelly</role>
+    </credit>
+    <credit>
+      <actor>Baker, Joby</actor>
+      <role>Kelly</role>
+    </credit>
+    <credit>
+      <actor>Balakoff, Peter</actor>
+      <role>Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Balk-Moller, Ulf</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Ballis, Socrates</actor>
+      <role>Albanian Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bane, Holly</actor>
+      <role>Pvt. Walsh</role>
+    </credit>
+    <credit>
+      <actor>Baranski, Christine</actor>
+      <role>Paulette</role>
+    </credit>
+    <credit>
+      <actor>Barbi, Vincent</actor>
+      <role>German Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Barrier, Michael (II)</actor>
+      <role>Dean</role>
+    </credit>
+    <credit>
+      <actor>Basehart, Richard</actor>
+      <role>Capt. Steiner</role>
+    </credit>
+    <credit>
+      <actor>Bastin, Charles</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Batanides, Arthur</actor>
+      <role>Nader</role>
+    </credit>
+    <credit>
+      <actor>Battyn, Skip</actor>
+      <role>American Soldier</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Alan (I)</actor>
+      <role>Capt. Roberts</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Ray (I)</actor>
+      <role>Cougher</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Ray (I)</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Ray (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Baxter, Ray (I)</actor>
+      <role>German Trucker #1</role>
+    </credit>
+    <credit>
+      <actor>Beattie, Bob</actor>
+      <role>German skier</role>
+    </credit>
+    <credit>
+      <actor>Beausejour, Danielle</actor>
+      <role>Yvette</role>
+    </credit>
+    <credit>
+      <actor>Beck, Billy (I)</actor>
+      <role>Dubois</role>
+    </credit>
+    <credit>
+      <actor>Beck, Billy (I)</actor>
+      <role>French Priest</role>
+    </credit>
+    <credit>
+      <actor>Beck, Billy (I)</actor>
+      <role>Rafe</role>
+    </credit>
+    <credit>
+      <actor>Becker, Terry (I)</actor>
+      <role>Claybourne</role>
+    </credit>
+    <credit>
+      <actor>Becker, Werner (II)</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Beckley, William</actor>
+      <role>Cpl. Joyce</role>
+    </credit>
+    <credit>
+      <actor>Beckman, Henry</actor>
+      <role>Major Mueller</role>
+    </credit>
+    <credit>
+      <actor>Bedford, John (III)</actor>
+      <role>Burton</role>
+    </credit>
+    <credit>
+      <actor>Beery Jr., Noah</actor>
+      <role>Hank</role>
+    </credit>
+    <credit>
+      <actor>Behrens, Frank</actor>
+      <role>Capt. Reed</role>
+    </credit>
+    <credit>
+      <actor>Bell, Leonard</actor>
+      <role>Major Orcutt</role>
+    </credit>
+    <credit>
+      <actor>Benson, Tony</actor>
+      <role>Andras</role>
+    </credit>
+    <credit>
+      <actor>Benton, Gene</actor>
+      <role>Tank Commander</role>
+    </credit>
+    <credit>
+      <actor>Beregi Jr., Oscar</actor>
+      <role>Maj. Schiller</role>
+    </credit>
+    <credit>
+      <actor>Bergema, Pieter</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Berger, Burt</actor>
+      <role>Corporal</role>
+    </credit>
+    <credit>
+      <actor>Berns, Wally K.</actor>
+      <role>British Soldier</role>
+    </credit>
+    <credit>
+      <actor>Berns, Wally K.</actor>
+      <role>German #6</role>
+    </credit>
+    <credit>
+      <actor>Berry, Ken (I)</actor>
+      <role>Motor Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Best, James (I)</actor>
+      <role>Trenton</role>
+    </credit>
+    <credit>
+      <actor>Bettger, Lyle</actor>
+      <role>Capt. Brauer</role>
+    </credit>
+    <credit>
+      <actor>Biheller, Robert</actor>
+      <role>GI Corporal</role>
+    </credit>
+    <credit>
+      <actor>Biheller, Robert</actor>
+      <role>Tate</role>
+    </credit>
+    <credit>
+      <actor>Bikel, Theodore</actor>
+      <role>Francois Perrault</role>
+    </credit>
+    <credit>
+      <actor>Billman, Larry</actor>
+      <role>Reiter</role>
+    </credit>
+    <credit>
+      <actor>Binns, Ed</actor>
+      <role>Colonel Johnson</role>
+    </credit>
+    <credit>
+      <actor>Bishop, Wes</actor>
+      <role>Wounded Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bixby, Bill (I)</actor>
+      <role>Kline</role>
+    </credit>
+    <credit>
+      <actor>Blair, Nicky (I)</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Bochner, Lloyd</actor>
+      <role>Major Thorne</role>
+    </credit>
+    <credit>
+      <actor>Boden, Alexis</actor>
+      <role>Greek #1</role>
+    </credit>
+    <credit>
+      <actor>Bolt, John</actor>
+      <role>Moseby</role>
+    </credit>
+    <credit>
+      <actor>Bonnell, Phil</actor>
+      <role>Frost</role>
+    </credit>
+    <credit>
+      <actor>Boone, Randy (I)</actor>
+      <role>Jim Hummel</role>
+    </credit>
+    <credit>
+      <actor>Borden, Eugene</actor>
+      <role>Bresson</role>
+    </credit>
+    <credit>
+      <actor>Borden, Eugene</actor>
+      <role>Roget</role>
+    </credit>
+    <credit>
+      <actor>Bower, Antoinette</actor>
+      <role>Jeanine</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>Drunken German soldier</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>Ecktmann</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>German Vehicle Commander</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>Hans Gruber</role>
+    </credit>
+    <credit>
+      <actor>Bramley, William</actor>
+      <role>Desk Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Branch, Pamela</actor>
+      <role>Mlle. Mornay</role>
+    </credit>
+    <credit>
+      <actor>Brand, Neville</actor>
+      <role>Sgt. Keeley</role>
+    </credit>
+    <credit>
+      <actor>Brandon, David (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Henry (I)</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Henry (I)</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>American Colonel</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>German Lt. Knubel</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>German NCO</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>Heinecke</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>Karl Shiller</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>Martin</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>Sgt. Denfler</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Martin (I)</actor>
+      <role>Old Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Martin (I)</actor>
+      <role>The Priest</role>
+    </credit>
+    <credit>
+      <actor>Bravos, Peter</actor>
+      <role>Greek #3</role>
+    </credit>
+    <credit>
+      <actor>Brenlin, George</actor>
+      <role>Pvt. Banning</role>
+    </credit>
+    <credit>
+      <actor>Bridges, Beau (I)</actor>
+      <role>Orville Putnam</role>
+    </credit>
+    <credit>
+      <actor>Brinckerhoff, Burt</actor>
+      <role>Pvt. Andy Marsh</role>
+    </credit>
+    <credit>
+      <actor>Brinkmann, Heinz (I)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Brocco, Peter</actor>
+      <role>Claude</role>
+    </credit>
+    <credit>
+      <actor>Brocco, Peter</actor>
+      <role>Lambert</role>
+    </credit>
+    <credit>
+      <actor>Brodrick, Malcolm</actor>
+      <role>Jimmy</role>
+    </credit>
+    <credit>
+      <actor>Bronson, Charles</actor>
+      <role>Velasquez</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Geraldine (I)</actor>
+      <role>Lt. Ann Hunter</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Martin E.</actor>
+      <role>Corporal MacGowan</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Rand</actor>
+      <role>G.I. Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Brown, Lew (II)</actor>
+      <role>Pratt</role>
+    </credit>
+    <credit>
+      <actor>Bruce, Gordon</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>Larkin</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>Maj. O'Connors</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>Maynard</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>McCall</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>McCall</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>McCall</role>
+    </credit>
+    <credit>
+      <actor>Bryant, William (I)</actor>
+      <role>McCall</role>
+    </credit>
+    <credit>
+      <actor>Burke, Alex</actor>
+      <role>1st Man</role>
+    </credit>
+    <credit>
+      <actor>Burke, Paul (I)</actor>
+      <role>Sgt. O'Neill</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>2nd German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Bauer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Cpl. #2</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Fuel Tanker</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Patrol Leader</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Radio Man</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German Tank Commander</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>German radio operator</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Gitty's Father</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Gunner</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Mueller</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Radio</role>
+    </credit>
+    <credit>
+      <actor>Busch, Paul (I)</actor>
+      <role>Sgt. Kolcheck</role>
+    </credit>
+    <credit>
+      <actor>Böhm, Karlheinz (I)</actor>
+      <role>Bauer</role>
+    </credit>
+    <credit>
+      <actor>Caan, James (I)</actor>
+      <role>Sgt. Beckman</role>
+    </credit>
+    <credit>
+      <actor>Cadis, Dusty</actor>
+      <role>German Pilot</role>
+    </credit>
+    <credit>
+      <actor>Caillou, Alan</actor>
+      <role>British Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Call, Anthony D.</actor>
+      <role>Morgan</role>
+    </credit>
+    <credit>
+      <actor>Callahan, James T.</actor>
+      <role>Reischer</role>
+    </credit>
+    <credit>
+      <actor>Camlin, Peter</actor>
+      <role>French Engineer</role>
+    </credit>
+    <credit>
+      <actor>Campanella, Joseph</actor>
+      <role>D'Amato</role>
+    </credit>
+    <credit>
+      <actor>Campanella, Joseph</actor>
+      <role>Lt. Douglas</role>
+    </credit>
+    <credit>
+      <actor>Campbell, William (I)</actor>
+      <role>Corporal Sloan</role>
+    </credit>
+    <credit>
+      <actor>Campbell, William (I)</actor>
+      <role>Pvt. Ed Wallace</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Glenn (I)</actor>
+      <role>Pvt. Cane</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Glenn (I)</actor>
+      <role>Rankin</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Glenn (I)</actor>
+      <role>Runner</role>
+    </credit>
+    <credit>
+      <actor>Cannon, Glenn (I)</actor>
+      <role>Tafe</role>
+    </credit>
+    <credit>
+      <actor>Cannon, J.D.</actor>
+      <role>Ted Slocum</role>
+    </credit>
+    <credit>
+      <actor>Carlsson, Carl</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Carlsson, Carl</actor>
+      <role>German Storyteller</role>
+    </credit>
+    <credit>
+      <actor>Carr, Paul (I)</actor>
+      <role>Kleinschmidt</role>
+    </credit>
+    <credit>
+      <actor>Carricart, Robert</actor>
+      <role>Diebold</role>
+    </credit>
+    <credit>
+      <actor>Carricart, Robert</actor>
+      <role>Lambrelle</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Carter, Conlan</actor>
+      <role>M.P. Corporal</role>
+    </credit>
+    <credit>
+      <actor>Carter, Jack (II)</actor>
+      <role>Murphy</role>
+    </credit>
+    <credit>
+      <actor>Carter, Jerry (II)</actor>
+      <role>Wounded German</role>
+    </credit>
+    <credit>
+      <actor>Carter, John (IV)</actor>
+      <role>Major</role>
+    </credit>
+    <credit>
+      <actor>Carter, Terry (I)</actor>
+      <role>Archie</role>
+    </credit>
+    <credit>
+      <actor>Cassavetes, John (I)</actor>
+      <role>Kalb</role>
+    </credit>
+    <credit>
+      <actor>Cassel, Seymour</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Cavaleri, Raymond</actor>
+      <role>Michel</role>
+    </credit>
+    <credit>
+      <actor>Cavell, Marc</actor>
+      <role>Jan</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Richard (I)</actor>
+      <role>Lloyd</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Richard (I)</actor>
+      <role>William</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Richard (I)</actor>
+      <role>William</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>German Capt.</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>German Pvt.</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Champion, Robert (II)</actor>
+      <role>S.S. Lance Corporal</role>
+    </credit>
+    <credit>
+      <actor>Chandler, John Davis</actor>
+      <role>American Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Leigh</actor>
+      <role>Mlle. Bochard</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Robert (I)</actor>
+      <role>German Guard</role>
+    </credit>
+    <credit>
+      <actor>Chappelle, Philippe</actor>
+      <role>2nd Boy</role>
+    </credit>
+    <credit>
+      <actor>Chappelle, Philippe</actor>
+      <role>Robaire</role>
+    </credit>
+    <credit>
+      <actor>Chauvin, Lilyan</actor>
+      <role>Fauvette</role>
+    </credit>
+    <credit>
+      <actor>Church, Peter (I)</actor>
+      <role>British Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Church, Peter (I)</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Clark, Arlette</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Angela (I)</actor>
+      <role>Claire Brouchard</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Angela (I)</actor>
+      <role>Mme. Michelin</role>
+    </credit>
+    <credit>
+      <actor>Clerk, Clive</actor>
+      <role>Pierre</role>
+    </credit>
+    <credit>
+      <actor>Coburn, James (I)</actor>
+      <role>Corporal Arnold Kanger</role>
+    </credit>
+    <credit>
+      <actor>Coe, Peter (III)</actor>
+      <role>Capt. Zweiger</role>
+    </credit>
+    <credit>
+      <actor>Coe, Peter (III)</actor>
+      <role>Orderly</role>
+    </credit>
+    <credit>
+      <actor>Coit, Stephen</actor>
+      <role>Gainsborough</role>
+    </credit>
+    <credit>
+      <actor>Colby, Pat</actor>
+      <role>Private Palmer</role>
+    </credit>
+    <credit>
+      <actor>Colmans, Edward</actor>
+      <role>Andre Mallot</role>
+    </credit>
+    <credit>
+      <actor>Colton, Peter</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Comer, Anjanette</actor>
+      <role>Annette</role>
+    </credit>
+    <credit>
+      <actor>Considine, John</actor>
+      <role>Lennon</role>
+    </credit>
+    <credit>
+      <actor>Considine, John</actor>
+      <role>Temple</role>
+    </credit>
+    <credit>
+      <actor>Considine, John</actor>
+      <role>Wayne Temple</role>
+    </credit>
+    <credit>
+      <actor>Considine, Tim</actor>
+      <role>Temple</role>
+    </credit>
+    <credit>
+      <actor>Constantine, Michael</actor>
+      <role>Jacques Patron</role>
+    </credit>
+    <credit>
+      <actor>Conway, Curt</actor>
+      <role>Capt. Dugan</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Ben (I)</actor>
+      <role>Cross</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Ben (I)</actor>
+      <role>Willy Kleve</role>
+    </credit>
+    <credit>
+      <actor>Corhan, Michel</actor>
+      <role>Louis Roche</role>
+    </credit>
+    <credit>
+      <actor>Cornthwaite, Robert</actor>
+      <role>Captain Priller</role>
+    </credit>
+    <credit>
+      <actor>Cort, William</actor>
+      <role>Private Harmon</role>
+    </credit>
+    <credit>
+      <actor>Coughlin, Kevin (I)</actor>
+      <role>Loomis</role>
+    </credit>
+    <credit>
+      <actor>Crawford Jr., Robert</actor>
+      <role>Jaques</role>
+    </credit>
+    <credit>
+      <actor>Crawford Jr., Robert</actor>
+      <role>Pierre DuBois</role>
+    </credit>
+    <credit>
+      <actor>Crawford, John (I)</actor>
+      <role>Capt. Werner</role>
+    </credit>
+    <credit>
+      <actor>Crawford, John (I)</actor>
+      <role>Gunnar</role>
+    </credit>
+    <credit>
+      <actor>Culp, Robert</actor>
+      <role>Sgt. John Metcalf</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Craig (I)</actor>
+      <role>Pvt. Beecher</role>
+    </credit>
+    <credit>
+      <actor>D'Orsay, Fifi</actor>
+      <role>Mme. Fouquet</role>
+    </credit>
+    <credit>
+      <actor>Dahl, Pat</actor>
+      <role>Hazel</role>
+    </credit>
+    <credit>
+      <actor>Daly, James (I)</actor>
+      <role>Capt. Cole</role>
+    </credit>
+    <credit>
+      <actor>Damascus, Stasa</actor>
+      <role>French Girl</role>
+    </credit>
+    <credit>
+      <actor>Dana, Vic</actor>
+      <role>Pvt. James</role>
+    </credit>
+    <credit>
+      <actor>Daniel, Paul (I)</actor>
+      <role>Old Man Patient</role>
+    </credit>
+    <credit>
+      <actor>Daniell, Henry</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Darcel, Denise</actor>
+      <role>Annette</role>
+    </credit>
+    <credit>
+      <actor>Dark, Christopher</actor>
+      <role>German Agent</role>
+    </credit>
+    <credit>
+      <actor>Darvi, Andrea</actor>
+      <role>French girl</role>
+    </credit>
+    <credit>
+      <actor>Darvi, Andrea</actor>
+      <role>Gitty</role>
+    </credit>
+    <credit>
+      <actor>Darvi, Andrea</actor>
+      <role>Jeannine</role>
+    </credit>
+    <credit>
+      <actor>Darvi, Andrea</actor>
+      <role>Micheline</role>
+    </credit>
+    <credit>
+      <actor>Davidson, James (II)</actor>
+      <role>Bowers</role>
+    </credit>
+    <credit>
+      <actor>Davion, Alexander</actor>
+      <role>David Woodman</role>
+    </credit>
+    <credit>
+      <actor>Davis, George (I)</actor>
+      <role>Old Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Davis, George (I)</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jeff (I)</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Davis, Michael (I)</actor>
+      <role>Jean</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>1st German</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Charlie, Commo Man</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>GI Impersonator</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>German Truck Driver/Soldier</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Kerrigan</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Medic</role>
+    </credit>
+    <credit>
+      <actor>Davis, Walt (I)</actor>
+      <role>Tank Commander</role>
+    </credit>
+    <credit>
+      <actor>De Closs, James</actor>
+      <role>American Sentry</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>Doan</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>French Knifeman</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>German Sergeant/Guard/Motorcycle Driver</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>German Spotter/Driver</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>Jeep Driver</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>Prop Starter</role>
+    </credit>
+    <credit>
+      <actor>De Meo, Angelo</actor>
+      <role>Schmidt</role>
+    </credit>
+    <credit>
+      <actor>De Metz, Danielle</actor>
+      <role>Angelique</role>
+    </credit>
+    <credit>
+      <actor>De Vestel, Guy</actor>
+      <role>Andre LeClair</role>
+    </credit>
+    <credit>
+      <actor>De Vestel, Guy</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>De Vestel, Guy</actor>
+      <role>Uncle Henri</role>
+    </credit>
+    <credit>
+      <actor>De Vestel, Guy</actor>
+      <role>Villager</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Charles</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Charles</actor>
+      <role>Buehler</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Charles</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Charles</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Charles</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>De Vries, Marc</actor>
+      <role>Holweg</role>
+    </credit>
+    <credit>
+      <actor>De Wilde, Brandon</actor>
+      <role>Wilder</role>
+    </credit>
+    <credit>
+      <actor>Dean, Roy</actor>
+      <role>Wilson</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>American Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Sgt. #2</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Soldier #4</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>German Trucker #2</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>Machine Gunner</role>
+    </credit>
+    <credit>
+      <actor>Dehner, John</actor>
+      <role>Gen. Armand Bouchard</role>
+    </credit>
+    <credit>
+      <actor>Del Val, Jean</actor>
+      <role>Brother Edmundo</role>
+    </credit>
+    <credit>
+      <actor>Del Val, Jean</actor>
+      <role>Father Bomar</role>
+    </credit>
+    <credit>
+      <actor>Del Val, Jean</actor>
+      <role>French Farmer</role>
+    </credit>
+    <credit>
+      <actor>Del Val, Jean</actor>
+      <role>Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Del Val, Jean</actor>
+      <role>Marceau</role>
+    </credit>
+    <credit>
+      <actor>Denaszody, Alex</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Denaszody, Alex</actor>
+      <role>Old German</role>
+    </credit>
+    <credit>
+      <actor>Di Reda, Joe</actor>
+      <role>Malloy</role>
+    </credit>
+    <credit>
+      <actor>Di Reda, Joe</actor>
+      <role>Sgt. Calder</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>Col. Burgen</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>Col. Richter</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>German Commander</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>German Major</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Difflipp, Hans</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Dillon, Brendan (I)</actor>
+      <role>Williams</role>
+    </credit>
+    <credit>
+      <actor>Dobson, James (I)</actor>
+      <role>Greely</role>
+    </credit>
+    <credit>
+      <actor>Dobson, James (I)</actor>
+      <role>Henderson</role>
+    </credit>
+    <credit>
+      <actor>Dobson, James (I)</actor>
+      <role>Lt. Schaefer</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Rudy</actor>
+      <role>2nd German Compound Guard - Day</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Rudy</actor>
+      <role>2nd German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Rudy</actor>
+      <role>German Sgt. #1</role>
+    </credit>
+    <credit>
+      <actor>Domergue, Faith</actor>
+      <role>Madame Fouchet</role>
+    </credit>
+    <credit>
+      <actor>Dommar, Max</actor>
+      <role>Theo</role>
+    </credit>
+    <credit>
+      <actor>Donner, Robert (I)</actor>
+      <role>1st American GI</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Burt</actor>
+      <role>Pvt. Clark</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Jerry (I)</actor>
+      <role>Kohler</role>
+    </credit>
+    <credit>
+      <actor>Drake, Tom (I)</actor>
+      <role>Pvt. Todd</role>
+    </credit>
+    <credit>
+      <actor>Duel, Pete</actor>
+      <role>Szigeti</role>
+    </credit>
+    <credit>
+      <actor>Duff, Howard (I)</actor>
+      <role>Hobey Jabko</role>
+    </credit>
+    <credit>
+      <actor>Dunand, Alex</actor>
+      <role>Bistro Man</role>
+    </credit>
+    <credit>
+      <actor>Duryea, Dan</actor>
+      <role>Barton</role>
+    </credit>
+    <credit>
+      <actor>Duryea, Dan</actor>
+      <role>Bernie</role>
+    </credit>
+    <credit>
+      <actor>Duryea, Peter</actor>
+      <role>Pvt. O'Connor</role>
+    </credit>
+    <credit>
+      <actor>Duryea, Peter</actor>
+      <role>Simmons</role>
+    </credit>
+    <credit>
+      <actor>Duvall, Robert</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Duvall, Robert</actor>
+      <role>Michel</role>
+    </credit>
+    <credit>
+      <actor>Duvall, Robert</actor>
+      <role>Peter Halsman</role>
+    </credit>
+    <credit>
+      <actor>Dyrenforth, Harold</actor>
+      <role>First German Engineer</role>
+    </credit>
+    <credit>
+      <actor>Dyrenforth, Harold</actor>
+      <role>Panzer Captain</role>
+    </credit>
+    <credit>
+      <actor>Easton, Robert (I)</actor>
+      <role>Woody</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>1st German</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>2nd Sentry</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>Brucke</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German Soccer Player</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>German with dog</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ebersberg, Horst</actor>
+      <role>Sgt. Dekker</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>Emile</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>G.I. Driver</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>GI in Bar</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>Gypsy</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>Markum</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>U.S. Soldier</role>
+    </credit>
+    <credit>
+      <actor>Ecker, Beau Vanden</actor>
+      <role>Wickham</role>
+    </credit>
+    <credit>
+      <actor>Edmonds, Don (I)</actor>
+      <role>Jackson</role>
+    </credit>
+    <credit>
+      <actor>Edmonds, Don (I)</actor>
+      <role>Stroback</role>
+    </credit>
+    <credit>
+      <actor>Eilbacher, Cindy</actor>
+      <role>Cynthia</role>
+    </credit>
+    <credit>
+      <actor>Ein, Donald</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Ein, Donald</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Eisley, Anthony</actor>
+      <role>Lt. Gates</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Adams</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Cpl. Kroner</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Lou</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Pvt. David Cochran</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Radar Sentry</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Shiever</role>
+    </credit>
+    <credit>
+      <actor>Ellenstein, Robert</actor>
+      <role>DuBois</role>
+    </credit>
+    <credit>
+      <actor>Ellenstein, Robert</actor>
+      <role>Rene</role>
+    </credit>
+    <credit>
+      <actor>Elliot, Biff (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Elliot, Biff (I)</actor>
+      <role>Rafferty</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Ross (I)</actor>
+      <role>Lt. Colonel</role>
+    </credit>
+    <credit>
+      <actor>Evans, Henry (III)</actor>
+      <role>Corp. Rogers</role>
+    </credit>
+    <credit>
+      <actor>Evans, Michael (I)</actor>
+      <role>Major Cole-Hughes</role>
+    </credit>
+    <credit>
+      <actor>Everett, Chad</actor>
+      <role>Steve Kovac</role>
+    </credit>
+    <credit>
+      <actor>Evers, Jason</actor>
+      <role>Pvt. Jim Culley</role>
+    </credit>
+    <credit>
+      <actor>Eyer, Richard</actor>
+      <role>Pvt. Kean</role>
+    </credit>
+    <credit>
+      <actor>Fabrice, Don-Antoine</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Fairbanks, Ivan Henry</actor>
+      <role>2nd German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Falkenberg, Kort</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Falkenberg, Kort</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Falkenberg, Kort</actor>
+      <role>Meitner</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Mike (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Felix, Tim</actor>
+      <role>Stice</role>
+    </credit>
+    <credit>
+      <actor>Felix, Tim</actor>
+      <role>Weed</role>
+    </credit>
+    <credit>
+      <actor>Ferry, Stephen</actor>
+      <role>Paulson</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Barnett</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Brockmeyer</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Brockmeyer</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Brockmeyer</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Carson</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Fist, Fletcher</actor>
+      <role>Radio Operator</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Lester</actor>
+      <role>German Interrogator</role>
+    </credit>
+    <credit>
+      <actor>Foch, Nina</actor>
+      <role>Madame Carmaux</role>
+    </credit>
+    <credit>
+      <actor>Ford, Barry (I)</actor>
+      <role>First German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Ford, Barry (I)</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Forest, Michael (I)</actor>
+      <role>Company Commander</role>
+    </credit>
+    <credit>
+      <actor>Forrest, James (I)</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Forrest, James (I)</actor>
+      <role>Giles</role>
+    </credit>
+    <credit>
+      <actor>Forst, Eric</actor>
+      <role>German Lineman</role>
+    </credit>
+    <credit>
+      <actor>Forst, Eric</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Fortier, Robert (I)</actor>
+      <role>Capt. Jampel</role>
+    </credit>
+    <credit>
+      <actor>Fortier, Robert (I)</actor>
+      <role>Capt. Jampel</role>
+    </credit>
+    <credit>
+      <actor>Fortier, Robert (I)</actor>
+      <role>Capt. Jampel</role>
+    </credit>
+    <credit>
+      <actor>Foster, Ron (I)</actor>
+      <role>Pvt. Marshall</role>
+    </credit>
+    <credit>
+      <actor>Fox, Bernard (I)</actor>
+      <role>Nelson's doctor</role>
+    </credit>
+    <credit>
+      <actor>Francen, Leno Jo</actor>
+      <role>Marie Barole</role>
+    </credit>
+    <credit>
+      <actor>Francisco, Charles</actor>
+      <role>Sgt. Darden</role>
+    </credit>
+    <credit>
+      <actor>Franciscus, James</actor>
+      <role>Pfc. Charles Harris</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Tony (II)</actor>
+      <role>Phillip</role>
+    </credit>
+    <credit>
+      <actor>Freed, Bert</actor>
+      <role>Sgt. Weber</role>
+    </credit>
+    <credit>
+      <actor>Friedel, Walter</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Fulmer, Ray</actor>
+      <role>Holmes</role>
+    </credit>
+    <credit>
+      <actor>Gallo, Lew</actor>
+      <role>Motorcycle MP</role>
+    </credit>
+    <credit>
+      <actor>Garner, Peggy Ann</actor>
+      <role>Nurse Lt. Amelia Marsh</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Bob (I)</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Gaskin, Bill (II)</actor>
+      <role>Sgt. Kaufman</role>
+    </credit>
+    <credit>
+      <actor>Gaynor, Steve</actor>
+      <role>Wounded Soldier</role>
+    </credit>
+    <credit>
+      <actor>Gelbman, Larry</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Gelbman, Larry</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Gelbman, Larry</actor>
+      <role>Gunnar</role>
+    </credit>
+    <credit>
+      <actor>Gelbman, Larry</actor>
+      <role>Sentry</role>
+    </credit>
+    <credit>
+      <actor>Genest, Émile</actor>
+      <role>Duval</role>
+    </credit>
+    <credit>
+      <actor>Genest, Émile</actor>
+      <role>Emile</role>
+    </credit>
+    <credit>
+      <actor>Genest, Émile</actor>
+      <role>Henri Fouquet</role>
+    </credit>
+    <credit>
+      <actor>Genest, Émile</actor>
+      <role>Robierre</role>
+    </credit>
+    <credit>
+      <actor>Gentry, Race</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Gentry, Roger</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Gentry, Roger</actor>
+      <role>German #5</role>
+    </credit>
+    <credit>
+      <actor>Gentry, Roger</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>George, Alf</actor>
+      <role>2nd German soldier</role>
+    </credit>
+    <credit>
+      <actor>George, Alf</actor>
+      <role>German at Chow Wagon</role>
+    </credit>
+    <credit>
+      <actor>Georgiade, Nicholas</actor>
+      <role>Londos</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>German Private</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>Herman</role>
+    </credit>
+    <credit>
+      <actor>Gilgreen, John</actor>
+      <role>Ambulance Driver</role>
+    </credit>
+    <credit>
+      <actor>Giorgi, Charles</actor>
+      <role>Anton</role>
+    </credit>
+    <credit>
+      <actor>Giorgi, Charles</actor>
+      <role>Georges</role>
+    </credit>
+    <credit>
+      <actor>Giorgi, Charles</actor>
+      <role>Maquis</role>
+    </credit>
+    <credit>
+      <actor>Glenn, Robert (II)</actor>
+      <role>Lt. Coates</role>
+    </credit>
+    <credit>
+      <actor>Glover, Bill (I)</actor>
+      <role>Sgt. Crandall</role>
+    </credit>
+    <credit>
+      <actor>Glover, Bill (I)</actor>
+      <role>Sgt. Leighton</role>
+    </credit>
+    <credit>
+      <actor>Gomez, Marie</actor>
+      <role>Claire</role>
+    </credit>
+    <credit>
+      <actor>Goodrich, Walter</actor>
+      <role>German Cpl. #1</role>
+    </credit>
+    <credit>
+      <actor>Goodwin, James (I)</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Goodwin, Jim (I)</actor>
+      <role>Dispatch Rider</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Don (I)</actor>
+      <role>Pvt. Stevens</role>
+    </credit>
+    <credit>
+      <actor>Gorshin, Frank</actor>
+      <role>Pvt. Gavin</role>
+    </credit>
+    <credit>
+      <actor>Gorshin, Frank</actor>
+      <role>Wharton</role>
+    </credit>
+    <credit>
+      <actor>Grant, Jordan (II)</actor>
+      <role>Marks</role>
+    </credit>
+    <credit>
+      <actor>Grant, Larry (I)</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Grant, Larry (I)</actor>
+      <role>Gypsy</role>
+    </credit>
+    <credit>
+      <actor>Grant, Larry (I)</actor>
+      <role>U.S. Soldier</role>
+    </credit>
+    <credit>
+      <actor>Gravers, Steve</actor>
+      <role>Martinez</role>
+    </credit>
+    <credit>
+      <actor>Gray, Billy (I)</actor>
+      <role>Candell</role>
+    </credit>
+    <credit>
+      <actor>Gray, Howard (III)</actor>
+      <role>G.I.</role>
+    </credit>
+    <credit>
+      <actor>Greene, Shecky</actor>
+      <role>Braddock</role>
+    </credit>
+    <credit>
+      <actor>Greene, Shecky</actor>
+      <role>Braddock</role>
+    </credit>
+    <credit>
+      <actor>Greene, Shecky</actor>
+      <role>Braddock</role>
+    </credit>
+    <credit>
+      <actor>Greene, Shecky</actor>
+      <role>Braddock</role>
+    </credit>
+    <credit>
+      <actor>Gregg, Walter (II)</actor>
+      <role>Pvt. Coates</role>
+    </credit>
+    <credit>
+      <actor>Gret, Mignone</actor>
+      <role>French Girl in Cafe</role>
+    </credit>
+    <credit>
+      <actor>Gret, Mignone</actor>
+      <role>Girl</role>
+    </credit>
+    <credit>
+      <actor>Hackett, Joan</actor>
+      <role>Gabrielle</role>
+    </credit>
+    <credit>
+      <actor>Hampton, Paul (I)</actor>
+      <role>Kelly</role>
+    </credit>
+    <credit>
+      <actor>Hansen, Dirk</actor>
+      <role>German Convoy Officer</role>
+    </credit>
+    <credit>
+      <actor>Hansen, Rudy</actor>
+      <role>German Leader</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>Capt. Gemmerman</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>Col. Kleist</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>Keppler</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>Lt. Brummel</role>
+    </credit>
+    <credit>
+      <actor>Harden, Sasha</actor>
+      <role>SS Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Captain's Aide</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Cpl. McGill</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Dorsey</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>G.I.</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>G.I. #2</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>G.I. Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>GI Jeep Driver</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Radioman</role>
+    </credit>
+    <credit>
+      <actor>Harlow, William (I)</actor>
+      <role>Sgt. Meade</role>
+    </credit>
+    <credit>
+      <actor>Harmsen, Dina</actor>
+      <role>French Girl</role>
+    </credit>
+    <credit>
+      <actor>Harris II, Fred</actor>
+      <role>Cole</role>
+    </credit>
+    <credit>
+      <actor>Harris II, Fred</actor>
+      <role>Smitty</role>
+    </credit>
+    <credit>
+      <actor>Harris, Berkeley</actor>
+      <role>Pvt. John Lee</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Don C.</actor>
+      <role>American Major in Bunker</role>
+    </credit>
+    <credit>
+      <actor>Haskell, Peter</actor>
+      <role>Carl Muller</role>
+    </credit>
+    <credit>
+      <actor>Haskell, Peter</actor>
+      <role>German Hostage</role>
+    </credit>
+    <credit>
+      <actor>Haskell, Peter</actor>
+      <role>Richards</role>
+    </credit>
+    <credit>
+      <actor>Hausserman, Mischa</actor>
+      <role>Johann Schiller</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Bruce (I)</actor>
+      <role>German in Jeep</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Guard</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Soldier #3</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>German Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>Lance Corporal</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Peter</actor>
+      <role>Sgt. Hunte</role>
+    </credit>
+    <credit>
+      <actor>Hellström, Gunnar</actor>
+      <role>Dr. Belzer</role>
+    </credit>
+    <credit>
+      <actor>Hellström, Gunnar</actor>
+      <role>The German Officer</role>
+    </credit>
+    <credit>
+      <actor>Helm, Peter (I)</actor>
+      <role>Laslo</role>
+    </credit>
+    <credit>
+      <actor>Henaghan, Jim</actor>
+      <role>Gunther</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Douglas (I)</actor>
+      <role>Reardon</role>
+    </credit>
+    <credit>
+      <actor>Hermann-Cattani, Henry</actor>
+      <role>Kranz</role>
+    </credit>
+    <credit>
+      <actor>Heyde, Hans</actor>
+      <role>Front Sentry</role>
+    </credit>
+    <credit>
+      <actor>Heyde, Hans</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Heyde, Hans</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Heyman, Barton</actor>
+      <role>Fergus</role>
+    </credit>
+    <credit>
+      <actor>Hickman, Dwayne</actor>
+      <role>Corey</role>
+    </credit>
+    <credit>
+      <actor>Hillaire, Marcel</actor>
+      <role>Jean Sebelleau</role>
+    </credit>
+    <credit>
+      <actor>Himes, John</actor>
+      <role>Captain Mason</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Kirby</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Kirby</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Kirby</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Kirby</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Kirby</role>
+    </credit>
+    <credit>
+      <actor>Holland, Anthony (I)</actor>
+      <role>Cutner</role>
+    </credit>
+    <credit>
+      <actor>Holland, Buck</actor>
+      <role>Lane Sentry</role>
+    </credit>
+    <credit>
+      <actor>Holland, Buck</actor>
+      <role>Rudi</role>
+    </credit>
+    <credit>
+      <actor>Holland, Erik</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Holland, Erik</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Holland, Erik</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Holland, Tom (I)</actor>
+      <role>Pfc. Tommy Bishop</role>
+    </credit>
+    <credit>
+      <actor>Holman, Rex (I)</actor>
+      <role>Christy</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Billy Joe</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Lt. Karl Mauer</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Sgt. Morgan</role>
+    </credit>
+    <credit>
+      <actor>Hopper, Dennis</actor>
+      <role>Zack</role>
+    </credit>
+    <credit>
+      <actor>Horman, Henry</actor>
+      <role>Meisner</role>
+    </credit>
+    <credit>
+      <actor>Houle, Normand</actor>
+      <role>French Waiter</role>
+    </credit>
+    <credit>
+      <actor>Howard, Chris (II)</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Howard, Chris (II)</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Howard, Chris (II)</actor>
+      <role>German Drunk #2</role>
+    </credit>
+    <credit>
+      <actor>Howard, Chris (II)</actor>
+      <role>German Medic</role>
+    </credit>
+    <credit>
+      <actor>Howard, Chris (II)</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rance</actor>
+      <role>Wilkerson</role>
+    </credit>
+    <credit>
+      <actor>Howard, Robert (I)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Howard, Ronald (I)</actor>
+      <role>Capt. Johns</role>
+    </credit>
+    <credit>
+      <actor>Hoy, Robert F.</actor>
+      <role>G.I. on Radio</role>
+    </credit>
+    <credit>
+      <actor>Hoyt, Clegg</actor>
+      <role>Cook</role>
+    </credit>
+    <credit>
+      <actor>Hoyt, Clegg</actor>
+      <role>Technical Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Hudson, John (I)</actor>
+      <role>Capt. Jampel</role>
+    </credit>
+    <credit>
+      <actor>Hulswit, Mart</actor>
+      <role>Arthur Adams</role>
+    </credit>
+    <credit>
+      <actor>Hulswit, Mart</actor>
+      <role>Ryan</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Jeffrey (I)</actor>
+      <role>Sergeant Dane</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Tab (I)</actor>
+      <role>Del Packer</role>
+    </credit>
+    <credit>
+      <actor>Huston, Paul (IV)</actor>
+      <role>G.I. #1</role>
+    </credit>
+    <credit>
+      <actor>Hyatt, Robert</actor>
+      <role>American Medic</role>
+    </credit>
+    <credit>
+      <actor>Hyatt, Robert</actor>
+      <role>Gray</role>
+    </credit>
+    <credit>
+      <actor>Hyde, Jacquelyn</actor>
+      <role>Maggie</role>
+    </credit>
+    <credit>
+      <actor>Iglesias, Eugene</actor>
+      <role>Kako</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Sheldon (II)</actor>
+      <role>German Major</role>
+    </credit>
+    <credit>
+      <actor>Jacoby, Dieter</actor>
+      <role>2nd Bridge German</role>
+    </credit>
+    <credit>
+      <actor>Jacoby, Dieter</actor>
+      <role>German Machine Gunner #2</role>
+    </credit>
+    <credit>
+      <actor>Jacoby, Dieter</actor>
+      <role>Machine Gunner #1</role>
+    </credit>
+    <credit>
+      <actor>Jaeckel, Richard</actor>
+      <role>Sgt. Buxman</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caddy</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caje</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caje</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caje</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caje</role>
+    </credit>
+    <credit>
+      <actor>Jalbert, Pierre</actor>
+      <role>Caje</role>
+    </credit>
+    <credit>
+      <actor>Janovitz, Walter</actor>
+      <role>Cafe Owner</role>
+    </credit>
+    <credit>
+      <actor>Jason, Rick (I)</actor>
+      <role>Lt. Hanley</role>
+    </credit>
+    <credit>
+      <actor>Jason, Rick (I)</actor>
+      <role>Lt. Hanley</role>
+    </credit>
+    <credit>
+      <actor>Jeffries, Richard (II)</actor>
+      <role>Pvt. Heller</role>
+    </credit>
+    <credit>
+      <actor>Jentzsch, Heber</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Jochim, Anthony</actor>
+      <role>French Farmer</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Matty</actor>
+      <role>2nd Tanker</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Ted</actor>
+      <role>Pvt. Brand</role>
+    </credit>
+    <credit>
+      <actor>Josephs, Ralph</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Journeaux, Donald</actor>
+      <role>Antoine</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Stephen (I)</actor>
+      <role>Jones</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Stephen (I)</actor>
+      <role>Polaski</role>
+    </credit>
+    <credit>
+      <actor>Jury, Richard</actor>
+      <role>Pvt. Wayne Shrope</role>
+    </credit>
+    <credit>
+      <actor>Kanter, Bob</actor>
+      <role>Pvt. Hunstell</role>
+    </credit>
+    <credit>
+      <actor>Karras, Athan</actor>
+      <role>Corot</role>
+    </credit>
+    <credit>
+      <actor>Karras, Athan</actor>
+      <role>Hot Dogs</role>
+    </credit>
+    <credit>
+      <actor>Kates, Bernard</actor>
+      <role>Hacker</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, Willy</actor>
+      <role>German Ticket Agent</role>
+    </credit>
+    <credit>
+      <actor>Kellin, Mike</actor>
+      <role>Jackson</role>
+    </credit>
+    <credit>
+      <actor>Kemmer, Ed</actor>
+      <role>Lt. Tracey</role>
+    </credit>
+    <credit>
+      <actor>Kemmerling, Warren J.</actor>
+      <role>American Captain</role>
+    </credit>
+    <credit>
+      <actor>Kert, Larry</actor>
+      <role>Fry</role>
+    </credit>
+    <credit>
+      <actor>Keymas, George</actor>
+      <role>Capt. Simms</role>
+    </credit>
+    <credit>
+      <actor>Keymas, George</actor>
+      <role>Major Daggett</role>
+    </credit>
+    <credit>
+      <actor>Killmond, Frank</actor>
+      <role>Clark</role>
+    </credit>
+    <credit>
+      <actor>Kindelon, Richard</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Kirkwood, Gene</actor>
+      <role>Danny</role>
+    </credit>
+    <credit>
+      <actor>Kjellin, Alf</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Kjellin, Alf</actor>
+      <role>Kurt</role>
+    </credit>
+    <credit>
+      <actor>Klega, Danny</actor>
+      <role>German Guard Officer</role>
+    </credit>
+    <credit>
+      <actor>Klega, Danny</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Kleven, Max</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Kleven, Max</actor>
+      <role>Patrol Leader #1</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>British Soldier</role>
+    </credit>
+    <credit>
+      <actor>Knight, Don (I)</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ed (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Knight, Edward (I)</actor>
+      <role>Lt. Kohrs</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ted (I)</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ted (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ted (I)</actor>
+      <role>Kurt</role>
+    </credit>
+    <credit>
+      <actor>Knight, Ted (I)</actor>
+      <role>Lt. Herlmoch</role>
+    </credit>
+    <credit>
+      <actor>Kobe, Gail</actor>
+      <role>Francoise</role>
+    </credit>
+    <credit>
+      <actor>Koenig, Walter (I)</actor>
+      <role>Sentry</role>
+    </credit>
+    <credit>
+      <actor>Kohler, Walter (I)</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Koomen, Frank</actor>
+      <role>Capt. Klaus</role>
+    </credit>
+    <credit>
+      <actor>Koomen, Frank</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Kopp, Nickolaus</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Krempels, Mike</actor>
+      <role>2nd German</role>
+    </credit>
+    <credit>
+      <actor>Krempels, Mike</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Krempels, Mike</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Krempels, Mike</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Krempels, Mike</actor>
+      <role>Half Track Passenger</role>
+    </credit>
+    <credit>
+      <actor>Kreuger, Kurt</actor>
+      <role>Capt. Neubauer</role>
+    </credit>
+    <credit>
+      <actor>Kreuger, Kurt</actor>
+      <role>Major Werner</role>
+    </credit>
+    <credit>
+      <actor>Krieger, Lee</actor>
+      <role>Capt. McQuillan</role>
+    </credit>
+    <credit>
+      <actor>Kuenstle, Charles</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Kuluva, Will</actor>
+      <role>Emile Villers</role>
+    </credit>
+    <credit>
+      <actor>Lamas, Fernando</actor>
+      <role>Leon Paulon</role>
+    </credit>
+    <credit>
+      <actor>Lamas, Fernando</actor>
+      <role>Vertrain</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>1st German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German Artillery Man</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German Doctor</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>Other German</role>
+    </credit>
+    <credit>
+      <actor>Landen, Kurt</actor>
+      <role>Sgt. Mueller</role>
+    </credit>
+    <credit>
+      <actor>Lander, Steve</actor>
+      <role>First Soldier</role>
+    </credit>
+    <credit>
+      <actor>Lander, Steve</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Lander, Steve</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Landers, Harry (I)</actor>
+      <role>Ash</role>
+    </credit>
+    <credit>
+      <actor>Lanvin, Lucien</actor>
+      <role>Second Young Man</role>
+    </credit>
+    <credit>
+      <actor>Lasdun, Gary (I)</actor>
+      <role>French Lt. Marchand</role>
+    </credit>
+    <credit>
+      <actor>Lasdun, Gary (I)</actor>
+      <role>German Squad Leader</role>
+    </credit>
+    <credit>
+      <actor>Lasswell, Todd</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Lau, Wesley</actor>
+      <role>Meyer</role>
+    </credit>
+    <credit>
+      <actor>Lauren, Rod</actor>
+      <role>Guerney</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Carol (I)</actor>
+      <role>Ann Tinsley</role>
+    </credit>
+    <credit>
+      <actor>LeMaire, Monique</actor>
+      <role>Julie</role>
+    </credit>
+    <credit>
+      <actor>LeMaire, Monique</actor>
+      <role>Roxanne</role>
+    </credit>
+    <credit>
+      <actor>Lee, Anna (I)</actor>
+      <role>Sister Lescaut</role>
+    </credit>
+    <credit>
+      <actor>Lennard, Maria</actor>
+      <role>Dolly</role>
+    </credit>
+    <credit>
+      <actor>Leslie, William (I)</actor>
+      <role>Captain Clinton</role>
+    </credit>
+    <credit>
+      <actor>Levingston, John</actor>
+      <role>Capt. Todd</role>
+    </credit>
+    <credit>
+      <actor>Lewin, Kurt</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Lewin, Kurt</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Linden, Walter (I)</actor>
+      <role>German Compound Guard - Day</role>
+    </credit>
+    <credit>
+      <actor>Locher, Felix</actor>
+      <role>Brother Jasper</role>
+    </credit>
+    <credit>
+      <actor>Locher, Felix</actor>
+      <role>Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Locher, Felix</actor>
+      <role>Old French Farmer</role>
+    </credit>
+    <credit>
+      <actor>Lockwood, Gary (I)</actor>
+      <role>Sgt. Meider</role>
+    </credit>
+    <credit>
+      <actor>Lockwood, Grant</actor>
+      <role>2nd German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Lodge, John (III)</actor>
+      <role>Major Ramsey</role>
+    </credit>
+    <credit>
+      <actor>Loggia, Robert</actor>
+      <role>Etienne</role>
+    </credit>
+    <credit>
+      <actor>Longet, Claudine</actor>
+      <role>Babette</role>
+    </credit>
+    <credit>
+      <actor>Longet, Claudine</actor>
+      <role>Claudette</role>
+    </credit>
+    <credit>
+      <actor>Lord, Jack (I)</actor>
+      <role>Barney McKlosky</role>
+    </credit>
+    <credit>
+      <actor>Loring, David</actor>
+      <role>Karl</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Billy Nelson</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Billy Nelson</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Billy Nelson</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Billy Nelson</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Billy Nelson</role>
+    </credit>
+    <credit>
+      <actor>Lowens, Curt</actor>
+      <role>Capt. Haus</role>
+    </credit>
+    <credit>
+      <actor>MacArthur, James (I)</actor>
+      <role>Jack Cole</role>
+    </credit>
+    <credit>
+      <actor>MacLeod, Gavin</actor>
+      <role>British Cpl. Tommy Behan</role>
+    </credit>
+    <credit>
+      <actor>Macaulay, Charles</actor>
+      <role>Capt. Baumer</role>
+    </credit>
+    <credit>
+      <actor>Machado, Maria</actor>
+      <role>Denise</role>
+    </credit>
+    <credit>
+      <actor>Mahoney, William Stone</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Malkin, Vicki</actor>
+      <role>Christina</role>
+    </credit>
+    <credit>
+      <actor>Malmsjö, Jan</actor>
+      <role>Bruener</role>
+    </credit>
+    <credit>
+      <actor>Malmsjö, Jan</actor>
+      <role>Captain Krauss</role>
+    </credit>
+    <credit>
+      <actor>Manley, David (I)</actor>
+      <role>Tanker</role>
+    </credit>
+    <credit>
+      <actor>Mantell, Joe</actor>
+      <role>Delaney</role>
+    </credit>
+    <credit>
+      <actor>Marciano, Rocky</actor>
+      <role>Soldier who greets Red Cross Truck</role>
+    </credit>
+    <credit>
+      <actor>Margollé, Sylviane</actor>
+      <role>Claudine</role>
+    </credit>
+    <credit>
+      <actor>Marie, Sofia</actor>
+      <role>Marie</role>
+    </credit>
+    <credit>
+      <actor>Marks, Peter (V)</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Marlo, Steven</actor>
+      <role>Austin</role>
+    </credit>
+    <credit>
+      <actor>Marlo, Steven</actor>
+      <role>Blake</role>
+    </credit>
+    <credit>
+      <actor>Marlo, Steven</actor>
+      <role>Carson</role>
+    </credit>
+    <credit>
+      <actor>Marlo, Steven</actor>
+      <role>GI</role>
+    </credit>
+    <credit>
+      <actor>Maross, Joe</actor>
+      <role>Will</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>Armand</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>Claude</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>Elderly Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>French Peasant</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>Jacques</role>
+    </credit>
+    <credit>
+      <actor>Marsac, Maurice</actor>
+      <role>Paul</role>
+    </credit>
+    <credit>
+      <actor>Marth, Frank</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Marth, Frank</actor>
+      <role>Lt. Vogler</role>
+    </credit>
+    <credit>
+      <actor>Marvin, Lee</actor>
+      <role>Sgt. Turk</role>
+    </credit>
+    <credit>
+      <actor>Maslow, Walter</actor>
+      <role>Booker</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Burns</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>GI</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Mail Caller</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Medic</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>NCO</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Poker Player</role>
+    </credit>
+    <credit>
+      <actor>Masters, Michael</actor>
+      <role>Runner</role>
+    </credit>
+    <credit>
+      <actor>Masuilis, Mindas</actor>
+      <role>German Machine Gunner #1</role>
+    </credit>
+    <credit>
+      <actor>Maurer, John</actor>
+      <role>Kurt</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Charles (I)</actor>
+      <role>Corp. Giles</role>
+    </credit>
+    <credit>
+      <actor>May, Donald</actor>
+      <role>Major Thompson</role>
+    </credit>
+    <credit>
+      <actor>Mayo, John (I)</actor>
+      <role>Lt. Peterson</role>
+    </credit>
+    <credit>
+      <actor>Mayo, Raymond</actor>
+      <role>GI Officer #2</role>
+    </credit>
+    <credit>
+      <actor>McDaniel, Charles</actor>
+      <role>Bearded Correspondent</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Michael (V)</actor>
+      <role>Ed</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Michael (V)</actor>
+      <role>Wilson</role>
+    </credit>
+    <credit>
+      <actor>McDowall, Roddy</actor>
+      <role>Murfree</role>
+    </credit>
+    <credit>
+      <actor>McFarland, David (I)</actor>
+      <role>Henri Fouchet</role>
+    </credit>
+    <credit>
+      <actor>McGrath, Ray</actor>
+      <role>Tim</role>
+    </credit>
+    <credit>
+      <actor>McIntire, Holly</actor>
+      <role>Louise</role>
+    </credit>
+    <credit>
+      <actor>Meisel, Norbert</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Meisel, Norbert</actor>
+      <role>German Compound Guard - Night</role>
+    </credit>
+    <credit>
+      <actor>Meisel, Norbert</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Meisel, Norbert</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Meisel, Norbert</actor>
+      <role>Lt. Croftsen</role>
+    </credit>
+    <credit>
+      <actor>Mercier, Louis (I)</actor>
+      <role>Gallard</role>
+    </credit>
+    <credit>
+      <actor>Mercier, Louis (I)</actor>
+      <role>Jean Bayard</role>
+    </credit>
+    <credit>
+      <actor>Mercier, Louis (I)</actor>
+      <role>Paul DuBois</role>
+    </credit>
+    <credit>
+      <actor>Merlin, Jan</actor>
+      <role>Erich</role>
+    </credit>
+    <credit>
+      <actor>Merlin, Jan</actor>
+      <role>Lt. Geiben</role>
+    </credit>
+    <credit>
+      <actor>Merrill, Gary</actor>
+      <role>Capt. August</role>
+    </credit>
+    <credit>
+      <actor>Merritt, Arnold</actor>
+      <role>Crown</role>
+    </credit>
+    <credit>
+      <actor>Merritt, Arnold</actor>
+      <role>Crown</role>
+    </credit>
+    <credit>
+      <actor>Merritt, Arnold</actor>
+      <role>Jerome Crown</role>
+    </credit>
+    <credit>
+      <actor>Merritt, Arnold</actor>
+      <role>Pfc. Cole</role>
+    </credit>
+    <credit>
+      <actor>Merritt, Arnold</actor>
+      <role>Pvt. Fisher</role>
+    </credit>
+    <credit>
+      <actor>Michaelides, George</actor>
+      <role>Greek #4</role>
+    </credit>
+    <credit>
+      <actor>Michaelides, George</actor>
+      <role>Marcel</role>
+    </credit>
+    <credit>
+      <actor>Michenaud, Jean-Michel</actor>
+      <role>French Boy</role>
+    </credit>
+    <credit>
+      <actor>Michenaud, Pat</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Michenaud, Pat</actor>
+      <role>Jacques</role>
+    </credit>
+    <credit>
+      <actor>Micklewood, Eric</actor>
+      <role>Deeds</role>
+    </credit>
+    <credit>
+      <actor>Micklewood, Eric</actor>
+      <role>Deeds</role>
+    </credit>
+    <credit>
+      <actor>Milford, John</actor>
+      <role>Lt. Masters</role>
+    </credit>
+    <credit>
+      <actor>Milford, John</actor>
+      <role>Sgt. Stone</role>
+    </credit>
+    <credit>
+      <actor>Millar, Lee (I)</actor>
+      <role>German Radio Operator</role>
+    </credit>
+    <credit>
+      <actor>Miller, Dick (I)</actor>
+      <role>Young Soldier</role>
+    </credit>
+    <credit>
+      <actor>Mills, Ron (III)</actor>
+      <role>Garn</role>
+    </credit>
+    <credit>
+      <actor>Mineo, Sal</actor>
+      <role>Larry Kogan</role>
+    </credit>
+    <credit>
+      <actor>Mineo, Sal</actor>
+      <role>Marcel Paulon</role>
+    </credit>
+    <credit>
+      <actor>Mineo, Sal</actor>
+      <role>Vinnick</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Belle</actor>
+      <role>Old French Woman</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Terence</actor>
+      <role>British Soldier</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Terence</actor>
+      <role>Newsy Meggs</role>
+    </credit>
+    <credit>
+      <actor>Moede, Titus</actor>
+      <role>Marks</role>
+    </credit>
+    <credit>
+      <actor>Montaigne, Lawrence</actor>
+      <role>Sgt. Koch</role>
+    </credit>
+    <credit>
+      <actor>Montalban, Ricardo</actor>
+      <role>Barbu</role>
+    </credit>
+    <credit>
+      <actor>Montau, Michele</actor>
+      <role>Dressmaker</role>
+    </credit>
+    <credit>
+      <actor>Montau, Michele</actor>
+      <role>Lily</role>
+    </credit>
+    <credit>
+      <actor>Montell, Lisa</actor>
+      <role>Marcelle</role>
+    </credit>
+    <credit>
+      <actor>Monti, Maria (I)</actor>
+      <role>French Peasant</role>
+    </credit>
+    <credit>
+      <actor>Moody, King</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>Moody, King</actor>
+      <role>Jouvet</role>
+    </credit>
+    <credit>
+      <actor>Moody, King</actor>
+      <role>Toulon</role>
+    </credit>
+    <credit>
+      <actor>Mordente, Tony</actor>
+      <role>Morello</role>
+    </credit>
+    <credit>
+      <actor>Mordente, Tony</actor>
+      <role>Sgt. Kurawicz</role>
+    </credit>
+    <credit>
+      <actor>Morris, Jeff (I)</actor>
+      <role>Sgt. McGraw</role>
+    </credit>
+    <credit>
+      <actor>Morrow, Vic</actor>
+      <role>Sgt. Saunders</role>
+    </credit>
+    <credit>
+      <actor>Morrow, Vic</actor>
+      <role>Sgt. Saunders</role>
+    </credit>
+    <credit>
+      <actor>Moss, David (VI)</actor>
+      <role>Fire Director</role>
+    </credit>
+    <credit>
+      <actor>Mullavy, Greg</actor>
+      <role>German Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Murdock, George (I)</actor>
+      <role>Marcus</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Michael (I)</actor>
+      <role>1st Tanker</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Michael (I)</actor>
+      <role>Soldier in Hospital</role>
+    </credit>
+    <credit>
+      <actor>Myers, Addison</actor>
+      <role>German Medic</role>
+    </credit>
+    <credit>
+      <actor>Mylong, John</actor>
+      <role>General Kroehler</role>
+    </credit>
+    <credit>
+      <actor>Nalder, Reggie</actor>
+      <role>Man With One Eye</role>
+    </credit>
+    <credit>
+      <actor>Nealson, John</actor>
+      <role>1st American Soldier</role>
+    </credit>
+    <credit>
+      <actor>Nealson, John</actor>
+      <role>Anderson</role>
+    </credit>
+    <credit>
+      <actor>Nealson, John</actor>
+      <role>Pvt. Fisher</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Ed (I)</actor>
+      <role>Burgess</role>
+    </credit>
+    <credit>
+      <actor>Neris, John A.</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Neris, John A.</actor>
+      <role>Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Neris, John A.</actor>
+      <role>Jean</role>
+    </credit>
+    <credit>
+      <actor>Newton, John (I)</actor>
+      <role>Fisher</role>
+    </credit>
+    <credit>
+      <actor>Nimoy, Leonard</actor>
+      <role>Neumann</role>
+    </credit>
+    <credit>
+      <actor>Nimoy, Leonard</actor>
+      <role>Pvt. Baum</role>
+    </credit>
+    <credit>
+      <actor>Nolan, Tom (I)</actor>
+      <role>Pvt. Hamilton</role>
+    </credit>
+    <credit>
+      <actor>Norman, Geoffrey</actor>
+      <role>German in truck</role>
+    </credit>
+    <credit>
+      <actor>Novarro, Ramon</actor>
+      <role>Charles Gireaux</role>
+    </credit>
+    <credit>
+      <actor>Novarro, Ramon</actor>
+      <role>Count De Roy</role>
+    </credit>
+    <credit>
+      <actor>Novello, Jay</actor>
+      <role>Paul Lejeune</role>
+    </credit>
+    <credit>
+      <actor>O'Herlihy, Dan</actor>
+      <role>Major Richter</role>
+    </credit>
+    <credit>
+      <actor>Oakland, Simon</actor>
+      <role>Pvt. Clawson</role>
+    </credit>
+    <credit>
+      <actor>Oakland, Simon</actor>
+      <role>Sgt. Tom Akers</role>
+    </credit>
+    <credit>
+      <actor>Oates, Warren</actor>
+      <role>Stark</role>
+    </credit>
+    <credit>
+      <actor>Oberschall, Frank</actor>
+      <role>Bruck</role>
+    </credit>
+    <credit>
+      <actor>Olivieri, Dennis</actor>
+      <role>Dieter</role>
+    </credit>
+    <credit>
+      <actor>Orchard, John (I)</actor>
+      <role>Robin</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>1st German Infantryman</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German Lt.</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German Motorcyclist</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>German Soldier #2</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>Kurt Shiller</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>Otto</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>Pvt. Jackson</role>
+    </credit>
+    <credit>
+      <actor>Pace, Tom (I)</actor>
+      <role>Rear Sentry</role>
+    </credit>
+    <credit>
+      <actor>Pantsari, Buddy</actor>
+      <role>G.I.</role>
+    </credit>
+    <credit>
+      <actor>Pantsari, Buddy</actor>
+      <role>G.I. Medic</role>
+    </credit>
+    <credit>
+      <actor>Pantsari, Buddy</actor>
+      <role>German Patrol Leader</role>
+    </credit>
+    <credit>
+      <actor>Pantsari, Buddy</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Pantsari, Buddy</actor>
+      <role>Squad G.I.</role>
+    </credit>
+    <credit>
+      <actor>Parfrey, Woodrow</actor>
+      <role>Pvt. Gates</role>
+    </credit>
+    <credit>
+      <actor>Parker, Earl</actor>
+      <role>Chester</role>
+    </credit>
+    <credit>
+      <actor>Parker, Earl</actor>
+      <role>Cooper</role>
+    </credit>
+    <credit>
+      <actor>Parker, Earl</actor>
+      <role>Squad Leader</role>
+    </credit>
+    <credit>
+      <actor>Pasques, Christian</actor>
+      <role>First Young Man</role>
+    </credit>
+    <credit>
+      <actor>Pataki, Michael</actor>
+      <role>G.I. Radio Man</role>
+    </credit>
+    <credit>
+      <actor>Patterson, Dick</actor>
+      <role>Barnarbo</role>
+    </credit>
+    <credit>
+      <actor>Patterson, Lee (I)</actor>
+      <role>Captain Howard</role>
+    </credit>
+    <credit>
+      <actor>Patterson, Pat (I)</actor>
+      <role>Sgt. Hacker</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Col. Bruener</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Dorfmann</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Dorfmann</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Albert</actor>
+      <role>Gen. Von Strelitz</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peabody, Dick</actor>
+      <role>Private Littlejohn</role>
+    </credit>
+    <credit>
+      <actor>Peck, Ed</actor>
+      <role>Pvt. Coker</role>
+    </credit>
+    <credit>
+      <actor>Peel, Richard</actor>
+      <role>Bolt</role>
+    </credit>
+    <credit>
+      <actor>Peel, Richard</actor>
+      <role>Bolt</role>
+    </credit>
+    <credit>
+      <actor>Peel, Richard</actor>
+      <role>British Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Peel, Richard</actor>
+      <role>Wagering Man</role>
+    </credit>
+    <credit>
+      <actor>Perry, Joseph V.</actor>
+      <role>1st Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Perry, Roger</actor>
+      <role>Carl Driskoll</role>
+    </credit>
+    <credit>
+      <actor>Peters, Tom (I)</actor>
+      <role>Commo Man</role>
+    </credit>
+    <credit>
+      <actor>Peterson, Gil</actor>
+      <role>German #4</role>
+    </credit>
+    <credit>
+      <actor>Petit, Michel (I)</actor>
+      <role>1st Boy</role>
+    </credit>
+    <credit>
+      <actor>Petit, Michel (I)</actor>
+      <role>Bijou</role>
+    </credit>
+    <credit>
+      <actor>Petit, Michel (I)</actor>
+      <role>French Kid</role>
+    </credit>
+    <credit>
+      <actor>Petit, Michel (I)</actor>
+      <role>Roger</role>
+    </credit>
+    <credit>
+      <actor>Petrie, George</actor>
+      <role>Capt. Smith</role>
+    </credit>
+    <credit>
+      <actor>Philippe, Andre</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>Philippe, Andre</actor>
+      <role>Grover</role>
+    </credit>
+    <credit>
+      <actor>Philips, Lee</actor>
+      <role>Major Robert Caldwell</role>
+    </credit>
+    <credit>
+      <actor>Phipps, William</actor>
+      <role>Capt. Witlow</role>
+    </credit>
+    <credit>
+      <actor>Phipps, William</actor>
+      <role>Pvt. Barnhill</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Paul</actor>
+      <role>Vincent</role>
+    </credit>
+    <credit>
+      <actor>Pine, Phillip</actor>
+      <role>Pvt. Steve Cantrell</role>
+    </credit>
+    <credit>
+      <actor>Pitlik, Noam</actor>
+      <role>Mac</role>
+    </credit>
+    <credit>
+      <actor>Pitlik, Noam</actor>
+      <role>Pvt. Gene Scott</role>
+    </credit>
+    <credit>
+      <actor>Pochath, Werner</actor>
+      <role>German Teenager Soldier</role>
+    </credit>
+    <credit>
+      <actor>Pollick, Teno</actor>
+      <role>Pfc. Loring</role>
+    </credit>
+    <credit>
+      <actor>Pollock, Dee</actor>
+      <role>McBride</role>
+    </credit>
+    <credit>
+      <actor>Pollock, Dee</actor>
+      <role>Thomas</role>
+    </credit>
+    <credit>
+      <actor>Pomerantz, Jeff</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Prezia, Benito</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>Price, Joe Allen</actor>
+      <role>Larkin</role>
+    </credit>
+    <credit>
+      <actor>Prieur, Serge</actor>
+      <role>Gilbert</role>
+    </credit>
+    <credit>
+      <actor>Prine, Andrew</actor>
+      <role>Lt. Benton</role>
+    </credit>
+    <credit>
+      <actor>Ravel, Francis</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Ray, Frankie (II)</actor>
+      <role>Gardello</role>
+    </credit>
+    <credit>
+      <actor>Raymond, Dick</actor>
+      <role>1st German</role>
+    </credit>
+    <credit>
+      <actor>Raymond, Dick</actor>
+      <role>German Infantryman</role>
+    </credit>
+    <credit>
+      <actor>Raymond, Dick</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Rayner, John (I)</actor>
+      <role>American Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Reichow, Otto</actor>
+      <role>German Guard #2</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>1st Sentry</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Rein, Gerd</actor>
+      <role>Heismann</role>
+    </credit>
+    <credit>
+      <actor>Reindel, Carl</actor>
+      <role>Pvt. Murray</role>
+    </credit>
+    <credit>
+      <actor>Reinsch, Felix</actor>
+      <role>Briefing Officer</role>
+    </credit>
+    <credit>
+      <actor>Reinsch, Felix</actor>
+      <role>S.S. Lieutenant #2</role>
+    </credit>
+    <credit>
+      <actor>Renaday, Peter</actor>
+      <role>Louis</role>
+    </credit>
+    <credit>
+      <actor>Renella, Pat</actor>
+      <role>Razna</role>
+    </credit>
+    <credit>
+      <actor>Richman, Peter Mark</actor>
+      <role>Capt. Aptmeyer</role>
+    </credit>
+    <credit>
+      <actor>Richman, Peter Mark</actor>
+      <role>German Lt. Marchand</role>
+    </credit>
+    <credit>
+      <actor>Ritscher, Edgar</actor>
+      <role>German #2</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>2nd German</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>Capt. Roswald</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>German Corporal</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>Lt. Bruner</role>
+    </credit>
+    <credit>
+      <actor>Robb, Lou</actor>
+      <role>Mueller</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Dennis (I)</actor>
+      <role>Bronson</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Dennis (I)</actor>
+      <role>Pvt. Albert Baker</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Dennis (I)</actor>
+      <role>Pvt. Albert Baker</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Dennis (I)</actor>
+      <role>Pvt. Albert Baker</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Dennis (I)</actor>
+      <role>Pvt. Albert Baker</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Chris (I)</actor>
+      <role>Paul Villers</role>
+    </credit>
+    <credit>
+      <actor>Rogatkin, George</actor>
+      <role>2nd German Infantryman</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Anthony (I)</actor>
+      <role>Lt. Maples</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Steven (I)</actor>
+      <role>Doc Walton</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Wayne (I)</actor>
+      <role>Reiser</role>
+    </credit>
+    <credit>
+      <actor>Roland, Gilbert (I)</actor>
+      <role>Boulanger</role>
+    </credit>
+    <credit>
+      <actor>Rooney, Mickey (I)</actor>
+      <role>Harry White</role>
+    </credit>
+    <credit>
+      <actor>Ross, David L.</actor>
+      <role>Wonded Soldier</role>
+    </credit>
+    <credit>
+      <actor>Roux, Jacques</actor>
+      <role>Anton Fouchet</role>
+    </credit>
+    <credit>
+      <actor>Roux, Jacques</actor>
+      <role>Fontaine</role>
+    </credit>
+    <credit>
+      <actor>Roux, Jacques</actor>
+      <role>French Priest</role>
+    </credit>
+    <credit>
+      <actor>Roux, Jacques</actor>
+      <role>Frenchman</role>
+    </credit>
+    <credit>
+      <actor>Roux, Jacques</actor>
+      <role>Gautier</role>
+    </credit>
+    <credit>
+      <actor>Rowland, Henry</actor>
+      <role>Col. Hoffman</role>
+    </credit>
+    <credit>
+      <actor>Russell, Bing</actor>
+      <role>Gaines</role>
+    </credit>
+    <credit>
+      <actor>Russi, Mark</actor>
+      <role>German Officer</role>
+    </credit>
+    <credit>
+      <actor>Russi, Mark</actor>
+      <role>German Sgt. #2</role>
+    </credit>
+    <credit>
+      <actor>Russi, Mark</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Russi, Mark</actor>
+      <role>Radioman</role>
+    </credit>
+    <credit>
+      <actor>Russo, Barry (I)</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Mark (IX)</actor>
+      <role>Hanson</role>
+    </credit>
+    <credit>
+      <actor>Rydell, Bobby</actor>
+      <role>Mickey Shay</role>
+    </credit>
+    <credit>
+      <actor>Ryder, Alfred</actor>
+      <role>Heismann</role>
+    </credit>
+    <credit>
+      <actor>Ryder, Eddie</actor>
+      <role>Mason</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Heinz</actor>
+      <role>2nd German Cyclist</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Heinz</actor>
+      <role>German Machine Gunner #3</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Heinz</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Heinz</actor>
+      <role>Sgt. Peter</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Karl</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Karl</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Sadler, Karl</actor>
+      <role>Machine Gunner</role>
+    </credit>
+    <credit>
+      <actor>Salmi, Albert</actor>
+      <role>Jenkins</role>
+    </credit>
+    <credit>
+      <actor>Sampson, Robert (I)</actor>
+      <role>Harvey</role>
+    </credit>
+    <credit>
+      <actor>Sands, Tommy (I)</actor>
+      <role>Carey</role>
+    </credit>
+    <credit>
+      <actor>Sargent, William (II)</actor>
+      <role>Blocker</role>
+    </credit>
+    <credit>
+      <actor>Sargent, William (II)</actor>
+      <role>Huffman</role>
+    </credit>
+    <credit>
+      <actor>Savalas, George</actor>
+      <role>Cooper</role>
+    </credit>
+    <credit>
+      <actor>Savalas, Telly</actor>
+      <role>Colonel Kapsalis</role>
+    </credit>
+    <credit>
+      <actor>Savalas, Telly</actor>
+      <role>Jon</role>
+    </credit>
+    <credit>
+      <actor>Sawaya, George</actor>
+      <role>GI #1</role>
+    </credit>
+    <credit>
+      <actor>Sawaya, George</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Sawaya, George</actor>
+      <role>Pierre</role>
+    </credit>
+    <credit>
+      <actor>Schallert, William</actor>
+      <role>Major Fisher</role>
+    </credit>
+    <credit>
+      <actor>Schuyler, Richard (I)</actor>
+      <role>Medic</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Dr. Barole</role>
+    </credit>
+    <credit>
+      <actor>Seifert, Jürgen</actor>
+      <role>Bernsdorf</role>
+    </credit>
+    <credit>
+      <actor>Selzer, Milton</actor>
+      <role>Col. Glinski</role>
+    </credit>
+    <credit>
+      <actor>Shay, John</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Shay, John</actor>
+      <role>Major Canfield</role>
+    </credit>
+    <credit>
+      <actor>Shayne, Gene Otis</actor>
+      <role>Medic</role>
+    </credit>
+    <credit>
+      <actor>Sheiner, David</actor>
+      <role>Captain Ridell</role>
+    </credit>
+    <credit>
+      <actor>Sheiner, David</actor>
+      <role>SS Major Krieghoffen</role>
+    </credit>
+    <credit>
+      <actor>Shelton, Jacques</actor>
+      <role>2nd G.I.</role>
+    </credit>
+    <credit>
+      <actor>Sheriff, Paul (II)</actor>
+      <role>Sawyer</role>
+    </credit>
+    <credit>
+      <actor>Siegfried, John</actor>
+      <role>2nd German Sentry</role>
+    </credit>
+    <credit>
+      <actor>Siegfried, John</actor>
+      <role>Kurt</role>
+    </credit>
+    <credit>
+      <actor>Siegfried, Norbert</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Siegfried, Norbert</actor>
+      <role>German Leader</role>
+    </credit>
+    <credit>
+      <actor>Siegfried, Norbert</actor>
+      <role>German M.P.</role>
+    </credit>
+    <credit>
+      <actor>Sikking, James</actor>
+      <role>Lyles</role>
+    </credit>
+    <credit>
+      <actor>Simcox, Tom</actor>
+      <role>Dolan</role>
+    </credit>
+    <credit>
+      <actor>Simcox, Tom</actor>
+      <role>Marsini</role>
+    </credit>
+    <credit>
+      <actor>Sirola, Joseph</actor>
+      <role>Casper</role>
+    </credit>
+    <credit>
+      <actor>Skerritt, Tom</actor>
+      <role>Burke</role>
+    </credit>
+    <credit>
+      <actor>Skerritt, Tom</actor>
+      <role>Glinski</role>
+    </credit>
+    <credit>
+      <actor>Skerritt, Tom</actor>
+      <role>Hicks</role>
+    </credit>
+    <credit>
+      <actor>Skerritt, Tom</actor>
+      <role>Sgt. Decker</role>
+    </credit>
+    <credit>
+      <actor>Skerritt, Tom</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Slate, Jeremy (I)</actor>
+      <role>Lt. Asher</role>
+    </credit>
+    <credit>
+      <actor>Slate, Jeremy (I)</actor>
+      <role>March</role>
+    </credit>
+    <credit>
+      <actor>Smith, Hagen</actor>
+      <role>Daniels</role>
+    </credit>
+    <credit>
+      <actor>Smith, K.L.</actor>
+      <role>1st G.I.</role>
+    </credit>
+    <credit>
+      <actor>Smith, William (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Smith, William (I)</actor>
+      <role>Richter</role>
+    </credit>
+    <credit>
+      <actor>Smithers, William</actor>
+      <role>Lt. Markes</role>
+    </credit>
+    <credit>
+      <actor>Soble, Ron (I)</actor>
+      <role>Corporal Wiltz</role>
+    </credit>
+    <credit>
+      <actor>Soble, Ron (I)</actor>
+      <role>German Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Sorel, Jacques</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>Sorrells, Robert</actor>
+      <role>Reeves</role>
+    </credit>
+    <credit>
+      <actor>Spahn, Warren</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Speckman, William</actor>
+      <role>1st German soldier</role>
+    </credit>
+    <credit>
+      <actor>Speckman, William</actor>
+      <role>Bower</role>
+    </credit>
+    <credit>
+      <actor>Splawn, William (I)</actor>
+      <role>Coates</role>
+    </credit>
+    <credit>
+      <actor>St. Clair, Maurice</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>St. Clair, Michael (I)</actor>
+      <role>Marcher</role>
+    </credit>
+    <credit>
+      <actor>Stacy, James (I)</actor>
+      <role>Farley</role>
+    </credit>
+    <credit>
+      <actor>Stafford, Dan (I)</actor>
+      <role>Lt. David Comstock</role>
+    </credit>
+    <credit>
+      <actor>Stanton, Harry Dean</actor>
+      <role>Beecham</role>
+    </credit>
+    <credit>
+      <actor>Stead, Joe</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Stears, Tom J.</actor>
+      <role>Pvt. Locke</role>
+    </credit>
+    <credit>
+      <actor>Stensil, Glen</actor>
+      <role>Weaver</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Bard</actor>
+      <role>Kruger</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Warren</actor>
+      <role>Sgt. Hagen</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Warren</actor>
+      <role>Sgt. Walter</role>
+    </credit>
+    <credit>
+      <actor>Stevens, William (III)</actor>
+      <role>Fleming</role>
+    </credit>
+    <credit>
+      <actor>Stine Jr., Oliver C.</actor>
+      <role>Corporal</role>
+    </credit>
+    <credit>
+      <actor>Stine Jr., Oliver C.</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Stine Jr., Oliver C.</actor>
+      <role>Whitey</role>
+    </credit>
+    <credit>
+      <actor>Stockwell, Dean</actor>
+      <role>Rob Lawson</role>
+    </credit>
+    <credit>
+      <actor>Stockwell, Guy</actor>
+      <role>Jerry Bacon</role>
+    </credit>
+    <credit>
+      <actor>Stokes, Ron</actor>
+      <role>Maxwell</role>
+    </credit>
+    <credit>
+      <actor>Stricklyn, Ray</actor>
+      <role>Pvt. Earl Konieg</role>
+    </credit>
+    <credit>
+      <actor>Stroka, Michael</actor>
+      <role>German Drunk #1</role>
+    </credit>
+    <credit>
+      <actor>Stroka, Michael</actor>
+      <role>Scope Man</role>
+    </credit>
+    <credit>
+      <actor>Study, Lomax</actor>
+      <role>Andre</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>German Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>Gypsy</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>Howard</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>Rankin</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sturlin, Ross</actor>
+      <role>Stevens</role>
+    </credit>
+    <credit>
+      <actor>Sullivan, Liam</actor>
+      <role>Major Hendricks</role>
+    </credit>
+    <credit>
+      <actor>Sutton, Frank</actor>
+      <role>Corporal Cording</role>
+    </credit>
+    <credit>
+      <actor>Szabo, Albert</actor>
+      <role>Karacz</role>
+    </credit>
+    <credit>
+      <actor>Szabo, Albert</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Tarangelo, John</actor>
+      <role>GI Officer #1</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Buck (I)</actor>
+      <role>Jeetleman</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Buck (I)</actor>
+      <role>Tobin</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Ralph (II)</actor>
+      <role>Soldier #2</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Moorwood</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Edward</actor>
+      <role>Brunner</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Edward</actor>
+      <role>Friedrich</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Edward</actor>
+      <role>Klaus</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Edward</actor>
+      <role>S.S. Trooper</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Edward</actor>
+      <role>Scarface Sgt.</role>
+    </credit>
+    <credit>
+      <actor>Til, Roger</actor>
+      <role>French priest</role>
+    </credit>
+    <credit>
+      <actor>Tobin, Mark</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Tobin, Mark</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Tobin, Mark</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Todd, Paul (I)</actor>
+      <role>Costello</role>
+    </credit>
+    <credit>
+      <actor>Torn, Rip</actor>
+      <role>Avery</role>
+    </credit>
+    <credit>
+      <actor>Traeger, Rick</actor>
+      <role>Col. Metz</role>
+    </credit>
+    <credit>
+      <actor>Traeger, Rick</actor>
+      <role>German Captain</role>
+    </credit>
+    <credit>
+      <actor>Traeger, Rick</actor>
+      <role>German Colonel</role>
+    </credit>
+    <credit>
+      <actor>Tretter, Richard</actor>
+      <role>Ambulance driver</role>
+    </credit>
+    <credit>
+      <actor>Tretter, Richard</actor>
+      <role>G.I.</role>
+    </credit>
+    <credit>
+      <actor>Tretter, Richard</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Tretter, Richard</actor>
+      <role>Wills</role>
+    </credit>
+    <credit>
+      <actor>Triesault, Ivan</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Troupe, Tom</actor>
+      <role>Medic</role>
+    </credit>
+    <credit>
+      <actor>Trump, Gerald</actor>
+      <role>Howie Parker</role>
+    </credit>
+    <credit>
+      <actor>Turkel, Joe</actor>
+      <role>Klimmer</role>
+    </credit>
+    <credit>
+      <actor>Turnbull, Bob</actor>
+      <role>G.I. Corporal</role>
+    </credit>
+    <credit>
+      <actor>Twins, Monroe</actor>
+      <role>The Baby</role>
+    </credit>
+    <credit>
+      <actor>Tyson, Tram</actor>
+      <role>German Driver</role>
+    </credit>
+    <credit>
+      <actor>Uitz, Matthias</actor>
+      <role>1st German Cyclist</role>
+    </credit>
+    <credit>
+      <actor>Uitz, Matthias</actor>
+      <role>German Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Uitz, Matthias</actor>
+      <role>Machine Gunner #2</role>
+    </credit>
+    <credit>
+      <actor>Uitz, Matthias</actor>
+      <role>Second German Engineer</role>
+    </credit>
+    <credit>
+      <actor>Van Dreelen, John</actor>
+      <role>Lt. Kramer</role>
+    </credit>
+    <credit>
+      <actor>Vanders, Warren</actor>
+      <role>Henderson</role>
+    </credit>
+    <credit>
+      <actor>Vanders, Warren</actor>
+      <role>Lt. Earnshaw</role>
+    </credit>
+    <credit>
+      <actor>Vandever, Michael</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Vaughn, Eric (I)</actor>
+      <role>Wilhelm</role>
+    </credit>
+    <credit>
+      <actor>Villedieu, Renaud</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Walberg, Garry</actor>
+      <role>Thin Correspondent</role>
+    </credit>
+    <credit>
+      <actor>Walker Jr., Robert</actor>
+      <role>Ollie Joe</role>
+    </credit>
+    <credit>
+      <actor>Walker, John (XXII)</actor>
+      <role>Heinrich</role>
+    </credit>
+    <credit>
+      <actor>Walmsley, Jon</actor>
+      <role>Andrew</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Charles (I)</actor>
+      <role>Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Joseph (I)</actor>
+      <role>Einstein</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Joseph (I)</actor>
+      <role>Pvt. Jack Johnson</role>
+    </credit>
+    <credit>
+      <actor>Watson, Bruce (I)</actor>
+      <role>Sentry</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Dennis (I)</actor>
+      <role>Noah</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Fritz</actor>
+      <role>Major Chaplain Ernest Miller</role>
+    </credit>
+    <credit>
+      <actor>Weber, Rick (II)</actor>
+      <role>German</role>
+    </credit>
+    <credit>
+      <actor>Weishoff, Gunter</actor>
+      <role>1st German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Welch, Nelson</actor>
+      <role>Abbot</role>
+    </credit>
+    <credit>
+      <actor>Wellman Jr., William</actor>
+      <role>Sgt. Brice</role>
+    </credit>
+    <credit>
+      <actor>Wellman Jr., William</actor>
+      <role>Woody</role>
+    </credit>
+    <credit>
+      <actor>Welsh, Ronnie</actor>
+      <role>Peal</role>
+    </credit>
+    <credit>
+      <actor>Werber, Vic</actor>
+      <role>Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Weston, Brad (I)</actor>
+      <role>Lt. Crowley</role>
+    </credit>
+    <credit>
+      <actor>Whitmore, James</actor>
+      <role>Hertzbrun</role>
+    </credit>
+    <credit>
+      <actor>Whitney, Peter (I)</actor>
+      <role>Massine</role>
+    </credit>
+    <credit>
+      <actor>Williams, Adam (I)</actor>
+      <role>Lt. Col. Nash</role>
+    </credit>
+    <credit>
+      <actor>Williams, John (II)</actor>
+      <role>Edmund Tinsley</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>Captain Lew Anders</role>
+    </credit>
+    <credit>
+      <actor>Winston, Edgar</actor>
+      <role>German #1</role>
+    </credit>
+    <credit>
+      <actor>Winston, Edgar</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Winston, Robert (I)</actor>
+      <role>German Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Winston, Robert (I)</actor>
+      <role>Hoffman</role>
+    </credit>
+    <credit>
+      <actor>Winston, Robert (I)</actor>
+      <role>S.S. Lieutenant #1</role>
+    </credit>
+    <credit>
+      <actor>Winters, Ernst</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Winters, Ernst</actor>
+      <role>German in Jeep</role>
+    </credit>
+    <credit>
+      <actor>Wixted, James</actor>
+      <role>Mason</role>
+    </credit>
+    <credit>
+      <actor>Wright, Ben (I)</actor>
+      <role>Boulange</role>
+    </credit>
+    <credit>
+      <actor>Wright, Ben (I)</actor>
+      <role>Count De Gontran</role>
+    </credit>
+    <credit>
+      <actor>Wyenn, Than</actor>
+      <role>Captain Beggs</role>
+    </credit>
+    <credit>
+      <actor>Wyenn, Than</actor>
+      <role>Ted</role>
+    </credit>
+    <credit>
+      <actor>Wynant, H.M.</actor>
+      <role>Lt. Collins</role>
+    </credit>
+    <credit>
+      <actor>Wynant, H.M.</actor>
+      <role>Sgt. Rawlings</role>
+    </credit>
+    <credit>
+      <actor>Wynn, Keenan</actor>
+      <role>Brannigan</role>
+    </credit>
+    <credit>
+      <actor>Wynn, Keenan</actor>
+      <role>Colonel Clyde</role>
+    </credit>
+    <credit>
+      <actor>Wynn, Ned</actor>
+      <role>M.P.</role>
+    </credit>
+    <credit>
+      <actor>Yuro, Robert</actor>
+      <role>Tanner</role>
+    </credit>
+    <credit>
+      <actor>Yuro, Robert</actor>
+      <role>Vitelli</role>
+    </credit>
+    <credit>
+      <actor>Zuckert, Bill</actor>
+      <role>Col. Veach</role>
+    </credit>
+    <credit>
+      <actor>de Firmian, Philip</actor>
+      <role>German Sgt. #1</role>
+    </credit>
+    <credit>
+      <actor>de Schene, Robert</actor>
+      <role>Claude Roche</role>
+    </credit>
+    <credit>
+      <actor>de Vries, Mark (I)</actor>
+      <role>Ernst</role>
+    </credit>
+    <credit>
+      <actor>de Vries, Mark (I)</actor>
+      <role>Pvt. Wexler</role>
+    </credit>
+    <credit>
+      <actor>de Winter, James</actor>
+      <role>Corporal</role>
+    </credit>
+  </cast>
+<plot>Combat!, a one-hour WWII drama series on television, followed a frontline American infantry squad as they battled their way across Europe. With mud-splattered realism, the show offered character studies of men striving to maintain their own humanity in the midst of a world torn by war.</plot><url>http://localhost:8983/solr/movie.html?111420</url></doc>

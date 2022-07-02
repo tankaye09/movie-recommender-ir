@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="088410">
+  <docid>088410</docid>
+  <title>Buzz Lightyear of Star Command</title>
+  <year>2000</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Royer, John</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-film</keyword>
+    <keyword>cartoon</keyword>
+    <keyword>space</keyword>
+    <keyword>hero</keyword>
+    <keyword>villain</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>buzz-lightyear</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Singapore">G</certificate>
+    <certificate country="Greece">K-13</certificate>
+    <certificate country="Australia">G</certificate>
+    <certificate country="Canada">G</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Canada">4 October 2000</releasedate>
+    <releasedate country="USA">28 October 2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cook, Victor</director>
+    <director>Filippi, Nicholas</director>
+    <director>Loter, Steve</director>
+    <director>MacKinnon, Don (I)</director>
+    <director>Rutkowski, Chris</director>
+  </directors>
+  <producers>
+    <producer>Kopp, Natasha</producer>
+  </producers>
+  <writers>
+    <writer>Armus, Adam</writer>
+    <writer>Askin, Robert</writer>
+    <writer>Bates, James W.</writer>
+    <writer>Behnke, John</writer>
+    <writer>Chilcoat, Cade</writer>
+    <writer>Dennis, Jules</writer>
+    <writer>Dubois, Nick (I)</writer>
+    <writer>Fisher, Jim (II)</writer>
+    <writer>Foster, Nora Kay</writer>
+    <writer>Gitelson, Richard</writer>
+    <writer>Guzelian, Eddie</writer>
+    <writer>Hopps, Kevin</writer>
+    <writer>Humphrey, Rob (I)</writer>
+    <writer>Klink, Lisa</writer>
+    <writer>Koonce, Ken</writer>
+    <writer>Langdale, Douglas</writer>
+    <writer>Lewald, Julia</writer>
+    <writer>Medlock, Michael A.</writer>
+    <writer>Merton, Michael</writer>
+    <writer>Molinari, Joseph</writer>
+    <writer>Motz, Bill</writer>
+    <writer>Mueller, Richard (I)</writer>
+    <writer>Palmer, Mark (IV)</writer>
+    <writer>Peterson, Jim (I)</writer>
+    <writer>Roth, Bob (I)</writer>
+    <writer>Sperling, Gary</writer>
+    <writer>Stonecipher, Elizabeth</writer>
+    <writer>Stones, Tad</writer>
+    <writer>Swenlin, Brian</writer>
+    <writer>Van Dyne, Alexx</writer>
+    <writer>Weisman, Greg (I)</writer>
+    <writer>Winfield, Jess</writer>
+  </writers>
+  <composers>
+    <composer>Berry, Adam (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alaskey, Joe</actor>
+      <role>Soda Vendbot/Newspaper Vendbot</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Fixer</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Warp Darkmatter</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Warp Darkmatter/Natron</role>
+    </credit>
+    <credit>
+      <actor>Bader, Diedrich</actor>
+      <role>Warp Darkmatter/Torgo/Doorman</role>
+    </credit>
+    <credit>
+      <actor>Behar, Joy</actor>
+      <role>42</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Binipinardian #2/Binipinardian #3</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Brain Pod #18, Brain Pod #81, Dreadnaught Computer</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Mary Kay</actor>
+      <role>Alien Mom/Alien Kid</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Punk-Goon #2</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Max (I)</actor>
+      <role>Tech #2, Ranger #2</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Kleev/Sentry #2</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Tough</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Brent Starkisser</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Brent Starkisser/Judge</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>General/Floyd/Soldier</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>General/Floyd/Tour Guide</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Hammerhold</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Treevo</role>
+    </credit>
+    <credit>
+      <actor>Carolla, Adam</actor>
+      <role>Cmdr. Nebula</role>
+    </credit>
+    <credit>
+      <actor>Carolla, Adam</actor>
+      <role>Commander Nebula</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>AP-99</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Brain Pod #13</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Hunter #1/Hunter #2/Lackey/Casey Kasemish DJ</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Mr. Zoop/Alnip</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Resort Manager/Alien/Captain Alien</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Robot Sentry 1/Robot Sentry 2</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Senator Banda/Garron/Nifty Joe</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Slam-bot/Fussy-Boy</role>
+    </credit>
+    <credit>
+      <actor>Cox, Nikki</actor>
+      <role>Petra</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Norm</actor>
+      <role>Mr. Hayman</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Binipinardian #1/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Security Computer/Tough Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Senator Aarrfvox/Alien Dad</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Alien Beauty/Alien/Maid</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Mom</role>
+    </credit>
+    <credit>
+      <actor>DeLisle, Grey</actor>
+      <role>Vicki Vortex/Ranger #2</role>
+    </credit>
+    <credit>
+      <actor>Doyle-Murray, Brian</actor>
+      <role>Panchax</role>
+    </credit>
+    <credit>
+      <actor>Elliott, David James</actor>
+      <role>Romac</role>
+    </credit>
+    <credit>
+      <actor>Favreau, Jon</actor>
+      <role>Crumford Lorak</role>
+    </credit>
+    <credit>
+      <actor>Favreau, Jon</actor>
+      <role>Crumford Lorax</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>NOS-4-A2</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>Nos-4-A2</role>
+    </credit>
+    <credit>
+      <actor>Ferrell, Conchata</actor>
+      <role>Ma</role>
+    </credit>
+    <credit>
+      <actor>Ferrell, Conchata</actor>
+      <role>Ma Munchapper</role>
+    </credit>
+    <credit>
+      <actor>Fleischer, Charles</actor>
+      <role>Monumentus</role>
+    </credit>
+    <credit>
+      <actor>Fleischer, Charles</actor>
+      <role>Monumentus, Varko</role>
+    </credit>
+    <credit>
+      <actor>Fleischer, Charles</actor>
+      <role>Monumentus/Thug #1</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Neil</actor>
+      <role>XR</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Neil</actor>
+      <role>XR/Computer</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Neil</actor>
+      <role>XR/X-Treme</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Booster</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Booster</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Booster/Blister</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Brad (I)</actor>
+      <role>Torque</role>
+    </credit>
+    <credit>
+      <actor>Gifaldi, Sam</actor>
+      <role>Dyb</role>
+    </credit>
+    <credit>
+      <actor>Goldthwait, Bobcat</actor>
+      <role>XL</role>
+    </credit>
+    <credit>
+      <actor>Grier, David Alan</actor>
+      <role>Tubunch</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Mark (I)</actor>
+      <role>Flint</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Linda (I)</actor>
+      <role>Dr. Furbana</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Linda (I)</actor>
+      <role>Dr. Furbanna</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Bartender Heads/Gramps Munchapper/Bomb Vendor</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Clay</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Keno/Dealer/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jonathan (I)</actor>
+      <role>Era</role>
+    </credit>
+    <credit>
+      <actor>Hytner, Steve</actor>
+      <role>Ty Parsec/Wirewolf</role>
+    </credit>
+    <credit>
+      <actor>Hytner, Steve</actor>
+      <role>Wirewolf/Ty</role>
+    </credit>
+    <credit>
+      <actor>Idle, Eric</actor>
+      <role>Guzelian</role>
+    </credit>
+    <credit>
+      <actor>Insana, Tino</actor>
+      <role>Samsa</role>
+    </credit>
+    <credit>
+      <actor>Jay, Tony (I)</actor>
+      <role>Dr. Animus</role>
+    </credit>
+    <credit>
+      <actor>Kane, Tom (II)</actor>
+      <role>Soldier/Tech</role>
+    </credit>
+    <credit>
+      <actor>Kassir, John</actor>
+      <role>Evan Zarl, Snark, Zinko</role>
+    </credit>
+    <credit>
+      <actor>Kassir, John</actor>
+      <role>Marl</role>
+    </credit>
+    <credit>
+      <actor>Kenney, Kerri (I)</actor>
+      <role>Gravatina</role>
+    </credit>
+    <credit>
+      <actor>Kenney, Kerri (I)</actor>
+      <role>Gravitina</role>
+    </credit>
+    <credit>
+      <actor>Kenney, Kerri (I)</actor>
+      <role>Gravitina/Sally</role>
+    </credit>
+    <credit>
+      <actor>Kenney, Kerri (I)</actor>
+      <role>Sally</role>
+    </credit>
+    <credit>
+      <actor>Kenney, Kerri (I)</actor>
+      <role>Sally/Queen</role>
+    </credit>
+    <credit>
+      <actor>Knight, Wayne (I)</actor>
+      <role>Emperor Zurg</role>
+    </credit>
+    <credit>
+      <actor>Knight, Wayne (I)</actor>
+      <role>Evil Emperor Zurg</role>
+    </credit>
+    <credit>
+      <actor>Knight, Wayne (I)</actor>
+      <role>Zurg</role>
+    </credit>
+    <credit>
+      <actor>Korman, Harvey</actor>
+      <role>Gularis</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Ranger #1</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Warden Yung</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Ambassador</role>
+    </credit>
+    <credit>
+      <actor>LaMarr, Phil</actor>
+      <role>Rocket Crocket</role>
+    </credit>
+    <credit>
+      <actor>LaMarr, Phil</actor>
+      <role>Rocket Crocket/Patron</role>
+    </credit>
+    <credit>
+      <actor>LaMarr, Phil</actor>
+      <role>Rocket Crocket/Smeego</role>
+    </credit>
+    <credit>
+      <actor>LaMarr, Phil</actor>
+      <role>Smeego/Rocket Crocket/Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Lane, Mills (I)</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Langham, Wallace</actor>
+      <role>Care-bots</role>
+    </credit>
+    <credit>
+      <actor>Langham, Wallace</actor>
+      <role>Smoltz</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Dawnn</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Beletor</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Brain Pod #94/Kids</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Brun/Sig/Hilda</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Calm Female Voice</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Old Lady Alien/Mrs. SL2/Robot Washing Machine</role>
+    </credit>
+    <credit>
+      <actor>MacNicol, Peter</actor>
+      <role>Major</role>
+    </credit>
+    <credit>
+      <actor>Marsden, Jason</actor>
+      <role>Flash Flemming</role>
+    </credit>
+    <credit>
+      <actor>Martin, Barney (I)</actor>
+      <role>Ambassador Major</role>
+    </credit>
+    <credit>
+      <actor>McGillis, Kelly</actor>
+      <role>Gorgeous Woman</role>
+    </credit>
+    <credit>
+      <actor>Miller, Larry (I)</actor>
+      <role>XR</role>
+    </credit>
+    <credit>
+      <actor>Miller, Larry (I)</actor>
+      <role>XR</role>
+    </credit>
+    <credit>
+      <actor>Montalban, Ricardo</actor>
+      <role>Vartkes</role>
+    </credit>
+    <credit>
+      <actor>Mumy, Bill</actor>
+      <role>Eon</role>
+    </credit>
+    <credit>
+      <actor>Murray, Joel</actor>
+      <role>Professor Triffid</role>
+    </credit>
+    <credit>
+      <actor>Murray, Joel</actor>
+      <role>Triffid</role>
+    </credit>
+    <credit>
+      <actor>Napier, Charles</actor>
+      <role>Wild Bill Cooley</role>
+    </credit>
+    <credit>
+      <actor>O'Hurley, John</actor>
+      <role>King Nova</role>
+    </credit>
+    <credit>
+      <actor>Osment, Haley Joel</actor>
+      <role>Myka</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Opening Narration</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>AP-06/Guard</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Docent/Waiter</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Fop Doppler</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Krnozian</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Titanux, Punk #2</role>
+    </credit>
+    <credit>
+      <actor>Perlman, Ron</actor>
+      <role>Leader</role>
+    </credit>
+    <credit>
+      <actor>Picardo, Robert</actor>
+      <role>Professor Reddschift</role>
+    </credit>
+    <credit>
+      <actor>Pinchot, Bronson</actor>
+      <role>Shakey/Science</role>
+    </credit>
+    <credit>
+      <actor>Piven, Jeremy</actor>
+      <role>Brain Pod #57</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Advisor #1/Senator/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Alien Guy</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Grimfix/Behemor/Immensitor</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Harv/Whale</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Lardak</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Lardak Lurak/Bus Driver/Computer</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Lardak Lurdak</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Punk-Goon #1/Mr. Andrew/Little Joe</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Tremendor</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Tremendor/Punk #1</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Tremendor/Thug #3/Behemor</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Varg/Diplomat #1/Ruffian</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Varg/Gork/Yiipe</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Villager #1/Villager #4</role>
+    </credit>
+    <credit>
+      <actor>Root, Stephen (I)</actor>
+      <role>Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Root, Stephen (I)</actor>
+      <role>Sheriff/Sentry #2</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Trucker, Tech #1</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Villager #3</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Cosmo</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Cosmo and Ed the Courier</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Cosmo, Inspector</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Ed</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Ed the Courier</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Ed/Brain Pod/Bystander</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Showalter, Michael</actor>
+      <role>Plasma Boy</role>
+    </credit>
+    <credit>
+      <actor>Stewart, French</actor>
+      <role>Rentwhistle</role>
+    </credit>
+    <credit>
+      <actor>Stewart, French</actor>
+      <role>Rentwhistle Swack</role>
+    </credit>
+    <credit>
+      <actor>Stiles, Ryan</actor>
+      <role>Professor Spyro Lepton/Von Madman</role>
+    </credit>
+    <credit>
+      <actor>Tobolowsky, Stephen</actor>
+      <role>Gil</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/Evil Buzz/Shiv Katall</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/LGM's</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/LGM's</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/LGMs</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/LGMs</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Buzz Lightyear/Old Buzz</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>Lord Angstrom</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bad Gargantians</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bat Creature/Slime Beast/Jessica/Stratoshrike</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Binipinardians</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Brain Pod #17</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Brain Pod #26/Grubs/Computer Voice</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Brain Pod #39</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Dad</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Epoch</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Epoch/Senator/Phlegmex/Alien Guard</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Grubs</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Grubs/Brain Pod</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Maw/Little Maw/Radio Voice/Tangean Terrorists</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Narlzak/Strato-Shrike</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Pteradoc/Tarpax</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Ranger</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Ranger/Tentacled Alien</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Senator</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Shape/Creature</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Voice</role>
+    </credit>
+    <credit>
+      <actor>Whitfield, Mitchell</actor>
+      <role>Klerm</role>
+    </credit>
+    <credit>
+      <actor>Willard, Fred</actor>
+      <role>Pa</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Thomas F.</actor>
+      <role>Buster</role>
+    </credit>
+  </cast>
+<plot>The further (animated) adventures of Buzz Lightyear of "Toy Story" and "Toy Story 2." Buzz, along with fellow Star Command Rangers Mira Nova, Booster, and XR, fight to keep the universe safe from the evil clutches of Emperor Zurg and his henchman, Warp Darkmatter.</plot><url>http://localhost:8983/solr/movie.html?088410</url></doc>

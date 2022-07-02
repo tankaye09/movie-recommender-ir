@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="234333">
+  <docid>234333</docid>
+  <title>Heimweg</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>secret</keyword>
+    <keyword>rape</keyword>
+    <keyword>rape-victim</keyword>
+    <keyword>bus-station</keyword>
+    <keyword>rapist</keyword>
+    <keyword>guilt</keyword>
+    <keyword>not-help</keyword>
+    <keyword>conscience</keyword>
+  </keywords>
+  <languages>
+    <language>German</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Germany">21 April 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">3</runningtime>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Moll, Sascha</director>
+  </directors>
+  <composers>
+    <composer>Siebert, Michael S.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Freier, Suntje</actor>
+      <role>Victim</role>
+    </credit>
+    <credit>
+      <actor>Spanka, Roland</actor>
+      <role>Criminal</role>
+    </credit>
+    <credit>
+      <actor>von Gahlen, Michele</actor>
+      <role>Friend</role>
+    </credit>
+  </cast>
+<plot>A film about civil courage. A woman is being raped right on the street. Another woman comes by and witnesses the crime. It is not too clear what exactly she sees. But it's enough to make her change her way. She'll eventually misses her bus and arrives at home disturbed. Her boyfriend notices that something's wrong. But even he won't learn what really happened.</plot><url>http://localhost:8983/solr/movie.html?234333</url></doc>

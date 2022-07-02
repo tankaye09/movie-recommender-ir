@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="202971">
+  <docid>202971</docid>
+  <title>Freakazoid!</title>
+  <year>1995</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Keatts, Bradford</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>teen</keyword>
+    <keyword>slapstick-comedy</keyword>
+    <keyword>self-referential</keyword>
+    <keyword>breaking-the-fourth-wall</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="USA">TV-G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">2 November 1996</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arons, Rich</director>
+    <director>Del Carmen, Ronaldo</director>
+    <director>Heiter, Jack (II)</director>
+    <director>Jeralds, Scott</director>
+    <director>Marshall, Dave (I)</director>
+    <director>Riba, Dan</director>
+    <director>Shin, Peter</director>
+  </directors>
+  <producers>
+    <producer>Alexander, Haven</producer>
+    <producer>Perrotta, Laura V.</producer>
+    <producer>MacCurdy, Jean</producer>
+    <producer>Spielberg, Steven</producer>
+    <producer>Arons, Rich</producer>
+    <producer>McCann, John P. (I)</producer>
+    <producer>Rugg, Paul</producer>
+    <producer>Schauer, Mitch</producer>
+    <producer>Ruegger, Tom</producer>
+  </producers>
+  <writers>
+    <writer>Burnett, Alan</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Fox, Melody (II)</writer>
+    <writer>McCann, John P. (I)</writer>
+    <writer>Morris, Wendell</writer>
+    <writer>Sheppard, Tom (I)</writer>
+    <writer>Watson, Mitch</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Rugg, Paul</writer>
+    <writer>Spingarn, Jed</writer>
+  </writers>
+  <composers>
+    <composer>Bernstein, Julie (I)</composer>
+    <composer>Bernstein, Steven (II)</composer>
+    <composer>Goodwin, Gordon</composer>
+    <composer>Ruegger, Tom</composer>
+    <composer>Stone, Richard (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abram, Norm</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Alan, Jane</actor>
+      <role>Tammy</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Asner, Edward</actor>
+      <role>Sgt. Mike Cosgrove</role>
+    </credit>
+    <credit>
+      <actor>Ballantine, Carl</actor>
+      <role>Huska</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Al/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Attendant</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Candle Jack/Dr. Sin/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Cave Guy</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Cave Guy/Mike/The Huntsman/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Cave Guy/Waylon Jeepers</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Cave Guy/Waylon Jeepers/Candle Jack/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Keir</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Lord Bravery</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Lord Bravery/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Mike/Captain Harrison</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>The Huntsman</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>The Huntsman/Cave Guy/Kid Carrion/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>The Huntsman/Singer</role>
+    </credit>
+    <credit>
+      <actor>Browne, Roscoe Lee</actor>
+      <role>Great Mystic Gnome</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Invisibo</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Anton</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Bernt/Hans</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Oblongata</role>
+    </credit>
+    <credit>
+      <actor>Crenshaw, Randy</actor>
+      <role>Attendant #1</role>
+    </credit>
+    <credit>
+      <actor>Cronin, James (III)</actor>
+      <role>Buzz</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Ape Monster</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Janos</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Semiconductor/Ray Charles/Doctor</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>The Wolfman</role>
+    </credit>
+    <credit>
+      <actor>Curry, Tim (I)</actor>
+      <role>Dr. Mystico</role>
+    </credit>
+    <credit>
+      <actor>Des Barres, Michael</actor>
+      <role>Man In Hole</role>
+    </credit>
+    <credit>
+      <actor>Drotman, Marc</actor>
+      <role>Fatman</role>
+    </credit>
+    <credit>
+      <actor>Drotman, Marc</actor>
+      <role>Fatman</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>Roddie MacStew</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>Roddy MacStew</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>Roddy MacStew</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Craig (I)</actor>
+      <role>Roddy MacStew</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Quinton</actor>
+      <role>Elliott</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Bo-Ron</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Mo-Ron</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Fan Boy</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Fan Boy</role>
+    </credit>
+    <credit>
+      <actor>Furst, Stephen</actor>
+      <role>Fan Boy</role>
+    </credit>
+    <credit>
+      <actor>Gelman, Larry</actor>
+      <role>Young Quist</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Mr. Snarzetti</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Warden Riba</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Ed</actor>
+      <role>Unag/Prof. Heiny</role>
+    </credit>
+    <credit>
+      <actor>Gress, Googy</actor>
+      <role>Duncan Douglas</role>
+    </credit>
+    <credit>
+      <actor>Gress, Googy</actor>
+      <role>Duncan Douglas</role>
+    </credit>
+    <credit>
+      <actor>Gress, Googy</actor>
+      <role>Duncan Douglas</role>
+    </credit>
+    <credit>
+      <actor>Gress, Googy</actor>
+      <role>Duncan Douglas</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Mark (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Deep Voiced Singer</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Lt. Artie King</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Lt. Artie King</role>
+    </credit>
+    <credit>
+      <actor>Harewood, Dorian (I)</actor>
+      <role>Singer #1</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Wakko Warner</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Wakko Warner</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Wakko/Billy Bob</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jonathan (I)</actor>
+      <role>Prof. Jones</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jonathan (I)</actor>
+      <role>Prof. Jones</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jonathan (I)</actor>
+      <role>Professor Jones</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Bob (II)</actor>
+      <role>Attendant #2</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, David (I)</actor>
+      <role>Dexter Douglas</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, David (I)</actor>
+      <role>Dexter Douglas</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, David (I)</actor>
+      <role>Dexter Douglas</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, David (I)</actor>
+      <role>Dexter Douglas</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Angella</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kincaid, Aron</actor>
+      <role>The Nerdator</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Captain Kirk/Bill Gates/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Dan</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Eric the Large/Rathgar</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Krimson Kvetch</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Longhorn</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Longhorn</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Longhorn/Medulla/Lord Pringle/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Longhorn/Presenter</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lamers, Elizabeth</actor>
+      <role>Singer #1</role>
+    </credit>
+    <credit>
+      <actor>Landers, Matt</actor>
+      <role>Turk</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer/Himself</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer/Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer/Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer/Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Announcer/Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator/Our Announcer</role>
+    </credit>
+    <credit>
+      <actor>Leahy, Joe (I)</actor>
+      <role>Our Narrator/Our Announcer</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Anchorwoman</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Babeheart</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Christina/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cobra Queen</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cobra Queen/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cobra Queen/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cobra Queen/Debbie Douglas/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Debbie Douglas</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Debbie Douglas/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Debbie Douglas/Dot Warner/Valerie</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Debbie Douglas/Dot/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Debbie Douglas/Sharon Stone/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Girl/Assistant</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Helen/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Princess Di/Sharon Stone/Hilary Clinton/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Screaming Woman</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Speaker</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>The Secretary</role>
+    </credit>
+    <credit>
+      <actor>Maltin, Leonard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marie, Rose (I)</actor>
+      <role>Honna</role>
+    </credit>
+    <credit>
+      <actor>Mars, Kenneth</actor>
+      <role>Dr. Gunther Hunterhanker</role>
+    </credit>
+    <credit>
+      <actor>McAfee, Scott</actor>
+      <role>Louis</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas/Baseball Announcer</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Douglas Douglas/Jubel Lee/Himself</role>
+    </credit>
+    <credit>
+      <actor>McCann, John P. (I)</actor>
+      <role>Hero Boy</role>
+    </credit>
+    <credit>
+      <actor>Menville, Scott</actor>
+      <role>Joey</role>
+    </credit>
+    <credit>
+      <actor>Menville, Scott</actor>
+      <role>Toby Danger/Boy</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Dr. Vernon Danger</role>
+    </credit>
+    <credit>
+      <actor>Moll, Richard</actor>
+      <role>Wolf Man/Vorn the Unspeakable</role>
+    </credit>
+    <credit>
+      <actor>Montalban, Ricardo</actor>
+      <role>Armondo Guitierrez</role>
+    </credit>
+    <credit>
+      <actor>Montalban, Ricardo</actor>
+      <role>Armondo Guitierrez</role>
+    </credit>
+    <credit>
+      <actor>Montalban, Ricardo</actor>
+      <role>Armondo Guitierrez</role>
+    </credit>
+    <credit>
+      <actor>Nix, Taylor (I)</actor>
+      <role>Oscar</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Francois</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>George Takei</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Himself/Lord Bravery Singers</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Lord Bravery Singers/Dog Catcher/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Mohammed-Abdul</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Pinky/Japanese Pilot</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Yakko Warner</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Yakko/Freddy Bob</role>
+    </credit>
+    <credit>
+      <actor>Revill, Clive</actor>
+      <role>Baffeardin</role>
+    </credit>
+    <credit>
+      <actor>Revill, Clive</actor>
+      <role>Hermil Sioro/Inspector Hogan</role>
+    </credit>
+    <credit>
+      <actor>Revill, Clive</actor>
+      <role>Lyle Spanger</role>
+    </credit>
+    <credit>
+      <actor>Rhys-Davies, John</actor>
+      <role>Professor Beasthead</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Board Member/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, John</actor>
+      <role>Attendant</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Animal Psychiatrist</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Boy Blubber</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Handman/Handgirl</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Hiker</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Network Censor/Retired Hero</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Paul Harvey</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Freakazoid/Tom Snyder/Himself</role>
+    </credit>
+    <credit>
+      <actor>Schauer, Mitch</actor>
+      <role>Lonnie Tallbutt</role>
+    </credit>
+    <credit>
+      <actor>Schauer, Mitch</actor>
+      <role>The Doorkeeper</role>
+    </credit>
+    <credit>
+      <actor>Schuck, John</actor>
+      <role>Arms Akimbo</role>
+    </credit>
+    <credit>
+      <actor>Slaughter, Mark (II)</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>Stein, Ben (I)</actor>
+      <role>H.A. Futterman</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Randolph Agarn</role>
+    </credit>
+    <credit>
+      <actor>Valenti, Jack</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Van Dusen, Granville</actor>
+      <role>Dash O'Pepper</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Warner, David (I)</actor>
+      <role>The Lobe</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Crow</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Dinosaur</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Foamy The Freakadog/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Frank the Guard/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gen. Toku</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Mr. Chubbikins</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Mr. Chubbikins/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Mr. Chubbikins/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Santa/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Steven Spielberg/E.T./Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The Judge</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The President/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The President/Additional Voices</role>
+    </credit>
+  </cast>
+<plot>Computer Geek Dexter Douglas turns into an uncontrollable, unpredictable superhero donning red long underwear, blue skin and weird hair. The transformation occurs while Dexter surfs on the Internet. As a superhero, he fights crime whenever he sees it perpetrated by goofy villains with his friends Stephanie and Cogrove.</plot><url>http://localhost:8983/solr/movie.html?202971</url></doc>

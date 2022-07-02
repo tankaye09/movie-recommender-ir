@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="266612">
+  <docid>266612</docid>
+  <title>Insurance</title>
+  <year>1930</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Musical</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">23 August 1930</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Blumenstock, Mort</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Cantor, Eddie</actor>
+      <role>Sidney B. Zwieback</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Charles C.</actor>
+      <role>Doctor</role>
+    </credit>
+  </cast>
+<plot>Sidney Swieback visits the insurance doctor; the examination turns into an stand-up comedy routine, including the song "Now That the Girls are Wearing Long Dresses."</plot><url>http://localhost:8983/solr/movie.html?266612</url></doc>

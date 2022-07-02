@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="060420">
+  <docid>060420</docid>
+  <title>Basement</title>
+  <year>2009</year>
+  <type>DirectToVideo</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">90</runningtime>
+  </runningtimes>
+  <composers>
+    <composer>Chavez, Sacha</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Chavez, Sacha</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hanlon, Frances</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Mclean, Joe</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Roger strongly believes that an exterminator is the one responsible for his fathers' murder. In the basement of his Hoboken cafe the exterminator is chained and tortured. When a Junkie breaks into the cafe Roger begins having doubts. The answers are slowly revealed.</plot><url>http://localhost:8983/solr/movie.html?060420</url></doc>

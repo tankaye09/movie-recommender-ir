@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="123910">
+  <docid>123910</docid>
+  <title>Daddy Duck</title>
+  <year>1948</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>kangaroo</keyword>
+    <keyword>adoption</keyword>
+    <keyword>donald-duck</keyword>
+    <keyword>duck</keyword>
+    <keyword>baby</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Australia">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">16 April 1948</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hannah, Jack (I)</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <writers>
+    <writer>Cosgriff, Jack</writer>
+    <writer>McCormick, Bob (I)</writer>
+  </writers>
+  <composers>
+    <composer>Wallace, Oliver</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Nash, Clarence</actor>
+      <role>Donald Duck</role>
+    </credit>
+  </cast>
+<plot>For some reason, Donald adopts a baby. It turns out not to be a duck, but a kangaroo. Donald takes little Joey home and tries to make him take a bath, with the help of the friendly lady of the adoption bureau on the telephone telling him what to do. After the bath, Donald's baby is scared by the rug made of a bear.</plot><url>http://localhost:8983/solr/movie.html?123910</url></doc>

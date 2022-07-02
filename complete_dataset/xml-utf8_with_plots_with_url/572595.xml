@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="572595">
+  <docid>572595</docid>
+  <title>The Lost World</title>
+  <year>1999</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Beaudoin, Jean</editor>
+    <editor>Denault, Christine</editor>
+    <editor>Duffield, Benjamin</editor>
+    <editor>Ilkow, Annie</editor>
+    <editor>Lussier, Chantal</editor>
+    <editor>Webb, Simon (II)</editor>
+  </editors>
+  <genres>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>exotic-locale</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>amazon-tribe</keyword>
+    <keyword>vampire</keyword>
+    <keyword>stranded</keyword>
+    <keyword>lost-world</keyword>
+    <keyword>dinosaur</keyword>
+    <keyword>expedition</keyword>
+    <keyword>exploration</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>New Zealand</country>
+    <country>Australia</country>
+    <country>Canada</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Brazil">1 December 2002</releasedate>
+    <releasedate country="France">9 September 2000</releasedate>
+    <releasedate country="Hungary">7 October 2000</releasedate>
+    <releasedate country="Australia">10 February 2001</releasedate>
+    <releasedate country="USA">6 May 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Amenta, Pino</director>
+    <director>Budds, Colin</director>
+    <director>Carson, Michael (I)</director>
+    <director>Franklin, Richard (I)</director>
+    <director>Gilmour, Ian (I)</director>
+    <director>Millar, Catherine</director>
+    <director>Nottage, Geoffrey</director>
+    <director>Offer, Michael</director>
+    <director>Pattinson, Michael</director>
+    <director>Sheen, Darryl</director>
+    <director>Zwicky, Karl</director>
+  </directors>
+  <producers>
+    <producer>van Buuren, Marc</producer>
+  </producers>
+  <writers>
+    <writer>Bingeman, Alison Lea</writer>
+    <writer>Doyle, Arthur Conan</writer>
+    <writer>Kaser, Stacey</writer>
+    <writer>King, Durnford</writer>
+    <writer>Kraft, Scott</writer>
+    <writer>Lazer, Charles</writer>
+    <writer>Mallozzi, Joseph</writer>
+    <writer>Mullally, Guy</writer>
+    <writer>Mullie, Paul</writer>
+    <writer>Oleksiak, Richard</writer>
+    <writer>Porciuncula, Catherine</writer>
+    <writer>Reeves-Stevens, Garfield</writer>
+    <writer>Reeves-Stevens, Judith</writer>
+    <writer>Sheppard, John (I)</writer>
+    <writer>Thorpe, James (III)</writer>
+  </writers>
+  <composers>
+    <composer>McDonald, Garry (II)</composer>
+    <composer>Stone, Laurie</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adam, John</actor>
+      <role>Cha-Zu</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Elizabeth (II)</actor>
+      <role>Mrs. Krux</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Rachel Leigh</actor>
+      <role>Slave girl</role>
+    </credit>
+    <credit>
+      <actor>Arahanga, Julian</actor>
+      <role>Pintario</role>
+    </credit>
+    <credit>
+      <actor>Arthur, Brett (II)</actor>
+      <role>Soras</role>
+    </credit>
+    <credit>
+      <actor>Asmar, Shanyn</actor>
+      <role>Calista</role>
+    </credit>
+    <credit>
+      <actor>Asmar, Shanyn</actor>
+      <role>Eva</role>
+    </credit>
+    <credit>
+      <actor>Atkinson, Don (II)</actor>
+      <role>Nemak</role>
+    </credit>
+    <credit>
+      <actor>Bach, John (I)</actor>
+      <role>Balar</role>
+    </credit>
+    <credit>
+      <actor>Badler, Jane</actor>
+      <role>Dame Alice Kyteler</role>
+    </credit>
+    <credit>
+      <actor>Banas, Michala</actor>
+      <role>Renata</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Shane</actor>
+      <role>British Seaman</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Amelia</actor>
+      <role>Tarya</role>
+    </credit>
+    <credit>
+      <actor>Bassingthwaighte, Natalie</actor>
+      <role>Raina</role>
+    </credit>
+    <credit>
+      <actor>Bastoni, Steve</actor>
+      <role>Ramses</role>
+    </credit>
+    <credit>
+      <actor>Battee, Don</actor>
+      <role>Raider</role>
+    </credit>
+    <credit>
+      <actor>Beadle-Williams, Taylor</actor>
+      <role>Young Girl</role>
+    </credit>
+    <credit>
+      <actor>Beaumont, Natasha</actor>
+      <role>Qinaq</role>
+    </credit>
+    <credit>
+      <actor>Bell, Nicholas</actor>
+      <role>Edgar Gray</role>
+    </credit>
+    <credit>
+      <actor>Blair, Natalie</actor>
+      <role>Keeran Warrior #2</role>
+    </credit>
+    <credit>
+      <actor>Blakely, Rachel</actor>
+      <role>Marguerite Krux</role>
+    </credit>
+    <credit>
+      <actor>Blakely, Rachel</actor>
+      <role>Marguerite Krux/Mary Jane Kelly</role>
+    </credit>
+    <credit>
+      <actor>Blakely, Rachel</actor>
+      <role>Marguerite Krux/Maylin Montgomery</role>
+    </credit>
+    <credit>
+      <actor>Blaylock, Benjamin</actor>
+      <role>Lucas</role>
+    </credit>
+    <credit>
+      <actor>Bliss, Ian (I)</actor>
+      <role>Professor Hamilton</role>
+    </credit>
+    <credit>
+      <actor>Bossell, Simon</actor>
+      <role>James Kemper</role>
+    </credit>
+    <credit>
+      <actor>Bowler, Grant</actor>
+      <role>Montague Fitzsimmonds</role>
+    </credit>
+    <credit>
+      <actor>Briant, Shane</actor>
+      <role>Lionel Holt</role>
+    </credit>
+    <credit>
+      <actor>Brkic, Boris</actor>
+      <role>Davos</role>
+    </credit>
+    <credit>
+      <actor>Broadway, Remi</actor>
+      <role>Joshua</role>
+    </credit>
+    <credit>
+      <actor>Brown, Adrian (I)</actor>
+      <role>Head Zanga</role>
+    </credit>
+    <credit>
+      <actor>Bugner, Joe</actor>
+      <role>Trustee</role>
+    </credit>
+    <credit>
+      <actor>Byrnes, Josephine</actor>
+      <role>The Masked Bandit</role>
+    </credit>
+    <credit>
+      <actor>Callaghan, Jeremy</actor>
+      <role>Alex Linden</role>
+    </credit>
+    <credit>
+      <actor>Callaghan, Jeremy</actor>
+      <role>Osric as a Man</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Tim (II)</actor>
+      <role>Young Challenger</role>
+    </credit>
+    <credit>
+      <actor>Carter, Danielle (I)</actor>
+      <role>Death</role>
+    </credit>
+    <credit>
+      <actor>Cash, Aaron James</actor>
+      <role>Na-Zu</role>
+    </credit>
+    <credit>
+      <actor>Chiminello, Bianca</actor>
+      <role>Queen Selena</role>
+    </credit>
+    <credit>
+      <actor>Chong, Jason (I)</actor>
+      <role>Arjax</role>
+    </credit>
+    <credit>
+      <actor>Chong, Jason (I)</actor>
+      <role>Roac</role>
+    </credit>
+    <credit>
+      <actor>Christinson, Helen</actor>
+      <role>Young Woman</role>
+    </credit>
+    <credit>
+      <actor>Coffey, John (VI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coleby, Anja</actor>
+      <role>Hippolita</role>
+    </credit>
+    <credit>
+      <actor>Coleby, Robert</actor>
+      <role>William Maple White</role>
+    </credit>
+    <credit>
+      <actor>Coleby, Robert</actor>
+      <role>William Maplewhite</role>
+    </credit>
+    <credit>
+      <actor>Comber, Warwick</actor>
+      <role>Kartas</role>
+    </credit>
+    <credit>
+      <actor>Comerford, Michelle</actor>
+      <role>Mother Trog</role>
+    </credit>
+    <credit>
+      <actor>Congram, Jennifer</actor>
+      <role>Nadine</role>
+    </credit>
+    <credit>
+      <actor>Corrigan, Antonia</actor>
+      <role>Young Veronica</role>
+    </credit>
+    <credit>
+      <actor>Cousins, Charles</actor>
+      <role>Tomu</role>
+    </credit>
+    <credit>
+      <actor>Cox, Lara</actor>
+      <role>Finn</role>
+    </credit>
+    <credit>
+      <actor>Cox, Lara</actor>
+      <role>Phoebe</role>
+    </credit>
+    <credit>
+      <actor>Coyle, Zoe</actor>
+      <role>Kaya</role>
+    </credit>
+    <credit>
+      <actor>Croft, Jamie</actor>
+      <role>Rob Dillon</role>
+    </credit>
+    <credit>
+      <actor>Crone, Karen</actor>
+      <role>Esme</role>
+    </credit>
+    <credit>
+      <actor>Csokas, Marton</actor>
+      <role>Kenner</role>
+    </credit>
+    <credit>
+      <actor>Dale, Alan (I)</actor>
+      <role>Phelan</role>
+    </credit>
+    <credit>
+      <actor>Dalglish, Paul</actor>
+      <role>Prisoner #2</role>
+    </credit>
+    <credit>
+      <actor>De Lury, Kim</actor>
+      <role>Sergeant Haskell</role>
+    </credit>
+    <credit>
+      <actor>Douge, Amanda</actor>
+      <role>Talibo</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Carmen</actor>
+      <role>Kayla</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Chevonne</actor>
+      <role>Cynara</role>
+    </credit>
+    <credit>
+      <actor>Durante, Simon (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Díaz, Robert (I)</actor>
+      <role>Guardian</role>
+    </credit>
+    <credit>
+      <actor>Eadie, Nicholas</actor>
+      <role>Kaysan</role>
+    </credit>
+    <credit>
+      <actor>Edgley, Gigi</actor>
+      <role>Pakim</role>
+    </credit>
+    <credit>
+      <actor>Ehlers, Jerome</actor>
+      <role>Francois Loke/Olmec, the trickster god</role>
+    </credit>
+    <credit>
+      <actor>Ehlers, Jerome</actor>
+      <role>Tribune</role>
+    </credit>
+    <credit>
+      <actor>Ehlers, Jerome</actor>
+      <role>Tribune</role>
+    </credit>
+    <credit>
+      <actor>Ehlers, Jerome</actor>
+      <role>Tribune</role>
+    </credit>
+    <credit>
+      <actor>Eyre, Marcus</actor>
+      <role>Wik Pappin</role>
+    </credit>
+    <credit>
+      <actor>Finsterer, Jack</actor>
+      <role>Melrick</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Kate</actor>
+      <role>Garza</role>
+    </credit>
+    <credit>
+      <actor>Fouche, Frederique</actor>
+      <role>Adrienne Monclair</role>
+    </credit>
+    <credit>
+      <actor>Gardiner, Iain</actor>
+      <role>Mr. Davey</role>
+    </credit>
+    <credit>
+      <actor>Garner, Julian</actor>
+      <role>Lt. Drummond</role>
+    </credit>
+    <credit>
+      <actor>Garner, Julian</actor>
+      <role>William</role>
+    </credit>
+    <credit>
+      <actor>Garvey, Damien</actor>
+      <role>Ugo</role>
+    </credit>
+    <credit>
+      <actor>Gavin, Belinda (I)</actor>
+      <role>Josie</role>
+    </credit>
+    <credit>
+      <actor>Gavin, Belinda (I)</actor>
+      <role>Terrified Woman</role>
+    </credit>
+    <credit>
+      <actor>Gibb, Chelsea</actor>
+      <role>Isadore</role>
+    </credit>
+    <credit>
+      <actor>Gibney, Rebecca</actor>
+      <role>Lady Cassandra Yorkton</role>
+    </credit>
+    <credit>
+      <actor>Gleeson, Paul (II)</actor>
+      <role>Jack Kellar</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Paul (I)</actor>
+      <role>Rob</role>
+    </credit>
+    <credit>
+      <actor>Green, Chas</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Green, Chas</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Groen, Sara</actor>
+      <role>Immy</role>
+    </credit>
+    <credit>
+      <actor>Haddrick, Ron</actor>
+      <role>Bergin</role>
+    </credit>
+    <credit>
+      <actor>Haft, Linal</actor>
+      <role>Lord Winston Churchill</role>
+    </credit>
+    <credit>
+      <actor>Hammond, Nicholas (I)</actor>
+      <role>Phil Dillon</role>
+    </credit>
+    <credit>
+      <actor>Harman, Steve</actor>
+      <role>Lewis</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Elton</actor>
+      <role>Niko</role>
+    </credit>
+    <credit>
+      <actor>Healy, Sam</actor>
+      <role>Queen Zi-Zo</role>
+    </credit>
+    <credit>
+      <actor>Hembrow, Mark</actor>
+      <role>Hyde</role>
+    </credit>
+    <credit>
+      <actor>Henare, George</actor>
+      <role>Zanga Chief</role>
+    </credit>
+    <credit>
+      <actor>Henry, Jack (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Heywood, Jack</actor>
+      <role>Army Colonel</role>
+    </credit>
+    <credit>
+      <actor>Hill, Raelee</actor>
+      <role>Brywik</role>
+    </credit>
+    <credit>
+      <actor>Hoflin, David</actor>
+      <role>Gideon</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Steven (I)</actor>
+      <role>Dr. William Hargrove</role>
+    </credit>
+    <credit>
+      <actor>Jaffer, Melissa</actor>
+      <role>Crazy Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Johannes, Henk</actor>
+      <role>Horseman</role>
+    </credit>
+    <credit>
+      <actor>Kants, Ivar</actor>
+      <role>Warbek</role>
+    </credit>
+    <credit>
+      <actor>Karvan, Claudia</actor>
+      <role>Catherine Reilly</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Gerard</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Kessell, Simone</actor>
+      <role>Danielle</role>
+    </credit>
+    <credit>
+      <actor>King, Kamahi Djordon</actor>
+      <role>Johnson</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Christopher</actor>
+      <role>Prince Apep</role>
+    </credit>
+    <credit>
+      <actor>Klingberg, Dawn</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Knapman, Peter</actor>
+      <role>Hector</role>
+    </credit>
+    <credit>
+      <actor>Knijnenburg, David</actor>
+      <role>Tribal Trader</role>
+    </credit>
+    <credit>
+      <actor>Kocinski, Craig A.</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Kostich, Nadja</actor>
+      <role>Ursula</role>
+    </credit>
+    <credit>
+      <actor>Kotzur, Nathan</actor>
+      <role>Horn</role>
+    </credit>
+    <credit>
+      <actor>Lamb, Tiffany</actor>
+      <role>Barb Dillon</role>
+    </credit>
+    <credit>
+      <actor>Lambert Barker, Marea</actor>
+      <role>Lara</role>
+    </credit>
+    <credit>
+      <actor>Lee, Ron (III)</actor>
+      <role>Master Xan</role>
+    </credit>
+    <credit>
+      <actor>Leeder, Stephen</actor>
+      <role>Yuna</role>
+    </credit>
+    <credit>
+      <actor>Mackinnon, Simmone</actor>
+      <role>Elura</role>
+    </credit>
+    <credit>
+      <actor>Mammone, Robert</actor>
+      <role>Professor Campbell</role>
+    </credit>
+    <credit>
+      <actor>Marie, Juanita</actor>
+      <role>Asu</role>
+    </credit>
+    <credit>
+      <actor>Marnika, Dino</actor>
+      <role>Cyan</role>
+    </credit>
+    <credit>
+      <actor>Marriott, Craig (I)</actor>
+      <role>Boy Trog</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Melissa</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>McCauley, Peter (I)</actor>
+      <role>George Challenger</role>
+    </credit>
+    <credit>
+      <actor>McCauley, Peter (I)</actor>
+      <role>Professor George Challenger</role>
+    </credit>
+    <credit>
+      <actor>McCauley, Peter (I)</actor>
+      <role>Professor George Challenger/Sheriff Jack Challenger</role>
+    </credit>
+    <credit>
+      <actor>McCunn, Tim</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Tim (V)</actor>
+      <role>Sigurd</role>
+    </credit>
+    <credit>
+      <actor>McGrath, Alethea</actor>
+      <role>Old Ana</role>
+    </credit>
+    <credit>
+      <actor>McInnes, William</actor>
+      <role>Hans Dressler</role>
+    </credit>
+    <credit>
+      <actor>McIntyre, Verity</actor>
+      <role>Harper</role>
+    </credit>
+    <credit>
+      <actor>McKinless, Nick</actor>
+      <role>Father Trog</role>
+    </credit>
+    <credit>
+      <actor>McKinless, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McKinless, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McLachlan, Nicole</actor>
+      <role>Yoma</role>
+    </credit>
+    <credit>
+      <actor>McLaren, Spencer</actor>
+      <role>Qinaq's Mate</role>
+    </credit>
+    <credit>
+      <actor>McLean, Scott (I)</actor>
+      <role>Adam</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>Barman</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>Jante</role>
+    </credit>
+    <credit>
+      <actor>McShortall, Ed</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Milliken, Angie</actor>
+      <role>Diana</role>
+    </credit>
+    <credit>
+      <actor>Miragliotta, Frederick</actor>
+      <role>Presidente Perrez</role>
+    </credit>
+    <credit>
+      <actor>Morris, Christopher (IV)</actor>
+      <role>Kirin</role>
+    </credit>
+    <credit>
+      <actor>Morris, Christopher (IV)</actor>
+      <role>Ty</role>
+    </credit>
+    <credit>
+      <actor>Muldoon, Rhys</actor>
+      <role>Blum</role>
+    </credit>
+    <credit>
+      <actor>Mullinar, Rod</actor>
+      <role>Bokra</role>
+    </credit>
+    <credit>
+      <actor>Mullinar, Rod</actor>
+      <role>Kayle</role>
+    </credit>
+    <credit>
+      <actor>Napier, Marshall</actor>
+      <role>Drakul</role>
+    </credit>
+    <credit>
+      <actor>Napier, Marshall</actor>
+      <role>Drakul</role>
+    </credit>
+    <credit>
+      <actor>Newton, Matthew (I)</actor>
+      <role>Gawain</role>
+    </credit>
+    <credit>
+      <actor>Nixon, Henry</actor>
+      <role>Bartholomew Thorne</role>
+    </credit>
+    <credit>
+      <actor>Noble, John (I)</actor>
+      <role>Inspector Robert Anderson</role>
+    </credit>
+    <credit>
+      <actor>Nugara, Rio</actor>
+      <role>Alvar</role>
+    </credit>
+    <credit>
+      <actor>Nugara, Rio</actor>
+      <role>Zanga #1</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Peter (II)</actor>
+      <role>Avery Burton</role>
+    </credit>
+    <credit>
+      <actor>Orth, David (I)</actor>
+      <role>Ned Malone</role>
+    </credit>
+    <credit>
+      <actor>Orth, David (I)</actor>
+      <role>Ned Malone</role>
+    </credit>
+    <credit>
+      <actor>Orth, David (I)</actor>
+      <role>Ned Malone/John Netley</role>
+    </credit>
+    <credit>
+      <actor>Orth, David (I)</actor>
+      <role>Ned Malone/Johnny Ringo</role>
+    </credit>
+    <credit>
+      <actor>Parascos, Victor</actor>
+      <role>Solomon</role>
+    </credit>
+    <credit>
+      <actor>Pendragon, Nick</actor>
+      <role>Cannibal Chief</role>
+    </credit>
+    <credit>
+      <actor>Penty, Doug</actor>
+      <role>Burke</role>
+    </credit>
+    <credit>
+      <actor>Pitt, Daniel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Purcell, Dominic</actor>
+      <role>Condillac</role>
+    </credit>
+    <credit>
+      <actor>Pygram, Wayne</actor>
+      <role>Captain Tark</role>
+    </credit>
+    <credit>
+      <actor>Pygram, Wayne</actor>
+      <role>Noru</role>
+    </credit>
+    <credit>
+      <actor>Quin, Barry</actor>
+      <role>Lionel Huxley</role>
+    </credit>
+    <credit>
+      <actor>Ramsay, Nathan Dean</actor>
+      <role>Danu</role>
+    </credit>
+    <credit>
+      <actor>Ransom, Kenneth</actor>
+      <role>Ashur</role>
+    </credit>
+    <credit>
+      <actor>Rimmer, Robert</actor>
+      <role>Jones</role>
+    </credit>
+    <credit>
+      <actor>Roberts, David (I)</actor>
+      <role>Mordren</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Jared (I)</actor>
+      <role>Captain Marchbanks</role>
+    </credit>
+    <credit>
+      <actor>Roughan, Mick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ruiz, Alex (II)</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Rumpf, Oliver</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Russ, Jean-Marc</actor>
+      <role>Beal</role>
+    </credit>
+    <credit>
+      <actor>Russ, Jean-Marc</actor>
+      <role>Prin Leader</role>
+    </credit>
+    <credit>
+      <actor>Safi, Samsor</actor>
+      <role>Jarl</role>
+    </credit>
+    <credit>
+      <actor>Schmid, Kristian</actor>
+      <role>Thane</role>
+    </credit>
+    <credit>
+      <actor>Schmid, Kristian</actor>
+      <role>Thane</role>
+    </credit>
+    <credit>
+      <actor>Segal, Eddy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Seru, John</actor>
+      <role>Gladiator</role>
+    </credit>
+    <credit>
+      <actor>Seton, Ben</actor>
+      <role>Callum</role>
+    </credit>
+    <credit>
+      <actor>Simcoe, Anthony</actor>
+      <role>Dirkon</role>
+    </credit>
+    <credit>
+      <actor>Sims, Jeremy (I)</actor>
+      <role>Vordred</role>
+    </credit>
+    <credit>
+      <actor>Sinelnikoff, Michael</actor>
+      <role>Professor Arthur Summerlee</role>
+    </credit>
+    <credit>
+      <actor>Snell, Carl</actor>
+      <role>Osric</role>
+    </credit>
+    <credit>
+      <actor>Snell, Carl</actor>
+      <role>The Oracle</role>
+    </credit>
+    <credit>
+      <actor>Snow, William (I)</actor>
+      <role>Lord John Roxton</role>
+    </credit>
+    <credit>
+      <actor>Snow, William (I)</actor>
+      <role>Lord John Roxton</role>
+    </credit>
+    <credit>
+      <actor>Snow, William (I)</actor>
+      <role>Lord John Roxton/Inspector Robert Anderson</role>
+    </credit>
+    <credit>
+      <actor>Stewart, James (XIV)</actor>
+      <role>Prisoner #1</role>
+    </credit>
+    <credit>
+      <actor>Tate, Nick</actor>
+      <role>Doctor William Gull</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Kit (I)</actor>
+      <role>Tom Layton/Largo</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Sean (I)</actor>
+      <role>Pierson Rice</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Brett</actor>
+      <role>Rixxel</role>
+    </credit>
+    <credit>
+      <actor>Tupu, Lani John (I)</actor>
+      <role>Prince Apep's Slave</role>
+    </credit>
+    <credit>
+      <actor>Tupu, Lani John (I)</actor>
+      <role>Tolmac</role>
+    </credit>
+    <credit>
+      <actor>Vaccari, Vincent</actor>
+      <role>Icarus</role>
+    </credit>
+    <credit>
+      <actor>Vallon, David</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Vidler, Steven</actor>
+      <role>Captain Askwith</role>
+    </credit>
+    <credit>
+      <actor>Vidler, Steven</actor>
+      <role>Captain Askwith</role>
+    </credit>
+    <credit>
+      <actor>Walkin, John</actor>
+      <role>Bruno</role>
+    </credit>
+    <credit>
+      <actor>Ward, Anthony (II)</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Waters, John (III)</actor>
+      <role>Lento</role>
+    </credit>
+    <credit>
+      <actor>Watts, Simon (I)</actor>
+      <role>Zero</role>
+    </credit>
+    <credit>
+      <actor>Watts, Simon (I)</actor>
+      <role>Zero</role>
+    </credit>
+    <credit>
+      <actor>West, Gary (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whitlock, Fred</actor>
+      <role>Thomas Layton</role>
+    </credit>
+    <credit>
+      <actor>Winton, Sandy</actor>
+      <role>Thomas Duckart</role>
+    </credit>
+    <credit>
+      <actor>Zebrowski, Paul</actor>
+      <role>Cassius</role>
+    </credit>
+    <credit>
+      <actor>deVry, William</actor>
+      <role>Ned Malone</role>
+    </credit>
+  </cast>
+<plot>At the dawn of the 20th century, a band of adventurers are part of an expedition to prove the existence of a lost world isolated from the modern world. Disaster happens and the band find themselves trapped and isolated in this dangerous land with only the help of a young wild woman who was stranded in the land herself as a child. Together, the band fight to survive against the fearsome dinosaurs and other dangers that land has as they search for a way to escape.</plot><url>http://localhost:8983/solr/movie.html?572595</url></doc>

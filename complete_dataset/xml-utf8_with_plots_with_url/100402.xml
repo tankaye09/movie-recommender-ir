@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="100402">
+  <docid>100402</docid>
+  <title>Charlie's Angels</title>
+  <year>2000</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Teschner, Peter</editor>
+    <editor>Wahrman, Wayne</editor>
+  </editors>
+  <genres>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>sex-appeal</keyword>
+    <keyword>bound-and-gagged</keyword>
+    <keyword>anonymous-backer</keyword>
+    <keyword>spy-hero</keyword>
+    <keyword>bloopers-during-credits</keyword>
+    <keyword>race-car</keyword>
+    <keyword>cell-phone</keyword>
+    <keyword>moonwalk-dancing</keyword>
+    <keyword>satire</keyword>
+    <keyword>kicked-into-the-air</keyword>
+    <keyword>slow-motion-scene</keyword>
+    <keyword>based-on-cult-tv-series</keyword>
+    <keyword>retina-scan-faked</keyword>
+    <keyword>catfight</keyword>
+    <keyword>spy-spoof</keyword>
+    <keyword>studio-logo-segues-into-film</keyword>
+    <keyword>cigarette-lighter</keyword>
+    <keyword>martial-arts</keyword>
+    <keyword>spoof</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>exploding-helicopter</keyword>
+    <keyword>secret-agent</keyword>
+    <keyword>spy</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>white-room</keyword>
+    <keyword>anonymity</keyword>
+    <keyword>sequel</keyword>
+    <keyword>tied-to-chair</keyword>
+    <keyword>based-on-tv-series</keyword>
+    <keyword>action-heroine</keyword>
+    <keyword>compound-bow</keyword>
+    <keyword>anagram</keyword>
+    <keyword>scrabble</keyword>
+    <keyword>disco-dancing</keyword>
+    <keyword>dominatrix</keyword>
+    <keyword>dancing-in-underwear</keyword>
+    <keyword>reboot-of-series</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>boat</keyword>
+    <keyword>sword-cane</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>Spanish</language>
+    <language>Cantonese</language>
+    <language>Finnish</language>
+    <language>German</language>
+    <language>Japanese</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="Brazil">12</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Greece">K-13</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Ireland">12</certificate>
+    <certificate country="Iceland">12</certificate>
+    <certificate country="Mexico">B</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">T</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">12</certificate>
+    <certificate country="Norway">15</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-14</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="USA">PG-13</certificate>
+    <certificate country="Denmark">11</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">24 November 2000</releasedate>
+    <releasedate country="South Africa">1 December 2000</releasedate>
+    <releasedate country="Indonesia">25 November 2000</releasedate>
+    <releasedate country="Peru">23 November 2000</releasedate>
+    <releasedate country="Argentina">28 December 2000</releasedate>
+    <releasedate country="Portugal">24 November 2000</releasedate>
+    <releasedate country="Turkey">24 November 2000</releasedate>
+    <releasedate country="Netherlands">7 December 2000</releasedate>
+    <releasedate country="Brazil">24 November 2000</releasedate>
+    <releasedate country="Japan">11 November 2000</releasedate>
+    <releasedate country="Slovenia">14 December 2000</releasedate>
+    <releasedate country="Israel">23 November 2000</releasedate>
+    <releasedate country="India">22 December 2000</releasedate>
+    <releasedate country="UK">24 November 2000</releasedate>
+    <releasedate country="Taiwan">24 November 2000</releasedate>
+    <releasedate country="Singapore">23 November 2000</releasedate>
+    <releasedate country="Greece">8 December 2000</releasedate>
+    <releasedate country="Germany">30 November 2000</releasedate>
+    <releasedate country="France">22 November 2000</releasedate>
+    <releasedate country="Malaysia">23 November 2000</releasedate>
+    <releasedate country="Uruguay">29 December 2000</releasedate>
+    <releasedate country="Hungary">23 November 2000</releasedate>
+    <releasedate country="Hong Kong">23 November 2000</releasedate>
+    <releasedate country="Estonia">1 December 2000</releasedate>
+    <releasedate country="Czech Republic">30 November 2000</releasedate>
+    <releasedate country="Iceland">24 November 2000</releasedate>
+    <releasedate country="Mexico">17 November 2000</releasedate>
+    <releasedate country="Slovakia">30 November 2000</releasedate>
+    <releasedate country="South Korea">25 November 2000</releasedate>
+    <releasedate country="Poland">2 November 2005</releasedate>
+    <releasedate country="Spain">1 December 2000</releasedate>
+    <releasedate country="Egypt">17 January 2001</releasedate>
+    <releasedate country="Australia">23 November 2000</releasedate>
+    <releasedate country="Switzerland">23 November 2000</releasedate>
+    <releasedate country="Lithuania">22 December 2000</releasedate>
+    <releasedate country="Norway">24 November 2000</releasedate>
+    <releasedate country="Canada">3 November 2000</releasedate>
+    <releasedate country="Finland">24 November 2000</releasedate>
+    <releasedate country="Italy">24 November 2000</releasedate>
+    <releasedate country="New Zealand">30 November 2000</releasedate>
+    <releasedate country="USA">3 November 2000</releasedate>
+    <releasedate country="Kuwait">27 December 2000</releasedate>
+    <releasedate country="Denmark">8 December 2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Portugal">94</runningtime>
+    <runningtime country="default">98</runningtime>
+  </runningtimes>
+  <directors>
+    <director>McG</director>
+  </directors>
+  <producers>
+    <producer>Goldberg, Amanda</producer>
+    <producer>Caracciolo, Joseph M.</producer>
+    <producer>Spelling, Aaron</producer>
+    <producer>Thomas, Betty (I)</producer>
+    <producer>Topping, Jenno</producer>
+    <producer>Barrymore, Drew (I)</producer>
+    <producer>Goldberg, Leonard (I)</producer>
+    <producer>Juvonen, Nancy</producer>
+  </producers>
+  <writers>
+    <writer>August, John (I)</writer>
+    <writer>Rowe, Ryan (I)</writer>
+    <writer>Solomon, Ed (I)</writer>
+  </writers>
+  <composers>
+    <composer>Shearmur, Ed</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Andrus, Jeff (II)</actor>
+      <role>Cafe Crew Member</role>
+    </credit>
+    <credit>
+      <actor>Barrymore, Drew (I)</actor>
+      <role>Dylan</role>
+    </credit>
+    <credit>
+      <actor>Barryte, Michael</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Bellamy, Ned</actor>
+      <role>Red Star Systems Director</role>
+    </credit>
+    <credit>
+      <actor>Bozilovic, Ivana</actor>
+      <role>Female Rock Climber</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Paige</actor>
+      <role>Geisha</role>
+    </credit>
+    <credit>
+      <actor>Calloway, Jim</actor>
+      <role>Bouncer</role>
+    </credit>
+    <credit>
+      <actor>Cole, Jennifer (I)</actor>
+      <role>Corwin's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Crockett, Affion</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Curry, Tim (I)</actor>
+      <role>Roger Corwin</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Cameron</actor>
+      <role>Natalie</role>
+    </credit>
+    <credit>
+      <actor>Duer, Joe</actor>
+      <role>UPS Delivery Guy</role>
+    </credit>
+    <credit>
+      <actor>Dunaway, Tim</actor>
+      <role>Flight Attendant</role>
+    </credit>
+    <credit>
+      <actor>Eliopoulos, Paul</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Endoso, Kenny</actor>
+      <role>Getaway Driver</role>
+    </credit>
+    <credit>
+      <actor>Flor, Björn</actor>
+      <role>Red Star Systems Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Forsythe, John (I)</actor>
+      <role>Charles Townsend</role>
+    </credit>
+    <credit>
+      <actor>Frauman, Matthew</actor>
+      <role>Red Star Systems Techie</role>
+    </credit>
+    <credit>
+      <actor>Garner, Tom (I)</actor>
+      <role>Getaway Driver</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Tim (I)</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Glover, Crispin</actor>
+      <role>Thin Man</role>
+    </credit>
+    <credit>
+      <actor>Goto, Al</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Green, Tom (III)</actor>
+      <role>Chad</role>
+    </credit>
+    <credit>
+      <actor>Grevioux, Kevin</actor>
+      <role>Bouncer</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Reginald C.</actor>
+      <role>Red Star Systems Techie</role>
+    </credit>
+    <credit>
+      <actor>Hoffer, Sylvie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ito, Steven</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Jeinsen, Elke</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kamp, Ariane Von</actor>
+      <role>Girl at Party</role>
+    </credit>
+    <credit>
+      <actor>LL Cool J</actor>
+      <role>Mr. Jones</role>
+    </credit>
+    <credit>
+      <actor>LeBlanc, Matt</actor>
+      <role>Jason</role>
+    </credit>
+    <credit>
+      <actor>Liu, Lucy</actor>
+      <role>Alex</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Gaven E.</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Kelly (I)</actor>
+      <role>Vivian Wood</role>
+    </credit>
+    <credit>
+      <actor>Marocco, Frank</actor>
+      <role>Accordionist</role>
+    </credit>
+    <credit>
+      <actor>Matthews, Tuesday</actor>
+      <role>Guest at Party</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Melissa</actor>
+      <role>Doris</role>
+    </credit>
+    <credit>
+      <actor>McDougal, Karen</actor>
+      <role>Roger Corwin's Girl at Party</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Darren</actor>
+      <role>Astronaut #2</role>
+    </credit>
+    <credit>
+      <actor>Murray, Bill (I)</actor>
+      <role>Bosley</role>
+    </credit>
+    <credit>
+      <actor>Nesting, David M.</actor>
+      <role>Red Star Systems Techie</role>
+    </credit>
+    <credit>
+      <actor>Nismiuraha, Micchno</actor>
+      <role>Stuntman</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Paul (II)</actor>
+      <role>Soul Train Dancer</role>
+    </credit>
+    <credit>
+      <actor>Ore, Bobby</actor>
+      <role>Driving Instructor</role>
+    </credit>
+    <credit>
+      <actor>Oseary, Guy</actor>
+      <role>DJ</role>
+    </credit>
+    <credit>
+      <actor>Palmer, Jim (I)</actor>
+      <role>Shooter</role>
+    </credit>
+    <credit>
+      <actor>Papajohn, Michael</actor>
+      <role>Bathroom Thug</role>
+    </credit>
+    <credit>
+      <actor>Patterson, Raymond</actor>
+      <role>Director's Buddy</role>
+    </credit>
+    <credit>
+      <actor>Pfingsten, Diesel</actor>
+      <role>Partygoer</role>
+    </credit>
+    <credit>
+      <actor>Rockwell, Sam</actor>
+      <role>Eric Knox</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Mark (I)</actor>
+      <role>Fencing Opponent</role>
+    </credit>
+    <credit>
+      <actor>Savahge, Felipe</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Seffinger, Josh</actor>
+      <role>Featured Dancer</role>
+    </credit>
+    <credit>
+      <actor>Singleton Jr., Isaac C.</actor>
+      <role>Kidnapper</role>
+    </credit>
+    <credit>
+      <actor>Smith, Mike (I)</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Stea, Kevin Alexander</actor>
+      <role>Featured Dancer</role>
+    </credit>
+    <credit>
+      <actor>Stef'Ano, Tony</actor>
+      <role>Party Guest</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Bob (II)</actor>
+      <role>Red Star Systems Director</role>
+    </credit>
+    <credit>
+      <actor>Trebek, Alex</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Trimble, Jerry</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Tuiasosopo, Peter Navy</actor>
+      <role>Pink's Bodyguard</role>
+    </credit>
+    <credit>
+      <actor>Whalen, Sean (I)</actor>
+      <role>Pasqual</role>
+    </credit>
+    <credit>
+      <actor>Williams, Branden</actor>
+      <role>Assistant Director</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Andrew (III)</actor>
+      <role>Corwin's Driver</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Luke (I)</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Raliegh</actor>
+      <role>Reform Officer</role>
+    </credit>
+    <credit>
+      <actor>Wolf, Sean (I)</actor>
+      <role>Man Firing Machine Gun</role>
+    </credit>
+    <credit>
+      <actor>Woods, Shawn (I)</actor>
+      <role>Shooter</role>
+    </credit>
+    <credit>
+      <actor>Yanagita, Junichi</actor>
+      <role>Knox Thug</role>
+    </credit>
+    <credit>
+      <actor>Young, Brad Everett</actor>
+      <role>Red Star Employee</role>
+    </credit>
+    <credit>
+      <actor>Yuen, Cheung-Yan</actor>
+      <role>Chinese Man on Plane</role>
+    </credit>
+  </cast>
+<plot>The captivating crime-fighting trio who are the masters of disguise, espionage and martial arts. When a devious mastermind embroils them in a plot to destroy individual privacy the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed it makes the Angels targets for assassination.</plot><url>http://localhost:8983/solr/movie.html?100402</url></doc>
