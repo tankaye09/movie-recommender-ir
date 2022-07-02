@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="010448">
+  <docid>010448</docid>
+  <title>A Flight Ticket</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Drama</genre>
+  </genres>
+  <keywords>
+    <keyword>flight-ticket</keyword>
+  </keywords>
+  <languages>
+    <language>Korean</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">1 July 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">13</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Park, Mina (II)</director>
+  </directors>
+  <producers>
+    <producer>Choi, Jung-Min (I)</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Ha, Bong-Soon</actor>
+      <role>Grandma</role>
+    </credit>
+    <credit>
+      <actor>Kim, Chase</actor>
+      <role>Grandson</role>
+    </credit>
+    <credit>
+      <actor>Kim, Grant</actor>
+      <role>Grandson</role>
+    </credit>
+  </cast>
+<plot>There is an old woman who came to U.S with her family. Her family thinks of her as a burden because they can barely affording to live. She wanted to go back to Korea for her family, but she could not afford the trip. Finally, she decides to choose the fastest and cheapest ticket available.</plot><url>http://localhost:8983/solr/movie.html?010448</url></doc>

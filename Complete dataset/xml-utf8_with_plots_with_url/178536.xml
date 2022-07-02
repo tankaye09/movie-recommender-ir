@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="178536">
+  <docid>178536</docid>
+  <title>Enemy of the State</title>
+  <year>1998</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lebenzon, Chris</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>conspiracy-theorist</keyword>
+    <keyword>revenge</keyword>
+    <keyword>mafia</keyword>
+    <keyword>blood-splatter</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>lethal-injection</keyword>
+    <keyword>wisecrack-humor</keyword>
+    <keyword>politics</keyword>
+    <keyword>washington-d.c.</keyword>
+    <keyword>cat</keyword>
+    <keyword>gadget</keyword>
+    <keyword>frame-up</keyword>
+    <keyword>satellite</keyword>
+    <keyword>confrontation</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>nsa</keyword>
+    <keyword>disbelieving-authorities</keyword>
+    <keyword>shot-in-the-chest</keyword>
+    <keyword>government-corruption</keyword>
+    <keyword>false-accusation</keyword>
+    <keyword>dog</keyword>
+    <keyword>distrust-of-government</keyword>
+    <keyword>marriage</keyword>
+    <keyword>african-american</keyword>
+    <keyword>videotape</keyword>
+    <keyword>mexican-standoff</keyword>
+    <keyword>baltimore-maryland</keyword>
+    <keyword>murder</keyword>
+    <keyword>on-the-run</keyword>
+    <keyword>corruption</keyword>
+    <keyword>privacy</keyword>
+    <keyword>friendship</keyword>
+    <keyword>shootout</keyword>
+    <keyword>echelon</keyword>
+    <keyword>conspiracy</keyword>
+    <keyword>running</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>political-thriller</keyword>
+    <keyword>law</keyword>
+    <keyword>innocence</keyword>
+    <keyword>evidence</keyword>
+    <keyword>congressman</keyword>
+    <keyword>middle-class</keyword>
+    <keyword>violence</keyword>
+    <keyword>computer</keyword>
+    <keyword>chase</keyword>
+    <keyword>paranoia</keyword>
+    <keyword>suspense</keyword>
+    <keyword>claustrophobia</keyword>
+    <keyword>ex-girlfriend</keyword>
+    <keyword>intelligence</keyword>
+    <keyword>wiretap</keyword>
+    <keyword>voyeurism</keyword>
+    <keyword>blackmail</keyword>
+    <keyword>video-voyeurism</keyword>
+    <keyword>video-footage</keyword>
+    <keyword>neo-noir</keyword>
+    <keyword>christmas</keyword>
+    <keyword>secret-hideaway</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>fugitive</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">11</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">NC-16</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Hong Kong">IIB</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">13</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">12</certificate>
+    <certificate country="Norway">15</certificate>
+    <certificate country="Canada">AA</certificate>
+    <certificate country="Finland">K-12</certificate>
+    <certificate country="Italy">T</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">18 December 1998</releasedate>
+    <releasedate country="Indonesia">6 March 1999</releasedate>
+    <releasedate country="Argentina">14 January 1999</releasedate>
+    <releasedate country="Portugal">1 January 1999</releasedate>
+    <releasedate country="Turkey">5 February 1999</releasedate>
+    <releasedate country="Brazil">9 April 1999</releasedate>
+    <releasedate country="Netherlands">7 January 1999</releasedate>
+    <releasedate country="Japan">17 April 1999</releasedate>
+    <releasedate country="Israel">7 January 1999</releasedate>
+    <releasedate country="UK">26 December 1998</releasedate>
+    <releasedate country="Thailand">30 December 1998</releasedate>
+    <releasedate country="Singapore">20 November 1998</releasedate>
+    <releasedate country="Germany">17 December 1998</releasedate>
+    <releasedate country="Belgium">6 January 1999</releasedate>
+    <releasedate country="France">6 January 1999</releasedate>
+    <releasedate country="Malaysia">26 November 1998</releasedate>
+    <releasedate country="Hungary">28 January 1999</releasedate>
+    <releasedate country="Estonia">29 January 1999</releasedate>
+    <releasedate country="Czech Republic">21 January 1999</releasedate>
+    <releasedate country="Iceland">1 January 1999</releasedate>
+    <releasedate country="Mexico">19 February 1999</releasedate>
+    <releasedate country="Slovakia">21 January 1999</releasedate>
+    <releasedate country="South Korea">24 December 1998</releasedate>
+    <releasedate country="Spain">8 January 1999</releasedate>
+    <releasedate country="Egypt">24 February 1999</releasedate>
+    <releasedate country="Australia">7 January 1999</releasedate>
+    <releasedate country="Switzerland">8 January 1999</releasedate>
+    <releasedate country="Norway">18 December 1998</releasedate>
+    <releasedate country="Russia">2 January 1999</releasedate>
+    <releasedate country="Finland">18 December 1998</releasedate>
+    <releasedate country="Austria">18 December 1998</releasedate>
+    <releasedate country="Philippines">27 January 1999</releasedate>
+    <releasedate country="Italy">15 January 1999</releasedate>
+    <releasedate country="New Zealand">7 January 1999</releasedate>
+    <releasedate country="Colombia">5 February 1999</releasedate>
+    <releasedate country="USA">20 November 1998</releasedate>
+    <releasedate country="Kuwait">18 January 1999</releasedate>
+    <releasedate country="Denmark">8 January 1999</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">132</runningtime>
+    <runningtime country="USA">140</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Scott, Tony (I)</director>
+  </directors>
+  <producers>
+    <producer>Sandston, Pat</producer>
+    <producer>Davis, Andrew Z.</producer>
+    <producer>Oman, Chad</producer>
+    <producer>Skotchdopole, James W.</producer>
+    <producer>Bruckheimer, Jerry</producer>
+  </producers>
+  <writers>
+    <writer>Marconi, David</writer>
+  </writers>
+  <composers>
+    <composer>Gregson-Williams, Harry</composer>
+    <composer>Rabin, Trevor</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abrams, Patsy Grady</actor>
+      <role>Accident Bystander</role>
+    </credit>
+    <credit>
+      <actor>Allendorfer, John</actor>
+      <role>FBI Observer #2</role>
+    </credit>
+    <credit>
+      <actor>Alpert, Arnie</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Andolini, Michael</actor>
+      <role>Sal</role>
+    </credit>
+    <credit>
+      <actor>Arcoraci, Vene L.</actor>
+      <role>Model #4</role>
+    </credit>
+    <credit>
+      <actor>Balahoutis, Alexandra</actor>
+      <role>Martha</role>
+    </credit>
+    <credit>
+      <actor>Beatty, Jim</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Berman, Elizabeth</actor>
+      <role>Ruthie</role>
+    </credit>
+    <credit>
+      <actor>Black, Jack (I)</actor>
+      <role>Fiedler</role>
+    </credit>
+    <credit>
+      <actor>Bonet, Lisa</actor>
+      <role>Rachel Banks</role>
+    </credit>
+    <credit>
+      <actor>Boriello, Bobby</actor>
+      <role>Dylan</role>
+    </credit>
+    <credit>
+      <actor>Bosworth, Martin</actor>
+      <role>Bike Messenger</role>
+    </credit>
+    <credit>
+      <actor>Brancato, Lillo</actor>
+      <role>Young Worker</role>
+    </credit>
+    <credit>
+      <actor>Brodie, Colin</actor>
+      <role>Child #2</role>
+    </credit>
+    <credit>
+      <actor>Brown, Lennox</actor>
+      <role>Tunnel Maintenance Worker</role>
+    </credit>
+    <credit>
+      <actor>Busey, Jake</actor>
+      <role>Krug</role>
+    </credit>
+    <credit>
+      <actor>Butler, Dan (I)</actor>
+      <role>Shaffer</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Gabriel</actor>
+      <role>NSA agent, 'Brill'</role>
+    </credit>
+    <credit>
+      <actor>Caan, Scott</actor>
+      <role>Jones</role>
+    </credit>
+    <credit>
+      <actor>Cano, Daniel</actor>
+      <role>Hallway Lawyer</role>
+    </credit>
+    <credit>
+      <actor>Capodice, John</actor>
+      <role>Older Worker #1</role>
+    </credit>
+    <credit>
+      <actor>Cayouette, Laura</actor>
+      <role>Christa Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Cenatiempo, John</actor>
+      <role>Young Mobster #1</role>
+    </credit>
+    <credit>
+      <actor>Cephers, Troy A.</actor>
+      <role>ANA Hotel Security</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Jacob</actor>
+      <role>Davis</role>
+    </credit>
+    <credit>
+      <actor>Clary, Paul M.</actor>
+      <role>Ferry Person</role>
+    </credit>
+    <credit>
+      <actor>Collins, Greg (II)</actor>
+      <role>FBI Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Charlie</actor>
+      <role>Model #5</role>
+    </credit>
+    <credit>
+      <actor>De Crispino, Sam</actor>
+      <role>Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>Dean, Loren</actor>
+      <role>Hicks</role>
+    </credit>
+    <credit>
+      <actor>Ehrlich, Joy</actor>
+      <role>Mom in Diner</role>
+    </credit>
+    <credit>
+      <actor>Eizenia, Laura</actor>
+      <role>Model #2</role>
+    </credit>
+    <credit>
+      <actor>Elfman, Bodhi</actor>
+      <role>Van</role>
+    </credit>
+    <credit>
+      <actor>Fahey, Dennis Sean</actor>
+      <role>Cop with Ambulance</role>
+    </credit>
+    <credit>
+      <actor>Fischer, Pamela (I)</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Gassner-Clayton, Nancy</actor>
+      <role>ANA Hotel Maid</role>
+    </credit>
+    <credit>
+      <actor>Gersicoff, Robert</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Glekas, Nasi</actor>
+      <role>Witness</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, Steve (II)</actor>
+      <role>Mr. O'Brien</role>
+    </credit>
+    <credit>
+      <actor>Green, Seth</actor>
+      <role>Selby</role>
+    </credit>
+    <credit>
+      <actor>Grey, Gilley</actor>
+      <role>Firefighter #3</role>
+    </credit>
+    <credit>
+      <actor>Griego, Penny</actor>
+      <role>TV Anchor #2</role>
+    </credit>
+    <credit>
+      <actor>Gunn, Anna (I)</actor>
+      <role>Emily Reynolds</role>
+    </credit>
+    <credit>
+      <actor>Gómez, Carlos (II)</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Hackman, Gene</actor>
+      <role>Edward Lyle, 'Brill'</role>
+    </credit>
+    <credit>
+      <actor>Hall, Philip Baker</actor>
+      <role>Attorney Mark Silverberg</role>
+    </credit>
+    <credit>
+      <actor>Hamer, Lillie Shaw</actor>
+      <role>Field Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Han, David</actor>
+      <role>Mambo Kitchen Worker #2</role>
+    </credit>
+    <credit>
+      <actor>Hargitay, Eddie</actor>
+      <role>Paper boy</role>
+    </credit>
+    <credit>
+      <actor>Hart, Ian</actor>
+      <role>Bingham</role>
+    </credit>
+    <credit>
+      <actor>Hawn, Phil</actor>
+      <role>NSA Civilian Technician</role>
+    </credit>
+    <credit>
+      <actor>Herman, Paul (I)</actor>
+      <role>Carlos</role>
+    </credit>
+    <credit>
+      <actor>Heslov, Grant</actor>
+      <role>Lenny</role>
+    </credit>
+    <credit>
+      <actor>Holt, Chris (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hunter, James (II)</actor>
+      <role>Computer Programmer</role>
+    </credit>
+    <credit>
+      <actor>Karkowsky, Adam</actor>
+      <role>Aide #3</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Joseph Patrick</actor>
+      <role>Fireman #2</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Jamie (I)</actor>
+      <role>Jamie</role>
+    </credit>
+    <credit>
+      <actor>Keung, Eric</actor>
+      <role>Mambo Kitchen Worker #1</role>
+    </credit>
+    <credit>
+      <actor>Killian, Robyn</actor>
+      <role>Model #1</role>
+    </credit>
+    <credit>
+      <actor>King, Larry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>King, Regina</actor>
+      <role>Carla Dean</role>
+    </credit>
+    <credit>
+      <actor>Kraemer, Mattias</actor>
+      <role>Gas Station Cashier</role>
+    </credit>
+    <credit>
+      <actor>Kriss, Mandy</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Larrivey, Wayne A.</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Christopher (III)</actor>
+      <role>Paramedic</role>
+    </credit>
+    <credit>
+      <actor>LeGros, James</actor>
+      <role>Jerry Miller</role>
+    </credit>
+    <credit>
+      <actor>Lee, Jason (I)</actor>
+      <role>Zavitz</role>
+    </credit>
+    <credit>
+      <actor>Lewin, David (V)</actor>
+      <role>Cafe patron</role>
+    </credit>
+    <credit>
+      <actor>Majors, Paul</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Manni, Vic</actor>
+      <role>Vic - Old Mobster</role>
+    </credit>
+    <credit>
+      <actor>Markinson, Brian</actor>
+      <role>Attorney Brian Blake</role>
+    </credit>
+    <credit>
+      <actor>Mayoral, Beatriz</actor>
+      <role>Reynolds' Nanny</role>
+    </credit>
+    <credit>
+      <actor>McCombs, Alexis</actor>
+      <role>Hotel Patron</role>
+    </credit>
+    <credit>
+      <actor>McDonough, Brenna</actor>
+      <role>Field Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>Medrano, Frank</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Mergenthaler, Carl</actor>
+      <role>Mike - Law Firm</role>
+    </credit>
+    <credit>
+      <actor>Milicevic, Ivana</actor>
+      <role>Ruby's Sales Clerk</role>
+    </credit>
+    <credit>
+      <actor>Nascarella, Arthur J.</actor>
+      <role>Frankie</role>
+    </credit>
+    <credit>
+      <actor>O'Rourke, Robert</actor>
+      <role>FBI Observer #1</role>
+    </credit>
+    <credit>
+      <actor>Olney, Warren</actor>
+      <role>TV Anchor #1</role>
+    </credit>
+    <credit>
+      <actor>Olson, Eric (II)</actor>
+      <role>Aide #1</role>
+    </credit>
+    <credit>
+      <actor>Pepper, Barry</actor>
+      <role>Pratt</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Tom (II)</actor>
+      <role>Tunnel Technician</role>
+    </credit>
+    <credit>
+      <actor>Richards, T.R.</actor>
+      <role>Cook</role>
+    </credit>
+    <credit>
+      <actor>Robards, Jason</actor>
+      <role>Congressman Phillip Hammersley</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Doug (I)</actor>
+      <role>Hijacked Car Driver</role>
+    </credit>
+    <credit>
+      <actor>Sandler, Henry</actor>
+      <role>FBI Observer #3</role>
+    </credit>
+    <credit>
+      <actor>Sizemore, Tom</actor>
+      <role>Boss Paulie Pintero</role>
+    </credit>
+    <credit>
+      <actor>Slater, Callison</actor>
+      <role>Child #1</role>
+    </credit>
+    <credit>
+      <actor>Smith, Will (I)</actor>
+      <role>Robert Clayton Dean</role>
+    </credit>
+    <credit>
+      <actor>Sutton, Pete</actor>
+      <role>Dean House Cop</role>
+    </credit>
+    <credit>
+      <actor>Troy, Thomas</actor>
+      <role>Aide #2</role>
+    </credit>
+    <credit>
+      <actor>Uhrig, Steve</actor>
+      <role>Electronics Store Employee</role>
+    </credit>
+    <credit>
+      <actor>Voight, Jon</actor>
+      <role>Reynolds</role>
+    </credit>
+    <credit>
+      <actor>Walker, John Haynes</actor>
+      <role>Fireman #1</role>
+    </credit>
+    <credit>
+      <actor>Walker, Michael James</actor>
+      <role>Union Official</role>
+    </credit>
+    <credit>
+      <actor>Ward, Joshua</actor>
+      <role>Pintero Kid #2</role>
+    </credit>
+    <credit>
+      <actor>Washington, Jascha</actor>
+      <role>Eric Dean</role>
+    </credit>
+    <credit>
+      <actor>Welch, Jason (II)</actor>
+      <role>Pintero Kid #1</role>
+    </credit>
+    <credit>
+      <actor>Werking, Noel</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Stuart (II)</actor>
+      <role>Congressman Albert</role>
+    </credit>
+    <credit>
+      <actor>Wong, Albert (I)</actor>
+      <role>Mr. Wu</role>
+    </credit>
+    <credit>
+      <actor>Zlotnick, Steven</actor>
+      <role>NSA Technician</role>
+    </credit>
+  </cast>
+<plot>Robert dean is a mild-mannered lawyer who works in Washington D.C. He is on the trail of a kingpin named Pintero. Meanwhile, a politician named Thomas Reynolds is negotiating with Congressman Phillip Hammerson about a new surveillance system with satellites. But, Hammerson declines, that is when Reynolds had Hammerson killed, but this murder was caught on tape, and this person was being chased by Reynolds' team of NSA agents, the guy must ditch the tape, so he plants it on Dean (unbeknownst to Dean). Then, the NSA decides to get into Dean's life. That is when Dean's life began to fall apart all around him, with his wife and job both gone. Dean wants to find out what is going on. Then, he meets a man named "Brill" who tells him that Dean has something that the government wants. Thta is when Dean and Brill formulate a plan to get Dean's life back and turn the Tables on Reynolds.</plot><url>http://localhost:8983/solr/movie.html?178536</url></doc>

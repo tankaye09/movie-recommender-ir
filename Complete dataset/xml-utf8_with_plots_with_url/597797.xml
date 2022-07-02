@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="597797">
+  <docid>597797</docid>
+  <title>The Ultimate Fighter</title>
+  <year>2005</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ballard, Michael (IV)</editor>
+    <editor>Behrens, Jerry</editor>
+    <editor>Belson, Josh</editor>
+    <editor>Hicks, Stephen A.</editor>
+    <editor>Martinez, Nino</editor>
+    <editor>Missor, George</editor>
+    <editor>Nelson, Robert Benjamin</editor>
+    <editor>Solomons, Tony</editor>
+    <editor>Wise, Eric (II)</editor>
+  </editors>
+  <genres>
+    <genre>Sport</genre>
+    <genre>Reality-TV</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>mixed-martial-arts</keyword>
+    <keyword>martial-arts</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="Australia">MA</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">3 May 2005</releasedate>
+    <releasedate country="USA">7 November 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Loureiro, Thomas</director>
+  </directors>
+  <producers>
+    <producer>Bastable, Jennifer</producer>
+    <producer>Hooper, Cole</producer>
+    <producer>Raia, Kristine</producer>
+    <producer>Ross, Amanda (V)</producer>
+    <producer>Richter, Andrea (I)</producer>
+    <producer>Rosa, Mitch</producer>
+    <producer>Wikke, Ralph</producer>
+    <producer>Schermerhorn, Bob</producer>
+    <producer>Kay, Kevin</producer>
+    <producer>Riesenberg, Robert</producer>
+    <producer>Gallo, Bradley</producer>
+    <producer>Boydstun, Brett</producer>
+    <producer>Schulze, Elizabeth</producer>
+    <producer>Campione, Jamie</producer>
+    <producer>Chiu, Angela</producer>
+    <producer>Cooper, Scott (VI)</producer>
+    <producer>DeFranco, Gary</producer>
+    <producer>Dobbs, Dax</producer>
+    <producer>Dorfmann, Rob</producer>
+    <producer>Greenhut, Tom (I)</producer>
+    <producer>Leonard, Mark (I)</producer>
+    <producer>Loureiro, Thomas</producer>
+    <producer>Lyons, Art</producer>
+    <producer>Marinaccio, Mark</producer>
+    <producer>Maximo, Zosimo</producer>
+    <producer>Mazer, Eric</producer>
+    <producer>Nicholas, Dustin</producer>
+    <producer>Terry, Paulette</producer>
+    <producer>Wells, Katie (II)</producer>
+    <producer>White, Dana (III)</producer>
+    <producer>Edwards, Tennessee</producer>
+    <producer>Elms, Brooks</producer>
+    <producer>Hobin, Matthew</producer>
+    <producer>Rosa, Mitch</producer>
+    <producer>Wikke, Ralph</producer>
+  </producers>
+  <composers>
+    <composer>Koskenmaki, Matt</composer>
+    <composer>Toyne, Jeff</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abaddi, Danny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Abbadi, Danny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Arroyo, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bader, Ryan (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berube, Allen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bisping, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blackledge, Tom</actor>
+      <role>Himself - Coach</role>
+    </credit>
+    <credit>
+      <actor>Bonnar, Stephan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brown, Matt (XXVI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Browning, Junie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bruchez, Jules</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buffer, Bruce</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Burkman, Josh</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Burnett, Mikey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Byrnes, Steve (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carter, Shonie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Christison, Dan</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Clementi, Rich</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cope, Kit</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cote, Patrick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cote, Patrick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Couture, Randy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Couture, Randy</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Cummo, Luke</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Davis, Marcus (IV)</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Dean, Herb</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Delgado, Rolando</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>DellaGrotte, Mark</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Dewees, Edwin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Nathan (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Diaz, Nick (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dollaway, C.B.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Michael Clarke</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eastman, Marvin (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Emerson, Robert (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Escudero, Efrain</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Evans, Rashad</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Evans, Rashad</actor>
+      <role>Himself - Team Captain</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Kevin 'Kimbo Slice'</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fioravanti, Luigi</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Spencer</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Tait</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Florian, Kenny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Forbes, Jesse</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ford, Willa</actor>
+      <role>Herself - Host</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Rich</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gamburyan, Manvel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Geraghty, Brian (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ghosn, Tiki</actor>
+      <role>Himself - Coach</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Mike (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Mike (II)</actor>
+      <role>Himself/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Gouveia, Wilson</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grenier, Adrian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Forrest</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grigoryan, Karn</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grove, Kendall</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grove, Kendall</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Guida, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Guillard, Melvin</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Gurgel, Jorge</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Matt (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Haynes, Josh</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hazelett, Dustin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Herman, Ed (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hill, Corey (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hoger, Sam</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Horn, Jeremy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Matt (IV)</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Matt (IV)</actor>
+      <role>Himself/Coach (2005-)</role>
+    </credit>
+    <credit>
+      <actor>Hutcherson, Solomon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Imes, Brad</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Inhofer, Noah</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Jeremy (VI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Quinton 'Rampage'</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>James, Kevin (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jardine, Keith</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jardine, Keith</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Jensen, Zak</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Marcus (XII)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Joslin, Eli</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Junk, Scott</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kampmann, Martin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kaplan, David (VI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Karalexis, Alex</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kimmons, Rob</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kingsbury, Kyle</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Koscheck, Josh</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lauzon, Joe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawlor, Tom (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Leben, Chris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Liddell, Chuck</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Lister, Dean</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lister, Dean</actor>
+      <role>Himself/Assistant Coach</role>
+    </credit>
+    <credit>
+      <actor>Lutter, Travis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lutter, Travis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lytle, Chris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lytle, Chris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Magalhaes, Vinicius</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Eliot</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Maynard, Gray</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, 'Big' John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Charles (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McFedries, Drew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McSweeney, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Melendez, Brandon (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Miller, Cole (V)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Sammy</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Tom (VI)</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Roy (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Shane (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nickels, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nover, Phillipe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ortiz, Tito (I)</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Pariente, Ido</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Penn, B.J.</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Petruzelli, Seth</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Pointon, Ross</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Polakowski, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Primm, Shane</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pulver, Jens</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Quarry, Nate</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rafferty, Josh</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ramirez, Hector (V)</actor>
+      <role>Himself - Coach</role>
+    </credit>
+    <credit>
+      <actor>Ray, Gideon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Riddle, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rivera, Dante (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rivera, Jorge (V)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rogan, Joe (I)</actor>
+      <role>Himself - Announcer</role>
+    </credit>
+    <credit>
+      <actor>Roop, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rothaemal, Kristian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rothaermel, Kristian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rowe, Mike (I)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Ruediger, Gabe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sadollah, Amir</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sanchez, Diego (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sanchez, Diego (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sanford, Christopher</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schall, Kerry</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Schaub, Brendan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schoenauer, Alex</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schoonover, Darril</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sell, Pete</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Serra, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Serra, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shamrock, Ken</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shamrock, Ken</actor>
+      <role>Himself/Coach</role>
+    </credit>
+    <credit>
+      <actor>Shivers, Wes</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sims, Marlon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sims, Wes</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sincaid, Lodune</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Singer, Rory</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Smith, Scott (XXVII)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Soszynski, Krzysztof</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Southworth, Bobby</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Spratt, Pete</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>St. Pierre, Georges</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Starnes, Kalib</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Jeremy (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stevenson, Joe (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stine, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stout, Sam (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Swick, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tanner, Evan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thacker, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Din</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Noah</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Torres, Anthony (III)</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Van Arsdale, Mike</actor>
+      <role>Himself - Coach</role>
+    </credit>
+    <credit>
+      <actor>Von Flue, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Von Flue, Jason</actor>
+      <role>Himself (2005)</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Abe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wang, Andy (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Weems, Wayne</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wessel, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>White, Dana (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>White, Dana (III)</actor>
+      <role>Himself - Host</role>
+    </credit>
+    <credit>
+      <actor>Wiman, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wittman, Trevor</actor>
+      <role>Himself - Coach</role>
+    </credit>
+    <credit>
+      <actor>Wren, Justin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Yundt, Rob</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The Ultimate Fighter is a reality TV show where 16 contestants live together and battle each other for a pair of Ultimate Fighting Championship contracts. The UFC is divided into five weight classes, Heavyweights, Light Heavyweights, Middleweights, Welterweights and Lightweights. In the first season of The Ultimate Fighter, there are 8 Light Heavyweights and 8 Middleweights, with four of each trained by two legendary UFC competitors Randy Couture and Chuck Liddell. Willa Ford hosts the reality challenge segments that help determine who fights who to stay in the competition.</plot><url>http://localhost:8983/solr/movie.html?597797</url></doc>

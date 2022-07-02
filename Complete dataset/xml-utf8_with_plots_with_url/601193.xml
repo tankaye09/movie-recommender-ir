@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="601193">
+  <docid>601193</docid>
+  <title>The Wildcat</title>
+  <year>1926</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Comedy</genre>
+    <genre>Western</genre>
+  </genres>
+  <keywords>
+    <keyword>boxing</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">24 March 1926</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">52</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fraser, Harry L.</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Bond, Frank (I)</actor>
+      <role>Barney Taggart</role>
+    </credit>
+    <credit>
+      <actor>Clifford, Gordon</actor>
+      <role>Jim Eddy/The Wildcat</role>
+    </credit>
+    <credit>
+      <actor>Millett, Arthur</actor>
+      <role>Martin Lawson</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Hooper</actor>
+      <role>Charcoal the Valet</role>
+    </credit>
+    <credit>
+      <actor>Renard, Ervin</actor>
+      <role>Pete Hawkins the Foreman</role>
+    </credit>
+  </cast>
+<plot>A professional boxer's manager takes the athlete to an isolated ranch to recover from his boozing and partying. While there, he gets mixed up with a pretty ranch girl and stolen jewels.</plot><url>http://localhost:8983/solr/movie.html?601193</url></doc>

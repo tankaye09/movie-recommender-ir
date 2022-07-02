@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="153895">
+  <docid>153895</docid>
+  <title>Dog</title>
+  <year>2001</year>
+  <type>movie</type>
+  <editors>
+    <editor>Chaudeurge, Nicolas</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>animal-in-title</keyword>
+    <keyword>one-word-title</keyword>
+  </keywords>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Sweden">2002</releasedate>
+    <releasedate country="Portugal">2002</releasedate>
+    <releasedate country="Netherlands">2002</releasedate>
+    <releasedate country="Croatia">2003</releasedate>
+    <releasedate country="UK">25 March 2003</releasedate>
+    <releasedate country="Germany">2002</releasedate>
+    <releasedate country="Belgium">2002</releasedate>
+    <releasedate country="France">May 2002</releasedate>
+    <releasedate country="Spain">2002</releasedate>
+    <releasedate country="Switzerland">October 2001</releasedate>
+    <releasedate country="Norway">2002</releasedate>
+    <releasedate country="Canada">4 June 2003</releasedate>
+    <releasedate country="Finland">2002</releasedate>
+    <releasedate country="Italy">2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arnold, Andrea</director>
+  </directors>
+  <producers>
+    <producer>Reid, Theresa</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Cunliffe, Freddie</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Hill, Joanne</actor>
+      <role>Leah</role>
+    </credit>
+  </cast>
+<plot>A teenage girl gets ready to go out to meet her boyfriend, despite her mother's loud verbal disapproval of her clothes. She goes out to a deserted area with him and he begins to touch her up and have sex with her, however a dog reveals the true nature of her boyfriend.</plot><url>http://localhost:8983/solr/movie.html?153895</url></doc>

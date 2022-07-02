@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="041377">
+  <docid>041377</docid>
+  <title>Anna Karenina</title>
+  <year>1914</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-novel</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Russia</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Russia">7 October 1914</releasedate>
+  </releasedates>
+  <directors>
+    <director>Gardin, Vladimir</director>
+  </directors>
+  <writers>
+    <writer>Gardin, Vladimir</writer>
+    <writer>Tolstoy, Leo</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Barantsevich, Zoya</actor>
+      <role>Kittie</role>
+    </credit>
+    <credit>
+      <actor>Germanova, Mariya</actor>
+      <role>Anna Karenina</role>
+    </credit>
+    <credit>
+      <actor>Kholodnaya, Vera</actor>
+      <role>Italian wet-nurse</role>
+    </credit>
+    <credit>
+      <actor>Kvanin, Vladimir</actor>
+      <role>Stiva Oblonsky</role>
+    </credit>
+    <credit>
+      <actor>Obolensky, V.</actor>
+      <role>Levin</role>
+    </credit>
+    <credit>
+      <actor>Shaternikov, Vladimir</actor>
+      <role>Karenin</role>
+    </credit>
+    <credit>
+      <actor>Tamarov, Mikhail</actor>
+      <role>Vronsky</role>
+    </credit>
+  </cast>
+<plot>This is a Russian silent film based on the eponymous book by Leo Tolstoy. Anna Karenina is a young wife of an older husband. She is having an affair with the young and handsome Count Vronsky. Their mutual love is under social pressure. By following her desires Anna complicates her life and ends it in a suicide under a train.</plot><url>http://localhost:8983/solr/movie.html?041377</url></doc>

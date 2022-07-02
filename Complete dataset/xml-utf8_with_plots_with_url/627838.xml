@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="627838">
+  <docid>627838</docid>
+  <title>Un week-end pour faire un film</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Muraz, Mickael</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>dance</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+  </languages>
+  <countries>
+    <country>France</country>
+  </countries>
+  <releasedates>
+    <releasedate country="France">5 June 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="France">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Muraz, Mickael</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Heissat, Typhaine</actor>
+      <role>Typhaine</role>
+    </credit>
+    <credit>
+      <actor>Hong, Tao</actor>
+      <role>Tao</role>
+    </credit>
+  </cast>
+<plot>Michael wants to film Typhaine. To film means "to register images on a cine film". But it also means "become covered with a thin layer of something", such as meat in a shrink-wrapped tray. Michael has no intention of wrapping any meat; Michael wants to capture Typhaine on film, shrink-wrapped or not.</plot><url>http://localhost:8983/solr/movie.html?627838</url></doc>

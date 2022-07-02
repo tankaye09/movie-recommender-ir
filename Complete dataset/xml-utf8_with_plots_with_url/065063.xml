@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="065063">
+  <docid>065063</docid>
+  <title>Ben and Joe</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Adventure</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">September 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">38</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Broschart, Joseph</producer>
+    <producer>Ballinger, Benjamin</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Ballinger, Benjamin</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Broschart, Joseph</actor>
+      <role>Joe</role>
+    </credit>
+  </cast>
+<plot>In a possibly unrehearsed experimental film, Ben and Joe set out to make a film, but don't appear to have done much preparation. They try to continue with the movie, even though they can't find the script, combining music with their thoughts. It's not too clear to them what they need to be doing as they explore around a sand bar and their ideas. These two friends play off one another as it seems whatever script they do have is not in order.</plot><url>http://localhost:8983/solr/movie.html?065063</url></doc>

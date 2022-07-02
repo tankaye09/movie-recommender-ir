@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="410359">
+  <docid>410359</docid>
+  <title>Omnibus</title>
+  <year>1952</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Gilders, Chris</editor>
+    <editor>Nadel, Arthur H.</editor>
+    <editor>Rose, Sherman A.</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Drama</genre>
+    <genre>History</genre>
+    <genre>Music</genre>
+  </genres>
+  <keywords>
+    <keyword>opera</keyword>
+    <keyword>dance</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>time-for-title</keyword>
+    <keyword>culture</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>vladimir-lenin</keyword>
+    <keyword>art</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>one-word-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">4 March 1956</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">55</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Brynner, Yul</director>
+    <director>Cook, Fielder</director>
+    <director>Dubin, Charles S.</director>
+    <director>Dunlap, Richard</director>
+    <director>Graham, William A.</director>
+    <director>Horner, Harry</director>
+    <director>Lloyd, Norman (I)</director>
+    <director>Lumet, Sidney</director>
+    <director>Mann, Delbert (I)</director>
+    <director>McCullough, Andrew (II)</director>
+    <director>McPherson, Ben (I)</director>
+    <director>Ritchie, Michael (I)</director>
+    <director>Robbie, Seymour</director>
+    <director>Rothberg, Lee (II)</director>
+    <director>Silverstein, Elliot</director>
+    <director>Ustinov, Peter</director>
+  </directors>
+  <writers>
+    <writer>Agee, James</writer>
+    <writer>Bellak, George</writer>
+    <writer>Benet, Stephen Vincent</writer>
+    <writer>Carroll, Sidney</writer>
+    <writer>DeSylva, Buddy G.</writer>
+    <writer>France, Anatole</writer>
+    <writer>Fry, Christopher (I)</writer>
+    <writer>Hemingway, Ernest</writer>
+    <writer>Inge, William</writer>
+    <writer>Lee, James (III)</writer>
+    <writer>Lewis, A.K.</writer>
+    <writer>Lewis, Andy (I)</writer>
+    <writer>McCullers, Carson</writer>
+    <writer>McPherson, Ben (I)</writer>
+    <writer>Menotti, Gian Carlo</writer>
+    <writer>Sapinsley, Alvin</writer>
+    <writer>Saroyan, William</writer>
+    <writer>Schulman, Arnold</writer>
+    <writer>Shaw, George Bernard</writer>
+    <writer>Solow, Eugene</writer>
+    <writer>Steinbeck, John</writer>
+    <writer>Tyler, Royall</writer>
+    <writer>Ustinov, Peter</writer>
+    <writer>Vidal, Gore</writer>
+  </writers>
+  <composers>
+    <composer>Gershwin, George</composer>
+    <composer>Selinsky, Wladimir</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbott, Philip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Adams, Diana (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Adams, Diana (I)</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>Adiarte, Patrick</actor>
+      <role>Himself - Solo Dancer</role>
+    </credit>
+    <credit>
+      <actor>Arova, Sonia</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Arthur, Bea</actor>
+      <role>Ugly Witch</role>
+    </credit>
+    <credit>
+      <actor>Auer, Mischa</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Aumont, Jean-Pierre (I)</actor>
+      <role>Captain Bruntschi</role>
+    </credit>
+    <credit>
+      <actor>Ayres, Lew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Badel, Alan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bancroft, Anne (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bannister, Harry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Barrymore, Ethel</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bean, Orson</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Benny, Jack</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bergonzi, Carlo</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Leonard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berry, Eric</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blyden, Larry</actor>
+      <role>Teddy Roosevelt</role>
+    </credit>
+    <credit>
+      <actor>Boardman, Nan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Booke, Sorrell</actor>
+      <role>Mr. Brillby</role>
+    </credit>
+    <credit>
+      <actor>Bourneuf, Philip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bramley, Raymond</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brando, Jocelyn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brando, Marlon</actor>
+      <role>Stanley Kowalski</role>
+    </credit>
+    <credit>
+      <actor>Brown, Kelly (I)</actor>
+      <role>Head Wrangler</role>
+    </credit>
+    <credit>
+      <actor>Brynner, Yul</actor>
+      <role>Francois Villon</role>
+    </credit>
+    <credit>
+      <actor>Burnett, Carol</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Button, Dick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Call, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cannon, J.D.</actor>
+      <role>Andrew Jackson</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Robert (II)</actor>
+      <role>Chorus Leader</role>
+    </credit>
+    <credit>
+      <actor>Chase, Lucia</actor>
+      <role>Stepmother</role>
+    </credit>
+    <credit>
+      <actor>Clancy, Tom (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clark, Byron (I)</actor>
+      <role>Confederate Soldier</role>
+    </credit>
+    <credit>
+      <actor>Clarke-Lawrence, Michael</actor>
+      <role>Lord Marindown</role>
+    </credit>
+    <credit>
+      <actor>Colicos, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Conried, Hans</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cook, Ali (I)</actor>
+      <role>Himself - Series Host</role>
+    </credit>
+    <credit>
+      <actor>Cooke, Alistair (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cooke, Alistair (I)</actor>
+      <role>Himself-Host</role>
+    </credit>
+    <credit>
+      <actor>Cooke, Alistair (I)</actor>
+      <role>Himself/Host</role>
+    </credit>
+    <credit>
+      <actor>Cooke, Alistair (I)</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Corey, Irwin</actor>
+      <role>Dirty Joe</role>
+    </credit>
+    <credit>
+      <actor>Cousteau, Jacques-Yves</actor>
+      <role>Himself ('The Silent World')</role>
+    </credit>
+    <credit>
+      <actor>Cousy, Bob</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cronyn, Hume</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Daly, James (I)</actor>
+      <role>General Robert E. Lee</role>
+    </credit>
+    <credit>
+      <actor>Dano, Royal</actor>
+      <role>Abraham Lincoln</role>
+    </credit>
+    <credit>
+      <actor>Davis, Donald (II)</actor>
+      <role>Tiresias</role>
+    </credit>
+    <credit>
+      <actor>De Lappe, Gemze</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>DeCamp, Rosemary</actor>
+      <role>Shark Wicks' wife</role>
+    </credit>
+    <credit>
+      <actor>Dean, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Denton, Crahan</actor>
+      <role>Tom Lincoln</role>
+    </credit>
+    <credit>
+      <actor>Diener, Joan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Dietz, J. Robert</actor>
+      <role>Priest</role>
+    </credit>
+    <credit>
+      <actor>Donath, Ludwig</actor>
+      <role>Lenin</role>
+    </credit>
+    <credit>
+      <actor>Donnell, Jeff</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Scott (I)</actor>
+      <role>Pat Garrett</role>
+    </credit>
+    <credit>
+      <actor>Dunne, Eithne</actor>
+      <role>Mrs. Thrale</role>
+    </credit>
+    <credit>
+      <actor>Eglevsky, Andre</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Elcar, Dana</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ellenstein, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fabian, Olga</actor>
+      <role>Hilde's Mother</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Bramwell</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Frederic</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gallo, Mario (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gampel, Chris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Garner, Don (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gates, Larry</actor>
+      <role>George Washington</role>
+    </credit>
+    <credit>
+      <actor>Ghezzi, Vic</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goodier, Robert</actor>
+      <role>Creon</role>
+    </credit>
+    <credit>
+      <actor>Goodier, Robert</actor>
+      <role>Uncle</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Benny (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goodner, Carol</actor>
+      <role>Jocasta</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Bruce (XIV)</actor>
+      <role>Lt. Gen. James Longstreet</role>
+    </credit>
+    <credit>
+      <actor>Greene, Lorne</actor>
+      <role>Ed Bailey</role>
+    </credit>
+    <credit>
+      <actor>Guarrera, Frank</actor>
+      <role>Himself/ Iago in 'Otello'</role>
+    </credit>
+    <credit>
+      <actor>Haigh, Kenneth</actor>
+      <role>Boswell</role>
+    </credit>
+    <credit>
+      <actor>Haigh, Kenneth</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harris, Rosemary (I)</actor>
+      <role>Cordelia</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Rex (I)</actor>
+      <role>Henry VIII</role>
+    </credit>
+    <credit>
+      <actor>Hawthorne, Jim (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Helen (I)</actor>
+      <role>Bessie Arlington</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Helen (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Helen (I)</actor>
+      <role>Mrs. McThing</role>
+    </credit>
+    <credit>
+      <actor>Heston, Charlton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hicks, Russell (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hiken, Gerald</actor>
+      <role>Nicholas Devize</role>
+    </credit>
+    <credit>
+      <actor>Hodges, Eddie</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Hunt, Lois</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Kim (I)</actor>
+      <role>Stella Kowalski</role>
+    </credit>
+    <credit>
+      <actor>Hurley, Laurel</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Irving, George (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jamieson, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Barry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Stephen (I)</actor>
+      <role>Richard</role>
+    </credit>
+    <credit>
+      <actor>Karlweis, Oskar</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Nora</actor>
+      <role>The Accused</role>
+    </credit>
+    <credit>
+      <actor>Kellin, Johnny</actor>
+      <role>Billy Bailey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Gene (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, John F.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>King, Wright</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>King-Wood, David</actor>
+      <role>General</role>
+    </credit>
+    <credit>
+      <actor>Kitt, Eartha</actor>
+      <role>Salome</role>
+    </credit>
+    <credit>
+      <actor>Koesun, Ruth Ann</actor>
+      <role>Accused as a Child</role>
+    </credit>
+    <credit>
+      <actor>Koesun, Ruth Ann</actor>
+      <role>Sweetheart</role>
+    </credit>
+    <credit>
+      <actor>Kriza, John</actor>
+      <role>Billy the Kid</role>
+    </credit>
+    <credit>
+      <actor>Kriza, John</actor>
+      <role>Champion Roper</role>
+    </credit>
+    <credit>
+      <actor>Kriza, John</actor>
+      <role>Pastor</role>
+    </credit>
+    <credit>
+      <actor>Kuhlmann, Rosemary</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kullmann, Charles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lahr, Bert</actor>
+      <role>Androcles</role>
+    </credit>
+    <credit>
+      <actor>Lahr, Bert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lang, Doe</actor>
+      <role>Actor/Singer</role>
+    </credit>
+    <credit>
+      <actor>Lang, Doreen</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Langton, Basil</actor>
+      <role>David Garrick</role>
+    </credit>
+    <credit>
+      <actor>Lau, Wesley</actor>
+      <role>Maj. Gen. John B. Hood</role>
+    </credit>
+    <credit>
+      <actor>Lee, Bryarly</actor>
+      <role>Alizon Eliot</role>
+    </credit>
+    <credit>
+      <actor>Leslie, Noel</actor>
+      <role>Chaplain</role>
+    </credit>
+    <credit>
+      <actor>Levene, Sam (I)</actor>
+      <role>Eddie</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Brenda</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lishner, Leon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lord, Jack (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Loring, Eugene</actor>
+      <role>Himself/Narrator</role>
+    </credit>
+    <credit>
+      <actor>Lumb, Geoffrey</actor>
+      <role>Mayor</role>
+    </credit>
+    <credit>
+      <actor>MacLiammóir, Micheál</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Malden, Karl</actor>
+      <role>Harold 'Mitch' Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Malone, Dorothy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Mantle, Mickey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>March, Fredric</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marley, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Martin, Louis (V)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mason, James (I)</actor>
+      <role>Napoleon</role>
+    </credit>
+    <credit>
+      <actor>Mason, Pamela (I)</actor>
+      <role>Josephine</role>
+    </credit>
+    <credit>
+      <actor>Matthews, Carmen (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>May, Elaine (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Kevin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCay, Peggy</actor>
+      <role>Hilde</role>
+    </credit>
+    <credit>
+      <actor>McDevitt, Ruth</actor>
+      <role>Evva</role>
+    </credit>
+    <credit>
+      <actor>McGavin, Darren</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McGiver, John (I)</actor>
+      <role>Tappercoom</role>
+    </credit>
+    <credit>
+      <actor>McLeod, Mercer</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Merande, Doro</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Meredith, Burgess</actor>
+      <role>Avon Horsley Jr.</role>
+    </credit>
+    <credit>
+      <actor>Meriwether, Lee</actor>
+      <role>Beautiful Witch</role>
+    </credit>
+    <credit>
+      <actor>Mineo, Sal</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Thomas (I)</actor>
+      <role>Shark Wicks</role>
+    </credit>
+    <credit>
+      <actor>Moore, Dickie</actor>
+      <role>Lt. Gen. J.E.B. Stuart</role>
+    </credit>
+    <credit>
+      <actor>Moss, Arnold (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nault, Fernand</actor>
+      <role>Alias</role>
+    </credit>
+    <credit>
+      <actor>Needles, William</actor>
+      <role>Old Shepherd</role>
+    </credit>
+    <credit>
+      <actor>Nichols, Mike (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ormandy, Eugene</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Plummer, Christopher (I)</actor>
+      <role>Oedipus</role>
+    </credit>
+    <credit>
+      <actor>Plummer, Christopher (I)</actor>
+      <role>Thomas Mendip</role>
+    </credit>
+    <credit>
+      <actor>Pollack, Michael (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Powell, Addison</actor>
+      <role>Maj. Gen. George Pickett</role>
+    </credit>
+    <credit>
+      <actor>Qualen, John</actor>
+      <role>Storekeeper J.P.</role>
+    </credit>
+    <credit>
+      <actor>Raymond, Guy</actor>
+      <role>Stinker</role>
+    </credit>
+    <credit>
+      <actor>Redfield, William</actor>
+      <role>Messenger</role>
+    </credit>
+    <credit>
+      <actor>Rettig, Tommy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Robards, Jason</actor>
+      <role>Prime Minister</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Sugar Ray</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rogier, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Romanoff, Dimitri</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Romoff, Wood</actor>
+      <role>Foreign Minister</role>
+    </credit>
+    <credit>
+      <actor>Ross, Anthony (I)</actor>
+      <role>Floor Walker</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Edmon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rüth, Ludwig (II)</actor>
+      <role>Hilde's father</role>
+    </credit>
+    <credit>
+      <actor>Saks, Gene</actor>
+      <role>Traveling salesman</role>
+    </credit>
+    <credit>
+      <actor>Schildkraut, Joseph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Scott, George C.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Scott, Zachary (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Seixas, Vic</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Selzer, Milton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Shatner, William</actor>
+      <role>Palace Messenger</role>
+    </credit>
+    <credit>
+      <actor>Shepard, Richard (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sherin, Edwin</actor>
+      <role>Humphrey Devize</role>
+    </credit>
+    <credit>
+      <actor>Shields, Arthur</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sime, David</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Slezak, Walter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Slezak, Walter</actor>
+      <role>Major Paul Petkoff</role>
+    </credit>
+    <credit>
+      <actor>Smithers, William</actor>
+      <role>Lt. Gen. A.P. Hill</role>
+    </credit>
+    <credit>
+      <actor>Stanton, Harry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stehli, Edgar</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stepanek, Karel</actor>
+      <role>Victor</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Leon B.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stewart, David J. (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Johnny (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stokowski, Leopold</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sumpter, Ralph</actor>
+      <role>Oliver Goldsmith</role>
+    </credit>
+    <credit>
+      <actor>Sweeney, Joseph (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sydes, Anthony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Vaughn (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Rex (I)</actor>
+      <role>Miles</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Rex (I)</actor>
+      <role>Valentin</role>
+    </credit>
+    <credit>
+      <actor>Tolan, Michael (I)</actor>
+      <role>Abraham Lincoln</role>
+    </credit>
+    <credit>
+      <actor>Townes, Harry</actor>
+      <role>Woodrow Wilson</role>
+    </credit>
+    <credit>
+      <actor>Unitas, Johnny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ustinov, Peter</actor>
+      <role>Dr. Samuel Johnson</role>
+    </credit>
+    <credit>
+      <actor>Ustinov, Peter</actor>
+      <role>Marshal</role>
+    </credit>
+    <credit>
+      <actor>Villella, Edward</actor>
+      <role>Himself - Solo Dancer</role>
+    </credit>
+    <credit>
+      <actor>Vinay, Ramón (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Max (I)</actor>
+      <role>Deputy Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Wayne, David (I)</actor>
+      <role>John Ferris</role>
+    </credit>
+    <credit>
+      <actor>Wayne, Fredd</actor>
+      <role>Master Adam Fumie</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Fritz</actor>
+      <role>Newspaper Photographer</role>
+    </credit>
+    <credit>
+      <actor>Welch, Joseph N.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Welles, Orson</actor>
+      <role>King Lear</role>
+    </credit>
+    <credit>
+      <actor>Williams, Gwilym</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wills Jr., Lou</actor>
+      <role>Himself - Solo Dancer</role>
+    </credit>
+    <credit>
+      <actor>Windom, William</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winters, Jonathan (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winters, Roland</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wolfington, Iggie</actor>
+      <role>Chef</role>
+    </credit>
+    <credit>
+      <actor>de Mille, Agnes</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>de Mille, Agnes</actor>
+      <role>Herself/Choreographer</role>
+    </credit>
+  </cast>
+<plot>Starting out as a live show from New York City, "Omnibus" was hosted by Alastair Cooke and featured everything from discussions about science and the arts to original works by such playwrights as William Saroyan, interviews with celebrated people both inside and outside the arts, and featured performances by many of the most famous actors, singers and dancers of the day.</plot><url>http://localhost:8983/solr/movie.html?410359</url></doc>

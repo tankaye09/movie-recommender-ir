@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="340471">
+  <docid>340471</docid>
+  <title>Lokis</title>
+  <year>1970</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Horror</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <keywords>
+    <keyword>bear</keyword>
+  </keywords>
+  <languages>
+    <language>Polish</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Poland</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Poland">25 September 1970</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">100</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Majewski, Janusz</director>
+  </directors>
+  <writers>
+    <writer>Majewski, Janusz</writer>
+    <writer>Mérimée, Prosper</writer>
+  </writers>
+  <composers>
+    <composer>Kilar, Wojciech</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Braunek, Malgorzata</actor>
+      <role>Julia</role>
+    </credit>
+    <credit>
+      <actor>Duriasz, Józef</actor>
+      <role>Szemiot</role>
+    </credit>
+    <credit>
+      <actor>Fetting, Edmund</actor>
+      <role>Pastor</role>
+    </credit>
+    <credit>
+      <actor>Holtz, Witold</actor>
+      <role>Adiutant</role>
+    </credit>
+    <credit>
+      <actor>Lutkiewicz, Gustaw</actor>
+      <role>Froeber</role>
+    </credit>
+  </cast>
+<plot>A pastor studying folklore in remote parts of 19th century Estonia is invited to stay with a young nobleman. His mother is sequestered and mad. It seems she has been attacked by a bear as a young wife and local peasants whisper the young man may be the son of a bear. A doctor, who treats the mother with old-fashioned remedies, reveals this to the pastor. Young nobleman's wife is found with a bite and the man has disappeared into the woods.</plot><url>http://localhost:8983/solr/movie.html?340471</url></doc>

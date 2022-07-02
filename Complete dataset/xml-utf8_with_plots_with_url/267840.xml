@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="267840">
+  <docid>267840</docid>
+  <title>Invasion</title>
+  <year>2005</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Colonna, Matthew</editor>
+    <editor>Good, Timothy A.</editor>
+    <editor>Grecu, David</editor>
+    <editor>Seidenglanz, Rob</editor>
+    <editor>Windell, Kristin</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Thriller</genre>
+    <genre>Romance</genre>
+    <genre>Horror</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>diving</keyword>
+    <keyword>hostage</keyword>
+    <keyword>evacuation</keyword>
+    <keyword>skeleton</keyword>
+    <keyword>sheriff</keyword>
+    <keyword>alien-possession</keyword>
+    <keyword>social-conflict</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>betrayal</keyword>
+    <keyword>cliffhanger</keyword>
+    <keyword>secret-experiment</keyword>
+    <keyword>hurricane</keyword>
+    <keyword>cooperation</keyword>
+    <keyword>back-from-the-dead</keyword>
+    <keyword>moral-choice</keyword>
+    <keyword>doctor-patient-relationship</keyword>
+    <keyword>love-scene</keyword>
+    <keyword>hybrid</keyword>
+    <keyword>alliance</keyword>
+    <keyword>anti-hero</keyword>
+    <keyword>female-reporter</keyword>
+    <keyword>power-cut</keyword>
+    <keyword>swamp</keyword>
+    <keyword>prisoner</keyword>
+    <keyword>park-ranger</keyword>
+    <keyword>brother-sister-relationship</keyword>
+    <keyword>father-daughter-relationship</keyword>
+    <keyword>murder</keyword>
+    <keyword>survival</keyword>
+    <keyword>military</keyword>
+    <keyword>mother-daughter-relationship</keyword>
+    <keyword>divorced-parents</keyword>
+    <keyword>airplane-accident</keyword>
+    <keyword>alienation</keyword>
+    <keyword>everglades</keyword>
+    <keyword>television-reporter</keyword>
+    <keyword>action-hero</keyword>
+    <keyword>extinction</keyword>
+    <keyword>interrogation</keyword>
+    <keyword>reanimation</keyword>
+    <keyword>boxer-shorts</keyword>
+    <keyword>underwear</keyword>
+    <keyword>alien-invasion</keyword>
+    <keyword>deception</keyword>
+    <keyword>bite-marks</keyword>
+    <keyword>plane-crash</keyword>
+    <keyword>cult-tv</keyword>
+    <keyword>training</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>florida</keyword>
+    <keyword>bed</keyword>
+    <keyword>outcast</keyword>
+    <keyword>secret-laboratory</keyword>
+    <keyword>pregnancy</keyword>
+    <keyword>husband-wife-relationship</keyword>
+    <keyword>car-trunk</keyword>
+    <keyword>insidiousness</keyword>
+    <keyword>stepbrother-stepsister-relationship</keyword>
+    <keyword>male-female-relationship</keyword>
+    <keyword>paranoia</keyword>
+    <keyword>ex-husband-ex-wife-relationship</keyword>
+    <keyword>water</keyword>
+    <keyword>wet-suit</keyword>
+    <keyword>loneliness</keyword>
+    <keyword>army</keyword>
+    <keyword>corpse</keyword>
+    <keyword>guilt</keyword>
+    <keyword>shower-scene</keyword>
+    <keyword>conflicted-villain</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>remarriage</keyword>
+    <keyword>airman</keyword>
+    <keyword>undressing-scene</keyword>
+    <keyword>gun-battle</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Finland">K-13</certificate>
+    <certificate country="New Zealand">M</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">1 February 2006</releasedate>
+    <releasedate country="Netherlands">30 June 2008</releasedate>
+    <releasedate country="Brazil">13 November 2005</releasedate>
+    <releasedate country="Japan">15 October 2006</releasedate>
+    <releasedate country="UK">8 January 2006</releasedate>
+    <releasedate country="Germany">5 June 2006</releasedate>
+    <releasedate country="Hungary">3 March 2006</releasedate>
+    <releasedate country="Estonia">6 January 2009</releasedate>
+    <releasedate country="Iceland">11 January 2006</releasedate>
+    <releasedate country="Canada">8 February 2006</releasedate>
+    <releasedate country="Finland">10 September 2007</releasedate>
+    <releasedate country="Italy">11 July 2006</releasedate>
+    <releasedate country="USA">5 October 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">60</runningtime>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Dickerson, Ernest R.</director>
+    <director>Dinner, Michael</director>
+    <director>Eagles, Bill</director>
+    <director>Holcomb, Rod</director>
+    <director>Laneuville, Eric</director>
+    <director>Mimica-Gezzan, Sergio</director>
+    <director>Nankin, Michael</director>
+    <director>Schlamme, Thomas (I)</director>
+    <director>Shill, Steve</director>
+    <director>Spicer, Bryan (I)</director>
+    <director>Tobin, J. Miller</director>
+    <director>Toye, Fred</director>
+    <director>Trilling, Lawrence</director>
+    <director>Winer, Harry</director>
+  </directors>
+  <producers>
+    <producer>Brody, Jonathan C.</producer>
+    <producer>Ebong, Nne</producer>
+    <producer>Berns, Michael</producer>
+    <producer>Hartman-Edwards, Becky</producer>
+    <producer>Trilling, Lawrence</producer>
+    <producer>Coto, Juan Carlos</producer>
+    <producer>Craig, Charles Grant (I)</producer>
+    <producer>Steiner, Reed</producer>
+    <producer>Cassidy, Shaun</producer>
+    <producer>Schlamme, Thomas (I)</producer>
+    <producer>Lazarov, Joe</producer>
+    <producer>Marx, Timothy</producer>
+    <producer>Simon, Robert D.</producer>
+  </producers>
+  <writers>
+    <writer>Alaimo, Michael (II)</writer>
+    <writer>Berns, Michael</writer>
+    <writer>Blotevogel, Jill E.</writer>
+    <writer>Cassidy, Shaun</writer>
+    <writer>Coto, Juan Carlos</writer>
+    <writer>Craig, Charles Grant (I)</writer>
+    <writer>Foley, Michael (III)</writer>
+    <writer>Hartman-Edwards, Becky</writer>
+    <writer>Siege, Julie (I)</writer>
+    <writer>Steiner, Reed</writer>
+  </writers>
+  <composers>
+    <composer>Derlatka, Jason</composer>
+    <composer>Ehrlich, Jon</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alameda, Tony</actor>
+      <role>Hybrid Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Alameda, Tony</actor>
+      <role>Szura's Boat Handler</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Stephen W.</actor>
+      <role>Paul Hambrick</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Stephen W.</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Anthony, Bryan (I)</actor>
+      <role>Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Arnette, Jeanetta</actor>
+      <role>Ruth</role>
+    </credit>
+    <credit>
+      <actor>Artesona, Pia</actor>
+      <role>Deputy Sanchez</role>
+    </credit>
+    <credit>
+      <actor>Avery, Rebecca</actor>
+      <role>Pregnant Hybrid #2</role>
+    </credit>
+    <credit>
+      <actor>Baer, Dotan</actor>
+      <role>Hybrid National Guardsman/Air Force Rescue Team</role>
+    </credit>
+    <credit>
+      <actor>Baesel, Nathan</actor>
+      <role>Deputy Lewis Sirk</role>
+    </credit>
+    <credit>
+      <actor>Baesel, Nathan</actor>
+      <role>Deputy Lewis Sirk</role>
+    </credit>
+    <credit>
+      <actor>Baesel, Nathan</actor>
+      <role>Deputy Lewis Sirk</role>
+    </credit>
+    <credit>
+      <actor>Bancroft, Bob</actor>
+      <role>Dr. Feld</role>
+    </credit>
+    <credit>
+      <actor>Battoe, Becca</actor>
+      <role>Girl in Crowd</role>
+    </credit>
+    <credit>
+      <actor>Battoe, Becca</actor>
+      <role>Intern</role>
+    </credit>
+    <credit>
+      <actor>Battoe, Becca</actor>
+      <role>Military Agent</role>
+    </credit>
+    <credit>
+      <actor>Beckman, Owen</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Beckman, Owen</actor>
+      <role>Student #3</role>
+    </credit>
+    <credit>
+      <actor>Bethune, Patricia</actor>
+      <role>Ellen Paymer</role>
+    </credit>
+    <credit>
+      <actor>Betts, Erik</actor>
+      <role>Hurricane Survivor</role>
+    </credit>
+    <credit>
+      <actor>Blakemore, Sean</actor>
+      <role>Coast Guard Lt.</role>
+    </credit>
+    <credit>
+      <actor>Bodin, Charlie</actor>
+      <role>Dino</role>
+    </credit>
+    <credit>
+      <actor>Bridges, Verda</actor>
+      <role>Brett's Mom</role>
+    </credit>
+    <credit>
+      <actor>Broderick, Michael</actor>
+      <role>Hybrid Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Brogger, Ivar</actor>
+      <role>Father Jeffrey Scanlon</role>
+    </credit>
+    <credit>
+      <actor>Brogger, Ivar</actor>
+      <role>Father Jeffrey Scanlon</role>
+    </credit>
+    <credit>
+      <actor>Brogger, Ivar</actor>
+      <role>Father Jeffrey Scanlon</role>
+    </credit>
+    <credit>
+      <actor>Brown, Marcell</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Butiu, Melody</actor>
+      <role>Nurse Karlen</role>
+    </credit>
+    <credit>
+      <actor>Butler, Ron</actor>
+      <role>Asst. Coroner Arvin Morton</role>
+    </credit>
+    <credit>
+      <actor>Butler, Ron</actor>
+      <role>Coroner</role>
+    </credit>
+    <credit>
+      <actor>Callahan, E.J.</actor>
+      <role>Earl</role>
+    </credit>
+    <credit>
+      <actor>Cantafio, Jim</actor>
+      <role>FPL Manager</role>
+    </credit>
+    <credit>
+      <actor>Cantu, Juan Carlos</actor>
+      <role>Survivor/Javi</role>
+    </credit>
+    <credit>
+      <actor>Caplan, Phe</actor>
+      <role>Young Woman</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Bella</actor>
+      <role>Baby Faith</role>
+    </credit>
+    <credit>
+      <actor>Carlson, Chloe</actor>
+      <role>Baby Faith</role>
+    </credit>
+    <credit>
+      <actor>Carraway, James</actor>
+      <role>Roger Weeks</role>
+    </credit>
+    <credit>
+      <actor>Carrera, Leslie</actor>
+      <role>Mrs. Hernandez</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Rocky</actor>
+      <role>Healy</role>
+    </credit>
+    <credit>
+      <actor>Cartwright, Veronica</actor>
+      <role>Valerie Shenkman</role>
+    </credit>
+    <credit>
+      <actor>Cartwright, Veronica</actor>
+      <role>Valerie Shenkman</role>
+    </credit>
+    <credit>
+      <actor>Chavez, Herman</actor>
+      <role>Air Force Guard</role>
+    </credit>
+    <credit>
+      <actor>Chavez, Ramon</actor>
+      <role>Old Cuban Man</role>
+    </credit>
+    <credit>
+      <actor>Chung, Ewan</actor>
+      <role>Dr. Francis Cao</role>
+    </credit>
+    <credit>
+      <actor>Cibrian, Eddie</actor>
+      <role>Russell Varon</role>
+    </credit>
+    <credit>
+      <actor>Clark, Lisa (VI)</actor>
+      <role>Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Cohen, Robyn (I)</actor>
+      <role>Assembly Speaker</role>
+    </credit>
+    <credit>
+      <actor>Cokas, Nick</actor>
+      <role>David Paxton</role>
+    </credit>
+    <credit>
+      <actor>Cokas, Nick</actor>
+      <role>Paxton</role>
+    </credit>
+    <credit>
+      <actor>Collison, Frank</actor>
+      <role>Earl</role>
+    </credit>
+    <credit>
+      <actor>Colonna, Sarah</actor>
+      <role>Guardswoman</role>
+    </credit>
+    <credit>
+      <actor>Colson, Mark</actor>
+      <role>Deputy Munger</role>
+    </credit>
+    <credit>
+      <actor>Cruz, Valerie</actor>
+      <role>Colonel Sabrina Lopez</role>
+    </credit>
+    <credit>
+      <actor>Dabner, Shasa</actor>
+      <role>Student #4</role>
+    </credit>
+    <credit>
+      <actor>DeGrate, Freddie</actor>
+      <role>Displaced Migrant Worker #1</role>
+    </credit>
+    <credit>
+      <actor>DeGrate, Freddie</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Dean, Hazel</actor>
+      <role>Student #2</role>
+    </credit>
+    <credit>
+      <actor>Dever, Faith</actor>
+      <role>Baby In Cooler</role>
+    </credit>
+    <credit>
+      <actor>Dever, Hope</actor>
+      <role>Baby In Cooler</role>
+    </credit>
+    <credit>
+      <actor>Doss, Kurt</actor>
+      <role>Curtis</role>
+    </credit>
+    <credit>
+      <actor>Doucette, Jeff (I)</actor>
+      <role>Bob Hemming</role>
+    </credit>
+    <credit>
+      <actor>Dudek, Anne</actor>
+      <role>Katie Paxton</role>
+    </credit>
+    <credit>
+      <actor>Dudek, Anne</actor>
+      <role>Mrs. Paxton</role>
+    </credit>
+    <credit>
+      <actor>Dunne, Peggy</actor>
+      <role>Dottie Petrie</role>
+    </credit>
+    <credit>
+      <actor>Dziena, Alexis</actor>
+      <role>Kira Underlay</role>
+    </credit>
+    <credit>
+      <actor>Eberle, Jake</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Emerick, Kate</actor>
+      <role>Kira - Age 7</role>
+    </credit>
+    <credit>
+      <actor>Evans, Carter</actor>
+      <role>Reporter #3</role>
+    </credit>
+    <credit>
+      <actor>Everlove, John</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Feonix, Brennan</actor>
+      <role>Guardsman #3</role>
+    </credit>
+    <credit>
+      <actor>Fessides, Joyce</actor>
+      <role>Woman in Church</role>
+    </credit>
+    <credit>
+      <actor>Festge, Don</actor>
+      <role>Police officer</role>
+    </credit>
+    <credit>
+      <actor>Fichtner, William</actor>
+      <role>Sheriff Tom Underlay</role>
+    </credit>
+    <credit>
+      <actor>Fickes, Colin</actor>
+      <role>Deputy Palmateer</role>
+    </credit>
+    <credit>
+      <actor>Frain, James</actor>
+      <role>Eli Szura</role>
+    </credit>
+    <credit>
+      <actor>Gade, Ariel</actor>
+      <role>Rose Varon</role>
+    </credit>
+    <credit>
+      <actor>Gammon, Allison</actor>
+      <role>Wife in Crowd</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Biviano</actor>
+      <role>Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Biviano</actor>
+      <role>Hybrid Migrant #4</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Julian (I)</actor>
+      <role>Hybrid Migrant #3</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Monica (I)</actor>
+      <role>Nurse - Past</role>
+    </credit>
+    <credit>
+      <actor>Garfias, Ruben</actor>
+      <role>Albert Moldiva</role>
+    </credit>
+    <credit>
+      <actor>Garlington, Lee</actor>
+      <role>Helen Conrad</role>
+    </credit>
+    <credit>
+      <actor>Garza, Nicole</actor>
+      <role>Emily</role>
+    </credit>
+    <credit>
+      <actor>Geralden, James</actor>
+      <role>Deputy Ramsden</role>
+    </credit>
+    <credit>
+      <actor>Gilman, Robert J.</actor>
+      <role>Long Haired Man</role>
+    </credit>
+    <credit>
+      <actor>Gomez, Joshua (I)</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Gomez, Joshua (II)</actor>
+      <role>Scott</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Lisa (I)</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Harto, Joshua</actor>
+      <role>Greg Olgalvy</role>
+    </credit>
+    <credit>
+      <actor>Healy, Christine (I)</actor>
+      <role>Dr. Bates</role>
+    </credit>
+    <credit>
+      <actor>Hernandez, Jerry</actor>
+      <role>Zak</role>
+    </credit>
+    <credit>
+      <actor>Hinds, Aisha</actor>
+      <role>Mona Gomez</role>
+    </credit>
+    <credit>
+      <actor>Hinds, Aisha</actor>
+      <role>Mona Gomez</role>
+    </credit>
+    <credit>
+      <actor>Hinds, Aisha</actor>
+      <role>Mona Gomez</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Edwin</actor>
+      <role>Brett</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Tina</actor>
+      <role>Ms. Wade</role>
+    </credit>
+    <credit>
+      <actor>Honey, Amy</actor>
+      <role>Miss Gilroy</role>
+    </credit>
+    <credit>
+      <actor>Honey, Ryan</actor>
+      <role>Navigator</role>
+    </credit>
+    <credit>
+      <actor>Honey, Ryan</actor>
+      <role>Plane Navigator</role>
+    </credit>
+    <credit>
+      <actor>Huertas, Jon</actor>
+      <role>Natl. Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Huff, Nick</actor>
+      <role>Greg</role>
+    </credit>
+    <credit>
+      <actor>Huff, Nick</actor>
+      <role>Student #1</role>
+    </credit>
+    <credit>
+      <actor>Huynh, David</actor>
+      <role>Sun Kim</role>
+    </credit>
+    <credit>
+      <actor>Jaques, Jessica</actor>
+      <role>Young Woman</role>
+    </credit>
+    <credit>
+      <actor>Jerome, Paul (II)</actor>
+      <role>Man in Truck</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Reggie</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Reggie</actor>
+      <role>Reporter #1</role>
+    </credit>
+    <credit>
+      <actor>Keener, Brandon</actor>
+      <role>Air Force Lt. William Blount</role>
+    </credit>
+    <credit>
+      <actor>Kelegian, Sylva</actor>
+      <role>Lucy McKittrick</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Leigh</actor>
+      <role>Carla Hemming</role>
+    </credit>
+    <credit>
+      <actor>Kerner, Chris</actor>
+      <role>Basketball Player</role>
+    </credit>
+    <credit>
+      <actor>King, Brent (I)</actor>
+      <role>Lee</role>
+    </credit>
+    <credit>
+      <actor>Klace, Scott</actor>
+      <role>Stevie</role>
+    </credit>
+    <credit>
+      <actor>Klock, Michael</actor>
+      <role>Husband</role>
+    </credit>
+    <credit>
+      <actor>Knight, Aramis</actor>
+      <role>Hispanic Boy</role>
+    </credit>
+    <credit>
+      <actor>Kreps, Richard</actor>
+      <role>Hybrid Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Labine, Tyler</actor>
+      <role>Dave Groves</role>
+    </credit>
+    <credit>
+      <actor>Lacovara, Paul</actor>
+      <role>Air Force Security Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Lee, Alycia</actor>
+      <role>Teen in crowd</role>
+    </credit>
+    <credit>
+      <actor>Lee, Cody Benjamin</actor>
+      <role>Logan</role>
+    </credit>
+    <credit>
+      <actor>Lee, Stephen (I)</actor>
+      <role>Carl McKittrick</role>
+    </credit>
+    <credit>
+      <actor>Llamido, Elisa</actor>
+      <role>Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Lofton, Cirroc</actor>
+      <role>Reed</role>
+    </credit>
+    <credit>
+      <actor>Lofton, Cirroc</actor>
+      <role>Reed</role>
+    </credit>
+    <credit>
+      <actor>Louis, Allan (I)</actor>
+      <role>Gerard</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Richard (III)</actor>
+      <role>TV Director</role>
+    </credit>
+    <credit>
+      <actor>Lumberg Jr., Thomas</actor>
+      <role>Ted Bayless</role>
+    </credit>
+    <credit>
+      <actor>Malack, Jay</actor>
+      <role>Connor</role>
+    </credit>
+    <credit>
+      <actor>Marayati, Kamal</actor>
+      <role>Pria's Husband</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Giovanni</actor>
+      <role>Hybrid Migrant #2</role>
+    </credit>
+    <credit>
+      <actor>Matchett, Kari</actor>
+      <role>Dr. Mariel Underlay</role>
+    </credit>
+    <credit>
+      <actor>Mayorga, Jesus</actor>
+      <role>Omar</role>
+    </credit>
+    <credit>
+      <actor>McCann, Maria (I)</actor>
+      <role>Jill - Blonde Pregnant Woman</role>
+    </credit>
+    <credit>
+      <actor>McCullers II, Carlos</actor>
+      <role>Jake</role>
+    </credit>
+    <credit>
+      <actor>McKinney, Taivon</actor>
+      <role>Rita</role>
+    </credit>
+    <credit>
+      <actor>Mechoso, Julio Oscar</actor>
+      <role>Frank Vargas</role>
+    </credit>
+    <credit>
+      <actor>Melton, Kathryn (I)</actor>
+      <role>Mrs. Jones - Woman in Truck</role>
+    </credit>
+    <credit>
+      <actor>Mena, Lorena</actor>
+      <role>Hispanic Woman</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Scott</actor>
+      <role>AA Reporter</role>
+    </credit>
+    <credit>
+      <actor>Merino, Frank (I)</actor>
+      <role>Hybrid Migrant</role>
+    </credit>
+    <credit>
+      <actor>Mihok, Gwen</actor>
+      <role>Weather Officer</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Michael (X)</actor>
+      <role>Derek Culie</role>
+    </credit>
+    <credit>
+      <actor>Monteith, Felice Heather</actor>
+      <role>Librarian</role>
+    </credit>
+    <credit>
+      <actor>Moore, Richard D.</actor>
+      <role>Paramedic #1</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Scott Michael</actor>
+      <role>Randy Tredwell</role>
+    </credit>
+    <credit>
+      <actor>Morrisey, Bob</actor>
+      <role>Lawrence Burley</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Chris J.</actor>
+      <role>Freshman</role>
+    </credit>
+    <credit>
+      <actor>Novy, Daniel</actor>
+      <role>Reserve Guard/Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Orefice, Nick</actor>
+      <role>Air Force Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Osborne, Holmes</actor>
+      <role>Mayor Littles</role>
+    </credit>
+    <credit>
+      <actor>Osborne, Holmes</actor>
+      <role>Mayor Littles</role>
+    </credit>
+    <credit>
+      <actor>Perkins, Ron (I)</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Perry, Jeff (I)</actor>
+      <role>Terrence Gale</role>
+    </credit>
+    <credit>
+      <actor>Peters, Evan</actor>
+      <role>Jesse Varon</role>
+    </credit>
+    <credit>
+      <actor>Peters, Robert (I)</actor>
+      <role>Craig</role>
+    </credit>
+    <credit>
+      <actor>Pickell, Tripp</actor>
+      <role>Deputy Troy Armis</role>
+    </credit>
+    <credit>
+      <actor>Pierce, Denney</actor>
+      <role>Guardsman #2</role>
+    </credit>
+    <credit>
+      <actor>Pierce, Jason (VII)</actor>
+      <role>Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Quinn, Bill (II)</actor>
+      <role>Creature</role>
+    </credit>
+    <credit>
+      <actor>Ramírez, Juan (I)</actor>
+      <role>Hispanic Man</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Anthony</actor>
+      <role>Police diver</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Jake (I)</actor>
+      <role>Gage</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Mesan</actor>
+      <role>Dropsonde Operator</role>
+    </credit>
+    <credit>
+      <actor>Rosario, Jason</actor>
+      <role>Student #5</role>
+    </credit>
+    <credit>
+      <actor>Ross, Matt (I)</actor>
+      <role>Vince</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Shane (II)</actor>
+      <role>Boy in Crowd</role>
+    </credit>
+    <credit>
+      <actor>Ryder, JoJo</actor>
+      <role>Mauel</role>
+    </credit>
+    <credit>
+      <actor>Ryder, JoJo</actor>
+      <role>Mauel/displaced migrant worker</role>
+    </credit>
+    <credit>
+      <actor>Saario, Brandon</actor>
+      <role>National Guardsman</role>
+    </credit>
+    <credit>
+      <actor>Sharpe, James (I)</actor>
+      <role>Frank Riegert</role>
+    </credit>
+    <credit>
+      <actor>Shimerman, Armin</actor>
+      <role>Josh Breims</role>
+    </credit>
+    <credit>
+      <actor>Shivers, R.C.</actor>
+      <role>COC Woman</role>
+    </credit>
+    <credit>
+      <actor>Skidmore, Rich</actor>
+      <role>Anchorman</role>
+    </credit>
+    <credit>
+      <actor>Smith, Cotter</actor>
+      <role>Deputy Buell</role>
+    </credit>
+    <credit>
+      <actor>Standley, Robert</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Standley, Robert</actor>
+      <role>Weather Plane Pilot</role>
+    </credit>
+    <credit>
+      <actor>Stanley, Edward (II)</actor>
+      <role>Nurse #2</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Eric Sheffer</actor>
+      <role>Natl. Guard Driver</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Tim (VI)</actor>
+      <role>Hybrid National Guardsman/Air Force Rescue Team</role>
+    </credit>
+    <credit>
+      <actor>Vinneau, Randy</actor>
+      <role>Homestead High Student</role>
+    </credit>
+    <credit>
+      <actor>White, Jaron</actor>
+      <role>Hybrid</role>
+    </credit>
+    <credit>
+      <actor>Wiggins, Barry</actor>
+      <role>General Turner</role>
+    </credit>
+    <credit>
+      <actor>Wolford, Richard (I)</actor>
+      <role>Deputy Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Young, Arthur (V)</actor>
+      <role>7 Year Old</role>
+    </credit>
+    <credit>
+      <actor>Young, Arthur (V)</actor>
+      <role>7 Year Old in Truck</role>
+    </credit>
+  </cast>
+<plot>In the aftermath of a hurricane, a Florida Park Ranger and his family deal with strange occurrences, including luminescent creatures in the water and people that somehow seem to have changed after surviving the night of the disaster out in the open.</plot><url>http://localhost:8983/solr/movie.html?267840</url></doc>

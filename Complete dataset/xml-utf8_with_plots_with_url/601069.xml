@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="601069">
+  <docid>601069</docid>
+  <title>The Wild</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Balcerek, Scott</editor>
+    <editor>Wagner, Steven L.</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+  </genres>
+  <keywords>
+    <keyword>kangaroo</keyword>
+    <keyword>new-york-city</keyword>
+    <keyword>zoo</keyword>
+    <keyword>rescue</keyword>
+    <keyword>evacuation</keyword>
+    <keyword>jungle</keyword>
+    <keyword>hippopotamus</keyword>
+    <keyword>wilderness</keyword>
+    <keyword>flamingo</keyword>
+    <keyword>wildebeest</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>stampede</keyword>
+    <keyword>dance</keyword>
+    <keyword>giraffe</keyword>
+    <keyword>scene-during-end-credits</keyword>
+    <keyword>hippo</keyword>
+    <keyword>torch</keyword>
+    <keyword>crushed-to-death</keyword>
+    <keyword>surprise-after-end-credits</keyword>
+    <keyword>fish-out-of-water</keyword>
+    <keyword>beetle</keyword>
+    <keyword>goose</keyword>
+    <keyword>geese</keyword>
+    <keyword>pigeon</keyword>
+    <keyword>chameleon</keyword>
+    <keyword>dog</keyword>
+    <keyword>product-placement</keyword>
+    <keyword>father-searches-missing-son</keyword>
+    <keyword>snake</keyword>
+    <keyword>koala</keyword>
+    <keyword>times-square</keyword>
+    <keyword>steamship</keyword>
+    <keyword>journey-shown-on-map</keyword>
+    <keyword>cliff</keyword>
+    <keyword>volcanic-eruption</keyword>
+    <keyword>survival</keyword>
+    <keyword>vulture</keyword>
+    <keyword>stuffed-animal</keyword>
+    <keyword>lion</keyword>
+    <keyword>curling</keyword>
+    <keyword>penguin</keyword>
+    <keyword>whimsical</keyword>
+    <keyword>animal</keyword>
+    <keyword>garbage-truck</keyword>
+    <keyword>deception</keyword>
+    <keyword>parent-searches-child</keyword>
+    <keyword>alligator</keyword>
+    <keyword>circus</keyword>
+    <keyword>flashback-sequence</keyword>
+    <keyword>computer-animation</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>squirrel</keyword>
+    <keyword>canada-goose</keyword>
+    <keyword>tugboat</keyword>
+    <keyword>separation</keyword>
+    <keyword>flirting</keyword>
+    <keyword>africa</keyword>
+    <keyword>cgi-film</keyword>
+    <keyword>sewer</keyword>
+    <keyword>statue-of-liberty</keyword>
+    <keyword>character's-journey-shown-on-map</keyword>
+    <keyword>volcano</keyword>
+    <keyword>title-spoken-by-character</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Canada</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">7</certificate>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="Netherlands">MG6</certificate>
+    <certificate country="UK">U</certificate>
+    <certificate country="Singapore">G</certificate>
+    <certificate country="Germany">o.Al.</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Hong Kong">I</certificate>
+    <certificate country="Ireland">G</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="South Korea">All</certificate>
+    <certificate country="Australia">G</certificate>
+    <certificate country="Switzerland">7</certificate>
+    <certificate country="Norway">7</certificate>
+    <certificate country="Canada">G</certificate>
+    <certificate country="Finland">K-7</certificate>
+    <certificate country="Philippines">G</certificate>
+    <certificate country="USA">G</certificate>
+    <certificate country="Denmark">7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">20 October 2006</releasedate>
+    <releasedate country="Argentina">13 April 2006</releasedate>
+    <releasedate country="Latvia">22 September 2006</releasedate>
+    <releasedate country="Turkey">14 April 2006</releasedate>
+    <releasedate country="Netherlands">26 April 2006</releasedate>
+    <releasedate country="Brazil">14 April 2006</releasedate>
+    <releasedate country="Japan">16 December 2006</releasedate>
+    <releasedate country="Slovenia">8 June 2006</releasedate>
+    <releasedate country="Israel">6 April 2006</releasedate>
+    <releasedate country="UK">26 May 2006</releasedate>
+    <releasedate country="Taiwan">21 April 2006</releasedate>
+    <releasedate country="Thailand">13 April 2006</releasedate>
+    <releasedate country="Singapore">27 April 2006</releasedate>
+    <releasedate country="Greece">20 April 2006</releasedate>
+    <releasedate country="Germany">1 June 2006</releasedate>
+    <releasedate country="Belgium">12 April 2006</releasedate>
+    <releasedate country="France">12 April 2006</releasedate>
+    <releasedate country="Panama">13 April 2006</releasedate>
+    <releasedate country="Hungary">13 April 2006</releasedate>
+    <releasedate country="Hong Kong">29 April 2006</releasedate>
+    <releasedate country="Estonia">22 September 2006</releasedate>
+    <releasedate country="Czech Republic">31 August 2006</releasedate>
+    <releasedate country="Iceland">22 September 2006</releasedate>
+    <releasedate country="Mexico">13 April 2006</releasedate>
+    <releasedate country="South Korea">20 April 2006</releasedate>
+    <releasedate country="Poland">26 May 2006</releasedate>
+    <releasedate country="Spain">12 April 2006</releasedate>
+    <releasedate country="Egypt">21 June 2006</releasedate>
+    <releasedate country="Australia">28 September 2006</releasedate>
+    <releasedate country="Norway">20 October 2006</releasedate>
+    <releasedate country="Canada">14 April 2006</releasedate>
+    <releasedate country="Russia">27 April 2006</releasedate>
+    <releasedate country="Finland">20 October 2006</releasedate>
+    <releasedate country="Austria">1 June 2006</releasedate>
+    <releasedate country="Philippines">26 April 2006</releasedate>
+    <releasedate country="Italy">13 April 2006</releasedate>
+    <releasedate country="New Zealand">14 September 2006</releasedate>
+    <releasedate country="Colombia">13 April 2006</releasedate>
+    <releasedate country="USA">14 April 2006</releasedate>
+    <releasedate country="Kuwait">28 June 2006</releasedate>
+    <releasedate country="Venezuela">12 April 2006</releasedate>
+    <releasedate country="Denmark">3 November 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Philippines">82</runningtime>
+    <runningtime country="USA">94</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Williams, Steve 'Spaz'</director>
+  </directors>
+  <writers>
+    <writer>Decter, Ed</writer>
+    <writer>Gibson, Mark (III)</writer>
+    <writer>Halprin, Philip</writer>
+    <writer>Strauss, John J.</writer>
+  </writers>
+  <composers>
+    <composer>Silvestri, Alan</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Anthony, Keith (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Argueta, Christian</actor>
+      <role>Hamir</role>
+    </credit>
+    <credit>
+      <actor>Belushi, James</actor>
+      <role>Benny</role>
+    </credit>
+    <credit>
+      <actor>Berg, Greg (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Bergen, Bob (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Buescher, Julianne</actor>
+      <role>Dung Beetle #2</role>
+    </credit>
+    <credit>
+      <actor>Cherry, Don (II)</actor>
+      <role>Penguin MC</role>
+    </credit>
+    <credit>
+      <actor>Cipes, Greg</actor>
+      <role>Ryan</role>
+    </credit>
+    <credit>
+      <actor>Connery, Jason (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Cowgill, David</actor>
+      <role>Hamir</role>
+    </credit>
+    <credit>
+      <actor>Cunningham, Colin (IV)</actor>
+      <role>Hyrax</role>
+    </credit>
+    <credit>
+      <actor>De Sena, Jack</actor>
+      <role>Eze</role>
+    </credit>
+    <credit>
+      <actor>Derryberry, Debi</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Terri</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Edgerly, Chris</actor>
+      <role>Cloak</role>
+    </credit>
+    <credit>
+      <actor>Elias, Jeannie</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Frierson, Eddie</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Futterman, Nika</actor>
+      <role>Dung Beetle #1</role>
+    </credit>
+    <credit>
+      <actor>Garofalo, Janeane</actor>
+      <role>Bridget</role>
+    </credit>
+    <credit>
+      <actor>Gossling, Eddie</actor>
+      <role>Scraw</role>
+    </credit>
+    <credit>
+      <actor>Guest, Nicholas</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jason (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Hay, Colin</actor>
+      <role>Fergus Flamingo</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Bridget</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Izzard, Eddie</actor>
+      <role>Nigel</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Emily (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Joles, Bob</actor>
+      <role>Camo/Ringleader</role>
+    </credit>
+    <credit>
+      <actor>Jourden, Alexandra Gold</actor>
+      <role>Baby Hippo</role>
+    </credit>
+    <credit>
+      <actor>Kassir, John</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Kay, Dominic Scott</actor>
+      <role>Young Samson</role>
+    </credit>
+    <credit>
+      <actor>Kaz, Daniel</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Keaton, Josh</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Kimmel, Jonathan</actor>
+      <role>Scab</role>
+    </credit>
+    <credit>
+      <actor>Kind, Richard</actor>
+      <role>Larry</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Carolyn</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Leupp, Clinton</actor>
+      <role>Mama Hippo</role>
+    </credit>
+    <credit>
+      <actor>Mann, Danny (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Mona (I)</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Marsico, Miles</actor>
+      <role>Duke</role>
+    </credit>
+    <credit>
+      <actor>North, Nolan</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Pape, Paul</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Samson's Father</role>
+    </credit>
+    <credit>
+      <actor>Shatner, William</actor>
+      <role>Kazar</role>
+    </credit>
+    <credit>
+      <actor>Siravo, Joseph</actor>
+      <role>Carmine</role>
+    </credit>
+    <credit>
+      <actor>Sutherland, Kiefer</actor>
+      <role>Samson</role>
+    </credit>
+    <credit>
+      <actor>Tatasciore, Fred</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Venito, Lenny</actor>
+      <role>Stan</role>
+    </credit>
+    <credit>
+      <actor>Warburton, Patrick</actor>
+      <role>Blag</role>
+    </credit>
+    <credit>
+      <actor>Williams, Steve 'Spaz'</actor>
+      <role>Additional Voice</role>
+    </credit>
+  </cast>
+<plot>Ryan is a lion who wants to go to the wild, where his dad (Samson) once lived. When he gets himself shipped to Africa, his zoo friends (and Samson) work together to bring him back. When they get to Africa, however, the animals find themselves in a pile of danger. They have to fight an evil wildebeest called Kazar. But Kazar's safe compared to the other danger on the island- a volcano that's on the edge of eruption. Can the animals find Ryan and get out of Africa before the volcano erupts in so little time?</plot><url>http://localhost:8983/solr/movie.html?601069</url></doc>

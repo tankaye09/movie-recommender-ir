@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="040670">
+  <docid>040670</docid>
+  <title>Anijam</title>
+  <year>1984</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+  </genres>
+  <keywords>
+    <keyword>cartoon</keyword>
+    <keyword>compilation</keyword>
+    <keyword>collaboration</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Newland, Marv</director>
+  </directors>
+  <producers>
+    <producer>Newland, Marv</producer>
+  </producers>
+  <composers>
+    <composer>Dodd, J. Douglas</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Kausler, Mark</actor>
+      <role>Pastor</role>
+    </credit>
+  </cast>
+<plot>The bizarre adventures of the cartoon character Foska, drawn by 22 animators working in collaboration. Each animator worked on his or her own sequence only, and did not know what action preceded or followed his or her sequence, except that the first drawing of a sequence is the last drawing from the previous sequence.</plot><url>http://localhost:8983/solr/movie.html?040670</url></doc>

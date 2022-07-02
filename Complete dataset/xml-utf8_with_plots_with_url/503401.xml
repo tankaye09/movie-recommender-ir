@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="503401">
+  <docid>503401</docid>
+  <title>Snow Birds</title>
+  <year>1932</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+    <genre>Sport</genre>
+  </genres>
+  <keywords>
+    <keyword>ice-skating</keyword>
+    <keyword>winter-sports</keyword>
+    <keyword>narration</keyword>
+    <keyword>ski-jumping</keyword>
+    <keyword>toboggan</keyword>
+    <keyword>barrel-jumping</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">20 August 1932</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>White, Jules (I)</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Smith, Pete (I)</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>This short showcases winter sports enthusiasts. The first half highlights tobogganing, ice skating, and barrel jumping in California. In the second half we see champion ski-jumpers at work on the world's longest ski-jump in Sweden.</plot><url>http://localhost:8983/solr/movie.html?503401</url></doc>

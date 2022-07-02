@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="007900">
+  <docid>007900</docid>
+  <title>A Bridge Too Far</title>
+  <year>1977</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Gibbs, Antony</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Drama</genre>
+    <genre>Action</genre>
+    <genre>History</genre>
+  </genres>
+  <keywords>
+    <keyword>blockbuster</keyword>
+    <keyword>combat-casualty</keyword>
+    <keyword>church</keyword>
+    <keyword>airplane</keyword>
+    <keyword>plan-gone-wrong</keyword>
+    <keyword>paratrooper</keyword>
+    <keyword>liberation</keyword>
+    <keyword>jeep</keyword>
+    <keyword>tank</keyword>
+    <keyword>car-wreck</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>dead-child</keyword>
+    <keyword>american-soldier</keyword>
+    <keyword>lieutenant-colonel</keyword>
+    <keyword>1940s</keyword>
+    <keyword>bridge</keyword>
+    <keyword>u.s.-army</keyword>
+    <keyword>map</keyword>
+    <keyword>explosion</keyword>
+    <keyword>burning-tank</keyword>
+    <keyword>reference-to-george-washington</keyword>
+    <keyword>smoke</keyword>
+    <keyword>river-crossing</keyword>
+    <keyword>artillery</keyword>
+    <keyword>major-general</keyword>
+    <keyword>netherlands</keyword>
+    <keyword>helmet</keyword>
+    <keyword>cannon</keyword>
+    <keyword>dutch</keyword>
+    <keyword>army</keyword>
+    <keyword>exploding-truck</keyword>
+    <keyword>river</keyword>
+    <keyword>skydiving</keyword>
+    <keyword>plan</keyword>
+    <keyword>beret</keyword>
+    <keyword>infantry</keyword>
+    <keyword>exploding-tank</keyword>
+    <keyword>organ</keyword>
+    <keyword>lieutenant</keyword>
+    <keyword>bicycle</keyword>
+    <keyword>uniform</keyword>
+    <keyword>nazi-uniform</keyword>
+    <keyword>lieutenant-general</keyword>
+    <keyword>british-soldier</keyword>
+    <keyword>tank-on-fire</keyword>
+    <keyword>arnhem-holland</keyword>
+    <keyword>fire</keyword>
+    <keyword>disguised-nazi-troops</keyword>
+    <keyword>flute</keyword>
+    <keyword>armor</keyword>
+    <keyword>german-soldier</keyword>
+    <keyword>rowing</keyword>
+    <keyword>operation-market-garden</keyword>
+    <keyword>nazi</keyword>
+    <keyword>defeat</keyword>
+    <keyword>british-army</keyword>
+    <keyword>gunfight</keyword>
+    <keyword>sergeant</keyword>
+    <keyword>title-spoken-by-character</keyword>
+    <keyword>polish</keyword>
+    <keyword>german-army</keyword>
+    <keyword>based-on-fact</keyword>
+    <keyword>ss</keyword>
+    <keyword>ss-officer</keyword>
+    <keyword>major</keyword>
+    <keyword>parachuting</keyword>
+    <keyword>wwii</keyword>
+    <keyword>based-on-book</keyword>
+    <keyword>dead-soldier</keyword>
+    <keyword>parachute</keyword>
+  </keywords>
+  <languages>
+    <language>Polish</language>
+    <language>English</language>
+    <language>German</language>
+    <language>Dutch</language>
+  </languages>
+  <soundmixes>
+    <soundmix>70 mm 6-Track</soundmix>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="West Germany">16</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="South Korea">12</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Norway">16</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Finland">K-16</certificate>
+    <certificate country="New Zealand">PG</certificate>
+    <certificate country="USA">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">19 August 1977</releasedate>
+    <releasedate country="Hungary">8 February 1979</releasedate>
+    <releasedate country="West Germany">20 October 1977</releasedate>
+    <releasedate country="Netherlands">23 June 1977</releasedate>
+    <releasedate country="Spain">5 March 1978</releasedate>
+    <releasedate country="UK">23 June 1977</releasedate>
+    <releasedate country="Australia">4 August 1977</releasedate>
+    <releasedate country="Finland">16 December 1977</releasedate>
+    <releasedate country="USA">15 June 1977</releasedate>
+    <releasedate country="Denmark">15 August 1977</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">175</runningtime>
+    <runningtime country="Finland">158</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Attenborough, Richard</director>
+  </directors>
+  <producers>
+    <producer>Palmer, John (I)</producer>
+    <producer>Stanley-Evans, Michael</producer>
+    <producer>Levine, Joseph E.</producer>
+    <producer>Levine, Richard P.</producer>
+  </producers>
+  <writers>
+    <writer>Goldman, William</writer>
+    <writer>Ryan, Cornelius</writer>
+  </writers>
+  <composers>
+    <composer>Addison, John (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abineri, Sebastian</actor>
+      <role>Sgt. Treadwell</role>
+    </credit>
+    <credit>
+      <actor>Alcmaer, Marlies van</actor>
+      <role>Underground leader's wife</role>
+    </credit>
+    <credit>
+      <actor>Alma, Henny</actor>
+      <role>Dutch villager</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Alun</actor>
+      <role>Cpl. Davies</role>
+    </credit>
+    <credit>
+      <actor>Arons, Feliks</actor>
+      <role>Dutch priest</role>
+    </credit>
+    <credit>
+      <actor>Attenborough, Richard</actor>
+      <role>Lunatic Wearing Glasses</role>
+    </credit>
+    <credit>
+      <actor>Auker, David</actor>
+      <role>'Taffy' Brace</role>
+    </credit>
+    <credit>
+      <actor>Bangerter, Michael</actor>
+      <role>British staff colonel</role>
+    </credit>
+    <credit>
+      <actor>Becker, Hartmut</actor>
+      <role>German sentry</role>
+    </credit>
+    <credit>
+      <actor>Beek, Tom van</actor>
+      <role>Jan Ter Horst</role>
+    </credit>
+    <credit>
+      <actor>Beekman, Tim</actor>
+      <role>German private</role>
+    </credit>
+    <credit>
+      <actor>Blake, Stuart</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bogarde, Dirk</actor>
+      <role>Lt. Gen. Frederick A.M. Browning</role>
+    </credit>
+    <credit>
+      <actor>Botterman, Bertus</actor>
+      <role>Dutch villager</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Ray</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Bradley, Omar N.</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Branch, Andrew</actor>
+      <role>Flute player</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Michael (I)</actor>
+      <role>Lt. Col. Giles A.M. Vandeleur</role>
+    </credit>
+    <credit>
+      <actor>Caan, James (I)</actor>
+      <role>SSgt. Eddie Dohun</role>
+    </credit>
+    <credit>
+      <actor>Cadman, Milton</actor>
+      <role>Pvt. Long</role>
+    </credit>
+    <credit>
+      <actor>Caine, Michael (I)</actor>
+      <role>Lt. Col. John O.E. Vandeleur</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Nicholas (I)</actor>
+      <role>Capt. Glass</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Simon (I)</actor>
+      <role>Pvt. Simmonds</role>
+    </credit>
+    <credit>
+      <actor>Chitty, Erik</actor>
+      <role>Organist</role>
+    </credit>
+    <credit>
+      <actor>Churchett, Stephen (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Churchill, Winston (I)</actor>
+      <role>Himself (with Monty)</role>
+    </credit>
+    <credit>
+      <actor>Connery, Sean</actor>
+      <role>Maj. Gen. Robert E. Urquhart</role>
+    </credit>
+    <credit>
+      <actor>Copley, Paul</actor>
+      <role>Pvt. Wicks</role>
+    </credit>
+    <credit>
+      <actor>Cox, Michael Graham</actor>
+      <role>Capt. Cleminson</role>
+    </credit>
+    <credit>
+      <actor>Croft, Jon (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Croiset, Hans</actor>
+      <role>Old Dutch lady's son</role>
+    </credit>
+    <credit>
+      <actor>Cross, Ben (I)</actor>
+      <role>Trooper Binns</role>
+    </credit>
+    <credit>
+      <actor>Curry, Shaun (I)</actor>
+      <role>Cpl. Robbins</role>
+    </credit>
+    <credit>
+      <actor>Dickson, Patrick</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Ditson, Harry</actor>
+      <role>U.S. private</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donald (III)</actor>
+      <role>Brig. Gen. Gerald W. Lathbury</role>
+    </credit>
+    <credit>
+      <actor>Drinkel, Keith (I)</actor>
+      <role>Lt. Cornish</role>
+    </credit>
+    <credit>
+      <actor>Eisenhower, Dwight D.</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Denholm</actor>
+      <role>RAF meteorologist officer</role>
+    </credit>
+    <credit>
+      <actor>English, David (I)</actor>
+      <role>Pvt. Andrews</role>
+    </credit>
+    <credit>
+      <actor>Faber, Peter (I)</actor>
+      <role>Capt. Harry Bestebreurtje</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Colin (II)</actor>
+      <role>Cpl. Hancock</role>
+    </credit>
+    <credit>
+      <actor>Fox, Edward (I)</actor>
+      <role>Lt. Gen. Brian G. Horrocks</role>
+    </credit>
+    <credit>
+      <actor>Franken, Gerard</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Galloway, Jack</actor>
+      <role>Pvt. Vincent</role>
+    </credit>
+    <credit>
+      <actor>Garner, Anthony (II)</actor>
+      <role>British staff major</role>
+    </credit>
+    <credit>
+      <actor>Gibbs, Adrian</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Good, Christopher (I)</actor>
+      <role>Maj. Carlyle</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Peter (I)</actor>
+      <role>U.S. sergeant</role>
+    </credit>
+    <credit>
+      <actor>Gould, Elliott</actor>
+      <role>Col. Robert Stout</role>
+    </credit>
+    <credit>
+      <actor>Graves, Michael (II)</actor>
+      <role>British medical orderly</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Jason (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Norman</actor>
+      <role>Pvt. Morgan</role>
+    </credit>
+    <credit>
+      <actor>Grimes, Frank</actor>
+      <role>Maj. Fuller</role>
+    </credit>
+    <credit>
+      <actor>Groenier, Pieter</actor>
+      <role>Young Dutch man</role>
+    </credit>
+    <credit>
+      <actor>Guidotti, Stewart</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Gwaspari, Brian</actor>
+      <role>U.S. engineer</role>
+    </credit>
+    <credit>
+      <actor>Hackett, Jonathan (I)</actor>
+      <role>Glider pilot</role>
+    </credit>
+    <credit>
+      <actor>Hackman, Gene</actor>
+      <role>Maj. Gen. Stanislaw F. Sosabowski</role>
+    </credit>
+    <credit>
+      <actor>Hagon, Garrick</actor>
+      <role>Lt. Rafferty</role>
+    </credit>
+    <credit>
+      <actor>Hannaway, Patrick</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Haughton, Brian</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Hawksley, Brian</actor>
+      <role>Vicar</role>
+    </credit>
+    <credit>
+      <actor>Hill, Arthur (I)</actor>
+      <role>U.S. medical colonel</role>
+    </credit>
+    <credit>
+      <actor>Hinsliff, Geoffrey</actor>
+      <role>British wireless operator</role>
+    </credit>
+    <credit>
+      <actor>Hitler, Adolf</actor>
+      <role>Himself (salutes parade)</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Anthony</actor>
+      <role>Lt. Col. John D. Frost</role>
+    </credit>
+    <credit>
+      <actor>Howard, Ben (II)</actor>
+      <role>Sgt. Towns</role>
+    </credit>
+    <credit>
+      <actor>Howden, Anthony</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Innes, George</actor>
+      <role>Sgt. Macdonald</role>
+    </credit>
+    <credit>
+      <actor>Jarvis, Frank</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Jewers, Ray</actor>
+      <role>U.S. radio operator</role>
+    </credit>
+    <credit>
+      <actor>Jodl, Alfred</actor>
+      <role>Himself (beside Hitler)</role>
+    </credit>
+    <credit>
+      <actor>Judd, John (II)</actor>
+      <role>Sgt. Clegg</role>
+    </credit>
+    <credit>
+      <actor>Kalinski, Edward</actor>
+      <role>Pvt. Archer</role>
+    </credit>
+    <credit>
+      <actor>Kane, Richard (I)</actor>
+      <role>Col. Weaver</role>
+    </credit>
+    <credit>
+      <actor>Kemp, Jeremy (I)</actor>
+      <role>RAF briefing officer</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Neil (I)</actor>
+      <role>Col. Barker</role>
+    </credit>
+    <credit>
+      <actor>Killick, David</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Kleiweg, Adrienne</actor>
+      <role>Young Dutch woman</role>
+    </credit>
+    <credit>
+      <actor>Kohut, Walter</actor>
+      <role>Field Marshal Walter Model</role>
+    </credit>
+    <credit>
+      <actor>Krüger, Hardy</actor>
+      <role>Maj. Gen. Ludwig</role>
+    </credit>
+    <credit>
+      <actor>Lebor, Stanley</actor>
+      <role>Regimental Sergeant Major</role>
+    </credit>
+    <credit>
+      <actor>Leigh-Mallory, Trafford</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Liston, Ian</actor>
+      <role>Sgt. Whitney</role>
+    </credit>
+    <credit>
+      <actor>Long, Dan (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Martin, Gerald (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Mathias, Sean</actor>
+      <role>Irish Guards lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Paul (I)</actor>
+      <role>Maj. Gen. Maxwell D. Taylor</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Barry</actor>
+      <role>Pvt. Clark</role>
+    </credit>
+    <credit>
+      <actor>McDermott, Edward (II)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>McHale, Tony</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Jack</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Milner, Anthony</actor>
+      <role>Pvt. Dodds</role>
+    </credit>
+    <credit>
+      <actor>Minster, Hilary</actor>
+      <role>British medical officer</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Bernard L.</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Moore, Stephen (I)</actor>
+      <role>Maj. Robert Steele</role>
+    </credit>
+    <credit>
+      <actor>Morand, Timothy</actor>
+      <role>British corporal</role>
+    </credit>
+    <credit>
+      <actor>Morton, John (I)</actor>
+      <role>U.S. Padre</role>
+    </credit>
+    <credit>
+      <actor>Mughan, Francis</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>O'Neal, Ryan</actor>
+      <role>Brig. Gen. James M. Gavin</role>
+    </credit>
+    <credit>
+      <actor>Olivier, Laurence</actor>
+      <role>Dr. Jan Spaander</role>
+    </credit>
+    <credit>
+      <actor>Ommanney, Richard</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Padden, Niall</actor>
+      <role>British medical orderly</role>
+    </credit>
+    <credit>
+      <actor>Patton, George S.</actor>
+      <role>Himself (handshakes with Ike, Monty)</role>
+    </credit>
+    <credit>
+      <actor>Peel, John (III)</actor>
+      <role>German lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Pickering, Donald</actor>
+      <role>Lt. Col. Mackenzie</role>
+    </credit>
+    <credit>
+      <actor>Preiss, Wolfgang (I)</actor>
+      <role>Field Marshal Karl R.G. Von Rundstedt</role>
+    </credit>
+    <credit>
+      <actor>Quince, Peter</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Ramsay, Bertram</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Rattee, Paul</actor>
+      <role>Pvt. Gordon</role>
+    </credit>
+    <credit>
+      <actor>Ratzenberger, John</actor>
+      <role>U.S. lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Rayment, Stephen</actor>
+      <role>Grenadier Guards lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Raymond, Philip (I)</actor>
+      <role>Grenadier Guards colonel</role>
+    </credit>
+    <credit>
+      <actor>Redford, Robert (I)</actor>
+      <role>Maj. Julian Cook</role>
+    </credit>
+    <credit>
+      <actor>Reithermann, Myles</actor>
+      <role>Boat truck driver</role>
+    </credit>
+    <credit>
+      <actor>Rienstra, Dick</actor>
+      <role>Capt. Krafft</role>
+    </credit>
+    <credit>
+      <actor>Rommel, Erwin</actor>
+      <role>Himself (below Hitler)</role>
+    </credit>
+    <credit>
+      <actor>Roosevelt, Franklin Delano</actor>
+      <role>Himself (with Churchill)</role>
+    </credit>
+    <credit>
+      <actor>Ryecart, Patrick</actor>
+      <role>German lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Salaman, Toby</actor>
+      <role>Pvt. Stephenson</role>
+    </credit>
+    <credit>
+      <actor>Salthouse, John</actor>
+      <role>Pvt. 'Ginger' Marsh</role>
+    </credit>
+    <credit>
+      <actor>Schell, Maximilian</actor>
+      <role>Lt. Gen. Wilhelm Bittrich</role>
+    </credit>
+    <credit>
+      <actor>Scobey, Robin</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Seckerson, Edward</actor>
+      <role>British Padre</role>
+    </credit>
+    <credit>
+      <actor>Settelen, Peter</actor>
+      <role>Lt. Cole</role>
+    </credit>
+    <credit>
+      <actor>Shaw, Anthony Pullen</actor>
+      <role>U.S. captain</role>
+    </credit>
+    <credit>
+      <actor>Sheridan, Farrell</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sheridan, Mark (I)</actor>
+      <role>Sgt. Tomblin</role>
+    </credit>
+    <credit>
+      <actor>Sim, Gerald</actor>
+      <role>Col. Sims</role>
+    </credit>
+    <credit>
+      <actor>Slaa, Johan te</actor>
+      <role>Elderly Dutch man</role>
+    </credit>
+    <credit>
+      <actor>Smith, Walter Bedell</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Snell, James</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Stock, Michael (II)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Stockton, David (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Stride, John</actor>
+      <role>Grenadier Guards major</role>
+    </credit>
+    <credit>
+      <actor>Tedder, Arthur</actor>
+      <role>Himself (plans for D-Day)</role>
+    </credit>
+    <credit>
+      <actor>Vaughan-Teague, Paul</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Vroom, Siem</actor>
+      <role>Underground leader</role>
+    </credit>
+    <credit>
+      <actor>Wardroper, James</actor>
+      <role>Pvt. Gibbs</role>
+    </credit>
+    <credit>
+      <actor>White, Jason (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Williams, Chris (I)</actor>
+      <role>Cpl. Merrick</role>
+    </credit>
+    <credit>
+      <actor>Williams, Fred (I)</actor>
+      <role>Capt. Grabner</role>
+    </credit>
+    <credit>
+      <actor>Wolf, Michael (II)</actor>
+      <role>Field Marshal Model's aide</role>
+    </credit>
+    <credit>
+      <actor>York, Mark (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>de Gaulle, Charles</actor>
+      <role>Himself (in car with Churchill)</role>
+    </credit>
+    <credit>
+      <actor>van 't Wout, Erik</actor>
+      <role>Underground leader's son</role>
+    </credit>
+    <credit>
+      <actor>van Delden, Lex</actor>
+      <role>Sgt. Matthias</role>
+    </credit>
+    <credit>
+      <actor>von Borsody, Hans</actor>
+      <role>Maj. Gen. Gunther Blumentritt</role>
+    </credit>
+  </cast>
+<plot>This WWII film follows the perspectives of American, Polish and British soldiers attempting to capture key bridges behind German lines in a complicated parachute and armoured assault.</plot><url>http://localhost:8983/solr/movie.html?007900</url></doc>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="522580">
+  <docid>522580</docid>
+  <title>Superhero</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bosch, Karyn (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>african</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>South Africa</country>
+  </countries>
+  <releasedates>
+    <releasedate country="South Africa">August 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="South Africa">15</runningtime>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schutte, Hanneke</director>
+  </directors>
+  <producers>
+    <producer>Haidarian, Ryan</producer>
+  </producers>
+  <writers>
+    <writer>Schutte, Hanneke</writer>
+  </writers>
+  <composers>
+    <composer>Beggs, Jonathan (I)</composer>
+    <composer>Sacks, Trevor</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Gxwala, Loyiso</actor>
+      <role>Sam</role>
+    </credit>
+    <credit>
+      <actor>Strydom, Justin</actor>
+      <role>Superhero</role>
+    </credit>
+    <credit>
+      <actor>de Bruyn, Johannes</actor>
+      <role>Lebo</role>
+    </credit>
+  </cast>
+<plot>An amnesiac finds himself stranded in the middle of an arid landscape dressed as a superhero. He's assisted and spurred on by a young black boy who wholeheartedly believes that he is a superhero. But as the man's memory returns he discovers that he's been anything but a hero.</plot><url>http://localhost:8983/solr/movie.html?522580</url></doc>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="062087">
+  <docid>062087</docid>
+  <title>BeastMaster</title>
+  <year>1999</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lamb, Geoffrey</editor>
+    <editor>Lange, Bruce</editor>
+    <editor>Webster, Craig (I)</editor>
+  </editors>
+  <genres>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-cult-film</keyword>
+    <keyword>spin-off</keyword>
+    <keyword>tv-show</keyword>
+    <keyword>sword-and-sorcery</keyword>
+    <keyword>based-on-cult-classic</keyword>
+    <keyword>based-on-cult-favorite</keyword>
+    <keyword>based-on-film</keyword>
+    <keyword>rack-torture</keyword>
+    <keyword>spin-off-from-cult-film</keyword>
+    <keyword>based-on-cult-movie</keyword>
+    <keyword>bare-chested-male</keyword>
+    <keyword>amazon-tribe</keyword>
+    <keyword>tiger</keyword>
+    <keyword>beastmaster</keyword>
+    <keyword>spin-off-from-cult-favorite</keyword>
+    <keyword>animal-human-communication</keyword>
+    <keyword>animal</keyword>
+    <keyword>loincloth</keyword>
+    <keyword>television-show</keyword>
+    <keyword>staked-out</keyword>
+    <keyword>bare-chested-male-bondage</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Hungary">28 April 2002</releasedate>
+    <releasedate country="Australia">4 November 2000</releasedate>
+    <releasedate country="Canada">13 November 1999</releasedate>
+    <releasedate country="Germany">10 August 2003</releasedate>
+    <releasedate country="USA">22 January 2001</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">45</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Amenta, Pino</director>
+    <director>Andrikidis, Peter</director>
+    <director>Gilmour, Ian (I)</director>
+    <director>Maher, Brendan (I)</director>
+    <director>Millar, Catherine</director>
+    <director>Offer, Michael</director>
+    <director>Quint, Raymond</director>
+    <director>Zwicky, Karl</director>
+  </directors>
+  <producers>
+    <producer>Lazer, Charles</producer>
+    <producer>Ritchie, Dawn</producer>
+    <producer>Dolphin, Connie</producer>
+    <producer>Coote, Greg</producer>
+    <producer>Eastman, Allan</producer>
+    <producer>Feke, Steve</producer>
+    <producer>Hayes, Jeffrey M.</producer>
+    <producer>Lazer, Charles</producer>
+    <producer>Tabet, Sylvio</producer>
+    <producer>Popplewell, Brett</producer>
+    <producer>Henshaw, Jim</producer>
+  </producers>
+  <writers>
+    <writer>Buckingham, Sharon</writer>
+    <writer>Dixon, Will (I)</writer>
+    <writer>Dodd, Sarah (I)</writer>
+    <writer>Drew, Rick</writer>
+    <writer>Feke, Steve</writer>
+    <writer>Follows, Edwina</writer>
+    <writer>Forbes, Tracey</writer>
+    <writer>Goddard, Daniel (II)</writer>
+    <writer>Gray, William (I)</writer>
+    <writer>Guignard, Lars</writer>
+    <writer>Henshaw, Jim</writer>
+    <writer>Horvath, Gillian</writer>
+    <writer>Kindler, Damian</writer>
+    <writer>Kraft, Scott</writer>
+    <writer>Lalonde, Larry (I)</writer>
+    <writer>Lazer, Charles</writer>
+    <writer>Pepperman, Paul</writer>
+    <writer>Ritchie, Dawn</writer>
+    <writer>Senecal, Kelly</writer>
+    <writer>Thorpe, James (III)</writer>
+    <writer>Whitney, Steven</writer>
+  </writers>
+  <composers>
+    <composer>Coleman, Graeme</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aaron, Aash</actor>
+      <role>Terron Leader</role>
+    </credit>
+    <credit>
+      <actor>Abernethy, Burgess</actor>
+      <role>Young Dar</role>
+    </credit>
+    <credit>
+      <actor>Adam, John</actor>
+      <role>Rolan</role>
+    </credit>
+    <credit>
+      <actor>Arthur, Brett (II)</actor>
+      <role>Assassin</role>
+    </credit>
+    <credit>
+      <actor>Arthur, Brett (II)</actor>
+      <role>King Nolos</role>
+    </credit>
+    <credit>
+      <actor>Asmar, Shanyn</actor>
+      <role>Leilani</role>
+    </credit>
+    <credit>
+      <actor>Asmar, Shanyn</actor>
+      <role>Vella</role>
+    </credit>
+    <credit>
+      <actor>Atkinson, Don (V)</actor>
+      <role>Tor</role>
+    </credit>
+    <credit>
+      <actor>Bacic, Steve</actor>
+      <role>Kim</role>
+    </credit>
+    <credit>
+      <actor>Banas, Michala</actor>
+      <role>Loriel</role>
+    </credit>
+    <credit>
+      <actor>Bastoni, Steve</actor>
+      <role>Maloc</role>
+    </credit>
+    <credit>
+      <actor>Bate, Andrew</actor>
+      <role>Nord Guard</role>
+    </credit>
+    <credit>
+      <actor>Bate, Andrew</actor>
+      <role>Yort</role>
+    </credit>
+    <credit>
+      <actor>Battee, Don</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Manu</actor>
+      <role>Terron Leader</role>
+    </credit>
+    <credit>
+      <actor>Biasi, Bianca</actor>
+      <role>Elka</role>
+    </credit>
+    <credit>
+      <actor>Bierk, Dylan</actor>
+      <role>The Sorceress</role>
+    </credit>
+    <credit>
+      <actor>Bierk, Dylan</actor>
+      <role>The Sorceress #2</role>
+    </credit>
+    <credit>
+      <actor>Bierk, Dylan</actor>
+      <role>The Sorceress #2 (2000-2001)</role>
+    </credit>
+    <credit>
+      <actor>Black, Claudia (I)</actor>
+      <role>Huna</role>
+    </credit>
+    <credit>
+      <actor>Boden, Kirsty</actor>
+      <role>Artful Dodger</role>
+    </credit>
+    <credit>
+      <actor>Bond, Grahame</actor>
+      <role>Ancient One</role>
+    </credit>
+    <credit>
+      <actor>Bond, Grahame</actor>
+      <role>The Ancient One</role>
+    </credit>
+    <credit>
+      <actor>Bond, Grahame</actor>
+      <role>The Ancient One</role>
+    </credit>
+    <credit>
+      <actor>Brewer, Scott (II)</actor>
+      <role>Nord Archer</role>
+    </credit>
+    <credit>
+      <actor>Brewer, Scott (II)</actor>
+      <role>Terron Messenger</role>
+    </credit>
+    <credit>
+      <actor>Brisley, Holly</actor>
+      <role>Haisa</role>
+    </credit>
+    <credit>
+      <actor>Brisley, Holly</actor>
+      <role>Kodo-Woman</role>
+    </credit>
+    <credit>
+      <actor>Broadway, Christopher (II)</actor>
+      <role>Sula</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Greg</actor>
+      <role>Merchant</role>
+    </credit>
+    <credit>
+      <actor>Burke, Brandon (I)</actor>
+      <role>Castrone</role>
+    </credit>
+    <credit>
+      <actor>Buttazzoni, Claudia</actor>
+      <role>J'Sandra</role>
+    </credit>
+    <credit>
+      <actor>Byrnes, Brittany</actor>
+      <role>Muraki</role>
+    </credit>
+    <credit>
+      <actor>Callaghan, Jeremy</actor>
+      <role>Balcifer</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Tim (II)</actor>
+      <role>Galen</role>
+    </credit>
+    <credit>
+      <actor>Carter, Danielle (I)</actor>
+      <role>Dar's Mother</role>
+    </credit>
+    <credit>
+      <actor>Cash, Aaron James</actor>
+      <role>Kalex</role>
+    </credit>
+    <credit>
+      <actor>Catalan, Aaron</actor>
+      <role>Prince Garuda / Golden Phoenix</role>
+    </credit>
+    <credit>
+      <actor>Chiminello, Bianca</actor>
+      <role>Aviana</role>
+    </credit>
+    <credit>
+      <actor>Chong, Richard (III)</actor>
+      <role>Ang</role>
+    </credit>
+    <credit>
+      <actor>Claux, Moira</actor>
+      <role>Shapeshifter</role>
+    </credit>
+    <credit>
+      <actor>Cobb, Keith Hamilton</actor>
+      <role>Akile</role>
+    </credit>
+    <credit>
+      <actor>Cobb, Keith Hamilton</actor>
+      <role>Akili's Father</role>
+    </credit>
+    <credit>
+      <actor>Coleby, Anja</actor>
+      <role>Queen Lyoka</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Alex (I)</actor>
+      <role>The Black Apparition</role>
+    </credit>
+    <credit>
+      <actor>Comber, Warwick</actor>
+      <role>Urion</role>
+    </credit>
+    <credit>
+      <actor>Corfield, Scott</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Corser, Rodger</actor>
+      <role>Sararmago</role>
+    </credit>
+    <credit>
+      <actor>Cox, Lara</actor>
+      <role>Marika</role>
+    </credit>
+    <credit>
+      <actor>Coyle, Zoe</actor>
+      <role>Nye</role>
+    </credit>
+    <credit>
+      <actor>Crawford, Louise (I)</actor>
+      <role>Lycia</role>
+    </credit>
+    <credit>
+      <actor>Csokas, Marton</actor>
+      <role>Qord</role>
+    </credit>
+    <credit>
+      <actor>D'Jekic, Harley</actor>
+      <role>Ogre</role>
+    </credit>
+    <credit>
+      <actor>Davies, Alexandra (I)</actor>
+      <role>Zuraya</role>
+    </credit>
+    <credit>
+      <actor>Day, Gerry (II)</actor>
+      <role>Prince</role>
+    </credit>
+    <credit>
+      <actor>De Lury, Kim</actor>
+      <role>Lokar</role>
+    </credit>
+    <credit>
+      <actor>Dean, Jarrod</actor>
+      <role>Geza</role>
+    </credit>
+    <credit>
+      <actor>Di Labio, Gabriella</actor>
+      <role>Guariba's mother</role>
+    </credit>
+    <credit>
+      <actor>Dimartini, Marijean</actor>
+      <role>Archer</role>
+    </credit>
+    <credit>
+      <actor>Dixon-Whittle, Victoria</actor>
+      <role>Olwen, the seer</role>
+    </credit>
+    <credit>
+      <actor>Dry, Jodie</actor>
+      <role>Radia</role>
+    </credit>
+    <credit>
+      <actor>Dudley, Aaron</actor>
+      <role>Feno</role>
+    </credit>
+    <credit>
+      <actor>Dupre, Jeremiah</actor>
+      <role>Nylas</role>
+    </credit>
+    <credit>
+      <actor>Díaz, Robert (I)</actor>
+      <role>Tusi</role>
+    </credit>
+    <credit>
+      <actor>Eadie, Nicholas</actor>
+      <role>Arkon</role>
+    </credit>
+    <credit>
+      <actor>Edgley, Gigi</actor>
+      <role>Maleena</role>
+    </credit>
+    <credit>
+      <actor>Edgley, Gigi</actor>
+      <role>Talia</role>
+    </credit>
+    <credit>
+      <actor>Ehlers, Jerome</actor>
+      <role>Dagan</role>
+    </credit>
+    <credit>
+      <actor>Eikmeier, André</actor>
+      <role>Sagitto</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Isla</actor>
+      <role>Demon Manaka</role>
+    </credit>
+    <credit>
+      <actor>Fitzgerald, Daniel (V)</actor>
+      <role>Sharak</role>
+    </credit>
+    <credit>
+      <actor>Fondacaro, Michelle</actor>
+      <role>Sanu</role>
+    </credit>
+    <credit>
+      <actor>Fotheringham, Skye</actor>
+      <role>Slave Girl</role>
+    </credit>
+    <credit>
+      <actor>Garvey, Damien</actor>
+      <role>Niqit</role>
+    </credit>
+    <credit>
+      <actor>Gavin, Ashley</actor>
+      <role>Adranna</role>
+    </credit>
+    <credit>
+      <actor>Gleeson, Sara</actor>
+      <role>Layla</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Daniel (II)</actor>
+      <role>Dar</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Daniel (II)</actor>
+      <role>Dar</role>
+    </credit>
+    <credit>
+      <actor>Grasso, Mick</actor>
+      <role>Gormon</role>
+    </credit>
+    <credit>
+      <actor>Grives, Steven</actor>
+      <role>King Zad</role>
+    </credit>
+    <credit>
+      <actor>Grives, Steven</actor>
+      <role>King Zad</role>
+    </credit>
+    <credit>
+      <actor>Grives, Steven</actor>
+      <role>King Zad &amp; Barzo</role>
+    </credit>
+    <credit>
+      <actor>Groen, Sara</actor>
+      <role>Alau</role>
+    </credit>
+    <credit>
+      <actor>Gulpilil, David</actor>
+      <role>Shaman</role>
+    </credit>
+    <credit>
+      <actor>Handley, Colin</actor>
+      <role>King Eldar</role>
+    </credit>
+    <credit>
+      <actor>Harman, Steve</actor>
+      <role>Khandor</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Brooke</actor>
+      <role>Princess Jessica</role>
+    </credit>
+    <credit>
+      <actor>Healy, Sam</actor>
+      <role>The Demon Iara</role>
+    </credit>
+    <credit>
+      <actor>Healy, Sam</actor>
+      <role>The Demon Iara</role>
+    </credit>
+    <credit>
+      <actor>Henare, George</actor>
+      <role>Nutoa</role>
+    </credit>
+    <credit>
+      <actor>Henry, Russell</actor>
+      <role>Zad's Warrior</role>
+    </credit>
+    <credit>
+      <actor>Heywood, Jack</actor>
+      <role>Chancellor</role>
+    </credit>
+    <credit>
+      <actor>Hill, Raelee</actor>
+      <role>Sela</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Lawrence</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Holden, Marjean</actor>
+      <role>Arina</role>
+    </credit>
+    <credit>
+      <actor>Holden, Marjean</actor>
+      <role>Arina</role>
+    </credit>
+    <credit>
+      <actor>Hope, Nicholas (IV)</actor>
+      <role>Khadros</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Harold</actor>
+      <role>Kumon</role>
+    </credit>
+    <credit>
+      <actor>Hornstra, Inge</actor>
+      <role>Nadeea</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Tim (I)</actor>
+      <role>Elder</role>
+    </credit>
+    <credit>
+      <actor>Jackson Mendoza, Natalie</actor>
+      <role>Kyra</role>
+    </credit>
+    <credit>
+      <actor>Jackson Mendoza, Natalie</actor>
+      <role>Kyra</role>
+    </credit>
+    <credit>
+      <actor>Jackson-Carver, Darren</actor>
+      <role>King Zads Knight</role>
+    </credit>
+    <credit>
+      <actor>Jared, Petra</actor>
+      <role>Alima</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Ryan (I)</actor>
+      <role>Reon</role>
+    </credit>
+    <credit>
+      <actor>Jones, Annie (I)</actor>
+      <role>The Guardian</role>
+    </credit>
+    <credit>
+      <actor>Jones, Grace (I)</actor>
+      <role>Nokinja</role>
+    </credit>
+    <credit>
+      <actor>Kane, Tayler</actor>
+      <role>Dar's Father</role>
+    </credit>
+    <credit>
+      <actor>Kants, Ivar</actor>
+      <role>Ramah</role>
+    </credit>
+    <credit>
+      <actor>Kants, Ivar</actor>
+      <role>Slythius</role>
+    </credit>
+    <credit>
+      <actor>Keep, Angela</actor>
+      <role>Lemora</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Gerard</actor>
+      <role>Nessis</role>
+    </credit>
+    <credit>
+      <actor>Kennison, Caroline</actor>
+      <role>Margret</role>
+    </credit>
+    <credit>
+      <actor>Kessell, Simone</actor>
+      <role>Hyppolyte</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Christopher</actor>
+      <role>Orpheo</role>
+    </credit>
+    <credit>
+      <actor>Klingberg, Dawn</actor>
+      <role>Crone</role>
+    </credit>
+    <credit>
+      <actor>Kotzur, Nathan</actor>
+      <role>Mahmood</role>
+    </credit>
+    <credit>
+      <actor>Kozulin, Gabriel</actor>
+      <role>Birdman #1</role>
+    </credit>
+    <credit>
+      <actor>Lamb, Peter (I)</actor>
+      <role>Kaleb</role>
+    </credit>
+    <credit>
+      <actor>Lambert Barker, Marea</actor>
+      <role>Rax</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Nick</actor>
+      <role>Matteus</role>
+    </credit>
+    <credit>
+      <actor>Lee, Mark (I)</actor>
+      <role>Hjalmar</role>
+    </credit>
+    <credit>
+      <actor>Leyden, Paul</actor>
+      <role>Chiron</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Todd</actor>
+      <role>Breon</role>
+    </credit>
+    <credit>
+      <actor>MacKenzie, Nyree</actor>
+      <role>Girl #1</role>
+    </credit>
+    <credit>
+      <actor>Mammone, Robert</actor>
+      <role>Arnath</role>
+    </credit>
+    <credit>
+      <actor>Marie, Carla</actor>
+      <role>Spiderwitch</role>
+    </credit>
+    <credit>
+      <actor>Martucci, Luciano</actor>
+      <role>Gilan</role>
+    </credit>
+    <credit>
+      <actor>Mastelotto, Julien</actor>
+      <role>Merchant's wife</role>
+    </credit>
+    <credit>
+      <actor>McCrae, Melissa</actor>
+      <role>Girl #2</role>
+    </credit>
+    <credit>
+      <actor>McCunn, Tim</actor>
+      <role>Terron Leader</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Tim (V)</actor>
+      <role>Sinan</role>
+    </credit>
+    <credit>
+      <actor>McEwan, Andrea</actor>
+      <role>Pola</role>
+    </credit>
+    <credit>
+      <actor>McKay, Mungo</actor>
+      <role>Head Guard</role>
+    </credit>
+    <credit>
+      <actor>McKinless, Nick</actor>
+      <role>Dengen</role>
+    </credit>
+    <credit>
+      <actor>McKinless, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>Bare Chest Terron</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>Muscle Terron</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>Terron Sentry</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Brad (II)</actor>
+      <role>The Knight</role>
+    </credit>
+    <credit>
+      <actor>McRae, Scott (I)</actor>
+      <role>Frolo</role>
+    </credit>
+    <credit>
+      <actor>Meillon Jr., John</actor>
+      <role>Majar</role>
+    </credit>
+    <credit>
+      <actor>Mihajlovsky, Dion</actor>
+      <role>Guariba</role>
+    </credit>
+    <credit>
+      <actor>Milliken, Angie</actor>
+      <role>High Priestess</role>
+    </credit>
+    <credit>
+      <actor>Morassi, Kestie</actor>
+      <role>Eriel</role>
+    </credit>
+    <credit>
+      <actor>Morris, Christopher (IV)</actor>
+      <role>Nomar</role>
+    </credit>
+    <credit>
+      <actor>Mullinar, Rod</actor>
+      <role>Chiuma</role>
+    </credit>
+    <credit>
+      <actor>Mulvey, Callan</actor>
+      <role>Rikko</role>
+    </credit>
+    <credit>
+      <actor>Naufahu, Rene</actor>
+      <role>Mataffa</role>
+    </credit>
+    <credit>
+      <actor>Needles, Nique</actor>
+      <role>Bone Collector</role>
+    </credit>
+    <credit>
+      <actor>Nugara, Rio</actor>
+      <role>Hunter</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, John (VII)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Parascos, Victor</actor>
+      <role>Kerik</role>
+    </credit>
+    <credit>
+      <actor>Parascos, Victor</actor>
+      <role>Priest #1</role>
+    </credit>
+    <credit>
+      <actor>Paterson, Dai</actor>
+      <role>King Voden</role>
+    </credit>
+    <credit>
+      <actor>Paterson, Dai</actor>
+      <role>King Voden</role>
+    </credit>
+    <credit>
+      <actor>Pather, Puven</actor>
+      <role>Ishmael</role>
+    </credit>
+    <credit>
+      <actor>Penn, Arthur (I)</actor>
+      <role>Demon Ketzwayo</role>
+    </credit>
+    <credit>
+      <actor>Penn, Arthur (I)</actor>
+      <role>Ketzwayo</role>
+    </credit>
+    <credit>
+      <actor>Petruzzi, Joe</actor>
+      <role>Gannuk</role>
+    </credit>
+    <credit>
+      <actor>Purcell, Dominic</actor>
+      <role>Kelb</role>
+    </credit>
+    <credit>
+      <actor>Quarshie, Hugh</actor>
+      <role>Orpheo</role>
+    </credit>
+    <credit>
+      <actor>Raine, Jackson</actor>
+      <role>Tao</role>
+    </credit>
+    <credit>
+      <actor>Raine, Jackson</actor>
+      <role>Tao</role>
+    </credit>
+    <credit>
+      <actor>Reeve, Ron</actor>
+      <role>Muscle Protector</role>
+    </credit>
+    <credit>
+      <actor>Reeve, Ron</actor>
+      <role>Sentinal #1</role>
+    </credit>
+    <credit>
+      <actor>Rigby, Sean</actor>
+      <role>Birdman #2</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Tim (I)</actor>
+      <role>Solon</role>
+    </credit>
+    <credit>
+      <actor>Rooke, Steven</actor>
+      <role>Podo-Man</role>
+    </credit>
+    <credit>
+      <actor>Russ, Jean-Marc</actor>
+      <role>Tarbok</role>
+    </credit>
+    <credit>
+      <actor>Sadrinna, Chris</actor>
+      <role>Jem</role>
+    </credit>
+    <credit>
+      <actor>Sadrinna, Chris</actor>
+      <role>Paj</role>
+    </credit>
+    <credit>
+      <actor>Sarota, Kane</actor>
+      <role>Villager #2</role>
+    </credit>
+    <credit>
+      <actor>Schmid, Kristian</actor>
+      <role>Karpen</role>
+    </credit>
+    <credit>
+      <actor>Selwood, Brett</actor>
+      <role>Karstyn</role>
+    </credit>
+    <credit>
+      <actor>Seru, John</actor>
+      <role>Muscle Protector</role>
+    </credit>
+    <credit>
+      <actor>Seru, John</actor>
+      <role>Sentinal #2</role>
+    </credit>
+    <credit>
+      <actor>Seru, John</actor>
+      <role>Sentinel #2</role>
+    </credit>
+    <credit>
+      <actor>Seton, Ben</actor>
+      <role>Bahktiar</role>
+    </credit>
+    <credit>
+      <actor>Simcoe, Anthony</actor>
+      <role>Milos</role>
+    </credit>
+    <credit>
+      <actor>Singer, Marc (I)</actor>
+      <role>Dartanus</role>
+    </credit>
+    <credit>
+      <actor>Sinigaglia, Marco</actor>
+      <role>Villager #1</role>
+    </credit>
+    <credit>
+      <actor>Spence, Bruce (I)</actor>
+      <role>Annubis</role>
+    </credit>
+    <credit>
+      <actor>Stewart, James (VII)</actor>
+      <role>Han</role>
+    </credit>
+    <credit>
+      <actor>Testoni, Nic</actor>
+      <role>Nord Foreman</role>
+    </credit>
+    <credit>
+      <actor>Tkacz, Peter</actor>
+      <role>Fatouk</role>
+    </credit>
+    <credit>
+      <actor>Van Alphen, Capkin</actor>
+      <role>Bolak</role>
+    </credit>
+    <credit>
+      <actor>Van Alphen, Capkin</actor>
+      <role>First Tribesmen</role>
+    </credit>
+    <credit>
+      <actor>Vreeken, Ron</actor>
+      <role>Guardian</role>
+    </credit>
+    <credit>
+      <actor>Watts, Simon (III)</actor>
+      <role>Dar's brother</role>
+    </credit>
+    <credit>
+      <actor>Watts, Simon (III)</actor>
+      <role>Sendar</role>
+    </credit>
+    <credit>
+      <actor>Westaway, Simon</actor>
+      <role>Baha</role>
+    </credit>
+    <credit>
+      <actor>Whiteley, David (II)</actor>
+      <role>Yoken</role>
+    </credit>
+    <credit>
+      <actor>Will, Lloyd</actor>
+      <role>Atticus</role>
+    </credit>
+    <credit>
+      <actor>Will, Lloyd</actor>
+      <role>Young Tao</role>
+    </credit>
+    <credit>
+      <actor>Winton, Sandy</actor>
+      <role>Navas</role>
+    </credit>
+    <credit>
+      <actor>Young, Michael (XXI)</actor>
+      <role>Sentinal #3</role>
+    </credit>
+    <credit>
+      <actor>de Ravin, Emilie</actor>
+      <role>The Demon Curupira</role>
+    </credit>
+    <credit>
+      <actor>de Ravin, Emilie</actor>
+      <role>The Demon Curupira</role>
+    </credit>
+  </cast>
+<plot>In this spinoff of the various movies, Dar, the Beastmaster and last survivor of his tribe, wanders the ancient lands, seeking out his beloved Kira, defending the animals he controls, and pitting his might against various sorcerers and tyrants.</plot><url>http://localhost:8983/solr/movie.html?062087</url></doc>

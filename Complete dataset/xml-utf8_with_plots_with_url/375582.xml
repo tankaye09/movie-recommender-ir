@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="375582">
+  <docid>375582</docid>
+  <title>Mongo Makongo</title>
+  <year>1986</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>nature</keyword>
+    <keyword>wilderness</keyword>
+    <keyword>cartoon</keyword>
+    <keyword>spoof</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Posch, Michael</director>
+  </directors>
+  <writers>
+    <writer>Posch, Michael</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Springle, Paul</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>In this gentle spoof of television nature shows, a film crew follows a scientific expedition to the remote region of Mongo Makongo, where many amazing species of plants and animals are observed in their native habitat.</plot><url>http://localhost:8983/solr/movie.html?375582</url></doc>

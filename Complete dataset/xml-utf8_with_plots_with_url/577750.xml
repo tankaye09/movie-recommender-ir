@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="577750">
+  <docid>577750</docid>
+  <title>The Movies</title>
+  <year>1925</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>fight</keyword>
+    <keyword>traffic</keyword>
+    <keyword>big-city</keyword>
+    <keyword>policeman</keyword>
+    <keyword>movie-stand-in</keyword>
+    <keyword>country-boy</keyword>
+    <keyword>movie-studio</keyword>
+    <keyword>actor</keyword>
+    <keyword>slapstick</keyword>
+    <keyword>movie-star</keyword>
+    <keyword>cafe</keyword>
+    <keyword>two-reeler</keyword>
+    <keyword>fake-blindness</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">TV-G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">4 October 1925</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">19</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Arbuckle, Roscoe 'Fatty'</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Brower, Robert (I)</actor>
+      <role>The Father</role>
+    </credit>
+    <credit>
+      <actor>Cavender, Glen</actor>
+      <role>A Traffic Officer</role>
+    </credit>
+    <credit>
+      <actor>Daly, Marcella</actor>
+      <role>An Actress</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Lloyd</actor>
+      <role>A Country Boy</role>
+    </credit>
+    <credit>
+      <actor>Jonasson, Frank</actor>
+      <role>The Director</role>
+    </credit>
+    <credit>
+      <actor>Thalasso, Arthur</actor>
+      <role>The Villain</role>
+    </credit>
+  </cast>
+<plot>A country boy is leaving home for the city, offering promises of good behavior to his family. Finding city life difficult, it is not long before he makes an enemy of bad-tempered Bull Buckley. Unable to make peace, the young man has a series of altercations with Buckley before his antagonist is finally arrested. The boy then wanders into a café frequented by movie stars, and is soon offered a part filling in for Lloyd Hamilton, whom he closely resembles. But he soon finds out that movie life has its complications.</plot><url>http://localhost:8983/solr/movie.html?577750</url></doc>

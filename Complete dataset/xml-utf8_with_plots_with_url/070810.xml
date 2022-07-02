@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="070810">
+  <docid>070810</docid>
+  <title>Billposters</title>
+  <year>1940</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>windmill</keyword>
+    <keyword>donald-duck</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>william-tell-overture</keyword>
+    <keyword>goat</keyword>
+    <keyword>goofy-the-character</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">17 May 1940</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Geronimi, Clyde</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Colvig, Pinto</actor>
+      <role>Goofy</role>
+    </credit>
+    <credit>
+      <actor>Nash, Clarence</actor>
+      <role>Donald Duck</role>
+    </credit>
+  </cast>
+<plot>Donald and Goofy are putting up advertising posters in a farm. Goofy prepares to post on a windmill, but his tools keep disappearing and reappearing on the windmill blades. Donald puts up his posters, a picture of a soup can, and a goat eats them immediately. Goofy gets stuck to his poster after it comes around on the windmill. Donald, being his calm, even-tempered self, gets into a battle with the goat.</plot><url>http://localhost:8983/solr/movie.html?070810</url></doc>

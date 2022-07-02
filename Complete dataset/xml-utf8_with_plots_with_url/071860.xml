@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="071860">
+  <docid>071860</docid>
+  <title>Birthday</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Krol, Andrzej</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>German</language>
+  </languages>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Poland">3 December 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">16</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Krol, Andrzej</director>
+  </directors>
+  <writers>
+    <writer>Krol, Andrzej</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Majnicz, Michal</actor>
+      <role>Man</role>
+    </credit>
+  </cast>
+<plot>A father living on his own remembers an event which took place on the night of his 5- year-old son's birthday, exactly one year ago. This fateful night is shown in flashes of memory in which the father being in a drunken state, tries to prevent what is already happening.</plot><url>http://localhost:8983/solr/movie.html?071860</url></doc>

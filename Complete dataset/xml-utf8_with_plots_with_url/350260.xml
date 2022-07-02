@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="350260">
+  <docid>350260</docid>
+  <title>Maciste</title>
+  <year>1915</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Adventure</genre>
+  </genres>
+  <languages>
+    <language>Italian</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Italy</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Japan">13 January 1917</releasedate>
+    <releasedate country="Italy">1915</releasedate>
+    <releasedate country="USA">August 1915</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">67</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Borgnetto, Luigi Romano</director>
+    <director>Denizot, Vincenzo</director>
+  </directors>
+  <writers>
+    <writer>Bain, Agnes Fletcher</writer>
+    <writer>Pastrone, Giovanni</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Chellini, Amelia</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Chellini, Didaco</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Costello, Arline</actor>
+      <role>Josephine</role>
+    </credit>
+    <credit>
+      <actor>Farnsworth, Louise</actor>
+      <role>Josephine's mother</role>
+    </credit>
+    <credit>
+      <actor>Gay, Clementina</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Marangoni, Ada</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ormand, Robert</actor>
+      <role>Duke Alexis</role>
+    </credit>
+    <credit>
+      <actor>Pagano, Bartolomeo</actor>
+      <role>Maciste</role>
+    </credit>
+  </cast>
+<plot>A young girl, pursued by a band of conspirators, hides in a movie theatre where she watches the film Cabiria. She determines to seek the aid of that film's strongman, Maciste. When she locates him, he helps her overcome her enemies, but not without many thrilling and dangerous adventures.</plot><url>http://localhost:8983/solr/movie.html?350260</url></doc>

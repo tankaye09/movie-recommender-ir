@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="213767">
+  <docid>213767</docid>
+  <title>Gettysburg</title>
+  <year>1993</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ehlers, Corky</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Drama</genre>
+    <genre>History</genre>
+  </genres>
+  <keywords>
+    <keyword>captain</keyword>
+    <keyword>american-civil-war</keyword>
+    <keyword>shakespearean-quote</keyword>
+    <keyword>reference-to-hamlet</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>lieutenant-general</keyword>
+    <keyword>soldier</keyword>
+    <keyword>sideburns</keyword>
+    <keyword>battle</keyword>
+    <keyword>pulitzer-prize-source</keyword>
+    <keyword>lieutenant</keyword>
+    <keyword>place-name-in-title</keyword>
+    <keyword>gettysburg</keyword>
+    <keyword>general</keyword>
+    <keyword>brigadier-general</keyword>
+    <keyword>epic</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>sergeant</keyword>
+    <keyword>major</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+    <soundmix>70 mm 6-Track</soundmix>
+    <soundmix>DTS</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="UK">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Greece">K-13</certificate>
+    <certificate country="Germany">16</certificate>
+    <certificate country="Iceland">12</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="Finland">K-12</certificate>
+    <certificate country="USA">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">11 February 1994</releasedate>
+    <releasedate country="UK">23 September 1994</releasedate>
+    <releasedate country="Germany">5 September 1995</releasedate>
+    <releasedate country="France">14 December 1994</releasedate>
+    <releasedate country="Australia">9 October 1994</releasedate>
+    <releasedate country="Finland">8 July 1994</releasedate>
+    <releasedate country="USA">8 October 1993</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Sweden">254</runningtime>
+    <runningtime country="Netherlands">244</runningtime>
+    <runningtime country="UK">259</runningtime>
+    <runningtime country="default">261</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Maxwell, Ronald F.</director>
+  </directors>
+  <producers>
+    <producer>Martin, Sandy (III)</producer>
+    <producer>Lombardo, Nick (I)</producer>
+    <producer>Esparza, Moctesuma</producer>
+    <producer>Katz, Robert (IV)</producer>
+  </producers>
+  <composers>
+    <composer>Edelman, Randy</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Anderson, Richard (I)</actor>
+      <role>Maj. Gen. George G. Meade</role>
+    </credit>
+    <credit>
+      <actor>Applegate, Royce D.</actor>
+      <role>Brig. Gen. James L. Kemper</role>
+    </credit>
+    <credit>
+      <actor>Atterbury, Henry</actor>
+      <role>Lee's Aide</role>
+    </credit>
+    <credit>
+      <actor>Ayer, Eric</actor>
+      <role>Banjo and Guitar Player</role>
+    </credit>
+    <credit>
+      <actor>Ayer, Joe</actor>
+      <role>Banjo and Guitar Player</role>
+    </credit>
+    <credit>
+      <actor>Baumann, Daniel</actor>
+      <role>Private #2</role>
+    </credit>
+    <credit>
+      <actor>Berenger, Tom</actor>
+      <role>Lt. Gen. James Longstreet</role>
+    </credit>
+    <credit>
+      <actor>Bradford, Curtis</actor>
+      <role>Another Officer</role>
+    </credit>
+    <credit>
+      <actor>Brandy, Adam</actor>
+      <role>Soldier #5 20th Maine</role>
+    </credit>
+    <credit>
+      <actor>Brinkman, Bo</actor>
+      <role>Maj. Walter H. Taylor</role>
+    </credit>
+    <credit>
+      <actor>Brown, Dwier</actor>
+      <role>Capt. Brewer</role>
+    </credit>
+    <credit>
+      <actor>Burns, Ken (I)</actor>
+      <role>Hancock's Aide</role>
+    </credit>
+    <credit>
+      <actor>Burton, Warren</actor>
+      <role>Maj. Gen. Henry Heth</role>
+    </credit>
+    <credit>
+      <actor>Callahan, Michael (I)</actor>
+      <role>Bearded Man</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Bill (I)</actor>
+      <role>Lt. Pitzer</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Scott Allan</actor>
+      <role>Capt. Atherton W. Clark</role>
+    </credit>
+    <credit>
+      <actor>Carpenter, David (I)</actor>
+      <role>Col. Thomas C. Devin</role>
+    </credit>
+    <credit>
+      <actor>Caulfield, Maxwell</actor>
+      <role>Col. Strong Vincent</role>
+    </credit>
+    <credit>
+      <actor>Chamblin, Daniel</actor>
+      <role>Confederate Officer</role>
+    </credit>
+    <credit>
+      <actor>Cole, David C. (I)</actor>
+      <role>Buford's Aide</role>
+    </credit>
+    <credit>
+      <actor>Conway, Kevin (I)</actor>
+      <role>Sgt. 'Buster' Kilrain</role>
+    </credit>
+    <credit>
+      <actor>Danielewski, Mark Z.</actor>
+      <role>Private</role>
+    </credit>
+    <credit>
+      <actor>Daniels, Jeff (I)</actor>
+      <role>Col. Joshua Lawrence Chamberlain</role>
+    </credit>
+    <credit>
+      <actor>Diehl, John</actor>
+      <role>Pvt. Bucklin</role>
+    </credit>
+    <credit>
+      <actor>Dixon, MacIntyre</actor>
+      <role>Maj. Gen. Jubal A. Early</role>
+    </credit>
+    <credit>
+      <actor>Durant, John (II)</actor>
+      <role>Fiddle and Guitar Player</role>
+    </credit>
+    <credit>
+      <actor>Egen, Brian James</actor>
+      <role>Cocky Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Sam (I)</actor>
+      <role>Brig. Gen. John Buford</role>
+    </credit>
+    <credit>
+      <actor>Falci, Patrick</actor>
+      <role>Lt. Gen. Ambose Powell Hill</role>
+    </credit>
+    <credit>
+      <actor>Fife, Thomas</actor>
+      <role>2nd Maine Man</role>
+    </credit>
+    <credit>
+      <actor>Fiske, David</actor>
+      <role>Courier</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, John (I)</actor>
+      <role>Old 2nd Maine Man</role>
+    </credit>
+    <credit>
+      <actor>Fuqua, Joseph</actor>
+      <role>Maj. Gen. J.E.B. Stuart</role>
+    </credit>
+    <credit>
+      <actor>Gentile, Vee</actor>
+      <role>Private</role>
+    </credit>
+    <credit>
+      <actor>Gilmore, Gary (I)</actor>
+      <role>Union Rider (Voice #1)</role>
+    </credit>
+    <credit>
+      <actor>Ginther, Greg</actor>
+      <role>Rodes' Courier</role>
+    </credit>
+    <credit>
+      <actor>Gorman, Patrick (I)</actor>
+      <role>Maj. Gen. John Bell Hood</role>
+    </credit>
+    <credit>
+      <actor>Hadfield, John (I)</actor>
+      <role>Vincent's Courier</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Alex (I)</actor>
+      <role>Maj. Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Heffner, George</actor>
+      <role>Another Officer</role>
+    </credit>
+    <credit>
+      <actor>Heffron, John</actor>
+      <role>Sgt. Charles H. Veil</role>
+    </credit>
+    <credit>
+      <actor>Hershberger, Kevin</actor>
+      <role>Confederate Soldier</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Robert Lee</actor>
+      <role>Confederate soldier</role>
+    </credit>
+    <credit>
+      <actor>Holmes, J. Alec</actor>
+      <role>Confederate Soldier</role>
+    </credit>
+    <credit>
+      <actor>Horgan, Conn</actor>
+      <role>Officer #1</role>
+    </credit>
+    <credit>
+      <actor>Howell, C. Thomas</actor>
+      <role>Lt. Thomas D. Chamberlain</role>
+    </credit>
+    <credit>
+      <actor>Huckabee, Cooper</actor>
+      <role>Henry T. Harrison</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Richard (I)</actor>
+      <role>Brig. Gen. Lewis A. Armistead</role>
+    </credit>
+    <credit>
+      <actor>Kane, Ivan</actor>
+      <role>Cap. Thomas J. Goree</role>
+    </credit>
+    <credit>
+      <actor>Kiester, Richard</actor>
+      <role>Devin's Aide</role>
+    </credit>
+    <credit>
+      <actor>Kinsolving, Charles Lester</actor>
+      <role>Brig. Gen. Willilam Barksdale</role>
+    </credit>
+    <credit>
+      <actor>Kochien, Kenneth</actor>
+      <role>Union Soldier</role>
+    </credit>
+    <credit>
+      <actor>Kozlosky, Ted</actor>
+      <role>Confederate Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Lancaster, James (I)</actor>
+      <role>Lt. Col. Arthur Fremantle</role>
+    </credit>
+    <credit>
+      <actor>Lance, Jay</actor>
+      <role>Confederate Soldier</role>
+    </credit>
+    <credit>
+      <actor>Landon, Tom (I)</actor>
+      <role>Texas Soldier #2</role>
+    </credit>
+    <credit>
+      <actor>Lang, Stephen (I)</actor>
+      <role>Maj. Gen. George E. Pickett</role>
+    </credit>
+    <credit>
+      <actor>Lazenby, George</actor>
+      <role>Brig. Gen. J. Johnston Pettigrew</role>
+    </credit>
+    <credit>
+      <actor>Leisenring, Rick</actor>
+      <role>Confederate Voice</role>
+    </credit>
+    <credit>
+      <actor>Leone, Steve</actor>
+      <role>An Officer</role>
+    </credit>
+    <credit>
+      <actor>Letscher, Matt</actor>
+      <role>Young 2nd Maine Man</role>
+    </credit>
+    <credit>
+      <actor>Logue, Donal</actor>
+      <role>Capt. Ellis Spear</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Robert (II)</actor>
+      <role>Guard, 118th Pennsylvania</role>
+    </credit>
+    <credit>
+      <actor>MacLean, Reid</actor>
+      <role>Pvt. Jim Merrill</role>
+    </credit>
+    <credit>
+      <actor>Mallon, Brian</actor>
+      <role>Maj. Gen. Winfield Scott Hancock</role>
+    </credit>
+    <credit>
+      <actor>Maurer, Joshua D.</actor>
+      <role>Col. James C. Rice</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Jonathan (I)</actor>
+      <role>Pvt. Bill Merrill</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Olivia</actor>
+      <role>Taneytown Girl</role>
+    </credit>
+    <credit>
+      <actor>Mays, Tom</actor>
+      <role>Early's Courier</role>
+    </credit>
+    <credit>
+      <actor>McEvoy, Barry</actor>
+      <role>2nd Maine Soldier</role>
+    </credit>
+    <credit>
+      <actor>McGurgan, Frank</actor>
+      <role>Old Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Mehaffey, Scott</actor>
+      <role>Lieutenant, Buford's Staff</role>
+    </credit>
+    <credit>
+      <actor>Miller, Peter (IV)</actor>
+      <role>Pender's Courier</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Herb</actor>
+      <role>Sgt. Andrew J. Tozier</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Sandy (I)</actor>
+      <role>Fiddle and Guitar Player</role>
+    </credit>
+    <credit>
+      <actor>Moseley, Frank</actor>
+      <role>Soldier #1 20th Maine</role>
+    </credit>
+    <credit>
+      <actor>Moses, Mark</actor>
+      <role>Sgt. Owen</role>
+    </credit>
+    <credit>
+      <actor>Mulroney, Kieran</actor>
+      <role>Maj. G. Moxley Sorrel</role>
+    </credit>
+    <credit>
+      <actor>Nisley, Arnold</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Michael (III)</actor>
+      <role>Soldier #4 20th Maine</role>
+    </credit>
+    <credit>
+      <actor>Pohanka, Brian</actor>
+      <role>Brig. Gen. Alexander Stewart Webb</role>
+    </credit>
+    <credit>
+      <actor>Prine, Andrew</actor>
+      <role>Brig. Gen. Richard B. Garnett</role>
+    </credit>
+    <credit>
+      <actor>Quesada, Alejandro de</actor>
+      <role>Union Soldier</role>
+    </credit>
+    <credit>
+      <actor>Ramoz, Ken DeSoto</actor>
+      <role>Confederate Soldier</role>
+    </credit>
+    <credit>
+      <actor>Rebich, Ted</actor>
+      <role>Dr. Cullen</role>
+    </credit>
+    <credit>
+      <actor>Resh, Brian</actor>
+      <role>Soldier #2 20th Maine</role>
+    </credit>
+    <credit>
+      <actor>Rothman, John</actor>
+      <role>Maj. Gen. John F. Reynolds</role>
+    </credit>
+    <credit>
+      <actor>Ruddy, Tim</actor>
+      <role>Maj. Charles Marshall</role>
+    </credit>
+    <credit>
+      <actor>Sangi, Lawrence</actor>
+      <role>Soldier #3 20th Maine</role>
+    </credit>
+    <credit>
+      <actor>Schmidt, Emile O.</actor>
+      <role>Brig. Gen. John Gibbon</role>
+    </credit>
+    <credit>
+      <actor>Scott, Timothy (I)</actor>
+      <role>Lt. Gen. Richard S. Ewell</role>
+    </credit>
+    <credit>
+      <actor>Sheen, Martin</actor>
+      <role>Gen. Robert E. Lee</role>
+    </credit>
+    <credit>
+      <actor>Sheppard, William Morgan</actor>
+      <role>Maj. Gen. Isaac R. Trimble/Narrator</role>
+    </credit>
+    <credit>
+      <actor>Starlin, Russel</actor>
+      <role>Officer #2</role>
+    </credit>
+    <credit>
+      <actor>Stuart, James Patrick</actor>
+      <role>Col. E. Porter Alexander</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Buck (I)</actor>
+      <role>Col. William Gamble</role>
+    </credit>
+    <credit>
+      <actor>Termo, Leonard</actor>
+      <role>Cpl. George F. Estabrook</role>
+    </credit>
+    <credit>
+      <actor>Turner, Ted (I)</actor>
+      <role>Col. Waller T. Patton</role>
+    </credit>
+    <credit>
+      <actor>Utz, Curtis</actor>
+      <role>Texas Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Walker, Trent</actor>
+      <role>Rebel Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Werner, C. George</actor>
+      <role>Another Officer</role>
+    </credit>
+    <credit>
+      <actor>Wharton, Darryl</actor>
+      <role>Escaped Slave</role>
+    </credit>
+    <credit>
+      <actor>Winton, Graham</actor>
+      <role>Maj. Gen. Robert E. Rodes</role>
+    </credit>
+  </cast>
+<plot>The four and 1/4 hour depiction of the historical and personal events surrounding and including the decisive American civil war battle features thousands of civil war re-enactors marching over the exact ground that the federal army and the army of North Virginia fought on. The defense of the Little Round Top and Pickett's Charge are highlighted in the actual three day battle which is surrounded by the speeches of the commanding officers and the personal reflections of the fighting men. Based upon the novel 'The Killer Angels'.</plot><url>http://localhost:8983/solr/movie.html?213767</url></doc>

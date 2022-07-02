@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="101309">
+  <docid>101309</docid>
+  <title>Checkout</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Faris, Scott (II)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">April 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Khurmi, Nardeep</director>
+  </directors>
+  <producers>
+    <producer>Khurmi, Nardeep</producer>
+    <producer>Cohen, Josh (X)</producer>
+  </producers>
+  <writers>
+    <writer>Khurmi, Nardeep</writer>
+  </writers>
+  <composers>
+    <composer>Litts, Andrew</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Fisher, Josh (V)</actor>
+      <role>Son</role>
+    </credit>
+    <credit>
+      <actor>Khurmi, Nardeep</actor>
+      <role>Store Clerk</role>
+    </credit>
+  </cast>
+<plot>A mother takes her son to the grocery store at midnight. She tries to gain the strength to tell her son that they are leaving home for good, but cannot. During the grocery trip, her son, notices his mother's odd actions and finally sees her emotionally breakdown for the first time. He connects the dots as to what is going on and tries to make her feel better.</plot><url>http://localhost:8983/solr/movie.html?101309</url></doc>

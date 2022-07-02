@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="599971">
+  <docid>599971</docid>
+  <title>The Warriors</title>
+  <year>1979</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Holden, David (I)</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>radio-broadcasting</keyword>
+    <keyword>obscene-finger-gesture</keyword>
+    <keyword>new-york-city</keyword>
+    <keyword>pokies</keyword>
+    <keyword>street-gang</keyword>
+    <keyword>gay-slur</keyword>
+    <keyword>revenge</keyword>
+    <keyword>central-park-new-york</keyword>
+    <keyword>police</keyword>
+    <keyword>gang-brawl</keyword>
+    <keyword>gang-warfare</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>el-train</keyword>
+    <keyword>handcuffs</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>rival-gang</keyword>
+    <keyword>anti-hero</keyword>
+    <keyword>graffiti</keyword>
+    <keyword>restroom</keyword>
+    <keyword>urban-setting</keyword>
+    <keyword>roller-skating</keyword>
+    <keyword>vengeance</keyword>
+    <keyword>false-accusation</keyword>
+    <keyword>brooklyn-new-york</keyword>
+    <keyword>train</keyword>
+    <keyword>beach</keyword>
+    <keyword>girl-gang</keyword>
+    <keyword>molotov-cocktail</keyword>
+    <keyword>murder</keyword>
+    <keyword>subway</keyword>
+    <keyword>bra-less</keyword>
+    <keyword>switchblade</keyword>
+    <keyword>near-future</keyword>
+    <keyword>gang-summit</keyword>
+    <keyword>baseball-bat</keyword>
+    <keyword>turnstile-jumping</keyword>
+    <keyword>framed</keyword>
+    <keyword>undercover</keyword>
+    <keyword>cemetery</keyword>
+    <keyword>grindhouse</keyword>
+    <keyword>wipe</keyword>
+    <keyword>urban-decay</keyword>
+    <keyword>night</keyword>
+    <keyword>knife-throwing</keyword>
+    <keyword>chase</keyword>
+    <keyword>bronx-zoo-new-york</keyword>
+    <keyword>brawl</keyword>
+    <keyword>bottle</keyword>
+    <keyword>new-york</keyword>
+    <keyword>face-paint</keyword>
+    <keyword>warrior</keyword>
+    <keyword>coney-island</keyword>
+    <keyword>police-chase</keyword>
+    <keyword>disc-jockey</keyword>
+    <keyword>sexual-assault</keyword>
+    <keyword>midnight-movie</keyword>
+    <keyword>painted-face</keyword>
+    <keyword>hit-by-train</keyword>
+    <keyword>speech</keyword>
+    <keyword>odyssey</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">Banned</certificate>
+    <certificate country="West Germany">18</certificate>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="UK">X</certificate>
+    <certificate country="Singapore">M18</certificate>
+    <certificate country="France">X</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="Australia">R</certificate>
+    <certificate country="Norway">18</certificate>
+    <certificate country="Canada">18A</certificate>
+    <certificate country="Finland">K-18</certificate>
+    <certificate country="Italy">VM18</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">29 October 1979</releasedate>
+    <releasedate country="West Germany">13 July 1979</releasedate>
+    <releasedate country="France">27 August 1980</releasedate>
+    <releasedate country="Hong Kong">18 May 1979</releasedate>
+    <releasedate country="Australia">1 February 1979</releasedate>
+    <releasedate country="Norway">3 June 1980</releasedate>
+    <releasedate country="Finland">1985</releasedate>
+    <releasedate country="Italy">12 November 2005</releasedate>
+    <releasedate country="USA">7 August 2004</releasedate>
+    <releasedate country="Denmark">6 July 1979</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">92</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hill, Walter (I)</director>
+  </directors>
+  <producers>
+    <producer>Silver, Joel (I)</producer>
+    <producer>Marshall, Frank (I)</producer>
+  </producers>
+  <composers>
+    <composer>De Vorzon, Barry</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Albanti, Iris</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Alleman, Richard</actor>
+      <role>Nazi</role>
+    </credit>
+    <credit>
+      <actor>Anagnos, Bill</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Bakunas, A.J.</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Baltazar, Mark (I)</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Johnny (I)</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Battles, Dan</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Baxley, Craig R.</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Baxley, Greg</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Beck, Michael (I)</actor>
+      <role>Swan</role>
+    </credit>
+    <credit>
+      <actor>Benrey, Dee Dee</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Bergmann, Joseph</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Bicknell, Gene</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Bonnell, Dan</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Brown, Carl (I)</actor>
+      <role>Prom Couple</role>
+    </credit>
+    <credit>
+      <actor>Brown, Patty (I)</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Carrotte</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Castillo, Fernando (I)</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Steven (I)</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Chiotti, Richard</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Ciani, Leo</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Clark, Doran</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Clark, Tony (I)</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Cleghorne, Gregory</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Cohen, Ian (I)</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Colbath, Brian</actor>
+      <role>Nazi</role>
+    </credit>
+    <credit>
+      <actor>Delaney, Leon (I)</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Delano, Laura</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Doolan, Charles</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Hubert</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Engel, Andy</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Ferrara, Frank</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Ferrell, Ron</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Flannery, Pat (I)</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Foster, Marvin</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Francis, Gerald G.</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Garfield, Michael (I)</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Gibson, John (IV)</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Gold, Neal (I)</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Greco, Paul</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Gregory, Dennis</actor>
+      <role>Masai</role>
+    </credit>
+    <credit>
+      <actor>Harding, Benny</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Harley, Chris (I)</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Harrell, Jordan Cae</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Harris, David (I)</actor>
+      <role>Cochise</role>
+    </credit>
+    <credit>
+      <actor>Hatch, Eddie Earl</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Hewitt, Jery</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Hill, Roger (I)</actor>
+      <role>Cyrus</role>
+    </credit>
+    <credit>
+      <actor>Huff, Tommy J.</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>James, Mike (I)</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>James, Steve (I)</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Jarus, Tom</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Jeffrey, Michael (II)</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Jurkiewicz, Harold</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Kelly, David Patrick</actor>
+      <role>Luther</role>
+    </credit>
+    <credit>
+      <actor>Keyes, Irwin</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Klugman, Kate</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Landham, Sonny</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Latham, Tony</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Heidi</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>Madsen, Harry</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Magnotta, Victor</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Margolin, James</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Mason, Chuck (II)</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Maurer, Lisa</actor>
+      <role>Lizzie</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Charles (I)</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>McKitterick, Tom</actor>
+      <role>Cowboy</role>
+    </credit>
+    <credit>
+      <actor>McNamara, T.J.</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Michos, Terry</actor>
+      <role>Vermin</role>
+    </credit>
+    <credit>
+      <actor>Miles, George Lee</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Miller, Harold (II)</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Pagan, Antone</actor>
+      <role>Gang Leader on Subway Stairs</role>
+    </credit>
+    <credit>
+      <actor>Pann, Tony Michael</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Prather, Eddie</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Ramos, Apache</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Remar, James</actor>
+      <role>Ajax</role>
+    </credit>
+    <credit>
+      <actor>Ruoff, Lane</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Ryder, Rob</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Saint John, Cal</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Scott, Jeffrey (I)</actor>
+      <role>Prom Couple</role>
+    </credit>
+    <credit>
+      <actor>Sears, Larry</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Serrano, Charles</actor>
+      <role>Orphan</role>
+    </credit>
+    <credit>
+      <actor>Sewer, Edward</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Sheehan, Konrad</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Silvern, Charles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Silvestri, Larry</actor>
+      <role>Police</role>
+    </credit>
+    <credit>
+      <actor>Smith, J.W. (I)</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Snyder, John (I)</actor>
+      <role>Gas Station Man</role>
+    </credit>
+    <credit>
+      <actor>Stockton, Kevin</actor>
+      <role>Gramercy Riff</role>
+    </credit>
+    <credit>
+      <actor>Sánchez, Marcelino</actor>
+      <role>Rembrandt</role>
+    </credit>
+    <credit>
+      <actor>Thret, Ken</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Townsend, Robert (I)</actor>
+      <role>Baseball Fury</role>
+    </credit>
+    <credit>
+      <actor>Tyler, Brian (II)</actor>
+      <role>Snow</role>
+    </credit>
+    <credit>
+      <actor>Waites, Thomas G.</actor>
+      <role>Fox</role>
+    </credit>
+    <credit>
+      <actor>Weiss, Joel (I)</actor>
+      <role>Rogue</role>
+    </credit>
+    <credit>
+      <actor>Williams, William F.</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Wright, Dorsey</actor>
+      <role>Cleon</role>
+    </credit>
+    <credit>
+      <actor>Zavurov, Albert</actor>
+      <role>Guy in the Park</role>
+    </credit>
+    <credit>
+      <actor>Zimmardi, Joe</actor>
+      <role>Turnbull A.C.</role>
+    </credit>
+    <credit>
+      <actor>Zucker, Charles</actor>
+      <role>Straw Hat</role>
+    </credit>
+  </cast>
+<plot>Cyrus, the leader of the most powerful gang in New York City, the Gramercy Riffs, calls a midnight summit for all the area gangs, with all asked to send nine unarmed representatives for the conclave. A gang called The Warriors are blamed for causing gang violence at theaters, but now it looks as highly stylized and pulpy as Hill intended. The plot finds a New York gang having to cross the territory of rivals in order to get to their own 'hood. And so The Warriors begin their long journey from the Bronx back to Coney Island. The second-in-command, Swan, takes charge, though the hot-headed Ajax openly voices his desire to be acting gang warlord. The Warriors slowly cross the dangerous Bronx and Manhattan territories, narrowly escaping police and other gangs every step of the way.</plot><url>http://localhost:8983/solr/movie.html?599971</url></doc>

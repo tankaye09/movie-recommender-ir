@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="582426">
+  <docid>582426</docid>
+  <title>The Phantom of the Cinema</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+  </genres>
+  <languages>
+    <language>None</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Netherlands</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Netherlands">26 September 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Netherlands">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>van Schaaik, Erik</director>
+  </directors>
+  <producers>
+    <producer>Kroon, Wendo</producer>
+    <producer>Rijken, Arnoud</producer>
+    <producer>Snijders, Michiel</producer>
+  </producers>
+  <writers>
+    <writer>van Schaaik, Erik</writer>
+  </writers>
+  <composers>
+    <composer>Fondse, Martin</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Kelly, Dominic (III)</actor>
+      <role>Toilet lady - Technician</role>
+    </credit>
+    <credit>
+      <actor>Romeyn, Michiel</actor>
+      <role>Chef</role>
+    </credit>
+  </cast>
+<plot>When the film 'the phantom of the cinema' breaks, the light behind the screen is turned on and the audience is witness to the struggles of a cinema-owner, the lavatory attendant and the technician. In an attempt to start the screening again they tumble through their chambers behind the screen.</plot><url>http://localhost:8983/solr/movie.html?582426</url></doc>

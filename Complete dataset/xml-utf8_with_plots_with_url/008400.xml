@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="008400">
+  <docid>008400</docid>
+  <title>A Chemical Reaction</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Biography</genre>
+    <genre>Drama</genre>
+    <genre>News</genre>
+    <genre>History</genre>
+  </genres>
+  <keywords>
+    <keyword>human-rights</keyword>
+    <keyword>independent-film</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">August 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">79</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Plymale, Brett</director>
+  </directors>
+  <producers>
+    <producer>Rhys, Timothy</producer>
+    <producer>Tukey, Paul</producer>
+  </producers>
+<plot>Canada has spoken and toxic lawn and garden pesticides are now banned in most of the nation. A Chemical Reaction examines how Hudson, Quebec, became the first town in North America to ban these products and inspired hundreds of others to follow suit.</plot><url>http://localhost:8983/solr/movie.html?008400</url></doc>

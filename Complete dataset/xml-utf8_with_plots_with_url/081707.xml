@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="081707">
+  <docid>081707</docid>
+  <title>Branding Broadway</title>
+  <year>1918</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+    <genre>Western</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Finland">16 August 1925</releasedate>
+    <releasedate country="USA">15 December 1918</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">50</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hart, William S.</director>
+  </directors>
+  <producers>
+    <producer>Hart, William S.</producer>
+    <producer>Ince, Thomas H.</producer>
+  </producers>
+  <writers>
+    <writer>Sullivan, C. Gardner</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Hart, William S.</actor>
+      <role>Robert Sands</role>
+    </credit>
+    <credit>
+      <actor>Robson, Andrew (I)</actor>
+      <role>Harrington Sr</role>
+    </credit>
+    <credit>
+      <actor>Shirley, Arthur (II)</actor>
+      <role>Larry Harrington</role>
+    </credit>
+    <credit>
+      <actor>Short, Lew</actor>
+      <role>Dick Horn</role>
+    </credit>
+  </cast>
+<plot>A tough Westerner is run out of town and heads east to New York, where he takes a job as bodyguard and guardian to a wealthy young man. Sent to recover some sensitive love letters, the guardian falls for the young lady recipient, but honor demands that he help her in her presumed pursuit of his employer.</plot><url>http://localhost:8983/solr/movie.html?081707</url></doc>

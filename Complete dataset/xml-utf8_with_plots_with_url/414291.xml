@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="414291">
+  <docid>414291</docid>
+  <title>Opening Day</title>
+  <year>1938</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">12 November 1938</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Rowland, Roy (I)</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Benchley, Robert</actor>
+      <role>City Treasurer Benchley</role>
+    </credit>
+    <credit>
+      <actor>Briggs, Harlan</actor>
+      <role>Mr. Garnish</role>
+    </credit>
+    <credit>
+      <actor>Butler, John (I)</actor>
+      <role>Heckler in Grandstand</role>
+    </credit>
+    <credit>
+      <actor>Nugent, J.C.</actor>
+      <role>Dr. Detweiler</role>
+    </credit>
+    <credit>
+      <actor>Steers, Larry</actor>
+      <role>Baseball Fan</role>
+    </credit>
+  </cast>
+<plot>Because the mayor of Sneeversport is in Italy, city treasurer Benchley is called upon to throw out the ball for the first baseball game at the new Sneeversport Municipal Park. He delivers a speech that shows he knows very little about baseball.</plot><url>http://localhost:8983/solr/movie.html?414291</url></doc>

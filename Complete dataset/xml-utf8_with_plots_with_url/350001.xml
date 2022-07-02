@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="350001">
+  <docid>350001</docid>
+  <title>Macaco Feio... Macaco Bonito</title>
+  <year>1929</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>zoo</keyword>
+    <keyword>mischief</keyword>
+    <keyword>escaped-animal</keyword>
+    <keyword>monkey</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Brazil</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">6</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Seel, Luis</director>
+    <director>Stamato, João</director>
+  </directors>
+<plot>A smart monkey escapes from its cage, takes the plush bear of a kid from his handcart and disguises of a toy, cheating the porter of the zoo. When its trick is found, the monkey jumps into a wagon, and throws the cargo of eggs in the porter that is chasing it, followed by the animals of the zoo.</plot><url>http://localhost:8983/solr/movie.html?350001</url></doc>

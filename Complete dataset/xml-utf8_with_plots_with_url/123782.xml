@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="123782">
+  <docid>123782</docid>
+  <title>Dad</title>
+  <year>2002</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Goswamy, Naveen</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">22 September 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Tierney, Jacob</director>
+  </directors>
+  <writers>
+    <writer>Runyan, Tygh</writer>
+    <writer>Tierney, Jacob</writer>
+  </writers>
+  <composers>
+    <composer>Senior, Ayal</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Hampshire, Emily</actor>
+      <role>Dora</role>
+    </credit>
+    <credit>
+      <actor>McClintock, Jacqueline</actor>
+      <role>Mom</role>
+    </credit>
+    <credit>
+      <actor>Runyan, Tygh</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>Tierney, Jacob</actor>
+      <role>Dad/Edward</role>
+    </credit>
+  </cast>
+<plot>After a year away in Africa, Mark has returned home to discover that his Mother and his best friend Edward have been spending the last year getting close; entirely too close. And what's worse is the horrifying idea they've come up with on how to make him more comfortable with the changes...</plot><url>http://localhost:8983/solr/movie.html?123782</url></doc>

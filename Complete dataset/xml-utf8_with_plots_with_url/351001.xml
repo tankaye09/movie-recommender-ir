@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="351001">
+  <docid>351001</docid>
+  <title>Made in the USA</title>
+  <year>2001</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Riegel, Anne</editor>
+  </editors>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <certificates>
+    <certificate country="France">U</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Belgium">9 January 2002</releasedate>
+    <releasedate country="France">14 November 2001</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">105</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Anspach, Sólveig</director>
+  </directors>
+  <writers>
+    <writer>Anspach, Sólveig</writer>
+    <writer>Babski, Cindy</writer>
+  </writers>
+<plot>The history of the execution of Odell Barnes in Texas, on March 1, 2000. The movie, based on testimonies of family, friends and lawyers, aims at demonstrating that O. Barnes did not receive a fair trial and was executed because of his past and background.</plot><url>http://localhost:8983/solr/movie.html?351001</url></doc>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="036198">
+  <docid>036198</docid>
+  <title>Amour</title>
+  <year>1922</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Belgium</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">40</runningtime>
+  </runningtimes>
+  <directors>
+    <director>de Baroncelli, Jacques</director>
+  </directors>
+  <writers>
+    <writer>de Baroncelli, Jacques</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Barclay, Eric</actor>
+      <role>Eric</role>
+    </credit>
+    <credit>
+      <actor>Duvivier</actor>
+      <role>Madame Desbaux</role>
+    </credit>
+    <credit>
+      <actor>Sovet, Abel</actor>
+      <role>Albert</role>
+    </credit>
+  </cast>
+<plot>Two young romantic boys are holidaying with a female relative when they discover in a drawer the photograph of an exquisite young lady. Each tries to better the other and win her by correspondence, before they finally discover that the girl in the photo is none other than their hostess, fifty years before.</plot><url>http://localhost:8983/solr/movie.html?036198</url></doc>

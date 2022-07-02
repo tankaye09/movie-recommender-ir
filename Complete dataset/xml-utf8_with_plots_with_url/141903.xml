@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="141903">
+  <docid>141903</docid>
+  <title>Design for Leaving</title>
+  <year>1954</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Brown, Treg</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>push-button</keyword>
+    <keyword>robot</keyword>
+    <keyword>elmer-fudd</keyword>
+    <keyword>gadget</keyword>
+    <keyword>daffy-duck</keyword>
+    <keyword>salesman</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>looney-tunes</keyword>
+    <keyword>spoof-of-modern-inventions</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="UK">U</certificate>
+    <certificate country="Canada">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">27 March 1954</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>McKimson, Robert</director>
+  </directors>
+  <producers>
+    <producer>Selzer, Edward</producer>
+  </producers>
+  <writers>
+    <writer>Pierce, Tedd</writer>
+  </writers>
+  <composers>
+    <composer>Stalling, Carl W.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Daffy Duck</role>
+    </credit>
+    <credit>
+      <actor>Bryan, Arthur Q.</actor>
+      <role>Elmer Fudd</role>
+    </credit>
+  </cast>
+<plot>Daffy Duck is a salesman for a futuristic appliance company, who, against Elmer Fudd's will, modernizes Fudd's house with many screwball gadgets, none of which work in Fudd's favor.</plot><url>http://localhost:8983/solr/movie.html?141903</url></doc>

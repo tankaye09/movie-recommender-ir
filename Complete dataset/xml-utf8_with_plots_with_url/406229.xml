@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="406229">
+  <docid>406229</docid>
+  <title>Oasis</title>
+  <year>1995</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Schneider, James (III)</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>avant-garde</keyword>
+    <keyword>experimental</keyword>
+    <keyword>document</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">6 June 1995</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+    <runningtime country="USA">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schneider, James (III)</director>
+  </directors>
+  <composers>
+    <composer>Cox, Liz (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Cox, Liz (I)</actor>
+      <role>Lounge singer</role>
+    </credit>
+    <credit>
+      <actor>Cudahy, Michael (II)</actor>
+      <role>Lounge singer</role>
+    </credit>
+  </cast>
+<plot>Surreal portrait of a master-planned community near Las Vegas, Nevada called Green Valley. Statues which line the streets stand in for the invisible inhabitants of this gated community while musicians Lily Banquette and Michael Cudahy act as a Greek Chorus setting to verse the existential woes of the residents.</plot><url>http://localhost:8983/solr/movie.html?406229</url></doc>

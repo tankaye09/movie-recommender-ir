@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="266409">
+  <docid>266409</docid>
+  <title>Inspector Gadget</title>
+  <year>1983</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Aries, Peter</editor>
+    <editor>Brody, Tod Scott</editor>
+    <editor>Kotlarski, Philippe</editor>
+    <editor>Schnier, Steve</editor>
+    <editor>Takahashi, Yoriko</editor>
+    <editor>Tsurubuchi, Masatoshi</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Mystery</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>trenchcoat</keyword>
+    <keyword>mysterious-villain</keyword>
+    <keyword>wrongful-arrest</keyword>
+    <keyword>genius-girl-child</keyword>
+    <keyword>cat</keyword>
+    <keyword>gadget</keyword>
+    <keyword>case-investigations</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>cartoon-cat</keyword>
+    <keyword>dog</keyword>
+    <keyword>loch-ness-monster</keyword>
+    <keyword>mute-intelligent-dog</keyword>
+    <keyword>girl-shy</keyword>
+    <keyword>stereotype</keyword>
+    <keyword>dog-cartoon</keyword>
+    <keyword>spy</keyword>
+    <keyword>stupidity</keyword>
+    <keyword>clumsiness</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>inspector</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>ignorance</keyword>
+    <keyword>talking-dog</keyword>
+    <keyword>famous-opening-theme</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Japan</country>
+    <country>France</country>
+    <country>Canada</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Australia">G</certificate>
+    <certificate country="USA">TV-Y</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">30 September 1984</releasedate>
+    <releasedate country="UK">25 August 1984</releasedate>
+    <releasedate country="France">24 October 1983</releasedate>
+    <releasedate country="USA">22 September 1984</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bianchi, Bruno (I)</director>
+    <director>Cox, Dave (I)</director>
+    <director>David, Edouard</director>
+    <director>Deyriès, Bernard</director>
+    <director>Hiruma, Toshiyuki</director>
+    <director>Jafelice, Raymond</director>
+    <director>Stephenson, Ken</director>
+  </directors>
+  <producers>
+    <producer>Botsford, Diana Dru</producer>
+    <producer>Fujimoto, Mitsuya</producer>
+  </producers>
+  <writers>
+    <writer>Bianchi, Bruno (I)</writer>
+    <writer>Chalopin, Jean</writer>
+    <writer>Heyward, Andy (I)</writer>
+    <writer>Bianchi, Bruno (I)</writer>
+    <writer>Burian-Mohr, Eleanor</writer>
+    <writer>Chalopin, Jean</writer>
+    <writer>Egbert, Glen</writer>
+    <writer>Hanrahan, Jack</writer>
+    <writer>Heyward, Andy (I)</writer>
+    <writer>O'Mahony, Michael</writer>
+    <writer>Sauder, Peter</writer>
+  </writers>
+  <composers>
+    <composer>Levy, Shuki</composer>
+    <composer>Saban, Haim</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adams, Don (I)</actor>
+      <role>Gadget</role>
+    </credit>
+    <credit>
+      <actor>Atlas, Georges</actor>
+      <role>Docteur Gang</role>
+    </credit>
+    <credit>
+      <actor>Berger, Holly (I)</actor>
+      <role>Penny</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Amazon Annie</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Bank Teller</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Female Pickpocket</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Henrietta</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Ice Cream Shop Customer #3</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Lana Lamour</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Louise Lane</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Madame</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Madamé</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Mother/Art Teacher</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Ms. Blockentackle</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Orphanage Owner</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>School Teacher</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Tabu</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Woman with Watch</role>
+    </credit>
+    <credit>
+      <actor>Brown, Melleny</actor>
+      <role>Women in Bank</role>
+    </credit>
+    <credit>
+      <actor>Carez, Bernard</actor>
+      <role>Chef Gonthier</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Corporal Capeman</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Sweetly</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Armored Car Driver</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Biplane Pilot</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Dr. Stench</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>LaDipp</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>LaPoof</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>M.A.D Agent #3</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>M.A.D Diamond Suit Maker/M.A.D Security Monitor</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>M.A.D Police Guard</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Miles Millions, Director and Fang's Owner</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Pierre LaChop</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Police Detective</role>
+    </credit>
+    <credit>
+      <actor>Craden, Jeri</actor>
+      <role>Trolls/M.A.D Water Salesman #1</role>
+    </credit>
+    <credit>
+      <actor>Darnot, Patricia</actor>
+      <role>Sophie</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Agent 3</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Dr. Claw</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Dr. Claw/Parrot/M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Explosives Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Hangnail</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Ice Cream Shop Cashier</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Laundry Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agent #1</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agent #2/M.A.D Agent #4</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agent/Agent 612</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Agents/Dr. Claw mumbling</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>M.A.D Sarcofagus Thief #1</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Mr. Finch/Cuckoo Clock Bird/Lead Bird</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Number Two</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Orderly</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Professor Venom</role>
+    </credit>
+    <credit>
+      <actor>Duffell, Greg</actor>
+      <role>Unfortunate Man</role>
+    </credit>
+    <credit>
+      <actor>Durand, Luc (I)</actor>
+      <role>Gadget (French version)</role>
+    </credit>
+    <credit>
+      <actor>Désy, Victor</actor>
+      <role>Docteur Gang</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Agent Q</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Astronaut</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Big M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Big M.A.D Agent/General Store Clerk</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Engineer</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>General</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Hotel Consierge</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>King Fezug 'Fezzy'</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>LaPoof's Assistant/Madam's Butler</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Agent #2/Flower Shop Owner</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Agent #2/Willard</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Sarcofagus Thief #2</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Scientist/M.A.D Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Water Salesman #2</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>M.A.D Yodeler/M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Mr. Greenfinger</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Nervous Nick Defecto</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Old Guard</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Patches/Elevator Operator/Crazy Guy</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Professor Frumpkin</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Professor Lasre</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Professor Von Slickstein</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Squint</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Sven Vinceton</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>The Quiz Master</role>
+    </credit>
+    <credit>
+      <actor>Francks, Don</actor>
+      <role>Thief #1</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Butler</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Delivery Boy</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Dr. Null</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Fingers</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Great Great Grandfather</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>M.A.D Ninja</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Andy</actor>
+      <role>Professor Von Slickstein</role>
+    </credit>
+    <credit>
+      <actor>Hartman, Karen (I)</actor>
+      <role>Queen</role>
+    </credit>
+    <credit>
+      <actor>Hartman, Karen (I)</actor>
+      <role>Viola</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Agent Y/M.A.D Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Carnival Announcer</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Chameleon/M.A.D Captain/Guard</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Director</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>First Mate/M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Ice Cream Shop Customer #1</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Inky</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Jewelry Shop Owner</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Joe Noodle</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent #1</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent #1/M.A.D Agent #3</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent #3</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent/M.A.D Mummy</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Agent/Mayor</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Conductor</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Desk Clerk/Bellhop</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Milkman</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Saboteur/Manager/Guard/Speaker Voice</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>M.A.D Watcher/Mayor/Clock Maker</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>News Reporter/Studio Guard/Mail Man</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Pickpocket #1/Psychiatrist</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Police Captain</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Prison Guard</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Race Announcer/M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Ricardo</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Ring Master/M.A.D Clown</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Strong Man/Rattlesnake Bart</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>The Rat</role>
+    </credit>
+    <credit>
+      <actor>Hennessey, Dan</actor>
+      <role>Thief #2/Mr. Chow's Henchmen</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>King</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>Les Renowned</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>Les Renowned/Spuds Malone</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>M.A.D Paramedic</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>House, Ronald E.</actor>
+      <role>Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Chief Quimby/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Mr. Chow/Grandson of Unfortunate Man</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Professor Mongul/Real Captain/Merchant/Maharaja/Yehti/Professor Moduel/Head Guard</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Skier</role>
+    </credit>
+    <credit>
+      <actor>Kay, Hadley</actor>
+      <role>Zuchini Brother</role>
+    </credit>
+    <credit>
+      <actor>Knotts, Don</actor>
+      <role>Male M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Chief Quimby</role>
+    </credit>
+    <credit>
+      <actor>Lightstone, Marilyn</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Lightstone, Marilyn</actor>
+      <role>M.A.D Old Lady</role>
+    </credit>
+    <credit>
+      <actor>Lumont, Roger</actor>
+      <role>Chef Gonthier</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Mona (I)</actor>
+      <role>Penny</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>Additional Voices (1985-1986)</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>Dr. Spectrum</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>Professor Doomkauf</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>Professor Doomkauf/The Grappler</role>
+    </credit>
+    <credit>
+      <actor>Nye, Louis</actor>
+      <role>The Great Wambini</role>
+    </credit>
+    <credit>
+      <actor>Préjean, Patrick</actor>
+      <role>Capeman</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Ski Announcer/Chief Quimby/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Terry-Thomas</actor>
+      <role>Archeologist</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Brain/Dr. Claw/M.A.D. Cat//Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>City Official</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Cows and Bull</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Dr. Claw</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Dr. Noodleman</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Dr. Void/Mayor/Harold</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Fang the Wonderdog</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>M.A.D Agent/Alarm Clock Voice</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>M.A.D Agent/Mansion Owner</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>M.A.D Agent/News Reporter/Psychiatrist</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Miner #1/Ostrich</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Prest-O Change-O</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Prison Guard #1/Prison Guard #2/Emperor/M.A.D Agent</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The Lesser Wambini</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The Lesser Wambini/M.A.D Stewardess #1/M.A.D Stewardess #2/M.A.D Stewardess #3</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The Lesser Wambini/News Reporter/Animals</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The Linguinies</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Train Engineer</role>
+    </credit>
+    <credit>
+      <actor>Wiggins, Chris (I)</actor>
+      <role>Chief Quimby</role>
+    </credit>
+  </cast>
+<plot>Bumbling Inspector Gadget battles the forces of M.A.D. with the aid of the various gadgets he has on his person: pop-up rollerskates, extensible arms, a helicopter-hat, etc. Despite the arsenal at his disposal (which is just as likely to misfire as work properly), Gadget never seems to be able to catch Dr. Claw, the mastermind behind M.A.D. Quite often, in fact, any success that Gadget might have is often caused by his niece Penny and her dog, who Gadget consistently fails to recognize as working incognito on the case.</plot><url>http://localhost:8983/solr/movie.html?266409</url></doc>

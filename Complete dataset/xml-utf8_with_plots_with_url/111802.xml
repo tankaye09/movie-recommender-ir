@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="111802">
+  <docid>111802</docid>
+  <title>Comedy Challenge</title>
+  <year>1986</year>
+  <type>TelevisionMovie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Game-Show</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1986</releasedate>
+  </releasedates>
+  <producers>
+    <producer>Annecharico, Arthur L.</producer>
+  </producers>
+  <writers>
+    <writer>Combs, Ray (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Combs, Ray (I)</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Dunlop, Vic</actor>
+      <role>Guest/Comedian</role>
+    </credit>
+  </cast>
+<plot>A game show that pits comedian against comedian in an "improv" style format as they ad-lib their way to the winner's circle. The comic teams are given situations that they must improvise a skit while adding as much comic stick as possible, in order to get the biggest laugh and applause on the audience noise meter.</plot><url>http://localhost:8983/solr/movie.html?111802</url></doc>

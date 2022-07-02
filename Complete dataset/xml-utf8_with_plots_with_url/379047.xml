@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="379047">
+  <docid>379047</docid>
+  <title>Movie Show Plus</title>
+  <year>2002</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Pulgini, Gina</editor>
+  </editors>
+  <genres>
+    <genre>Talk-Show</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Russell, Greg (II)</director>
+  </directors>
+  <producers>
+    <producer>Lauri, John</producer>
+    <producer>Russell, Greg (II)</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Allen, Tim (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Julie (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Connelly, Jennifer</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Russell, Greg (II)</actor>
+      <role>Himself - Host</role>
+    </credit>
+  </cast>
+<plot>An international TV program including interviews with all the major movie stars before their feature films are released. It also highlights how movies are made, who makes them and where they shop, dine, party, and travel. The Movie Show Plus also goes out on the road shooting shows in Los Angeles and New York.</plot><url>http://localhost:8983/solr/movie.html?379047</url></doc>

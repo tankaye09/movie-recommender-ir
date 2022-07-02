@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="007001">
+  <docid>007001</docid>
+  <title>8:00a.m.</title>
+  <year>1995</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Granger, Seth</editor>
+    <editor>McDaniel, Adam</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Drama</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>time-for-title</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>student-film</keyword>
+    <keyword>dream</keyword>
+    <keyword>number-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>McDaniel, Adam</director>
+  </directors>
+  <producers>
+    <producer>Robinson, Ken (I)</producer>
+  </producers>
+  <writers>
+    <writer>McDaniel, Adam</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ferrari, Alex (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Milligan, Rachel</actor>
+      <role>Girl on phone</role>
+    </credit>
+  </cast>
+<plot>Award-winning student short involving a young artist who tries to sketch the girl from his fantasies. When he finally gets the portrait right she comes to life, but disappears when an alarm clock rings at 8:00a.m...</plot><url>http://localhost:8983/solr/movie.html?007001</url></doc>

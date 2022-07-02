@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="100520">
+  <docid>100520</docid>
+  <title>Charm</title>
+  <year>1999</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Graham, Rhys</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Australia</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Germany">2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Australia">26</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Graham, Rhys</director>
+  </directors>
+  <writers>
+    <writer>Graham, Rhys</writer>
+  </writers>
+  <composers>
+    <composer>O'Young, Christopher</composer>
+    <composer>Phillips, Tom (IV)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bradshaw, David (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hosking, Kate</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Knight, Margot (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Mark (IV)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Through his father's compulsive gambling, Christian is plunged into a world of violence and despair. A brutal attack leaves him deafened and Christian is forced onto a path from resignation to resistance.</plot><url>http://localhost:8983/solr/movie.html?100520</url></doc>

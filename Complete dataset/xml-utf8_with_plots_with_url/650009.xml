@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="650009">
+  <docid>650009</docid>
+  <title>Welcome Home</title>
+  <year>1920</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>war-hero</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <directors>
+    <director>St. Clair, Malcolm</director>
+  </directors>
+  <writers>
+    <writer>McCardell, Roy L.</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Earle, Frank</actor>
+      <role>Her father</role>
+    </credit>
+    <credit>
+      <actor>Emory, May</actor>
+      <role>A widow</role>
+    </credit>
+    <credit>
+      <actor>Harlan, Otis</actor>
+      <role>Maj. Otie</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, Al (I)</actor>
+      <role>A trainer</role>
+    </credit>
+    <credit>
+      <actor>Moore, Joe (I)</actor>
+      <role>Papa's choice</role>
+    </credit>
+  </cast>
+<plot>After the war is over, an ex-soldier who came home a war hero returns to collect his wife. They have kept their marriage secret from her father, a rich businessman obsessed with money who thinks there's "no profit in heroes". They have to convince her father that her husband is good enough for his daughter before they break the news to him that they're already married.</plot><url>http://localhost:8983/solr/movie.html?650009</url></doc>

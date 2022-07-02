@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="455402">
+  <docid>455402</docid>
+  <title>Ransom</title>
+  <year>1996</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Hanley, Daniel P.</editor>
+    <editor>Hill, Mike (I)</editor>
+  </editors>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>hostage</keyword>
+    <keyword>new-york-city</keyword>
+    <keyword>rescue</keyword>
+    <keyword>alcoholic</keyword>
+    <keyword>arrest</keyword>
+    <keyword>victim</keyword>
+    <keyword>death</keyword>
+    <keyword>central-park-new-york</keyword>
+    <keyword>ransom</keyword>
+    <keyword>film-in-film</keyword>
+    <keyword>police</keyword>
+    <keyword>blood-splatter</keyword>
+    <keyword>blood</keyword>
+    <keyword>e-mail</keyword>
+    <keyword>dirty-cop</keyword>
+    <keyword>broken-leg</keyword>
+    <keyword>negotiator</keyword>
+    <keyword>fbi</keyword>
+    <keyword>reporter</keyword>
+    <keyword>gambling</keyword>
+    <keyword>grief</keyword>
+    <keyword>body-double</keyword>
+    <keyword>hit-by-car</keyword>
+    <keyword>new-jersey</keyword>
+    <keyword>washing-machine</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>holland-tunnel</keyword>
+    <keyword>class-differences</keyword>
+    <keyword>corrupt-cop</keyword>
+    <keyword>kidnapping</keyword>
+    <keyword>shot-in-the-chest</keyword>
+    <keyword>television</keyword>
+    <keyword>gun</keyword>
+    <keyword>reward</keyword>
+    <keyword>child-in-peril</keyword>
+    <keyword>psycho-thriller</keyword>
+    <keyword>laptop-computer</keyword>
+    <keyword>shot-in-the-back</keyword>
+    <keyword>commercial</keyword>
+    <keyword>manhattan</keyword>
+    <keyword>chinese-food</keyword>
+    <keyword>voice-changer</keyword>
+    <keyword>remake</keyword>
+    <keyword>child-kidnapping</keyword>
+    <keyword>swimming-pool</keyword>
+    <keyword>wetting-pants</keyword>
+    <keyword>duct-tape</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>homeless-person</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>urinating-in-fear</keyword>
+    <keyword>harlem</keyword>
+    <keyword>police-corruption</keyword>
+    <keyword>bloody-violence</keyword>
+    <keyword>brother</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>science-fair</keyword>
+    <keyword>chase</keyword>
+    <keyword>bribe</keyword>
+    <keyword>revelation</keyword>
+    <keyword>bounty</keyword>
+    <keyword>police-officer-killed</keyword>
+    <keyword>neo-noir</keyword>
+    <keyword>money</keyword>
+    <keyword>title-spoken-by-character</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="Portugal">M/16</certificate>
+    <certificate country="Netherlands">16</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">16</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">18</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Norway">15</certificate>
+    <certificate country="Finland">K-14</certificate>
+    <certificate country="Italy">VM14</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="New Zealand">R16</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">20 December 1996</releasedate>
+    <releasedate country="South Africa">31 January 1997</releasedate>
+    <releasedate country="Argentina">9 January 1997</releasedate>
+    <releasedate country="Portugal">31 January 1997</releasedate>
+    <releasedate country="Turkey">21 February 1997</releasedate>
+    <releasedate country="Serbia">January 1997</releasedate>
+    <releasedate country="Brazil">17 January 1997</releasedate>
+    <releasedate country="Netherlands">9 January 1997</releasedate>
+    <releasedate country="Japan">15 February 1997</releasedate>
+    <releasedate country="Slovenia">16 January 1997</releasedate>
+    <releasedate country="Israel">10 January 1997</releasedate>
+    <releasedate country="UK">7 February 1997</releasedate>
+    <releasedate country="Germany">2 January 1997</releasedate>
+    <releasedate country="France">22 January 1997</releasedate>
+    <releasedate country="Hungary">23 January 1997</releasedate>
+    <releasedate country="Hong Kong">19 December 1996</releasedate>
+    <releasedate country="Estonia">14 February 1997</releasedate>
+    <releasedate country="Iceland">26 December 1996</releasedate>
+    <releasedate country="South Korea">7 December 1996</releasedate>
+    <releasedate country="Poland">3 January 1997</releasedate>
+    <releasedate country="Spain">27 December 1996</releasedate>
+    <releasedate country="Australia">14 November 1996</releasedate>
+    <releasedate country="Switzerland">10 January 1997</releasedate>
+    <releasedate country="Canada">8 November 1996</releasedate>
+    <releasedate country="Finland">10 January 1997</releasedate>
+    <releasedate country="Philippines">29 January 1997</releasedate>
+    <releasedate country="New Zealand">21 November 1996</releasedate>
+    <releasedate country="USA">8 November 1996</releasedate>
+    <releasedate country="Kuwait">8 February 1997</releasedate>
+    <releasedate country="Denmark">10 January 1997</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">121</runningtime>
+    <runningtime country="USA">139</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Howard, Ron (I)</director>
+  </directors>
+  <producers>
+    <producer>Porter, Aldric La'Auli</producer>
+    <producer>Velis, Louisa</producer>
+    <producer>Merzbach, Susan</producer>
+    <producer>Schroeder, Adam</producer>
+  </producers>
+  <composers>
+    <composer>Horner, James</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Allen, Tommy (I)</actor>
+      <role>Detective at Kidnap House</role>
+    </credit>
+    <credit>
+      <actor>Attio, Eric</actor>
+      <role>Man on Street</role>
+    </credit>
+    <credit>
+      <actor>Axelrod, Steve</actor>
+      <role>Chief of Dectectives Lieberman</role>
+    </credit>
+    <credit>
+      <actor>Bacino, Joe</actor>
+      <role>Cop #1</role>
+    </credit>
+    <credit>
+      <actor>Badalucco Jr., Joseph</actor>
+      <role>Liquor Store Cop</role>
+    </credit>
+    <credit>
+      <actor>Bello, Teodorina</actor>
+      <role>Woman on Street #1</role>
+    </credit>
+    <credit>
+      <actor>Benza, A.J.</actor>
+      <role>Reporter Guest</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Allen (I)</actor>
+      <role>Bob Stone</role>
+    </credit>
+    <credit>
+      <actor>Brewer, Brad (II)</actor>
+      <role>The Crowtations</role>
+    </credit>
+    <credit>
+      <actor>Brown, Darren (I)</actor>
+      <role>The Crowtations</role>
+    </credit>
+    <credit>
+      <actor>Brown, Marvin (II)</actor>
+      <role>The Crowtations</role>
+    </credit>
+    <credit>
+      <actor>Burns, Vincent J. (I)</actor>
+      <role>Detective Doran</role>
+    </credit>
+    <credit>
+      <actor>Burrows, Carl</actor>
+      <role>Emergency Medical Tech.</role>
+    </credit>
+    <credit>
+      <actor>Castaldo, Craig</actor>
+      <role>Radioman</role>
+    </credit>
+    <credit>
+      <actor>Chinn, Lori Tan</actor>
+      <role>Woman on Street #3</role>
+    </credit>
+    <credit>
+      <actor>Countryman, Michael</actor>
+      <role>Bank Manager</role>
+    </credit>
+    <credit>
+      <actor>Devlin, Leslie (II)</actor>
+      <role>Newscaster #1</role>
+    </credit>
+    <credit>
+      <actor>Dodley, Lewis</actor>
+      <role>Newscaster #2</role>
+    </credit>
+    <credit>
+      <actor>Don, Carl</actor>
+      <role>Man on Street #1</role>
+    </credit>
+    <credit>
+      <actor>Dorish, John</actor>
+      <role>Paramedic</role>
+    </credit>
+    <credit>
+      <actor>Ellison, Todd</actor>
+      <role>Pianist in Opening Scene</role>
+    </credit>
+    <credit>
+      <actor>Evangelista, Anton</actor>
+      <role>FBI Agent</role>
+    </credit>
+    <credit>
+      <actor>Farfel, Roy</actor>
+      <role>FBI SWAT Team #3</role>
+    </credit>
+    <credit>
+      <actor>Finnerty, John 'Spike'</actor>
+      <role>Newshound</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Nathaniel</actor>
+      <role>Man on Street #2</role>
+    </credit>
+    <credit>
+      <actor>Gaston, Michael (I)</actor>
+      <role>Agent Jack Sickler</role>
+    </credit>
+    <credit>
+      <actor>Geddings, Lex D.</actor>
+      <role>FBI SWAT Sniper</role>
+    </credit>
+    <credit>
+      <actor>Geier, Paul</actor>
+      <role>Mayor Barresi</role>
+    </credit>
+    <credit>
+      <actor>Georgiades, James (I)</actor>
+      <role>Cop #3</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Mel (I)</actor>
+      <role>Tom Mullen</role>
+    </credit>
+    <credit>
+      <actor>Guilfoyle, Paul (II)</actor>
+      <role>Wallace</role>
+    </credit>
+    <credit>
+      <actor>Hallowell, Todd (I)</actor>
+      <role>Don Campbell</role>
+    </credit>
+    <credit>
+      <actor>Handler, Evan</actor>
+      <role>Miles Roberts</role>
+    </credit>
+    <credit>
+      <actor>Hanover, Donna</actor>
+      <role>News Reporter</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Gene</actor>
+      <role>FBI SWAT Team Leader</role>
+    </credit>
+    <credit>
+      <actor>Hartmann, John (I)</actor>
+      <role>Agent Lambert</role>
+    </credit>
+    <credit>
+      <actor>Hedaya, Dan</actor>
+      <role>Jackie Brown</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Mike (I)</actor>
+      <role>Man at Party</role>
+    </credit>
+    <credit>
+      <actor>Hoty, Tony</actor>
+      <role>Doorman</role>
+    </credit>
+    <credit>
+      <actor>Howard, Cheryl (I)</actor>
+      <role>Science Fair Coordinator</role>
+    </credit>
+    <credit>
+      <actor>Hudson, Judy</actor>
+      <role>News Reporter #2</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Jane (I)</actor>
+      <role>Woman on Street #2</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Edward Francis</actor>
+      <role>Guest at Party</role>
+    </credit>
+    <credit>
+      <actor>Jupp Jr., Ed</actor>
+      <role>Technician</role>
+    </credit>
+    <credit>
+      <actor>Kaufman, Jeffrey H.</actor>
+      <role>ND Cop #2</role>
+    </credit>
+    <credit>
+      <actor>King, Glenn (I)</actor>
+      <role>The Crowtations</role>
+    </credit>
+    <credit>
+      <actor>Kingi Jr., Henry</actor>
+      <role>FBI SWAT Team #2</role>
+    </credit>
+    <credit>
+      <actor>Lindo, Delroy</actor>
+      <role>Agent Lonnie Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Lopata, Chris</actor>
+      <role>Agent Levin</role>
+    </credit>
+    <credit>
+      <actor>Lowry, Joan D.</actor>
+      <role>Mayor's Wife</role>
+    </credit>
+    <credit>
+      <actor>Maara, Dell</actor>
+      <role>Liquor Store Perp</role>
+    </credit>
+    <credit>
+      <actor>Maelen, Christian</actor>
+      <role>Cop #4</role>
+    </credit>
+    <credit>
+      <actor>Marie, Louisa</actor>
+      <role>Woman at Party</role>
+    </credit>
+    <credit>
+      <actor>McCready, Kevin Neil</actor>
+      <role>Agent Paul Rhodes</role>
+    </credit>
+    <credit>
+      <actor>Moreland, Rawleigh</actor>
+      <role>Coroner</role>
+    </credit>
+    <credit>
+      <actor>Nolte, Brawley</actor>
+      <role>Sean Mullen</role>
+    </credit>
+    <credit>
+      <actor>O'Rourke, Mick (I)</actor>
+      <role>FBI SWAT Team #1</role>
+    </credit>
+    <credit>
+      <actor>Oates, Stephen (I)</actor>
+      <role>NYPD SWAT Team</role>
+    </credit>
+    <credit>
+      <actor>Ortiz, John (I)</actor>
+      <role>Roberto</role>
+    </credit>
+    <credit>
+      <actor>Osorio, Rafael (I)</actor>
+      <role>Man on Street #4</role>
+    </credit>
+    <credit>
+      <actor>Parolisi, Phil</actor>
+      <role>Man on Street #3</role>
+    </credit>
+    <credit>
+      <actor>Potts, Tony (I)</actor>
+      <role>News Anchor #2</role>
+    </credit>
+    <credit>
+      <actor>Price, Richard (I)</actor>
+      <role>Detective #1</role>
+    </credit>
+    <credit>
+      <actor>Redding, Carl S.</actor>
+      <role>Cop #2</role>
+    </credit>
+    <credit>
+      <actor>Ritz, James (I)</actor>
+      <role>Science Fair Judge</role>
+    </credit>
+    <credit>
+      <actor>Rogers, John Brian</actor>
+      <role>ND Cop #1</role>
+    </credit>
+    <credit>
+      <actor>Schreiber, Liev</actor>
+      <role>Clark Barnes</role>
+    </credit>
+    <credit>
+      <actor>Short, John</actor>
+      <role>Agent Dewey</role>
+    </credit>
+    <credit>
+      <actor>Sinise, Gary</actor>
+      <role>Det. Jimmy Shaker</role>
+    </credit>
+    <credit>
+      <actor>Smith, Mark (III)</actor>
+      <role>Undercover Cop</role>
+    </credit>
+    <credit>
+      <actor>Tambakis, Peter Anthony</actor>
+      <role>Nelson</role>
+    </credit>
+    <credit>
+      <actor>Tracy, Christopher (I)</actor>
+      <role>Arresting Officer</role>
+    </credit>
+    <credit>
+      <actor>Upendran, Panicker</actor>
+      <role>Store Owner</role>
+    </credit>
+    <credit>
+      <actor>Vadim, David</actor>
+      <role>Cop #5</role>
+    </credit>
+    <credit>
+      <actor>Wahlberg, Donnie</actor>
+      <role>Cubby Barnes</role>
+    </credit>
+    <credit>
+      <actor>Whalen Sr., James Patrick</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Williams, Keith Leon</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Wong, Daniel May</actor>
+      <role>Agent Sam</role>
+    </credit>
+    <credit>
+      <actor>Zajonc, Robert 'Bobby Z'</actor>
+      <role>Rescue Pilot</role>
+    </credit>
+    <credit>
+      <actor>Zúñiga, José (I)</actor>
+      <role>David Torres</role>
+    </credit>
+  </cast>
+<plot>Tom Mullen, rich airline owner, is shocked when his son is kidnapped. He is willing to pay the two million dollar ransom, but the drop goes wrong. So Tom turns the ransom money into a bounty on the head of the kidnapper.</plot><url>http://localhost:8983/solr/movie.html?455402</url></doc>

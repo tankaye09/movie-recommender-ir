@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="190779">
+  <docid>190779</docid>
+  <title>Father Knows Best</title>
+  <year>1954</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Bryant, Edwin H.</editor>
+    <editor>Fantl, Richard</editor>
+    <editor>Hoover, Robert B.</editor>
+    <editor>Stell, Aaron (I)</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>college-kid</keyword>
+    <keyword>reference-to-shakespeare</keyword>
+    <keyword>pouting</keyword>
+    <keyword>dictionary</keyword>
+    <keyword>crown</keyword>
+    <keyword>reading-book</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>bad-day</keyword>
+    <keyword>reference-to-coleridge</keyword>
+    <keyword>shakespearean-quote</keyword>
+    <keyword>cat</keyword>
+    <keyword>pretending-to-be-invisible</keyword>
+    <keyword>teenage-boy</keyword>
+    <keyword>child's-bedroom</keyword>
+    <keyword>dream-sequence</keyword>
+    <keyword>tyrant</keyword>
+    <keyword>telephone</keyword>
+    <keyword>dinner</keyword>
+    <keyword>girl</keyword>
+    <keyword>flower-shop</keyword>
+    <keyword>bad-mood</keyword>
+    <keyword>breaking-window</keyword>
+    <keyword>baseball-through-window</keyword>
+    <keyword>resentment-toward-father</keyword>
+    <keyword>sister-sister-relationship</keyword>
+    <keyword>middle-age</keyword>
+    <keyword>reference-to-boris-karloff</keyword>
+    <keyword>reference-to-clark-gable</keyword>
+    <keyword>insurance-salesman</keyword>
+    <keyword>reference-to-abraham-lincoln</keyword>
+    <keyword>reference-to-as-you-like-it</keyword>
+    <keyword>waxing-floor</keyword>
+    <keyword>hiding-under-bed</keyword>
+    <keyword>brother-sister-relationship</keyword>
+    <keyword>vacuum-cleaner</keyword>
+    <keyword>reference-to-rudolph-valentino</keyword>
+    <keyword>father-daughter-relationship</keyword>
+    <keyword>date</keyword>
+    <keyword>sibling-rivalry</keyword>
+    <keyword>mother-daughter-relationship</keyword>
+    <keyword>nightmare</keyword>
+    <keyword>teenage-girl</keyword>
+    <keyword>pretending-to-be-tiger</keyword>
+    <keyword>scroll</keyword>
+    <keyword>coffee-table</keyword>
+    <keyword>baseball-bat</keyword>
+    <keyword>balloon</keyword>
+    <keyword>blind-date</keyword>
+    <keyword>family-dinner</keyword>
+    <keyword>corsage</keyword>
+    <keyword>fictional-city</keyword>
+    <keyword>sweater</keyword>
+    <keyword>baseball</keyword>
+    <keyword>egg-beater</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>telephone-call</keyword>
+    <keyword>messy-desk</keyword>
+    <keyword>17-year-old</keyword>
+    <keyword>reference-to-gregory-peck</keyword>
+    <keyword>cold-cream</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>letter</keyword>
+    <keyword>ringing-telephone</keyword>
+    <keyword>based-on-radio-show</keyword>
+    <keyword>19-year-old</keyword>
+    <keyword>secretary</keyword>
+    <keyword>orchid</keyword>
+    <keyword>desk</keyword>
+    <keyword>tv-series-reunion</keyword>
+    <keyword>slipping-and-falling</keyword>
+    <keyword>door-bell</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>feeling-neglected</keyword>
+    <keyword>speech</keyword>
+    <keyword>late-for-dinner</keyword>
+    <keyword>hammock</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">G</certificate>
+    <certificate country="New Zealand">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="West Germany">6 April 1963</releasedate>
+    <releasedate country="France">23 October 1960</releasedate>
+    <releasedate country="Finland">31 December 1961</releasedate>
+    <releasedate country="USA">28 September 1955</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Neilson, James</director>
+    <director>Russell, William D.</director>
+    <director>Tewksbury, Peter</director>
+  </directors>
+  <writers>
+    <writer>Avedon, Barbara</writer>
+    <writer>Beauchamp, D.D.</writer>
+    <writer>Clork, Harry</writer>
+    <writer>Conway, Dick (I)</writer>
+    <writer>Cooper, Dorothy (I)</writer>
+    <writer>Curtis, Cally</writer>
+    <writer>Davis, Phil (III)</writer>
+    <writer>De Vries, Marvin</writer>
+    <writer>Epstein, Herman</writer>
+    <writer>Gershman, Ben (I)</writer>
+    <writer>Herzinger, Carl</writer>
+    <writer>James, Ed (II)</writer>
+    <writer>Kohn, John (I)</writer>
+    <writer>Lenard, Kay</writer>
+    <writer>Lindsey, Virginia</writer>
+    <writer>Long, Sumner Arthur</writer>
+    <writer>Lussier, Dane</writer>
+    <writer>Rogers, Roswell</writer>
+    <writer>West, Paul (V)</writer>
+    <writer>Woods, Alan (I)</writer>
+  </writers>
+  <composers>
+    <composer>Friedman, Irving</composer>
+    <composer>Weiss, Joseph (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adams, Mary (I)</actor>
+      <role>Mrs. Huntington</role>
+    </credit>
+    <credit>
+      <actor>Adams, Mary (I)</actor>
+      <role>Mrs. Lydom</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Denise (I)</actor>
+      <role>Georgia</role>
+    </credit>
+    <credit>
+      <actor>Ames, Florenz</actor>
+      <role>Magistrate</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Herbert</actor>
+      <role>Verle Wisman</role>
+    </credit>
+    <credit>
+      <actor>Antrim, Harry</actor>
+      <role>Dr. Conrad</role>
+    </credit>
+    <credit>
+      <actor>Ashley, Joel</actor>
+      <role>Matt</role>
+    </credit>
+    <credit>
+      <actor>Audley, Eleanor</actor>
+      <role>Saleslady</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Lyle</role>
+    </credit>
+    <credit>
+      <actor>Baker, Ann (II)</actor>
+      <role>Barbara</role>
+    </credit>
+    <credit>
+      <actor>Banner, John (I)</actor>
+      <role>Artist</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Rayford</actor>
+      <role>Deuce</role>
+    </credit>
+    <credit>
+      <actor>Barton, Anne</actor>
+      <role>Teacher</role>
+    </credit>
+    <credit>
+      <actor>Bates, Jimmy</actor>
+      <role>Claude Messner</role>
+    </credit>
+    <credit>
+      <actor>Beddoe, Don</actor>
+      <role>Aldis Lydom</role>
+    </credit>
+    <credit>
+      <actor>Bender, Don</actor>
+      <role>Orlo</role>
+    </credit>
+    <credit>
+      <actor>Bissell, Whit</actor>
+      <role>Sinclair Bruder</role>
+    </credit>
+    <credit>
+      <actor>Bouchey, Willis</actor>
+      <role>Emmet Ward</role>
+    </credit>
+    <credit>
+      <actor>Bradford, Lane</actor>
+      <role>F. W. Burns</role>
+    </credit>
+    <credit>
+      <actor>Bryant, John (I)</actor>
+      <role>Skipper</role>
+    </credit>
+    <credit>
+      <actor>Bryar, Claudia</actor>
+      <role>Miss Woodruff</role>
+    </credit>
+    <credit>
+      <actor>Burton, Robert (I)</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Butterfield, Herbert</actor>
+      <role>Harper Eames</role>
+    </credit>
+    <credit>
+      <actor>Capri, Ahna</actor>
+      <role>Lisping Spelling Bee Contestant</role>
+    </credit>
+    <credit>
+      <actor>Carleton, Claire</actor>
+      <role>Hostess</role>
+    </credit>
+    <credit>
+      <actor>Carpenter, Carleton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Case, Kathleen</actor>
+      <role>Marissa</role>
+    </credit>
+    <credit>
+      <actor>Chapin, Lauren</actor>
+      <role>Kathleen 'Kitten' Anderson</role>
+    </credit>
+    <credit>
+      <actor>Chapin, Lauren</actor>
+      <role>Kathy</role>
+    </credit>
+    <credit>
+      <actor>Chapin, Lauren</actor>
+      <role>Kathy 'Kitten' Anderson</role>
+    </credit>
+    <credit>
+      <actor>Chenault, Cynthia</actor>
+      <role>Janie Little</role>
+    </credit>
+    <credit>
+      <actor>Childs, Monroe</actor>
+      <role>Mr. Clardy</role>
+    </credit>
+    <credit>
+      <actor>Christian, Diana</actor>
+      <role>Virginia Harris</role>
+    </credit>
+    <credit>
+      <actor>Christine, Virginia</actor>
+      <role>Grace</role>
+    </credit>
+    <credit>
+      <actor>Christy, Ken (I)</actor>
+      <role>Ed</role>
+    </credit>
+    <credit>
+      <actor>Clayton, Ken (I)</actor>
+      <role>Roger Kohlhoff</role>
+    </credit>
+    <credit>
+      <actor>Coates, Joyce</actor>
+      <role>Virginia</role>
+    </credit>
+    <credit>
+      <actor>Cody, Harry (I)</actor>
+      <role>Coach Gabener</role>
+    </credit>
+    <credit>
+      <actor>Coffin, Tristram</actor>
+      <role>Frank Tyler</role>
+    </credit>
+    <credit>
+      <actor>Collins, Ray (I)</actor>
+      <role>Dean Walton</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Tamar (I)</actor>
+      <role>Elvia Horsen</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Tamar (I)</actor>
+      <role>Eula Craig</role>
+    </credit>
+    <credit>
+      <actor>Corrigan, Lloyd</actor>
+      <role>Myron Hanson</role>
+    </credit>
+    <credit>
+      <actor>Cranston, Joe</actor>
+      <role>Bill Neuman</role>
+    </credit>
+    <credit>
+      <actor>Crenna, Richard</actor>
+      <role>Elwood Seastrom</role>
+    </credit>
+    <credit>
+      <actor>Curry, Mason</actor>
+      <role>Spelling Master</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Barry (I)</actor>
+      <role>Frankie</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Donald</actor>
+      <role>Eddie Gilbert</role>
+    </credit>
+    <credit>
+      <actor>Daly, John (I)</actor>
+      <role>Mr. Ebert</role>
+    </credit>
+    <credit>
+      <actor>Dano, Royal</actor>
+      <role>Sageman</role>
+    </credit>
+    <credit>
+      <actor>Dayton, John Philip</actor>
+      <role>Tommy</role>
+    </credit>
+    <credit>
+      <actor>Dennis, John (I)</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Bobby</actor>
+      <role>Jimmy Woodie</role>
+    </credit>
+    <credit>
+      <actor>Donahue, Elinor</actor>
+      <role>Betty</role>
+    </credit>
+    <credit>
+      <actor>Donahue, Elinor</actor>
+      <role>Betty 'Princess' Anderson</role>
+    </credit>
+    <credit>
+      <actor>Doran, Ann</actor>
+      <role>Dorothy Tyler</role>
+    </credit>
+    <credit>
+      <actor>Drake, Pauline</actor>
+      <role>Mrs. Zerney</role>
+    </credit>
+    <credit>
+      <actor>Dumke, Ralph</actor>
+      <role>Howard 'Mac' McGrath</role>
+    </credit>
+    <credit>
+      <actor>Easton, Robert (I)</actor>
+      <role>Carter Mawston</role>
+    </credit>
+    <credit>
+      <actor>Eden, Barbara (I)</actor>
+      <role>Marge Corbett</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Juney</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Ely, Ron</actor>
+      <role>Jerry Preston</role>
+    </credit>
+    <credit>
+      <actor>Emmet, Michael</actor>
+      <role>Les Harris</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Lee (I)</actor>
+      <role>Artie Merrill</role>
+    </credit>
+    <credit>
+      <actor>Evans, Nancy (I)</actor>
+      <role>Mrs. Blair</role>
+    </credit>
+    <credit>
+      <actor>Eyer, Richard</actor>
+      <role>Grover Adams</role>
+    </credit>
+    <credit>
+      <actor>Fawcett, William</actor>
+      <role>Mr. Trumble</role>
+    </credit>
+    <credit>
+      <actor>Fedderson, Yvonne</actor>
+      <role>Dotty Snow</role>
+    </credit>
+    <credit>
+      <actor>Fennelly, Parker</actor>
+      <role>Mr. Everett</role>
+    </credit>
+    <credit>
+      <actor>Field, Sylvia</actor>
+      <role>Grandma</role>
+    </credit>
+    <credit>
+      <actor>Flint, Sam</actor>
+      <role>Mr. Armstead</role>
+    </credit>
+    <credit>
+      <actor>Foran, Dick</actor>
+      <role>Burt</role>
+    </credit>
+    <credit>
+      <actor>Ford, Wallace</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Forte, Joseph (I)</actor>
+      <role>Fred Hartley</role>
+    </credit>
+    <credit>
+      <actor>Foulk, Robert</actor>
+      <role>Ed Davis</role>
+    </credit>
+    <credit>
+      <actor>Freed, Donald</actor>
+      <role>Radioman</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Joan (I)</actor>
+      <role>Judy</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Joan (I)</actor>
+      <role>Judy Corbett</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Kathleen (I)</actor>
+      <role>Fussy Woman</role>
+    </credit>
+    <credit>
+      <actor>Friebus, Florida</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Gallaudet, John</actor>
+      <role>Roger Garland</role>
+    </credit>
+    <credit>
+      <actor>Garner, Don (I)</actor>
+      <role>Bob Tyler</role>
+    </credit>
+    <credit>
+      <actor>Garson, Greer</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>George, Sue</actor>
+      <role>April Adams</role>
+    </credit>
+    <credit>
+      <actor>Gerson, Betty Lou</actor>
+      <role>Julie Pruett</role>
+    </credit>
+    <credit>
+      <actor>Gerstle, Frank</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Grant, Kathryn (I)</actor>
+      <role>Maxine</role>
+    </credit>
+    <credit>
+      <actor>Gray, Billy (I)</actor>
+      <role>Bud</role>
+    </credit>
+    <credit>
+      <actor>Gray, Billy (I)</actor>
+      <role>Bud Anderson</role>
+    </credit>
+    <credit>
+      <actor>Gray, Billy (I)</actor>
+      <role>James 'Bud' Anderson Jr.</role>
+    </credit>
+    <credit>
+      <actor>Green, Ronald (I)</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Greer, Dabbs</actor>
+      <role>Mr. Collins</role>
+    </credit>
+    <credit>
+      <actor>Gribble, Donna Jo</actor>
+      <role>Jean</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Robert (I)</actor>
+      <role>Watts</role>
+    </credit>
+    <credit>
+      <actor>Grinnage, Jack</actor>
+      <role>Claude</role>
+    </credit>
+    <credit>
+      <actor>Guild, Lyn</actor>
+      <role>Louise</role>
+    </credit>
+    <credit>
+      <actor>Halls, Ethyl May</actor>
+      <role>Mrs. Brian</role>
+    </credit>
+    <credit>
+      <actor>Hardison, Ken</actor>
+      <role>Billy Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Harris, Jack (VII)</actor>
+      <role>Mr. Glover</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Sandra</actor>
+      <role>Jeanie</role>
+    </credit>
+    <credit>
+      <actor>Harrower, Elizabeth</actor>
+      <role>Librarian</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Don C.</actor>
+      <role>Joe Malone</role>
+    </credit>
+    <credit>
+      <actor>Harvey, Paul (I)</actor>
+      <role>Gribble</role>
+    </credit>
+    <credit>
+      <actor>Heisser, Peter</actor>
+      <role>Joe Phillips</role>
+    </credit>
+    <credit>
+      <actor>Helton, Percy</actor>
+      <role>Desk Clerk</role>
+    </credit>
+    <credit>
+      <actor>Hennessy, Mary (I)</actor>
+      <role>Eloise Sanford</role>
+    </credit>
+    <credit>
+      <actor>Henry, Gloria</actor>
+      <role>Mildred Harris</role>
+    </credit>
+    <credit>
+      <actor>Hickox, Harry</actor>
+      <role>Boggs</role>
+    </credit>
+    <credit>
+      <actor>Hickox, Harry</actor>
+      <role>Virg. Carlson</role>
+    </credit>
+    <credit>
+      <actor>Hudson, William (I)</actor>
+      <role>Tom</role>
+    </credit>
+    <credit>
+      <actor>Ivo, Tommy</actor>
+      <role>Sandy Bramer</role>
+    </credit>
+    <credit>
+      <actor>Janger, Jerry</actor>
+      <role>Glen Clark</role>
+    </credit>
+    <credit>
+      <actor>Janiss, Vivi</actor>
+      <role>Myrtle Davis</role>
+    </credit>
+    <credit>
+      <actor>Janssen, Eilene</actor>
+      <role>Evelyn</role>
+    </credit>
+    <credit>
+      <actor>January, Lois</actor>
+      <role>Mrs. Martin</role>
+    </credit>
+    <credit>
+      <actor>Kay, Mary Ellen</actor>
+      <role>Diane Mills</role>
+    </credit>
+    <credit>
+      <actor>Kilgas, Nancy</actor>
+      <role>Marge</role>
+    </credit>
+    <credit>
+      <actor>Kulky, Henry</actor>
+      <role>Delivery Man</role>
+    </credit>
+    <credit>
+      <actor>Lancelot, Sir</actor>
+      <role>Bongo Instructor</role>
+    </credit>
+    <credit>
+      <actor>Launer, S. John</actor>
+      <role>Mr. Clark</role>
+    </credit>
+    <credit>
+      <actor>Leigh, Nelson</actor>
+      <role>Jack Griffin</role>
+    </credit>
+    <credit>
+      <actor>Leslie, William (I)</actor>
+      <role>Coach Royal</role>
+    </credit>
+    <credit>
+      <actor>Leslie, William (I)</actor>
+      <role>Mr. Royal</role>
+    </credit>
+    <credit>
+      <actor>Lloyd Jr., Harold</actor>
+      <role>Joel</role>
+    </credit>
+    <credit>
+      <actor>Lomas, Jack</actor>
+      <role>Eddie</role>
+    </credit>
+    <credit>
+      <actor>Long, Beverly</actor>
+      <role>Grace</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Linda (I)</actor>
+      <role>Alicia May</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Robert (I)</actor>
+      <role>Reverend Swain</role>
+    </credit>
+    <credit>
+      <actor>Malcolm, Robert (I)</actor>
+      <role>Mr. Bigelow</role>
+    </credit>
+    <credit>
+      <actor>Mann, Tom</actor>
+      <role>Beanie Brugendorfer</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Chester</actor>
+      <role>Armand</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Nancy (I)</actor>
+      <role>Eadie Elton</role>
+    </credit>
+    <credit>
+      <actor>Mason, Mike (III)</actor>
+      <role>Tommy</role>
+    </credit>
+    <credit>
+      <actor>Matthews, Lester</actor>
+      <role>Major Alden</role>
+    </credit>
+    <credit>
+      <actor>Mayer, Ken (I)</actor>
+      <role>Colonel Shaine</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Oliver</actor>
+      <role>Mr. Kramer</role>
+    </credit>
+    <credit>
+      <actor>McIntire, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McMahon, Horace</actor>
+      <role>Bick Morton</role>
+    </credit>
+    <credit>
+      <actor>Meade, Claire</actor>
+      <role>Mrs. Lanson</role>
+    </credit>
+    <credit>
+      <actor>Mell, Joseph</actor>
+      <role>Dave</role>
+    </credit>
+    <credit>
+      <actor>Meredith, Cheerio</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Meyler, Fintan</actor>
+      <role>Gloria</role>
+    </credit>
+    <credit>
+      <actor>Miles, Peter (I)</actor>
+      <role>Eddie Wardlow</role>
+    </credit>
+    <credit>
+      <actor>Monahan, Michael A.</actor>
+      <role>Bob</role>
+    </credit>
+    <credit>
+      <actor>Mustin, Burt</actor>
+      <role>Old Eddie Gilbert</role>
+    </credit>
+    <credit>
+      <actor>Norris, Richard (II)</actor>
+      <role>Anders</role>
+    </credit>
+    <credit>
+      <actor>O'Connell, Arthur</actor>
+      <role>Leonard</role>
+    </credit>
+    <credit>
+      <actor>Ogg, Jimmy</actor>
+      <role>Walt</role>
+    </credit>
+    <credit>
+      <actor>Ollestad, Norman (I)</actor>
+      <role>Howard Williams</role>
+    </credit>
+    <credit>
+      <actor>Orlando, Don (I)</actor>
+      <role>Mr. Lazarro</role>
+    </credit>
+    <credit>
+      <actor>Pagett, Gary</actor>
+      <role>Joe Phillips</role>
+    </credit>
+    <credit>
+      <actor>Pollock, Dee</actor>
+      <role>Tracey</role>
+    </credit>
+    <credit>
+      <actor>Puglia, Frank</actor>
+      <role>Mr. Amaldi</role>
+    </credit>
+    <credit>
+      <actor>Qualen, John</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Reed, Robert (I)</actor>
+      <role>Tom Cameron</role>
+    </credit>
+    <credit>
+      <actor>Repp, Stafford</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Grandon</actor>
+      <role>Mr. Fredericks</role>
+    </credit>
+    <credit>
+      <actor>Roehn, Franz</actor>
+      <role>Kroegman</role>
+    </credit>
+    <credit>
+      <actor>Sharpe, Lester</actor>
+      <role>Morrie</role>
+    </credit>
+    <credit>
+      <actor>Sherman, Fred (I)</actor>
+      <role>Mr. Messner</role>
+    </credit>
+    <credit>
+      <actor>Smith, John (I)</actor>
+      <role>Utah</role>
+    </credit>
+    <credit>
+      <actor>Snider, Duke</actor>
+      <role>Duke Snider</role>
+    </credit>
+    <credit>
+      <actor>Stössel, Ludwig</actor>
+      <role>Mr. Fixit</role>
+    </credit>
+    <credit>
+      <actor>Sully, Frank</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Sydes, Anthony</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Taggart, Hal</actor>
+      <role>Mr. Stagg</role>
+    </credit>
+    <credit>
+      <actor>Tannen, Charles</actor>
+      <role>Hal Berdahl</role>
+    </credit>
+    <credit>
+      <actor>Tannen, Charles</actor>
+      <role>Martin</role>
+    </credit>
+    <credit>
+      <actor>Terrell, Steven</actor>
+      <role>Bob</role>
+    </credit>
+    <credit>
+      <actor>Tesler, Jack</actor>
+      <role>Husband</role>
+    </credit>
+    <credit>
+      <actor>Tobey, Kenneth</actor>
+      <role>Mr. Bramer</role>
+    </credit>
+    <credit>
+      <actor>Todd, James (I)</actor>
+      <role>Judge Frank Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Todd, James (I)</actor>
+      <role>Mayor Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Torgerson, Skip</actor>
+      <role>Eddie Jarvis</role>
+    </credit>
+    <credit>
+      <actor>Townes, Harry</actor>
+      <role>Henry Pruett</role>
+    </credit>
+    <credit>
+      <actor>Traylor, William (I)</actor>
+      <role>Les Turner</role>
+    </credit>
+    <credit>
+      <actor>Truex, Barry</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Truex, Ernest</actor>
+      <role>Grandpa</role>
+    </credit>
+    <credit>
+      <actor>Tyler, Harry</actor>
+      <role>Mr. Engel</role>
+    </credit>
+    <credit>
+      <actor>Vacío, Natividad</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Vacío, Natividad</actor>
+      <role>Fronk the Gardener</role>
+    </credit>
+    <credit>
+      <actor>Vaughn, Robert (I)</actor>
+      <role>Mr. Beekman</role>
+    </credit>
+    <credit>
+      <actor>Vera, Ricky</actor>
+      <role>Porfio</role>
+    </credit>
+    <credit>
+      <actor>Vigran, Herb</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Walker, Peter (I)</actor>
+      <role>Lt. Charles Baron</role>
+    </credit>
+    <credit>
+      <actor>Walker, Ray (I)</actor>
+      <role>Lou</role>
+    </credit>
+    <credit>
+      <actor>Wallace, Paul (I)</actor>
+      <role>Kippy Watkins</role>
+    </credit>
+    <credit>
+      <actor>Wallace, Paul (I)</actor>
+      <role>Kippy Watkins</role>
+    </credit>
+    <credit>
+      <actor>Warwick, Robert (I)</actor>
+      <role>St. Peter</role>
+    </credit>
+    <credit>
+      <actor>Wessel, Dick</actor>
+      <role>Police Officer</role>
+    </credit>
+    <credit>
+      <actor>Wilcox, Frank</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Wilde, Cornel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Williams, John (II)</actor>
+      <role>Harry Beal</role>
+    </credit>
+    <credit>
+      <actor>Wood, Wilson</actor>
+      <role>Delivery Man</role>
+    </credit>
+    <credit>
+      <actor>Young, Robert (I)</actor>
+      <role>James 'Jim' Anderson</role>
+    </credit>
+    <credit>
+      <actor>Young, Robert (I)</actor>
+      <role>James 'Jim' Anderson</role>
+    </credit>
+  </cast>
+<plot>The popular radio show comes to life in this hit sitcom about a wise family man, Jim Anderson, his common-sense wife Margaret and their children Betty, Bud and Kathy. Whenever the kids need advice on anything at all, they can always turn to their father, because father knows best.</plot><url>http://localhost:8983/solr/movie.html?190779</url></doc>

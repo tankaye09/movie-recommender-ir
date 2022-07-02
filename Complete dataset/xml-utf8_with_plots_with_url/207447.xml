@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="207447">
+  <docid>207447</docid>
+  <title>Future Perfect</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ikes, Benjamin</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>German</language>
+  </languages>
+  <countries>
+    <country>Germany</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Germany">16 February 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">11</runningtime>
+    <runningtime country="default">45</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schaumburg, Marc</director>
+  </directors>
+  <writers>
+    <writer>Schaumburg, Marc</writer>
+    <writer>Schmid, Christiane (III)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Beyer, Marc</actor>
+      <role>Robot</role>
+    </credit>
+    <credit>
+      <actor>Gehlen, Anna</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>Will, Steffen</actor>
+      <role>Father</role>
+    </credit>
+  </cast>
+<plot>A household robot is awakened from his dreary daily routine by an accidental power failure. He starts to see the world through his own eyes, but soon learns that some decisions should not be made too hastily.</plot><url>http://localhost:8983/solr/movie.html?207447</url></doc>

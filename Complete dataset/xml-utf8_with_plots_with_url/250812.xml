@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="250812">
+  <docid>250812</docid>
+  <title>Husky</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Ricci, Marco (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>halloween</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">18 October 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">4</runningtime>
+    <runningtime country="USA">4</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Geraghty, Craig</director>
+  </directors>
+  <producers>
+    <producer>Geraghty, Craig</producer>
+  </producers>
+  <writers>
+    <writer>Geraghty, Craig</writer>
+  </writers>
+  <composers>
+    <composer>Greiche, Ray</composer>
+    <composer>Marsh, Tomas</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Campion, James</actor>
+      <role>Jeffery</role>
+    </credit>
+    <credit>
+      <actor>Geraghty, Craig</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Hannan, Brandon</actor>
+      <role>Ruby</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Melanie (II)</actor>
+      <role>Mom</role>
+    </credit>
+  </cast>
+<plot>"Husky" is the short story of a young boy who is tired of being relegated to one section of the store. Ruby is determined to be "The Intimidator", his favorite super-hero, this Halloween. Only two things stand in his way, a mean salesman and his weight. Will good conquer evil?</plot><url>http://localhost:8983/solr/movie.html?250812</url></doc>

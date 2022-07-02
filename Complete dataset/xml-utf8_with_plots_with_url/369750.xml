@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="369750">
+  <docid>369750</docid>
+  <title>Milagro en El Palmar</title>
+  <year>1976</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <countries>
+    <country>Spain</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>González, Ismael</director>
+  </directors>
+  <writers>
+    <writer>González, Ismael</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Arenillas, Rosario</actor>
+      <role>Vidente</role>
+    </credit>
+    <credit>
+      <actor>Clemente (I)</actor>
+      <role>Obispo Clemente</role>
+    </credit>
+    <credit>
+      <actor>Romero (I)</actor>
+      <role>Vidente</role>
+    </credit>
+  </cast>
+<plot>Documental sobre los "milagros" que ocurren en El Palmar de Troya (Sevilla), con entrevistas al "Obispo" Clemente, y los videntes Rosario Arenillas y Romero.</plot><url>http://localhost:8983/solr/movie.html?369750</url></doc>

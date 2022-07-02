@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="088611">
+  <docid>088611</docid>
+  <title>By the Sword Divided</title>
+  <year>1983</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Farr, Ian</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Drama</genre>
+    <genre>History</genre>
+  </genres>
+  <keywords>
+    <keyword>civil-war</keyword>
+    <keyword>historical</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">27 January 1985</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">50</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Custance, Michael</director>
+    <director>Farnham, Brian</director>
+    <director>Herbert, Henry (I)</director>
+    <director>Lawrence, Diarmuid</director>
+  </directors>
+  <producers>
+    <producer>Hawkesworth, John</producer>
+    <producer>Alwyn, Jonathan</producer>
+    <producer>Spiby, Brian</producer>
+  </producers>
+  <writers>
+    <writer>Baron, Alexander</writer>
+    <writer>Harrison, Carey (III)</writer>
+    <writer>Hawkesworth, John</writer>
+    <writer>Paul, Jeremy (I)</writer>
+    <writer>Shaughnessy, Alfred</writer>
+  </writers>
+  <composers>
+    <composer>Blaikley, Alan</composer>
+    <composer>Blakley, Alan</composer>
+    <composer>Howard, Ken (III)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alexander, Maev</actor>
+      <role>Masked Woman</role>
+    </credit>
+    <credit>
+      <actor>Allister, David</actor>
+      <role>Mr. Cook</role>
+    </credit>
+    <credit>
+      <actor>Appleton, Cyril</actor>
+      <role>Mayor of Swinford</role>
+    </credit>
+    <credit>
+      <actor>Aris, Ben</actor>
+      <role>Edmund Waller</role>
+    </credit>
+    <credit>
+      <actor>Ashby, Robert (I)</actor>
+      <role>Colonel Harrison</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lady Lucinda Ferrar</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Ferrar</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Lacey</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Lacey</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Lacey</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Lacey</role>
+    </credit>
+    <credit>
+      <actor>Aston, Lucy</actor>
+      <role>Lucinda Lacey</role>
+    </credit>
+    <credit>
+      <actor>Baines, Christopher</actor>
+      <role>Prince Rupert</role>
+    </credit>
+    <credit>
+      <actor>Baker, John (I)</actor>
+      <role>Member of Parliament</role>
+    </credit>
+    <credit>
+      <actor>Bell, Gerard</actor>
+      <role>Hodges</role>
+    </credit>
+    <credit>
+      <actor>Benfield, John</actor>
+      <role>Mr. Syms</role>
+    </credit>
+    <credit>
+      <actor>Bentinck, Tim</actor>
+      <role>Tom Lacey</role>
+    </credit>
+    <credit>
+      <actor>Bentinck, Tim</actor>
+      <role>Tom Lacey</role>
+    </credit>
+    <credit>
+      <actor>Bentinck, Tim</actor>
+      <role>Tom Lacey</role>
+    </credit>
+    <credit>
+      <actor>Bentinck, Tim</actor>
+      <role>Tom Lacey</role>
+    </credit>
+    <credit>
+      <actor>Bicknell, Andrew</actor>
+      <role>Captain Black</role>
+    </credit>
+    <credit>
+      <actor>Binns, Simon</actor>
+      <role>Ensign Salisbury</role>
+    </credit>
+    <credit>
+      <actor>Birch, Peter (I)</actor>
+      <role>Edward Ferrar</role>
+    </credit>
+    <credit>
+      <actor>Blackwell, Douglas</actor>
+      <role>First Customer</role>
+    </credit>
+    <credit>
+      <actor>Blackwood, Adam</actor>
+      <role>Peter Crane</role>
+    </credit>
+    <credit>
+      <actor>Blake, Arthur (II)</actor>
+      <role>Councillor</role>
+    </credit>
+    <credit>
+      <actor>Bremmer, Richard</actor>
+      <role>Escort Commander</role>
+    </credit>
+    <credit>
+      <actor>Brierley, Tim</actor>
+      <role>Edward Ferrar</role>
+    </credit>
+    <credit>
+      <actor>Brierley, Tim</actor>
+      <role>Lord Edward Ferrar</role>
+    </credit>
+    <credit>
+      <actor>Brookes, Joanna</actor>
+      <role>Jane</role>
+    </credit>
+    <credit>
+      <actor>Brown, Tim (I)</actor>
+      <role>Lt. Barnaby</role>
+    </credit>
+    <credit>
+      <actor>Burns, Mark (I)</actor>
+      <role>Capt. Charles Pike</role>
+    </credit>
+    <credit>
+      <actor>Butteriss, Simon</actor>
+      <role>Hugh Brandon</role>
+    </credit>
+    <credit>
+      <actor>Butteriss, Simon</actor>
+      <role>Hugh Brandon</role>
+    </credit>
+    <credit>
+      <actor>Buttery, Lisa</actor>
+      <role>Nelly</role>
+    </credit>
+    <credit>
+      <actor>Buxton, Judy</actor>
+      <role>Lady Susan Winter</role>
+    </credit>
+    <credit>
+      <actor>Buxton, Judy</actor>
+      <role>Susan Protheroe</role>
+    </credit>
+    <credit>
+      <actor>Buxton, Judy</actor>
+      <role>Susan Protheroe</role>
+    </credit>
+    <credit>
+      <actor>Caird, Eleanor</actor>
+      <role>Pricess Elizabeth</role>
+    </credit>
+    <credit>
+      <actor>Carrick, Anthony</actor>
+      <role>Sir John Robinson</role>
+    </credit>
+    <credit>
+      <actor>Cassell, Peter J.</actor>
+      <role>Silas</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Frederick</actor>
+      <role>Master Martin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Fredrick</actor>
+      <role>Master Martin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Peter (I)</actor>
+      <role>George Gray</role>
+    </credit>
+    <credit>
+      <actor>Clyde, Jeremy</actor>
+      <role>King Charles I</role>
+    </credit>
+    <credit>
+      <actor>Collings, David</actor>
+      <role>John Thurloe</role>
+    </credit>
+    <credit>
+      <actor>Collins, Forbes</actor>
+      <role>Abraham Eagles</role>
+    </credit>
+    <credit>
+      <actor>Conway, Cyril</actor>
+      <role>Councillor</role>
+    </credit>
+    <credit>
+      <actor>Cookson, Barrie</actor>
+      <role>Mr. Bradshawe</role>
+    </credit>
+    <credit>
+      <actor>Coyle, James (I)</actor>
+      <role>Hicks</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Goodwife Margaret</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Goodwife Margaret</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Goodwife Margaret</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Goodwife Margaret</role>
+    </credit>
+    <credit>
+      <actor>Crutchley, Rosalie</actor>
+      <role>Goodwife Margaret</role>
+    </credit>
+    <credit>
+      <actor>Cush, Ronny</actor>
+      <role>Joshua</role>
+    </credit>
+    <credit>
+      <actor>Davenport, Claire</actor>
+      <role>Mrs. Dumfry</role>
+    </credit>
+    <credit>
+      <actor>Demeger, Robert</actor>
+      <role>Villager</role>
+    </credit>
+    <credit>
+      <actor>Dickson, Hugh</actor>
+      <role>Doctor Goodwin</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Leo</actor>
+      <role>Tinker</role>
+    </credit>
+    <credit>
+      <actor>Drury, Patrick (I)</actor>
+      <role>Capt. Bracewell</role>
+    </credit>
+    <credit>
+      <actor>Dutton, Simon (I)</actor>
+      <role>Will Saltmarsh</role>
+    </credit>
+    <credit>
+      <actor>Dutton, Simon (I)</actor>
+      <role>Will Saltmarsh</role>
+    </credit>
+    <credit>
+      <actor>Earthy, Richard</actor>
+      <role>Fletcher Sentry</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Rob (I)</actor>
+      <role>John Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Rob (I)</actor>
+      <role>John Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Rob (I)</actor>
+      <role>John Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Martin (III)</actor>
+      <role>Mr. Quin</role>
+    </credit>
+    <credit>
+      <actor>Elsom, Jonathan</actor>
+      <role>Reverend Butterworth</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Inn keeper</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Potman</role>
+    </credit>
+    <credit>
+      <actor>Fitzalan, Marsha</actor>
+      <role>Queen Henrietta Maria</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Mark (I)</actor>
+      <role>Hind</role>
+    </credit>
+    <credit>
+      <actor>Float, Ray</actor>
+      <role>Sergeant at Arms</role>
+    </credit>
+    <credit>
+      <actor>Garwood, Amanda</actor>
+      <role>Agnes</role>
+    </credit>
+    <credit>
+      <actor>Gasnier, Harold</actor>
+      <role>Parlimentarian</role>
+    </credit>
+    <credit>
+      <actor>Gilan, Yvonne</actor>
+      <role>Mrs. Cromwell</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Sir Martin Lacey</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Sir Martin Lacey</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Sir Martin Lacey</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Sir Martin Lacey</role>
+    </credit>
+    <credit>
+      <actor>Glover, Julian</actor>
+      <role>Sir Martin Lacey</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Debbie</actor>
+      <role>Rachel</role>
+    </credit>
+    <credit>
+      <actor>Greatorex, Michael</actor>
+      <role>Ensign Rosethorne</role>
+    </credit>
+    <credit>
+      <actor>Gridley, Judy</actor>
+      <role>Lizzie Burdock</role>
+    </credit>
+    <credit>
+      <actor>Grove, Wilfred</actor>
+      <role>John Moresby</role>
+    </credit>
+    <credit>
+      <actor>Grove, Wilfred</actor>
+      <role>John Moresby</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Peter (I)</actor>
+      <role>Dick Skinner</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Peter (I)</actor>
+      <role>Dick Skinner</role>
+    </credit>
+    <credit>
+      <actor>Guinness, Peter (I)</actor>
+      <role>Dick Skinner</role>
+    </credit>
+    <credit>
+      <actor>Gurry, Terry</actor>
+      <role>Lt. Truscott</role>
+    </credit>
+    <credit>
+      <actor>Haigh, Colin</actor>
+      <role>Clerk to the Court</role>
+    </credit>
+    <credit>
+      <actor>Hattersley, Stephen</actor>
+      <role>Amos</role>
+    </credit>
+    <credit>
+      <actor>Heath, Michael (I)</actor>
+      <role>Van Dyck</role>
+    </credit>
+    <credit>
+      <actor>Helsby, Eileen</actor>
+      <role>Prudence Maggs</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Alfred</actor>
+      <role>Member of Parliament</role>
+    </credit>
+    <credit>
+      <actor>Holley, Bernard</actor>
+      <role>William Strode</role>
+    </credit>
+    <credit>
+      <actor>Houghton, Barrie</actor>
+      <role>Denzil Holles</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Neville</actor>
+      <role>Fiddler</role>
+    </credit>
+    <credit>
+      <actor>Jacques, Kathryn</actor>
+      <role>Edith</role>
+    </credit>
+    <credit>
+      <actor>Jeffrey, Peter</actor>
+      <role>Oliver Cromwell</role>
+    </credit>
+    <credit>
+      <actor>Jephcott, Saul</actor>
+      <role>Sergeant Swan</role>
+    </credit>
+    <credit>
+      <actor>Jones, Harry (I)</actor>
+      <role>2nd Guard</role>
+    </credit>
+    <credit>
+      <actor>Kay, Charles</actor>
+      <role>Sir Henry Parkin</role>
+    </credit>
+    <credit>
+      <actor>Kenton, Will</actor>
+      <role>Wainwright</role>
+    </credit>
+    <credit>
+      <actor>Kitson, Ken</actor>
+      <role>Sergeant-Gunner</role>
+    </credit>
+    <credit>
+      <actor>Lacey, Jonathan (I)</actor>
+      <role>Mayfield</role>
+    </credit>
+    <credit>
+      <actor>Lawlor, Sean</actor>
+      <role>Lt. O'Farrell</role>
+    </credit>
+    <credit>
+      <actor>Lees-Price, Janet</actor>
+      <role>Emma Bowen</role>
+    </credit>
+    <credit>
+      <actor>Lees-Price, Janet</actor>
+      <role>Emma Bowen</role>
+    </credit>
+    <credit>
+      <actor>Lees-Price, Janet</actor>
+      <role>Emma Skinner</role>
+    </credit>
+    <credit>
+      <actor>Leyshon, Emrys</actor>
+      <role>Mr. Skerritt</role>
+    </credit>
+    <credit>
+      <actor>Lidington, Bruce</actor>
+      <role>Colonel Ireton</role>
+    </credit>
+    <credit>
+      <actor>Livingstone, Sydney</actor>
+      <role>3rd Guard</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Kevin (I)</actor>
+      <role>Drunken Soldier</role>
+    </credit>
+    <credit>
+      <actor>Lyons, Annette</actor>
+      <role>Street Girl</role>
+    </credit>
+    <credit>
+      <actor>MacKenna, Stephen</actor>
+      <role>Second Customer</role>
+    </credit>
+    <credit>
+      <actor>MacLachlan, Andrew</actor>
+      <role>Nathaniel Cropper</role>
+    </credit>
+    <credit>
+      <actor>MacLachlan, Andrew</actor>
+      <role>Nathaniel Cropper</role>
+    </credit>
+    <credit>
+      <actor>MacLachlan, Andrew</actor>
+      <role>Nathaniel Cropper</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Iain (III)</actor>
+      <role>Parliamentary Captain</role>
+    </credit>
+    <credit>
+      <actor>Maughan, Sharon</actor>
+      <role>Anne Lacey Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Maughan, Sharon</actor>
+      <role>Anne Lacey Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Maughan, Sharon</actor>
+      <role>Anne Lacey Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Maughan, Sharon</actor>
+      <role>Anne Lacey Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Mawby, Michael</actor>
+      <role>Tom Bates</role>
+    </credit>
+    <credit>
+      <actor>McCallum, Joanna</actor>
+      <role>Frances Neville</role>
+    </credit>
+    <credit>
+      <actor>McCallum, Joanna</actor>
+      <role>Lady Frances Lacey</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, John Michael (II)</actor>
+      <role>1st Trooper</role>
+    </credit>
+    <credit>
+      <actor>McCulloch, Andrew (I)</actor>
+      <role>Captain Leckie</role>
+    </credit>
+    <credit>
+      <actor>McCulloch, Andrew (I)</actor>
+      <role>Colonel Leckie</role>
+    </credit>
+    <credit>
+      <actor>Melville, Alan</actor>
+      <role>Squire Capel</role>
+    </credit>
+    <credit>
+      <actor>Mills, Frank (II)</actor>
+      <role>Matthew Saltmarsh</role>
+    </credit>
+    <credit>
+      <actor>Mills, Frank (II)</actor>
+      <role>Matthew Saltmarsh</role>
+    </credit>
+    <credit>
+      <actor>Milner, Roger</actor>
+      <role>Mr. Speaker</role>
+    </credit>
+    <credit>
+      <actor>Mogendorf, Ingo</actor>
+      <role>Ludwig</role>
+    </credit>
+    <credit>
+      <actor>Moxey, Hugh</actor>
+      <role>Major Hatcher</role>
+    </credit>
+    <credit>
+      <actor>Moynihan, Daniel</actor>
+      <role>Billingsley</role>
+    </credit>
+    <credit>
+      <actor>Neal, David (I)</actor>
+      <role>Preacher Lambe</role>
+    </credit>
+    <credit>
+      <actor>Neame, Christopher (III)</actor>
+      <role>Henry Snelling</role>
+    </credit>
+    <credit>
+      <actor>Organ, Stuart</actor>
+      <role>Corporal Turner</role>
+    </credit>
+    <credit>
+      <actor>Parkhouse, Michael</actor>
+      <role>Sam Saltmarsh</role>
+    </credit>
+    <credit>
+      <actor>Parnaby, Bert</actor>
+      <role>Sir Austin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Parnaby, Bert</actor>
+      <role>Sir Austin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Peel, Edward</actor>
+      <role>Walter Jackman</role>
+    </credit>
+    <credit>
+      <actor>Peel, Edward</actor>
+      <role>Walter Jackman</role>
+    </credit>
+    <credit>
+      <actor>Pelling, Martin</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Neville</actor>
+      <role>Usher</role>
+    </credit>
+    <credit>
+      <actor>Pomfrett, Chris</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Price, Emlyn (I)</actor>
+      <role>Cpl. Veazey</role>
+    </credit>
+    <credit>
+      <actor>Rawle-Hicks, Edward</actor>
+      <role>Martin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Rees, Hubert</actor>
+      <role>Mr. Ayres</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Simon (I)</actor>
+      <role>Lieutenant Ned Otter</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Adam (I)</actor>
+      <role>Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Robertson, Ben (VII)</actor>
+      <role>Lt. Colby</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Charles (VII)</actor>
+      <role>Lord Digby</role>
+    </credit>
+    <credit>
+      <actor>Rolfe, John</actor>
+      <role>Mr. Downes</role>
+    </credit>
+    <credit>
+      <actor>Rutherford, Norman</actor>
+      <role>Tenant Farmer</role>
+    </credit>
+    <credit>
+      <actor>Savage, Mike (I)</actor>
+      <role>Tower Warder</role>
+    </credit>
+    <credit>
+      <actor>Shallard, Michael</actor>
+      <role>Taffy Morgan</role>
+    </credit>
+    <credit>
+      <actor>Sim, Gerald</actor>
+      <role>Chief Baron</role>
+    </credit>
+    <credit>
+      <actor>Smith, Oliver (VII)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sneller, Robin</actor>
+      <role>Rob Pettifer</role>
+    </credit>
+    <credit>
+      <actor>St. Paul, Stuart</actor>
+      <role>Robbins</role>
+    </credit>
+    <credit>
+      <actor>Steel, Adam (II)</actor>
+      <role>Master Martin Fletcher</role>
+    </credit>
+    <credit>
+      <actor>Stephens, Robert (I)</actor>
+      <role>Sir Ralph Winter</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Malcolm</actor>
+      <role>Capt. Marsh</role>
+    </credit>
+    <credit>
+      <actor>Stoddard, Malcolm</actor>
+      <role>Colonel Hannibal Marsh</role>
+    </credit>
+    <credit>
+      <actor>Summers, Robin</actor>
+      <role>Gunner</role>
+    </credit>
+    <credit>
+      <actor>Syms, Richard</actor>
+      <role>Master Mabbutt</role>
+    </credit>
+    <credit>
+      <actor>Terris, Malcolm</actor>
+      <role>Gabriel Rudd</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gareth (I)</actor>
+      <role>Major General Horton</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Wally</actor>
+      <role>Sir Edward Nicholas</role>
+    </credit>
+    <credit>
+      <actor>Tomlinson, D. Geoff</actor>
+      <role>Councillor</role>
+    </credit>
+    <credit>
+      <actor>Treves, Simon</actor>
+      <role>King Charles II</role>
+    </credit>
+    <credit>
+      <actor>Treves, Simon</actor>
+      <role>Will Jones</role>
+    </credit>
+    <credit>
+      <actor>Wallis, Bill</actor>
+      <role>Clerk to the Old Bailey</role>
+    </credit>
+    <credit>
+      <actor>Walters, Jack (II)</actor>
+      <role>Villager</role>
+    </credit>
+    <credit>
+      <actor>Ward, Merlin (II)</actor>
+      <role>1st Guard</role>
+    </credit>
+    <credit>
+      <actor>Watkins, Michael (I)</actor>
+      <role>2nd Trooper</role>
+    </credit>
+    <credit>
+      <actor>Weston, David (VIII)</actor>
+      <role>Captain Bush</role>
+    </credit>
+    <credit>
+      <actor>Whymper, William</actor>
+      <role>Councillor</role>
+    </credit>
+    <credit>
+      <actor>Willis, Jerome</actor>
+      <role>John Pym</role>
+    </credit>
+    <credit>
+      <actor>Woodvine, John</actor>
+      <role>Solicitor General</role>
+    </credit>
+    <credit>
+      <actor>Wootton, Douglas</actor>
+      <role>Lutanist</role>
+    </credit>
+    <credit>
+      <actor>de Salvo, Brian</actor>
+      <role>Councillor</role>
+    </credit>
+  </cast>
+<plot>Story of the English Civil War as seen through the eyes of two families; the Laceys, loyal to King Charles I, and the Fletchers, loyal to Oliver Cromwell.</plot><url>http://localhost:8983/solr/movie.html?088611</url></doc>

@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="308248">
+  <docid>308248</docid>
+  <title>La dolce vita</title>
+  <year>1960</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Cattozzo, Leo</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <keywords>
+    <keyword>holy-vision</keyword>
+    <keyword>interview</keyword>
+    <keyword>last-rites</keyword>
+    <keyword>ruins</keyword>
+    <keyword>media-circus</keyword>
+    <keyword>drag</keyword>
+    <keyword>tarmac</keyword>
+    <keyword>prayer</keyword>
+    <keyword>police</keyword>
+    <keyword>celebrity</keyword>
+    <keyword>catholic</keyword>
+    <keyword>moral-corruption</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>flooded-home</keyword>
+    <keyword>country-estate</keyword>
+    <keyword>decadence</keyword>
+    <keyword>photographer</keyword>
+    <keyword>ghost</keyword>
+    <keyword>gossip-columnist</keyword>
+    <keyword>vatican-city</keyword>
+    <keyword>reporter</keyword>
+    <keyword>nightclub</keyword>
+    <keyword>waitress</keyword>
+    <keyword>cat</keyword>
+    <keyword>mistress</keyword>
+    <keyword>rome-italy</keyword>
+    <keyword>hedonism</keyword>
+    <keyword>satire</keyword>
+    <keyword>gay</keyword>
+    <keyword>hoax</keyword>
+    <keyword>children</keyword>
+    <keyword>jealousy</keyword>
+    <keyword>filicide</keyword>
+    <keyword>pilgrimage</keyword>
+    <keyword>urban-setting</keyword>
+    <keyword>striptease</keyword>
+    <keyword>murder-suicide</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>organ</keyword>
+    <keyword>suicide-attempt</keyword>
+    <keyword>sound-recorder</keyword>
+    <keyword>film-star</keyword>
+    <keyword>sex</keyword>
+    <keyword>statue</keyword>
+    <keyword>beach</keyword>
+    <keyword>bodybuilder</keyword>
+    <keyword>hospital</keyword>
+    <keyword>murder</keyword>
+    <keyword>journalist</keyword>
+    <keyword>palace</keyword>
+    <keyword>author</keyword>
+    <keyword>fiancée</keyword>
+    <keyword>seance</keyword>
+    <keyword>window-smashing</keyword>
+    <keyword>alienation</keyword>
+    <keyword>journalism</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>balloon</keyword>
+    <keyword>writer</keyword>
+    <keyword>aristocrat</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>trevi-fountain</keyword>
+    <keyword>balcony</keyword>
+    <keyword>boredom</keyword>
+    <keyword>heiress</keyword>
+    <keyword>orgasm</keyword>
+    <keyword>socialite</keyword>
+    <keyword>octopus</keyword>
+    <keyword>crime-scene</keyword>
+    <keyword>cafe</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>blockbuster</keyword>
+    <keyword>kitten</keyword>
+    <keyword>dachshund</keyword>
+    <keyword>spanking</keyword>
+    <keyword>basilica</keyword>
+    <keyword>catholic-church</keyword>
+    <keyword>prostitute</keyword>
+    <keyword>vatican-city-rome</keyword>
+    <keyword>face-slap</keyword>
+    <keyword>ensemble-film</keyword>
+    <keyword>drunkenness</keyword>
+    <keyword>gate-crashing</keyword>
+    <keyword>rainstorm</keyword>
+    <keyword>homosexuality</keyword>
+    <keyword>orgy</keyword>
+    <keyword>clown</keyword>
+    <keyword>rock-'n'-roll</keyword>
+    <keyword>convertible</keyword>
+    <keyword>imagery</keyword>
+    <keyword>philosophy</keyword>
+    <keyword>idle-rich</keyword>
+    <keyword>child-murder</keyword>
+    <keyword>night-club</keyword>
+    <keyword>cynicism</keyword>
+    <keyword>actress</keyword>
+    <keyword>crisis-of-conscience</keyword>
+    <keyword>party</keyword>
+    <keyword>fountain</keyword>
+    <keyword>price-of-fame</keyword>
+    <keyword>paparazzi</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>German</language>
+    <language>Italian</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>Italy</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="West Germany">12</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">M18</certificate>
+    <certificate country="Chile">18</certificate>
+    <certificate country="Hungary">18</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">Banned</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="Norway">16</certificate>
+    <certificate country="Finland">K-16</certificate>
+    <certificate country="Italy">VM14</certificate>
+    <certificate country="USA">Not Rated</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">17 October 1960</releasedate>
+    <releasedate country="West Germany">22 June 1960</releasedate>
+    <releasedate country="UK">17 December 2004</releasedate>
+    <releasedate country="Germany">February 1993</releasedate>
+    <releasedate country="France">11 May 1960</releasedate>
+    <releasedate country="Czech Republic">25 September 2003</releasedate>
+    <releasedate country="Slovakia">24 June 2003</releasedate>
+    <releasedate country="Switzerland">8 August 1997</releasedate>
+    <releasedate country="Finland">3 August 1973</releasedate>
+    <releasedate country="Italy">12 October 2006</releasedate>
+    <releasedate country="USA">23 July 2004</releasedate>
+    <releasedate country="Denmark">9 March 1964</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Portugal">165</runningtime>
+    <runningtime country="Germany">177</runningtime>
+    <runningtime country="default">174</runningtime>
+    <runningtime country="USA">180</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fellini, Federico</director>
+  </directors>
+  <producers>
+    <producer>Magli, Franco</producer>
+    <producer>Amato, Giuseppe (I)</producer>
+    <producer>Rizzoli, Angelo (I)</producer>
+  </producers>
+  <writers>
+    <writer>Pasolini, Pier Paolo</writer>
+    <writer>Fellini, Federico</writer>
+    <writer>Flaiano, Ennio</writer>
+    <writer>Pinelli, Tullio</writer>
+    <writer>Rondi, Brunello</writer>
+  </writers>
+  <composers>
+    <composer>Rota, Nino</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Addobbati, Giuseppe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Aimée, Anouk</actor>
+      <role>Maddalena</role>
+    </credit>
+    <credit>
+      <actor>Aligheri, Conte Brunoro Serego</actor>
+      <role>Young man with mink coat</role>
+    </credit>
+    <credit>
+      <actor>André, Federika</actor>
+      <role>Tenant in Steiner's house</role>
+    </credit>
+    <credit>
+      <actor>Annuale, Armando</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Antequera, Joan</actor>
+      <role>Woman at Castle</role>
+    </credit>
+    <credit>
+      <actor>Antequero, Juan</actor>
+      <role>Spanish Gentleman with eyepatch at Castle</role>
+    </credit>
+    <credit>
+      <actor>Baghino, Gianni</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Balabine, Nadia</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Balsamo, Ignazio</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Barker, Lex (I)</actor>
+      <role>Robert</role>
+    </credit>
+    <credit>
+      <actor>Benedetti, Remo</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Betti, Laura</actor>
+      <role>Laura</role>
+    </credit>
+    <credit>
+      <actor>Botta, Leonardo</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Bracci Dorati, Ida</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brofferio, Ferdinando</actor>
+      <role>Maddalena's Lover</role>
+    </credit>
+    <credit>
+      <actor>Busetti, Giovanna</actor>
+      <role>Lying Child of The Miracle</role>
+    </credit>
+    <credit>
+      <actor>Busetti, Massimo</actor>
+      <role>Lying Child of The Miracle</role>
+    </credit>
+    <credit>
+      <actor>Buzzo, Tito</actor>
+      <role>Muscle Man</role>
+    </credit>
+    <credit>
+      <actor>Calvino, Daniela</actor>
+      <role>Daniela</role>
+    </credit>
+    <credit>
+      <actor>Campanino, Tony</actor>
+      <role>Man at Nightclub</role>
+    </credit>
+    <credit>
+      <actor>Capucci, Fabrizio</actor>
+      <role>Photographer at press conference</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Donato</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Celentano, Adriano</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cerusico, Enzo</actor>
+      <role>Newspaper photographer</role>
+    </credit>
+    <credit>
+      <actor>Ciangottini, Valeria</actor>
+      <role>Paola</role>
+    </credit>
+    <credit>
+      <actor>Cini, Elisabetta</actor>
+      <role>Sleeping duchess</role>
+    </credit>
+    <credit>
+      <actor>Citti, Giulio</actor>
+      <role>Man at Nightclub</role>
+    </credit>
+    <credit>
+      <actor>Colombo, Nani</actor>
+      <role>Woman at the mirror</role>
+    </credit>
+    <credit>
+      <actor>Conocchia, Mario</actor>
+      <role>Lawyer with Nadia's bra</role>
+    </credit>
+    <credit>
+      <actor>Consalvo, Francesco</actor>
+      <role>Scalise's assistant</role>
+    </credit>
+    <credit>
+      <actor>Cortini, Tiziano</actor>
+      <role>Movie news cameraman</role>
+    </credit>
+    <credit>
+      <actor>Cristiani, Decimo</actor>
+      <role>Young man who doesn't talk</role>
+    </credit>
+    <credit>
+      <actor>Cuny, Alain</actor>
+      <role>Steiner</role>
+    </credit>
+    <credit>
+      <actor>De Grenet, Mario</actor>
+      <role>Man at Castle who dislikes dogs smell</role>
+    </credit>
+    <credit>
+      <actor>De Pino, Andrea</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>De Rossi, Adele</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Della Nora, Donatella</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Denise, Christine</actor>
+      <role>Woman eating a chicken</role>
+    </credit>
+    <credit>
+      <actor>Denise, Katherine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Di Maggio, Carlo</actor>
+      <role>Toto Scalise</role>
+    </credit>
+    <credit>
+      <actor>Dieudonné, François</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Dijon, Alain</actor>
+      <role>Frankie Stout</role>
+    </credit>
+    <credit>
+      <actor>Dobrzensky, Count Ivenda</actor>
+      <role>Giovanni</role>
+    </credit>
+    <credit>
+      <actor>Domino (I)</actor>
+      <role>Transvestite dancer</role>
+    </credit>
+    <credit>
+      <actor>Doria, Enzo</actor>
+      <role>Newspaper photographer</role>
+    </credit>
+    <credit>
+      <actor>Doro, Mino</actor>
+      <role>Nadia's lover</role>
+    </credit>
+    <credit>
+      <actor>Ekberg, Anita</actor>
+      <role>Sylvia</role>
+    </credit>
+    <credit>
+      <actor>Esparmer, Donatella</actor>
+      <role>Lady with the irritated man</role>
+    </credit>
+    <credit>
+      <actor>Fadda, Paolo</actor>
+      <role>Assistant police inspector</role>
+    </credit>
+    <credit>
+      <actor>Felici, Umberto</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Fiume, Oretta</actor>
+      <role>Lisa</role>
+    </credit>
+    <credit>
+      <actor>Franchetti, Rina</actor>
+      <role>Mother of the Miracle Children</role>
+    </credit>
+    <credit>
+      <actor>Furneaux, Yvonne</actor>
+      <role>Emma</role>
+    </credit>
+    <credit>
+      <actor>Gabrielli, Giacomo</actor>
+      <role>Maddalena's Father</role>
+    </credit>
+    <credit>
+      <actor>Galli, Ida</actor>
+      <role>Debuttante of the Year</role>
+    </credit>
+    <credit>
+      <actor>Garrone, Riccardo</actor>
+      <role>Riccardo</role>
+    </credit>
+    <credit>
+      <actor>Giacobini, Franco (I)</actor>
+      <role>Journalist at the telephone</role>
+    </credit>
+    <credit>
+      <actor>Giavalisco, Angela</actor>
+      <role>Woman at Airport</role>
+    </credit>
+    <credit>
+      <actor>Giordani, Romolo</actor>
+      <role>Man at Castle</role>
+    </credit>
+    <credit>
+      <actor>Girola, Giulio</actor>
+      <role>Police Commissioner</role>
+    </credit>
+    <credit>
+      <actor>Glori, Enrico</actor>
+      <role>Nadia's Admirer</role>
+    </credit>
+    <credit>
+      <actor>Graefeck, Christine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Granado, Lily</actor>
+      <role>Lucy</role>
+    </credit>
+    <credit>
+      <actor>Grandi, Libero</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gray, Nadia</actor>
+      <role>Nadia</role>
+    </credit>
+    <credit>
+      <actor>Guelfi, Maurizio</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Hendy, Gloria</actor>
+      <role>Woman in Via Veneto</role>
+    </credit>
+    <credit>
+      <actor>Hennessy, April</actor>
+      <role>Woman in Via Veneto</role>
+    </credit>
+    <credit>
+      <actor>Hohenlohe, Nina</actor>
+      <role>Woman at Castle</role>
+    </credit>
+    <credit>
+      <actor>Jacono, Antonio</actor>
+      <role>Transvestite</role>
+    </credit>
+    <credit>
+      <actor>Jones, Gloria (I)</actor>
+      <role>Gloria</role>
+    </credit>
+    <credit>
+      <actor>Kechler, Carlo</actor>
+      <role>Man with clock</role>
+    </credit>
+    <credit>
+      <actor>Knorr, Else</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Labia, Paolo</actor>
+      <role>Servant in Maddalena's household</role>
+    </credit>
+    <credit>
+      <actor>Lane, John Francis</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Lee, Sondra (I)</actor>
+      <role>Ballerina in Spoleto</role>
+    </credit>
+    <credit>
+      <actor>Leibl, Marianne</actor>
+      <role>Yvonne's Companion in Miracle sequence</role>
+    </credit>
+    <credit>
+      <actor>Leoncini, Guglielmo</actor>
+      <role>Scalise's secretary</role>
+    </credit>
+    <credit>
+      <actor>Lojodice, Giuliana</actor>
+      <role>Servant at Steiner's house</role>
+    </credit>
+    <credit>
+      <actor>Longarini, Renée</actor>
+      <role>Miss Steiner</role>
+    </credit>
+    <credit>
+      <actor>Lori, Francisco</actor>
+      <role>Man in Miracle Sequence</role>
+    </credit>
+    <credit>
+      <actor>Luzi, Francesco</actor>
+      <role>Radioreporter</role>
+    </credit>
+    <credit>
+      <actor>Mallarno, Mario</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Mambor, Renato</actor>
+      <role>A tall young man</role>
+    </credit>
+    <credit>
+      <actor>Manfrino, Vittorio</actor>
+      <role>Tabarin director</role>
+    </credit>
+    <credit>
+      <actor>Marigliano, Maria</actor>
+      <role>Massamilla</role>
+    </credit>
+    <credit>
+      <actor>Mariotti, Carlo</actor>
+      <role>Male nurse</role>
+    </credit>
+    <credit>
+      <actor>Marturano, Gino</actor>
+      <role>Pimp</role>
+    </credit>
+    <credit>
+      <actor>Mastroianni, Marcello</actor>
+      <role>Marcello Rubini</role>
+    </credit>
+    <credit>
+      <actor>Mazzanti, Maria</actor>
+      <role>Woman at Airport</role>
+    </credit>
+    <credit>
+      <actor>McDonald, Audrey</actor>
+      <role>Jane</role>
+    </credit>
+    <credit>
+      <actor>Medin, Harriet</actor>
+      <role>Sylvia's secretary</role>
+    </credit>
+    <credit>
+      <actor>Melocco, Marta</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Meniconi, Nello</actor>
+      <role>Man on Via Veneto</role>
+    </credit>
+    <credit>
+      <actor>Messoyedoff, Alex</actor>
+      <role>Priest at the Miracle site</role>
+    </credit>
+    <credit>
+      <actor>Mingozzi, Gianfranco</actor>
+      <role>Priest that lets Steiner play organ</role>
+    </credit>
+    <credit>
+      <actor>Modigliani, Lucia</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moneta, Adriana</actor>
+      <role>Ninni</role>
+    </credit>
+    <credit>
+      <actor>Morand, Maite</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Musto, Carlo</actor>
+      <role>Transvestite</role>
+    </credit>
+    <credit>
+      <actor>Nardi, Aurelio</actor>
+      <role>Uncle of Lying Children of The Miracle</role>
+    </credit>
+    <credit>
+      <actor>Ninchi, Annibale</actor>
+      <role>Marcello's father</role>
+    </credit>
+    <credit>
+      <actor>O'Grady, Desmond</actor>
+      <role>Steiner's Guest</role>
+    </credit>
+    <credit>
+      <actor>Orsini, Umberto</actor>
+      <role>Man in sunglasses that helps Nadia strip</role>
+    </credit>
+    <credit>
+      <actor>Paradisi, Giulio</actor>
+      <role>Newspaper photographer</role>
+    </credit>
+    <credit>
+      <actor>Picardi, Cesarino Miceli</actor>
+      <role>Irate Man in Nightclub</role>
+    </credit>
+    <credit>
+      <actor>Plebani, Alberto</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Polidor (I)</actor>
+      <role>Clown</role>
+    </credit>
+    <credit>
+      <actor>Prunas, Oliviero</actor>
+      <role>Oliviero, son of prince</role>
+    </credit>
+    <credit>
+      <actor>Querrel, Giovanni</actor>
+      <role>Man at Nightclub</role>
+    </credit>
+    <credit>
+      <actor>Questi, Giulio</actor>
+      <role>Don Giulio</role>
+    </credit>
+    <credit>
+      <actor>Rizzo, Alfredo</actor>
+      <role>Television Director</role>
+    </credit>
+    <credit>
+      <actor>Romani, Giancarlo</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Rossellini, Franco</actor>
+      <role>The beautiful horseman</role>
+    </credit>
+    <credit>
+      <actor>Ruspoli di Poggio Suasa, Prince Eugenio</actor>
+      <role>Don Eugenio Mascalchi</role>
+    </credit>
+    <credit>
+      <actor>Santesso, Walter</actor>
+      <role>Paparazzo</role>
+    </credit>
+    <credit>
+      <actor>Savage, Archie</actor>
+      <role>Negro Dancer</role>
+    </credit>
+    <credit>
+      <actor>Savona, Leopoldo</actor>
+      <role>Negro Dancer</role>
+    </credit>
+    <credit>
+      <actor>Sernas, Jacques</actor>
+      <role>Matinee Idol</role>
+    </credit>
+    <credit>
+      <actor>Sheldon, Noel</actor>
+      <role>Man in Via Veneto</role>
+    </credit>
+    <credit>
+      <actor>Staiano, Gio</actor>
+      <role>Pierone</role>
+    </credit>
+    <credit>
+      <actor>Talamo, Gino</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thody, Henry</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Torres, Tomás</actor>
+      <role>Gianelli</role>
+    </credit>
+    <credit>
+      <actor>Tress, Vando</actor>
+      <role>Police inspector</role>
+    </credit>
+    <credit>
+      <actor>Trucchi, Gondrano</actor>
+      <role>Servant at Caracalla's</role>
+    </credit>
+    <credit>
+      <actor>Vasco, Aldo</actor>
+      <role>Man in Miracle Sequence</role>
+    </credit>
+    <credit>
+      <actor>Wolkowsky, Vadim</actor>
+      <role>Prince Mascalchi</role>
+    </credit>
+    <credit>
+      <actor>Zingarelli, Italo</actor>
+      <role>Don Giulio</role>
+    </credit>
+  </cast>
+<plot>Journalist and man-about-town Marcello struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.</plot><url>http://localhost:8983/solr/movie.html?308248</url></doc>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="457799">
+  <docid>457799</docid>
+  <title>Recreation</title>
+  <year>1914</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Chaplin, Charles</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Spain">30 September 1915</releasedate>
+    <releasedate country="Finland">7 December 1921</releasedate>
+    <releasedate country="USA">13 August 1914</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Chaplin, Charles</director>
+  </directors>
+  <producers>
+    <producer>Sennett, Mack</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Bennett, Charles (II)</actor>
+      <role>Seaman on Park Bench</role>
+    </credit>
+    <credit>
+      <actor>Chaplin, Charles</actor>
+      <role>Tramp</role>
+    </credit>
+  </cast>
+<plot>Charlie is walking in the park. A girl leaves a seaman on one bench and joins Charlie on another. The seaman wakes up. He and Charlie stage a brick fight. Policemen get hit and arrest both men. During an ensuing fight on the dock the policemen, the seaman, Charlie and the girl wind up in the water.</plot><url>http://localhost:8983/solr/movie.html?457799</url></doc>

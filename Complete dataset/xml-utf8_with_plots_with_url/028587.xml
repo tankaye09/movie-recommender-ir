@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="028587">
+  <docid>028587</docid>
+  <title>Aladin ou la lampe merveilleuse</title>
+  <year>1906</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <languages>
+    <language>French</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">December 1906</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Capellani, Albert</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Vinter, Georges</actor>
+      <role>Aladin</role>
+    </credit>
+  </cast>
+<plot>The legend of Aladdin and his magic lamp: Aladdin finds a magic lamp which brings him wealth, luxury, and marriage to a princess. But his rival, an evil magician, steals the lamp for himself. Aladdin must regain the lamp or lose everything.</plot><url>http://localhost:8983/solr/movie.html?028587</url></doc>

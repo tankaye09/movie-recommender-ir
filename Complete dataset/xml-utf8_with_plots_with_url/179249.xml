@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="179249">
+  <docid>179249</docid>
+  <title>Enterprise</title>
+  <year>2001</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Baskin, Daryl</editor>
+    <editor>Farrell, J.P.</editor>
+    <editor>Koeppel, David</editor>
+    <editor>Lederman, Robert</editor>
+  </editors>
+  <genres>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>captain</keyword>
+    <keyword>rescue</keyword>
+    <keyword>space-travel</keyword>
+    <keyword>space-war</keyword>
+    <keyword>star-trek-spinoff</keyword>
+    <keyword>alien-contact</keyword>
+    <keyword>ufo</keyword>
+    <keyword>arctic</keyword>
+    <keyword>female-stockinged-foot</keyword>
+    <keyword>vulcan</keyword>
+    <keyword>space-battle</keyword>
+    <keyword>cliffhanger</keyword>
+    <keyword>spacecraft</keyword>
+    <keyword>beagle-dog</keyword>
+    <keyword>hologram</keyword>
+    <keyword>reference-to-hamlet</keyword>
+    <keyword>first-contact-scenario</keyword>
+    <keyword>star-trek</keyword>
+    <keyword>warp-engine</keyword>
+    <keyword>phaser</keyword>
+    <keyword>space-exploration</keyword>
+    <keyword>space</keyword>
+    <keyword>tv-series-pilot</keyword>
+    <keyword>teleportation</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>good-versus-evil</keyword>
+    <keyword>navigation</keyword>
+    <keyword>weapon</keyword>
+    <keyword>based-on-cult-tv-series</keyword>
+    <keyword>middle-age</keyword>
+    <keyword>alternative-timeline</keyword>
+    <keyword>series-finale</keyword>
+    <keyword>hero</keyword>
+    <keyword>spaceship-name-in-title</keyword>
+    <keyword>dog</keyword>
+    <keyword>heroic-captain</keyword>
+    <keyword>alien-space-craft</keyword>
+    <keyword>outer-space</keyword>
+    <keyword>reference-to-isaac-newton</keyword>
+    <keyword>warp-speed</keyword>
+    <keyword>prequel</keyword>
+    <keyword>high-tech</keyword>
+    <keyword>cyborg</keyword>
+    <keyword>2150s</keyword>
+    <keyword>abandoned-library</keyword>
+    <keyword>reference-to-filmmaker-john-ford</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>klingon</keyword>
+    <keyword>alien-invasion</keyword>
+    <keyword>spaceship</keyword>
+    <keyword>first-contact</keyword>
+    <keyword>2100s</keyword>
+    <keyword>cult-tv</keyword>
+    <keyword>fear</keyword>
+    <keyword>2000s</keyword>
+    <keyword>space-fight</keyword>
+    <keyword>invented-language</keyword>
+    <keyword>footsie-under-the-table</keyword>
+    <keyword>technology</keyword>
+    <keyword>computer</keyword>
+    <keyword>female-to-male-footsie-playing</keyword>
+    <keyword>fear-of-death</keyword>
+    <keyword>reference-to-romeo-and-juliet</keyword>
+    <keyword>extraterrestrial</keyword>
+    <keyword>warrior</keyword>
+    <keyword>alien-technology</keyword>
+    <keyword>use-of-phrase-liquid-courage</keyword>
+    <keyword>star-fleet</keyword>
+    <keyword>alien</keyword>
+    <keyword>female-officer</keyword>
+    <keyword>space-shuttle</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>enthusiasm</keyword>
+    <keyword>alien-civilization</keyword>
+    <keyword>planet</keyword>
+    <keyword>astronaut</keyword>
+    <keyword>explosive-decompression</keyword>
+    <keyword>exploration</keyword>
+    <keyword>time-travel</keyword>
+  </keywords>
+  <languages>
+    <language>Klingon</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Brazil">12</certificate>
+    <certificate country="UK">PG</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Canada">PG</certificate>
+    <certificate country="New Zealand">M</certificate>
+    <certificate country="USA">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">6 May 2003</releasedate>
+    <releasedate country="Brazil">7 September 2002</releasedate>
+    <releasedate country="Croatia">2 December 2003</releasedate>
+    <releasedate country="Israel">31 January 2002</releasedate>
+    <releasedate country="UK">1 October 2001</releasedate>
+    <releasedate country="Germany">23 April 2006</releasedate>
+    <releasedate country="France">7 January 2003</releasedate>
+    <releasedate country="Hungary">18 November 2006</releasedate>
+    <releasedate country="Iceland">25 September 2002</releasedate>
+    <releasedate country="Spain">22 September 2004</releasedate>
+    <releasedate country="Australia">27 November 2006</releasedate>
+    <releasedate country="Canada">25 September 2001</releasedate>
+    <releasedate country="Italy">6 July 2003</releasedate>
+    <releasedate country="New Zealand">3 March 2002</releasedate>
+    <releasedate country="USA">26 May 2004</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">92</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Barrett, David (VI)</director>
+    <director>Burton, LeVar</director>
+    <director>Charleston, Jim</director>
+    <director>Contner, James A.</director>
+    <director>Conway, James L. (I)</director>
+    <director>Dawson, Roxann</director>
+    <director>Dorn, Michael (I)</director>
+    <director>Grossman, Michael (I)</director>
+    <director>Hedden, Rob</director>
+    <director>Kolbe, Winrich</director>
+    <director>Kroeker, Allan</director>
+    <director>Landau, Les</director>
+    <director>Livingston, David (I)</director>
+    <director>McNeill, Robert Duncan</director>
+    <director>Norris, Patrick R.</director>
+    <director>Rush, Marvin V.</director>
+    <director>Straiton, David</director>
+    <director>Vejar, Michael</director>
+    <director>Whitmore Jr., James</director>
+    <director>Windell, Terry (I)</director>
+  </directors>
+  <producers>
+    <producer>Rossi, David (I)</producer>
+    <producer>Black, Chris (II)</producer>
+    <producer>Coto, Manny</producer>
+    <producer>Shiban, John</producer>
+    <producer>Bormanis, André</producer>
+    <producer>Finch, Tim</producer>
+    <producer>Reeves-Stevens, Garfield</producer>
+    <producer>Reeves-Stevens, Judith</producer>
+    <producer>Shore, Tony</producer>
+    <producer>Strong, Phyllis</producer>
+    <producer>Sussman, Mike</producer>
+    <producer>Welke, Stephen</producer>
+    <producer>Yacobian, Brad</producer>
+    <producer>Brennert, Alan</producer>
+    <producer>Dekker, Fred</producer>
+    <producer>Friedman, Brent V.</producer>
+    <producer>Goodman, David A.</producer>
+  </producers>
+  <writers>
+    <writer>Berman, Rick</writer>
+    <writer>Braga, Brannon</writer>
+    <writer>Beck, Stephen (I)</writer>
+    <writer>Berman, Rick</writer>
+    <writer>Black, Chris (II)</writer>
+    <writer>Bormanis, André</writer>
+    <writer>Braga, Brannon</writer>
+    <writer>Brennert, Alan</writer>
+    <writer>Brown, Paul (III)</writer>
+    <writer>Coto, Manny</writer>
+    <writer>Cross, Alan (I)</writer>
+    <writer>Dekker, Fred</writer>
+    <writer>Duff, James (I)</writer>
+    <writer>Elmore, Taylor</writer>
+    <writer>Fernandez, Jonathan</writer>
+    <writer>Finch, Tim</writer>
+    <writer>Friedman, Brent V.</writer>
+    <writer>Goodman, David A.</writer>
+    <writer>Jacquemetton, André</writer>
+    <writer>Jacquemetton, Maria</writer>
+    <writer>LaZebnik, Ken</writer>
+    <writer>Matalas, Terry</writer>
+    <writer>McCarthy, Daniel (I)</writer>
+    <writer>O'Shannon, Dan</writer>
+    <writer>Reeves-Stevens, Garfield</writer>
+    <writer>Reeves-Stevens, Judith</writer>
+    <writer>Shiban, John</writer>
+    <writer>Stella, Antoinette (II)</writer>
+    <writer>Strong, Phyllis</writer>
+    <writer>Sussman, Mike</writer>
+    <writer>Tobeason, Hans</writer>
+    <writer>Wilcox, David (III)</writer>
+  </writers>
+  <composers>
+    <composer>Baillargeon, Paul</composer>
+    <composer>Bell, David (I)</composer>
+    <composer>Bunch, Velton Ray</composer>
+    <composer>Chattaway, Jay</composer>
+    <composer>Frizzell, John (I)</composer>
+    <composer>McCarthy, Dennis (I)</composer>
+    <composer>McKenzie, Mark (I)</composer>
+    <composer>Tyler, Brian (IV)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aboulela, Amir</actor>
+      <role>Sloth #2</role>
+    </credit>
+    <credit>
+      <actor>Adams, Alicia (V)</actor>
+      <role>Lissan</role>
+    </credit>
+    <credit>
+      <actor>Ade, Dayo</actor>
+      <role>Klingon Tactical Officer</role>
+    </credit>
+    <credit>
+      <actor>Ager, Nikita</actor>
+      <role>Rajiin</role>
+    </credit>
+    <credit>
+      <actor>Allan, Keith</actor>
+      <role>Suliban Commander Raan</role>
+    </credit>
+    <credit>
+      <actor>Allen, Crystal</actor>
+      <role>D'Nesh</role>
+    </credit>
+    <credit>
+      <actor>Allerick, Steven</actor>
+      <role>Ensign Cook</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Geneviere</actor>
+      <role>Operations Division Ensign</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Nathan (I)</actor>
+      <role>Sergeant Kemper</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Nathan (I)</actor>
+      <role>Sergeant Kemper</role>
+    </credit>
+    <credit>
+      <actor>Andrews, David (I)</actor>
+      <role>Lorian</role>
+    </credit>
+    <credit>
+      <actor>Anthony, Jasmine Jessica</actor>
+      <role>Talla</role>
+    </credit>
+    <credit>
+      <actor>Anthony-Rodriguez, Philip</actor>
+      <role>Juan</role>
+    </credit>
+    <credit>
+      <actor>Appel, Craig</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Arenberg, Lee</actor>
+      <role>Tellarite Ambassador Gral</role>
+    </credit>
+    <credit>
+      <actor>Ariza, Kristen</actor>
+      <role>Augment #1</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Admiral Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Admiral Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Admiral Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Admiral Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Admiral Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Captain Maximilian Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Commodore Maxwell Forrest</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Klingon Captain</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Kreetassan Captain</role>
+    </credit>
+    <credit>
+      <actor>Armstrong, Vaughn (I)</actor>
+      <role>Kreetassan Captain</role>
+    </credit>
+    <credit>
+      <actor>Auberjonois, Rene</actor>
+      <role>Ezral</role>
+    </credit>
+    <credit>
+      <actor>Avari, Erick</actor>
+      <role>Jamin</role>
+    </credit>
+    <credit>
+      <actor>Avery, James (I)</actor>
+      <role>General K'Vagh</role>
+    </credit>
+    <credit>
+      <actor>Ayres, Jef</actor>
+      <role>Med Tech</role>
+    </credit>
+    <credit>
+      <actor>Baker, Brett</actor>
+      <role>Crewman #2</role>
+    </credit>
+    <credit>
+      <actor>Bakula, Scott</actor>
+      <role>Capt. Jonathan Archer</role>
+    </credit>
+    <credit>
+      <actor>Bakula, Scott</actor>
+      <role>Captain Jonathan Archer</role>
+    </credit>
+    <credit>
+      <actor>Bakula, Scott</actor>
+      <role>Commander Jonathan Archer</role>
+    </credit>
+    <credit>
+      <actor>Bakula, Scott</actor>
+      <role>Commander/Captain Jonathan Archer</role>
+    </credit>
+    <credit>
+      <actor>Baldridge, Mike (I)</actor>
+      <role>Dillard</role>
+    </credit>
+    <credit>
+      <actor>Balma, John</actor>
+      <role>Muroc</role>
+    </credit>
+    <credit>
+      <actor>Baron, John (II)</actor>
+      <role>Skagaran Boy</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Majel</actor>
+      <role>Computer Voice</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Majel</actor>
+      <role>Computer Voice</role>
+    </credit>
+    <credit>
+      <actor>Batten, Cyia</actor>
+      <role>Navaar</role>
+    </credit>
+    <credit>
+      <actor>Bauer, Kristin</actor>
+      <role>Lt. Laneth</role>
+    </credit>
+    <credit>
+      <actor>Baxley Jr., Craig</actor>
+      <role>Decon Agent #2</role>
+    </credit>
+    <credit>
+      <actor>Beaver, Jim (I)</actor>
+      <role>Admiral Daniel Leonard</role>
+    </credit>
+    <credit>
+      <actor>Bergeron, Tom</actor>
+      <role>Alien Trader D'Marr</role>
+    </credit>
+    <credit>
+      <actor>Bergeron, Tom</actor>
+      <role>Coridan Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Bergl, Emily</actor>
+      <role>Bethany</role>
+    </credit>
+    <credit>
+      <actor>Bevine, Victor</actor>
+      <role>Flight Controller</role>
+    </credit>
+    <credit>
+      <actor>Bierman, Douglas</actor>
+      <role>Degra's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Biggs, Casey</actor>
+      <role>Illyrian Captain</role>
+    </credit>
+    <credit>
+      <actor>Billingsley, John (II)</actor>
+      <role>Dr. Phlox</role>
+    </credit>
+    <credit>
+      <actor>Billingsley, John (II)</actor>
+      <role>Dr. Phlox</role>
+    </credit>
+    <credit>
+      <actor>Bin Laden, Osama</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blair, Tony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Jolene</actor>
+      <role>Commander T'Pol</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Jolene</actor>
+      <role>Lt. Commander T'Pol</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Jolene</actor>
+      <role>Sub-Commander T'Pol</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Jolene</actor>
+      <role>Sub-Commander T'Pol/T'Mir</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Jolene</actor>
+      <role>Subcommander/Commander T'Pol</role>
+    </credit>
+    <credit>
+      <actor>Blalock, Steve</actor>
+      <role>Security Officer Zabel</role>
+    </credit>
+    <credit>
+      <actor>Bland, John Harrington</actor>
+      <role>Kov</role>
+    </credit>
+    <credit>
+      <actor>Boehmer, J. Paul</actor>
+      <role>Mestral</role>
+    </credit>
+    <credit>
+      <actor>Boehmer, J. Paul</actor>
+      <role>SS Agent</role>
+    </credit>
+    <credit>
+      <actor>Boehmer, J. Paul</actor>
+      <role>SS Officer</role>
+    </credit>
+    <credit>
+      <actor>Bond, Chelsea</actor>
+      <role>Alien Mother</role>
+    </credit>
+    <credit>
+      <actor>Bonilla, Michelle</actor>
+      <role>Bu'kaH</role>
+    </credit>
+    <credit>
+      <actor>Booker, Scott</actor>
+      <role>Miner #1</role>
+    </credit>
+    <credit>
+      <actor>Borba, Andrew</actor>
+      <role>Xindi-Reptilian Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Borba, Andrew</actor>
+      <role>Xindi-Reptilian Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Bormanis, André</actor>
+      <role>Civilian #1</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Philip (I)</actor>
+      <role>Com Officer</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Philip (I)</actor>
+      <role>Com Officer</role>
+    </credit>
+    <credit>
+      <actor>Brammell, Abby</actor>
+      <role>Persis</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Eric (III)</actor>
+      <role>Helm Crewman</role>
+    </credit>
+    <credit>
+      <actor>Brannagh, Brigid</actor>
+      <role>Ruby</role>
+    </credit>
+    <credit>
+      <actor>Brewer, Charlie (I)</actor>
+      <role>Alien/Akaali #1</role>
+    </credit>
+    <credit>
+      <actor>Brezhnev, Vladimir</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brief, Kevin</actor>
+      <role>Naarg</role>
+    </credit>
+    <credit>
+      <actor>Brief, Kevin</actor>
+      <role>Naarg</role>
+    </credit>
+    <credit>
+      <actor>Brink, Molly</actor>
+      <role>Lieutenant Talas</role>
+    </credit>
+    <credit>
+      <actor>Brink, Molly</actor>
+      <role>Lieutenant Talas</role>
+    </credit>
+    <credit>
+      <actor>Brink, Molly</actor>
+      <role>Lieutenant Talas</role>
+    </credit>
+    <credit>
+      <actor>Bristow, Gary</actor>
+      <role>Stablehand</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Golden</actor>
+      <role>Alicia Travers</role>
+    </credit>
+    <credit>
+      <actor>Brown, Autumn Leigh</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Zobral</role>
+    </credit>
+    <credit>
+      <actor>Brown, Kipleigh</actor>
+      <role>Taylor</role>
+    </credit>
+    <credit>
+      <actor>Bullock, Gary</actor>
+      <role>Klingon Council Member</role>
+    </credit>
+    <credit>
+      <actor>Burke Jr., Solomon</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Burke Jr., Solomon</actor>
+      <role>Ensign</role>
+    </credit>
+    <credit>
+      <actor>Burke, Michael Reilly</actor>
+      <role>Koss</role>
+    </credit>
+    <credit>
+      <actor>Burke, Michael Reilly</actor>
+      <role>Koss</role>
+    </credit>
+    <credit>
+      <actor>Burke, Michael Reilly</actor>
+      <role>Koss</role>
+    </credit>
+    <credit>
+      <actor>Burkholder, Scott</actor>
+      <role>Tagrim</role>
+    </credit>
+    <credit>
+      <actor>Bush, George (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bush, George W.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Canavan, Michael (I)</actor>
+      <role>Vulcan Advisor #1</role>
+    </credit>
+    <credit>
+      <actor>Carr, Jane (II)</actor>
+      <role>Mary Reed</role>
+    </credit>
+    <credit>
+      <actor>Carradine, John</actor>
+      <role>Giacomo</role>
+    </credit>
+    <credit>
+      <actor>Carradine, Keith</actor>
+      <role>A.G. Robinson</role>
+    </credit>
+    <credit>
+      <actor>Carter, Jimmy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carver, Mary</actor>
+      <role>Nadet</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Joanna (I)</actor>
+      <role>T'Les</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Joanna (I)</actor>
+      <role>T'Les</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Zane</actor>
+      <role>Andorian Soldier</role>
+    </credit>
+    <credit>
+      <actor>Castro, Fidel (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cates, Helen</actor>
+      <role>Klingon First Officer</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Tessic</role>
+    </credit>
+    <credit>
+      <actor>Chadwick, Mark (I)</actor>
+      <role>Male Tarkalean</role>
+    </credit>
+    <credit>
+      <actor>Chaet, Mark</actor>
+      <role>Yolen</role>
+    </credit>
+    <credit>
+      <actor>Chance, Alexander (I)</actor>
+      <role>Crewman #1</role>
+    </credit>
+    <credit>
+      <actor>Chien, Fernando</actor>
+      <role>Saul</role>
+    </credit>
+    <credit>
+      <actor>Childers, Michael (I)</actor>
+      <role>Strode</role>
+    </credit>
+    <credit>
+      <actor>Chrest, Joe</actor>
+      <role>Bar Patron</role>
+    </credit>
+    <credit>
+      <actor>Christie, Julianne</actor>
+      <role>Ah'Len</role>
+    </credit>
+    <credit>
+      <actor>Christopher, Dennis (I)</actor>
+      <role>Danik</role>
+    </credit>
+    <credit>
+      <actor>Churchill, Winston (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clark, Adam (I)</actor>
+      <role>Josiah</role>
+    </credit>
+    <credit>
+      <actor>Clark, Adam (I)</actor>
+      <role>Josiah</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Melinda</actor>
+      <role>Sarin</role>
+    </credit>
+    <credit>
+      <actor>Clinton, Bill (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clinton, Hillary Rodham</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Clive, Colin</actor>
+      <role>Dr. Henry Frankenstein</role>
+    </credit>
+    <credit>
+      <actor>Cobbs, Bill</actor>
+      <role>Dr. Emory Erickson</role>
+    </credit>
+    <credit>
+      <actor>Cockrum, Dennis</actor>
+      <role>Alien Barkeep</role>
+    </credit>
+    <credit>
+      <actor>Cockrum, Dennis</actor>
+      <role>Freebus</role>
+    </credit>
+    <credit>
+      <actor>Collins, Jason (I)</actor>
+      <role>Corporal Ryan</role>
+    </credit>
+    <credit>
+      <actor>Combs, Jeffrey</actor>
+      <role>Commander Shran</role>
+    </credit>
+    <credit>
+      <actor>Combs, Jeffrey</actor>
+      <role>Commander Shran</role>
+    </credit>
+    <credit>
+      <actor>Combs, Jeffrey</actor>
+      <role>Commander Shran</role>
+    </credit>
+    <credit>
+      <actor>Combs, Jeffrey</actor>
+      <role>Commander Shran</role>
+    </credit>
+    <credit>
+      <actor>Combs, Jeffrey</actor>
+      <role>Krem</role>
+    </credit>
+    <credit>
+      <actor>Correy, Mark</actor>
+      <role>Engineer Alex</role>
+    </credit>
+    <credit>
+      <actor>Cothran Jr., John</actor>
+      <role>Gralik Durr</role>
+    </credit>
+    <credit>
+      <actor>Coto, Manny</actor>
+      <role>N.D. Admiral</role>
+    </credit>
+    <credit>
+      <actor>Cousins, Brian</actor>
+      <role>Alien Lieutenant</role>
+    </credit>
+    <credit>
+      <actor>Cragen, John</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Crenna, Richard Anthony</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Cromwell, James (I)</actor>
+      <role>Dr. Zefram Cochrane</role>
+    </credit>
+    <credit>
+      <actor>Cromwell, James (I)</actor>
+      <role>Zefram Cochrane</role>
+    </credit>
+    <credit>
+      <actor>Crooke, Leland</actor>
+      <role>Firek Plinn</role>
+    </credit>
+    <credit>
+      <actor>Cross, Roger R.</actor>
+      <role>Tret</role>
+    </credit>
+    <credit>
+      <actor>Cruze, Josh</actor>
+      <role>Captain Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Culp, Steven (I)</actor>
+      <role>Major Hayes</role>
+    </credit>
+    <credit>
+      <actor>Culp, Steven (I)</actor>
+      <role>Major Hayes</role>
+    </credit>
+    <credit>
+      <actor>Culp, Steven (I)</actor>
+      <role>Major Hayes</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Erin</actor>
+      <role>Prostitute #1</role>
+    </credit>
+    <credit>
+      <actor>Cusack, Ann</actor>
+      <role>Maggie</role>
+    </credit>
+    <credit>
+      <actor>D'Errico, Steve</actor>
+      <role>Starfleet Admiral</role>
+    </credit>
+    <credit>
+      <actor>Dampf, Ethan</actor>
+      <role>Alien Child</role>
+    </credit>
+    <credit>
+      <actor>Darga, Christopher</actor>
+      <role>Klingon Captain Vorok</role>
+    </credit>
+    <credit>
+      <actor>Davis, Joe (I)</actor>
+      <role>Orion Slave</role>
+    </credit>
+    <credit>
+      <actor>Davis, Marty (II)</actor>
+      <role>Young Archer</role>
+    </credit>
+    <credit>
+      <actor>Davis, Marty (II)</actor>
+      <role>Young Archer</role>
+    </credit>
+    <credit>
+      <actor>Davis, Regi</actor>
+      <role>Klingon First Officer</role>
+    </credit>
+    <credit>
+      <actor>Davison, Bruce</actor>
+      <role>Menos</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Roxann</actor>
+      <role>Repair Station Computer</role>
+    </credit>
+    <credit>
+      <actor>DeCicco, Elizabeth</actor>
+      <role>Trull</role>
+    </credit>
+    <credit>
+      <actor>Deadrick Jr., Vince</actor>
+      <role>Crewman on Fire</role>
+    </credit>
+    <credit>
+      <actor>Deadrick Jr., Vince</actor>
+      <role>Klingon #3</role>
+    </credit>
+    <credit>
+      <actor>Dean, Paul (II)</actor>
+      <role>Reptilian Technician</role>
+    </credit>
+    <credit>
+      <actor>Dean, Robertson</actor>
+      <role>Klingon Captain Korok</role>
+    </credit>
+    <credit>
+      <actor>Dean, Stephen (II)</actor>
+      <role>Augment</role>
+    </credit>
+    <credit>
+      <actor>Del Spina, Jordan</actor>
+      <role>Young Malik</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Charles</actor>
+      <role>Chancellor Trelit</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Steven (I)</actor>
+      <role>Tholos</role>
+    </credit>
+    <credit>
+      <actor>Derr, Kevin</actor>
+      <role>Corporal Kelly</role>
+    </credit>
+    <credit>
+      <actor>Derr, Kevin</actor>
+      <role>MACO Soldier</role>
+    </credit>
+    <credit>
+      <actor>Desmond, Dan</actor>
+      <role>Klingon Chancellor</role>
+    </credit>
+    <credit>
+      <actor>Devon, Dayna</actor>
+      <role>N.D. Engineer</role>
+    </credit>
+    <credit>
+      <actor>DiCarlo, Josette</actor>
+      <role>Sphere-Builder Woman</role>
+    </credit>
+    <credit>
+      <actor>DiCarlo, Josette</actor>
+      <role>Sphere-Builder Woman</role>
+    </credit>
+    <credit>
+      <actor>DiCarlo, Josette</actor>
+      <role>Sphere-Builder Woman</role>
+    </credit>
+    <credit>
+      <actor>DiLascio, Diane</actor>
+      <role>Riann</role>
+    </credit>
+    <credit>
+      <actor>Donner, Jack</actor>
+      <role>Vulcan Priest</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Cullen</actor>
+      <role>Suliban Soldier</role>
+    </credit>
+    <credit>
+      <actor>Douglas, D.C.</actor>
+      <role>Zepht</role>
+    </credit>
+    <credit>
+      <actor>Drennen, Josh</actor>
+      <role>Degra's Assistant</role>
+    </credit>
+    <credit>
+      <actor>Drennen, Josh</actor>
+      <role>Thalen</role>
+    </credit>
+    <credit>
+      <actor>DuPlantier, Donna</actor>
+      <role>Prostitute #2</role>
+    </credit>
+    <credit>
+      <actor>DuPont, Thomas</actor>
+      <role>Cowboy</role>
+    </credit>
+    <credit>
+      <actor>Earhart, Amy</actor>
+      <role>Vulcan Delegate</role>
+    </credit>
+    <credit>
+      <actor>Eddins, John</actor>
+      <role>Xindi-Reptilian</role>
+    </credit>
+    <credit>
+      <actor>Eith, Jeffrey</actor>
+      <role>Cowboy</role>
+    </credit>
+    <credit>
+      <actor>Elam, Kiante</actor>
+      <role>Xindi-Arboreal Pilot</role>
+    </credit>
+    <credit>
+      <actor>Eliopoulos, Paul</actor>
+      <role>Crewman #1</role>
+    </credit>
+    <credit>
+      <actor>Ensign, Michael</actor>
+      <role>Dr. Oratt</role>
+    </credit>
+    <credit>
+      <actor>Epperson, Van</actor>
+      <role>Alien Man</role>
+    </credit>
+    <credit>
+      <actor>Erb, Stephanie</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Eriksen, Kaj-Erik</actor>
+      <role>Smike</role>
+    </credit>
+    <credit>
+      <actor>Farnam, Henry</actor>
+      <role>Damron</role>
+    </credit>
+    <credit>
+      <actor>Feinberg, Ken</actor>
+      <role>Alien Captain</role>
+    </credit>
+    <credit>
+      <actor>Figlioli, David</actor>
+      <role>Klingon Crewman</role>
+    </credit>
+    <credit>
+      <actor>Figueroa, Efrain (I)</actor>
+      <role>Translator Voice</role>
+    </credit>
+    <credit>
+      <actor>Fincke, Bernd Michael</actor>
+      <role>Engineer</role>
+    </credit>
+    <credit>
+      <actor>Fincke, Mike</actor>
+      <role>Engineer</role>
+    </credit>
+    <credit>
+      <actor>Fischler, Patrick</actor>
+      <role>Mercer</role>
+    </credit>
+    <credit>
+      <actor>Fitzgerald, Kim (I)</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Commander Williams</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Commander Williams</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Commander Williams</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Commander Williams</role>
+    </credit>
+    <credit>
+      <actor>Fitzpatrick, Jim (IV)</actor>
+      <role>Commander Williams</role>
+    </credit>
+    <credit>
+      <actor>Flanagan, Fionnula</actor>
+      <role>Vulcan Ambassador V'Lar</role>
+    </credit>
+    <credit>
+      <actor>Fleck, John (I)</actor>
+      <role>Silik</role>
+    </credit>
+    <credit>
+      <actor>Fleck, John (I)</actor>
+      <role>Silik</role>
+    </credit>
+    <credit>
+      <actor>Flynn, J. Michael</actor>
+      <role>Mazarite Official</role>
+    </credit>
+    <credit>
+      <actor>Flynn, J. Michael</actor>
+      <role>Nijil</role>
+    </credit>
+    <credit>
+      <actor>Flynn, J. Michael</actor>
+      <role>Nijil</role>
+    </credit>
+    <credit>
+      <actor>Flynn, J. Michael</actor>
+      <role>Nijil</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Steven (I)</actor>
+      <role>Maklii</role>
+    </credit>
+    <credit>
+      <actor>Forester, Nicole</actor>
+      <role>Nora</role>
+    </credit>
+    <credit>
+      <actor>Fortunato, Menina</actor>
+      <role>Maras</role>
+    </credit>
+    <credit>
+      <actor>Foster, Kevin (III)</actor>
+      <role>Security Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Foxworth, Robert</actor>
+      <role>Administrator V'Las</role>
+    </credit>
+    <credit>
+      <actor>Frakes, Jonathan</actor>
+      <role>Commander William T. Riker</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Duncan K.</actor>
+      <role>Crewman #2</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Duncan K.</actor>
+      <role>Ensign Walsh</role>
+    </credit>
+    <credit>
+      <actor>Fredricksen, Cully</actor>
+      <role>Vulcan Captain</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Chris (I)</actor>
+      <role>Alien Head Guard</role>
+    </credit>
+    <credit>
+      <actor>French, Bruce (I)</actor>
+      <role>Vulcan Elder</role>
+    </credit>
+    <credit>
+      <actor>Friedericy, Bonita</actor>
+      <role>Rooney</role>
+    </credit>
+    <credit>
+      <actor>Frye, Dwight</actor>
+      <role>Fritz</role>
+    </credit>
+    <credit>
+      <actor>Gallegos, Reynaldo</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Garvey, Michael (II)</actor>
+      <role>Klingon Captain Goroth</role>
+    </credit>
+    <credit>
+      <actor>Genitempo, Maria Celeste</actor>
+      <role>Civilian</role>
+    </credit>
+    <credit>
+      <actor>Glenn, Tim</actor>
+      <role>Med Tech</role>
+    </credit>
+    <credit>
+      <actor>Glover, Michael (III)</actor>
+      <role>Alien Warrior</role>
+    </credit>
+    <credit>
+      <actor>Goldring, Danny</actor>
+      <role>Alien Captain</role>
+    </credit>
+    <credit>
+      <actor>Goldring, Danny</actor>
+      <role>Nausicaan Captain</role>
+    </credit>
+    <credit>
+      <actor>Goldsberry, Renee</actor>
+      <role>Crewman Kelly</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Christopher</actor>
+      <role>Thalen</role>
+    </credit>
+    <credit>
+      <actor>Gorbachev, Mikhail</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Adam Taylor</actor>
+      <role>Sim Trip at 8</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Adam Taylor</actor>
+      <role>Young Charles Tucker</role>
+    </credit>
+    <credit>
+      <actor>Grace, Wayne</actor>
+      <role>Fleet Admiral Krell</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Crewman Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Graham, Gary (I)</actor>
+      <role>Vulcan Ambassador Soval</role>
+    </credit>
+    <credit>
+      <actor>Grant, Vince</actor>
+      <role>Yarrick</role>
+    </credit>
+    <credit>
+      <actor>Gray, Bruce (I)</actor>
+      <role>Surak</role>
+    </credit>
+    <credit>
+      <actor>Greenquist, Brad</actor>
+      <role>Captain Khata'n Zshaar</role>
+    </credit>
+    <credit>
+      <actor>Greenquist, Brad</actor>
+      <role>Rigelian Kidnapper</role>
+    </credit>
+    <credit>
+      <actor>Grenier, Zach</actor>
+      <role>Renth</role>
+    </credit>
+    <credit>
+      <actor>Grimes, Adam (I)</actor>
+      <role>Lokesh</role>
+    </credit>
+    <credit>
+      <actor>Groener, Harry</actor>
+      <role>Nathan Samuels</role>
+    </credit>
+    <credit>
+      <actor>Guinan, Francis</actor>
+      <role>General Gosis</role>
+    </credit>
+    <credit>
+      <actor>Gwaltney, Jack</actor>
+      <role>Vosk</role>
+    </credit>
+    <credit>
+      <actor>Hall, J.D.</actor>
+      <role>Klingon Com Voice</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Aenar Guard</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian Avenger Helmsman</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian Bridge Officer</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian Delegate</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian Guard</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian Soldier</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Andorian/Marauder Pilot</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Injured Crewman</role>
+    </credit>
+    <credit>
+      <actor>Hambly, Glen</actor>
+      <role>Vulcan Crewman</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Melinda Page</actor>
+      <role>Feezal</role>
+    </credit>
+    <credit>
+      <actor>Hammond, Vincent</actor>
+      <role>Huge Alien</role>
+    </credit>
+    <credit>
+      <actor>Hansen, John C.</actor>
+      <role>Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Harnagel, John</actor>
+      <role>Joe Prazki</role>
+    </credit>
+    <credit>
+      <actor>Harrington, Adam (II)</actor>
+      <role>Researcher</role>
+    </credit>
+    <credit>
+      <actor>Harris, Hank (I)</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Hayenga, Jeff</actor>
+      <role>Dr. Yuris</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Paul (I)</actor>
+      <role>Businessman</role>
+    </credit>
+    <credit>
+      <actor>Hays, David Lewis</actor>
+      <role>Tactical Crewman</role>
+    </credit>
+    <credit>
+      <actor>Healy, Pat (I)</actor>
+      <role>Alien Slave</role>
+    </credit>
+    <credit>
+      <actor>Henry, Gregg</actor>
+      <role>Zho'Kaan</role>
+    </credit>
+    <credit>
+      <actor>Henson, Daniel</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Henwood, Greville</actor>
+      <role>Akary</role>
+    </credit>
+    <credit>
+      <actor>Hertzler, J.G.</actor>
+      <role>Advocate Kolos</role>
+    </credit>
+    <credit>
+      <actor>Hertzler, J.G.</actor>
+      <role>Klingon Captain</role>
+    </credit>
+    <credit>
+      <actor>Hildebrandt, Mark</actor>
+      <role>Lieutenant John Tiberius</role>
+    </credit>
+    <credit>
+      <actor>Hindy, Joseph</actor>
+      <role>Prah Mantoos</role>
+    </credit>
+    <credit>
+      <actor>Hitler, Adolf</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hochwald, Bari</actor>
+      <role>E'lis</role>
+    </credit>
+    <credit>
+      <actor>Holt, Josh</actor>
+      <role>Ensign Masaro</role>
+    </credit>
+    <credit>
+      <actor>Honey, Ryan</actor>
+      <role>Guard</role>
+    </credit>
+    <credit>
+      <actor>Horan, James</actor>
+      <role>Humanoid Figure</role>
+    </credit>
+    <credit>
+      <actor>Horan, James</actor>
+      <role>Humanoid Figure</role>
+    </credit>
+    <credit>
+      <actor>Horan, James</actor>
+      <role>Humanoid Figure</role>
+    </credit>
+    <credit>
+      <actor>Horan, James</actor>
+      <role>Humanoid Figure</role>
+    </credit>
+    <credit>
+      <actor>Howard, Clint</actor>
+      <role>Muk</role>
+    </credit>
+    <credit>
+      <actor>Howard, Dennis (I)</actor>
+      <role>Vulcan Captain</role>
+    </credit>
+    <credit>
+      <actor>Howerton, Drew</actor>
+      <role>Steward</role>
+    </credit>
+    <credit>
+      <actor>Hoyt, Chase</actor>
+      <role>Starfleet Commander</role>
+    </credit>
+    <credit>
+      <actor>Huhn, Matt</actor>
+      <role>N.D. Triannon</role>
+    </credit>
+    <credit>
+      <actor>Ianniello, Valarie</actor>
+      <role>Female Crewman</role>
+    </credit>
+    <credit>
+      <actor>Ingersoll, James (I)</actor>
+      <role>Risan Man</role>
+    </credit>
+    <credit>
+      <actor>Itzin, Gregory</actor>
+      <role>Admiral Black</role>
+    </credit>
+    <credit>
+      <actor>Itzin, Gregory</actor>
+      <role>Captain Sopek</role>
+    </credit>
+    <credit>
+      <actor>Ivins, Michael</actor>
+      <role>Miner #3</role>
+    </credit>
+    <credit>
+      <actor>Iyer, Kris</actor>
+      <role>Deputy Director of Cold Station 12</role>
+    </credit>
+    <credit>
+      <actor>Jacobs, Brian (I)</actor>
+      <role>Athan</role>
+    </credit>
+    <credit>
+      <actor>Jay, Baron</actor>
+      <role>Starfleet Crewman</role>
+    </credit>
+    <credit>
+      <actor>Jenkins, Matt (III)</actor>
+      <role>Tactical Officer</role>
+    </credit>
+    <credit>
+      <actor>Jewett, Christopher</actor>
+      <role>Crewman #1</role>
+    </credit>
+    <credit>
+      <actor>Johns, Glynis</actor>
+      <role>Maid Jean</role>
+    </credit>
+    <credit>
+      <actor>Kagen, David (I)</actor>
+      <role>Major Klev</role>
+    </credit>
+    <credit>
+      <actor>Kaminsky, Matthew</actor>
+      <role>Crewman Cunningham</role>
+    </credit>
+    <credit>
+      <actor>Kaminsky, Matthew</actor>
+      <role>Cunningham</role>
+    </credit>
+    <credit>
+      <actor>Karloff, Boris</actor>
+      <role>Frankenstein's Monster</role>
+    </credit>
+    <credit>
+      <actor>Karrer, Brandon</actor>
+      <role>Alien Man</role>
+    </credit>
+    <credit>
+      <actor>Kasper, Gary</actor>
+      <role>Orion Slaver #2</role>
+    </credit>
+    <credit>
+      <actor>Katsulas, Andreas</actor>
+      <role>Vissian Captain Drennik</role>
+    </credit>
+    <credit>
+      <actor>Kaye, Danny</actor>
+      <role>Hubert Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Keating, Dominic</actor>
+      <role>Lieutenant Malcolm Reed</role>
+    </credit>
+    <credit>
+      <actor>Keating, Dominic</actor>
+      <role>Major Malcolm Reed</role>
+    </credit>
+    <credit>
+      <actor>Kelleher, Tim (I)</actor>
+      <role>Lieutenant Pell</role>
+    </credit>
+    <credit>
+      <actor>Kelly-Young, Leonard</actor>
+      <role>Sonsorra</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, John F.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kennelly, B.K.</actor>
+      <role>Alien Merchant</role>
+    </credit>
+    <credit>
+      <actor>Kesmodel, Maximillian</actor>
+      <role>Sim Trip at 4</role>
+    </credit>
+    <credit>
+      <actor>Khomeini, Ayatollah</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kim, Daniel Dae</actor>
+      <role>Corporal Chang</role>
+    </credit>
+    <credit>
+      <actor>Kim, Daniel Dae</actor>
+      <role>Corporal Chang</role>
+    </credit>
+    <credit>
+      <actor>Kim, Daniel Dae</actor>
+      <role>Corporal Chang</role>
+    </credit>
+    <credit>
+      <actor>Kimball, David A.</actor>
+      <role>Esaak</role>
+    </credit>
+    <credit>
+      <actor>Kimball, Tracey A.</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Kimball, Tracey A.</actor>
+      <role>Cadet</role>
+    </credit>
+    <credit>
+      <actor>King Hussein</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>King, Ron (VII)</actor>
+      <role>Farmer</role>
+    </credit>
+    <credit>
+      <actor>King, Wayne (I)</actor>
+      <role>Klingon #1</role>
+    </credit>
+    <credit>
+      <actor>Klace, Scott</actor>
+      <role>Firek Goff</role>
+    </credit>
+    <credit>
+      <actor>Klein, Steven (II)</actor>
+      <role>Draysik</role>
+    </credit>
+    <credit>
+      <actor>Klimaszewski, Diane</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Klimaszewski, Elaine</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Knowles, Donovan C.</actor>
+      <role>Quinn</role>
+    </credit>
+    <credit>
+      <actor>Kober, Jeff</actor>
+      <role>Traeg</role>
+    </credit>
+    <credit>
+      <actor>Kolker, Danny</actor>
+      <role>Klingon Rura Penthe Guard</role>
+    </credit>
+    <credit>
+      <actor>Kolman, T.L.</actor>
+      <role>Alien Man</role>
+    </credit>
+    <credit>
+      <actor>Kopache, Thomas</actor>
+      <role>The Alien</role>
+    </credit>
+    <credit>
+      <actor>Kopache, Thomas</actor>
+      <role>Vulcan Attaché Tos</role>
+    </credit>
+    <credit>
+      <actor>Kosik, Michael</actor>
+      <role>Suliban Soldier</role>
+    </credit>
+    <credit>
+      <actor>Krawic, Michael</actor>
+      <role>Stron</role>
+    </credit>
+    <credit>
+      <actor>Krebs, Zachary Aaron (I)</actor>
+      <role>Andorian</role>
+    </credit>
+    <credit>
+      <actor>Krinsky, Tamara Lee</actor>
+      <role>Townsperson</role>
+    </credit>
+    <credit>
+      <actor>Lakshmi, Padma</actor>
+      <role>Kaitaama</role>
+    </credit>
+    <credit>
+      <actor>Lally, Ken (I)</actor>
+      <role>Lt. Taylor</role>
+    </credit>
+    <credit>
+      <actor>Lally, Ken (I)</actor>
+      <role>Lt. Taylor</role>
+    </credit>
+    <credit>
+      <actor>Larson, Steve (I)</actor>
+      <role>Zjod</role>
+    </credit>
+    <credit>
+      <actor>Laskin, Larissa</actor>
+      <role>Calla, Vissian Engineer's Wife</role>
+    </credit>
+    <credit>
+      <actor>Lenin, V.I.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lina, Tess</actor>
+      <role>Karyn Archer</role>
+    </credit>
+    <credit>
+      <actor>Lineback, Richard</actor>
+      <role>Kessick</role>
+    </credit>
+    <credit>
+      <actor>Lister, Tommy 'Tiny'</actor>
+      <role>Klaang</role>
+    </credit>
+    <credit>
+      <actor>Lister, Tommy 'Tiny'</actor>
+      <role>Klaang</role>
+    </credit>
+    <credit>
+      <actor>Lockhart-Johnson, D.J.</actor>
+      <role>Klingon Cell Guard</role>
+    </credit>
+    <credit>
+      <actor>Lubatti, Henri</actor>
+      <role>Crewman Ethan Novakovich</role>
+    </credit>
+    <credit>
+      <actor>Lucia, Charles</actor>
+      <role>Captain Keene</role>
+    </credit>
+    <credit>
+      <actor>Lucking, William</actor>
+      <role>Harrad-Sar</role>
+    </credit>
+    <credit>
+      <actor>Luna, Ricky</actor>
+      <role>Carlos</role>
+    </credit>
+    <credit>
+      <actor>Lund, Jordan</actor>
+      <role>Skalaar</role>
+    </credit>
+    <credit>
+      <actor>Lustig, Aaron</actor>
+      <role>Guri</role>
+    </credit>
+    <credit>
+      <actor>Luther, Bobbi Sue</actor>
+      <role>Orion Slave Woman</role>
+    </credit>
+    <credit>
+      <actor>Lydon, Alexandra</actor>
+      <role>Jhamel</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Scott (I)</actor>
+      <role>Commander Dolim</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Scott (I)</actor>
+      <role>Commander Dolim</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Scott (I)</actor>
+      <role>Commander Dolim</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Scott (I)</actor>
+      <role>Commander Dolim</role>
+    </credit>
+    <credit>
+      <actor>MacDonald, Scott (I)</actor>
+      <role>Commander Dolim</role>
+    </credit>
+    <credit>
+      <actor>MacFarlane, Seth</actor>
+      <role>Engineer</role>
+    </credit>
+    <credit>
+      <actor>MacFarlane, Seth</actor>
+      <role>Ensign Rivers</role>
+    </credit>
+    <credit>
+      <actor>Mackay, Donald Sage</actor>
+      <role>Shilat</role>
+    </credit>
+    <credit>
+      <actor>Magness, Elizabeth</actor>
+      <role>Female Crewmember</role>
+    </credit>
+    <credit>
+      <actor>Magness, Elizabeth</actor>
+      <role>Injured Crewmember</role>
+    </credit>
+    <credit>
+      <actor>Magyar, Derek</actor>
+      <role>Commander Kelby</role>
+    </credit>
+    <credit>
+      <actor>Magyar, Derek</actor>
+      <role>Commander Kelby</role>
+    </credit>
+    <credit>
+      <actor>Magyar, Derek</actor>
+      <role>Commander Kelby</role>
+    </credit>
+    <credit>
+      <actor>Magyar, Derek</actor>
+      <role>Commander Kelby</role>
+    </credit>
+    <credit>
+      <actor>Magyar, Derek</actor>
+      <role>Ensign Kelby</role>
+    </credit>
+    <credit>
+      <actor>Mahon, John (I)</actor>
+      <role>Admiral Gardner (mirror)</role>
+    </credit>
+    <credit>
+      <actor>Malcomson, Paula</actor>
+      <role>Madeline Reed</role>
+    </credit>
+    <credit>
+      <actor>Malloy, Matt (I)</actor>
+      <role>Grish</role>
+    </credit>
+    <credit>
+      <actor>Maloney, Coleen</actor>
+      <role>Vulcan Officer</role>
+    </credit>
+    <credit>
+      <actor>Mammana, Robert</actor>
+      <role>Engineer</role>
+    </credit>
+    <credit>
+      <actor>Mandela, Nelson</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Manzano, Noel</actor>
+      <role>Burrows</role>
+    </credit>
+    <credit>
+      <actor>Mara, Mary</actor>
+      <role>Sphere-Builder Presage</role>
+    </credit>
+    <credit>
+      <actor>Mara, Mary</actor>
+      <role>Sphere-Builder Presage</role>
+    </credit>
+    <credit>
+      <actor>Mara, Mary</actor>
+      <role>Sphere-Builder Presage</role>
+    </credit>
+    <credit>
+      <actor>Marasco, Ron</actor>
+      <role>Vulcan Captain Tellus</role>
+    </credit>
+    <credit>
+      <actor>Margolis, Morgan H.</actor>
+      <role>Crewman Baird</role>
+    </credit>
+    <credit>
+      <actor>Maris, Ada</actor>
+      <role>Captain Erika Hernandez</role>
+    </credit>
+    <credit>
+      <actor>Maris, Ada</actor>
+      <role>Captain Erika Hernandez</role>
+    </credit>
+    <credit>
+      <actor>Martin, Rudolf</actor>
+      <role>Ravis</role>
+    </credit>
+    <credit>
+      <actor>Maruzzo, Joe</actor>
+      <role>Sal</role>
+    </credit>
+    <credit>
+      <actor>Mattey, David</actor>
+      <role>Orion Guard</role>
+    </credit>
+    <credit>
+      <actor>Mayo, Billy</actor>
+      <role>Officer #1</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Sean (I)</actor>
+      <role>Corporal Hawkins</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Sean (I)</actor>
+      <role>Corporal Hawkins</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Sean (I)</actor>
+      <role>Corporal Hawkins</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Sean (I)</actor>
+      <role>Hawkins</role>
+    </credit>
+    <credit>
+      <actor>McGrady, Michael (I)</actor>
+      <role>Nausicaan Prisoner</role>
+    </credit>
+    <credit>
+      <actor>McHattie, Stephen</actor>
+      <role>Alien Foreman</role>
+    </credit>
+    <credit>
+      <actor>McLaughlin, Cliff</actor>
+      <role>Cowboy</role>
+    </credit>
+    <credit>
+      <actor>McNeil, Kate (I)</actor>
+      <role>Commander Collins</role>
+    </credit>
+    <credit>
+      <actor>McShane, Jamie</actor>
+      <role>Tactical Crewman</role>
+    </credit>
+    <credit>
+      <actor>Meed, Geoff</actor>
+      <role>Dee'Ahn Male</role>
+    </credit>
+    <credit>
+      <actor>Mellette, Robert Sidney</actor>
+      <role>Henry the Barber</role>
+    </credit>
+    <credit>
+      <actor>Mendillo, Stephen</actor>
+      <role>Vulcan Captain Tavek</role>
+    </credit>
+    <credit>
+      <actor>Mensah, Peter (I)</actor>
+      <role>Daniel Greaves</role>
+    </credit>
+    <credit>
+      <actor>Mensah, Peter (I)</actor>
+      <role>Daniel Greaves</role>
+    </credit>
+    <credit>
+      <actor>Middleton, Burr</actor>
+      <role>Newsreel Narrator</role>
+    </credit>
+    <credit>
+      <actor>Mittleider, Troy</actor>
+      <role>Palmer</role>
+    </credit>
+    <credit>
+      <actor>Monoson, Lawrence</actor>
+      <role>First Officer Matthew Ryan</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Anthony (I)</actor>
+      <role>Ensign Travis Mayweather</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Anthony (I)</actor>
+      <role>MACO Sergeant Travis Mayweathe</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Anthony (I)</actor>
+      <role>MACO Sergeant Travis Mayweather</role>
+    </credit>
+    <credit>
+      <actor>Moody, John (I)</actor>
+      <role>Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Moore, Dorenda</actor>
+      <role>MACO Soldier</role>
+    </credit>
+    <credit>
+      <actor>Moore, Dorenda</actor>
+      <role>Private Money</role>
+    </credit>
+    <credit>
+      <actor>Morga, Tom</actor>
+      <role>Xindi-Reptilian</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Jeffrey Dean</actor>
+      <role>Xindi-Reptilian</role>
+    </credit>
+    <credit>
+      <actor>Morri, Brian</actor>
+      <role>Enolian Guard</role>
+    </credit>
+    <credit>
+      <actor>Morrisey, Bob</actor>
+      <role>Dr. Strom</role>
+    </credit>
+    <credit>
+      <actor>Morrisey, Bob</actor>
+      <role>Xindi-Reptilian Captain</role>
+    </credit>
+    <credit>
+      <actor>Morshower, Glenn</actor>
+      <role>MacReady</role>
+    </credit>
+    <credit>
+      <actor>Moses, Mark</actor>
+      <role>Henry Archer</role>
+    </credit>
+    <credit>
+      <actor>Moses, Mark</actor>
+      <role>Henry Archer</role>
+    </credit>
+    <credit>
+      <actor>Mulroney, Kieran</actor>
+      <role>Shaw</role>
+    </credit>
+    <credit>
+      <actor>Murciano, Enrique</actor>
+      <role>Tolaris</role>
+    </credit>
+    <credit>
+      <actor>Neame, Christopher (III)</actor>
+      <role>German General</role>
+    </credit>
+    <credit>
+      <actor>Neame, Christopher (III)</actor>
+      <role>German General</role>
+    </credit>
+    <credit>
+      <actor>Nemecek, Larry</actor>
+      <role>Civilian #2</role>
+    </credit>
+    <credit>
+      <actor>Nevil, Alex</actor>
+      <role>Menk Man</role>
+    </credit>
+    <credit>
+      <actor>Newman, Alec</actor>
+      <role>Malik</role>
+    </credit>
+    <credit>
+      <actor>Nixon, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nouri, Michael</actor>
+      <role>Arev, aka Syrran</role>
+    </credit>
+    <credit>
+      <actor>O'Farrell, Conor (I)</actor>
+      <role>Burzaan</role>
+    </credit>
+    <credit>
+      <actor>O'Farrell, Conor (I)</actor>
+      <role>Pri'Nam D'Jamat</role>
+    </credit>
+    <credit>
+      <actor>O'Hagan, Michael</actor>
+      <role>Captain Fraddock</role>
+    </credit>
+    <credit>
+      <actor>O'Reilly, Robert</actor>
+      <role>Kago-Darr</role>
+    </credit>
+    <credit>
+      <actor>O'Ross, Ed</actor>
+      <role>Gaavrin</role>
+    </credit>
+    <credit>
+      <actor>Oglesby, Randy</actor>
+      <role>Degra</role>
+    </credit>
+    <credit>
+      <actor>Oglesby, Randy</actor>
+      <role>Degra</role>
+    </credit>
+    <credit>
+      <actor>Oglesby, Randy</actor>
+      <role>Degra</role>
+    </credit>
+    <credit>
+      <actor>Oglesby, Randy</actor>
+      <role>Degra</role>
+    </credit>
+    <credit>
+      <actor>Oglesby, Randy</actor>
+      <role>Trena'L</role>
+    </credit>
+    <credit>
+      <actor>Orser, Leland</actor>
+      <role>Loomis</role>
+    </credit>
+    <credit>
+      <actor>Ortega, Jimmy (I)</actor>
+      <role>Decon Agent #3</role>
+    </credit>
+    <credit>
+      <actor>Ortiz, Louis (I)</actor>
+      <role>Klingon Warrior</role>
+    </credit>
+    <credit>
+      <actor>Osborne, Holmes</actor>
+      <role>Enolian Official</role>
+    </credit>
+    <credit>
+      <actor>Parker, Corey Mendell</actor>
+      <role>Paul Mayweather</role>
+    </credit>
+    <credit>
+      <actor>Parks, James (I)</actor>
+      <role>Deputy Bennings</role>
+    </credit>
+    <credit>
+      <actor>Paul, Adam (I)</actor>
+      <role>Crewman Nichols</role>
+    </credit>
+    <credit>
+      <actor>Pease, David</actor>
+      <role>Na'kuhl Technician</role>
+    </credit>
+    <credit>
+      <actor>Pfister, Mischa</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Ethan (I)</actor>
+      <role>Ulis</role>
+    </credit>
+    <credit>
+      <actor>Piemonte, Pee Wee</actor>
+      <role>Klingon #2</role>
+    </credit>
+    <credit>
+      <actor>Pierpoint, Eric</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Pierpoint, Eric</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Pierpoint, Eric</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Pierpoint, Eric</actor>
+      <role>Harris</role>
+    </credit>
+    <credit>
+      <actor>Pierpoint, Eric</actor>
+      <role>Shiraht</role>
+    </credit>
+    <credit>
+      <actor>Pine, Robert (I)</actor>
+      <role>Tavin</role>
+    </credit>
+    <credit>
+      <actor>Ponce-Bonano, Alexander Xavier</actor>
+      <role>Miner #6</role>
+    </credit>
+    <credit>
+      <actor>Ponce-Bonano, Alexander Xavier</actor>
+      <role>Suliban Soldier</role>
+    </credit>
+    <credit>
+      <actor>Porter, Kevin</actor>
+      <role>Risan Male</role>
+    </credit>
+    <credit>
+      <actor>Power, Dave (I)</actor>
+      <role>Ensign Jeffrey Pierce</role>
+    </credit>
+    <credit>
+      <actor>Rae, Paul (II)</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Rankin, Steve</actor>
+      <role>Colonel Green</role>
+    </credit>
+    <credit>
+      <actor>Rankin, Steve</actor>
+      <role>Colonel Green</role>
+    </credit>
+    <credit>
+      <actor>Reagan, Ronald (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Reddy, Brian</actor>
+      <role>Dr. Temec</role>
+    </credit>
+    <credit>
+      <actor>Reeves-Stevens, Garfield</actor>
+      <role>Starfleet Officer</role>
+    </credit>
+    <credit>
+      <actor>Richards, David (I)</actor>
+      <role>Dockmaster</role>
+    </credit>
+    <credit>
+      <actor>Rickaby, Brett</actor>
+      <role>Yedrin Koss</role>
+    </credit>
+    <credit>
+      <actor>Ricketts, Jeff</actor>
+      <role>Alien Captain</role>
+    </credit>
+    <credit>
+      <actor>Ricketts, Jeff</actor>
+      <role>Keval</role>
+    </credit>
+    <credit>
+      <actor>Riehle, Richard</actor>
+      <role>Dr. Jeremy Lucas</role>
+    </credit>
+    <credit>
+      <actor>Rinker, Scott</actor>
+      <role>Gareb</role>
+    </credit>
+    <credit>
+      <actor>Rinker, Scott</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Rio, F.J.</actor>
+      <role>Vissian Chief Engineer</role>
+    </credit>
+    <credit>
+      <actor>Riordan, Daniel</actor>
+      <role>Duras</role>
+    </credit>
+    <credit>
+      <actor>Riotto, Gary</actor>
+      <role>Alien #1</role>
+    </credit>
+    <credit>
+      <actor>Rolston, Mark</actor>
+      <role>Captain Magh</role>
+    </credit>
+    <credit>
+      <actor>Rolston, Mark</actor>
+      <role>Kuroda Lor-ehn</role>
+    </credit>
+    <credit>
+      <actor>Roosevelt, Franklin Delano</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rosenfeld, John</actor>
+      <role>Mark Latrelle</role>
+    </credit>
+    <credit>
+      <actor>Ross, Franc</actor>
+      <role>Grizzled Man</role>
+    </credit>
+    <credit>
+      <actor>Rubinstein, John</actor>
+      <role>Mazarite Captain</role>
+    </credit>
+    <credit>
+      <actor>Rubinstein, John</actor>
+      <role>Minister Kuvak</role>
+    </credit>
+    <credit>
+      <actor>Rubinstein, John</actor>
+      <role>Minister/Administrator Kuvak</role>
+    </credit>
+    <credit>
+      <actor>Ruskin, Joseph</actor>
+      <role>Suliban Doctor</role>
+    </credit>
+    <credit>
+      <actor>Rusler, Robert</actor>
+      <role>Orgoth</role>
+    </credit>
+    <credit>
+      <actor>Rutherford, Jesse James</actor>
+      <role>Q'Ell</role>
+    </credit>
+    <credit>
+      <actor>Rydell, Christopher (I)</actor>
+      <role>Alien Astronaut</role>
+    </credit>
+    <credit>
+      <actor>Sahadi, Scott</actor>
+      <role>Insurgent</role>
+    </credit>
+    <credit>
+      <actor>Sanchez, Marco</actor>
+      <role>Corporal Romero</role>
+    </credit>
+    <credit>
+      <actor>Sarabia, Ric</actor>
+      <role>Alien #2</role>
+    </credit>
+    <credit>
+      <actor>Schanley, Tom</actor>
+      <role>Greer</role>
+    </credit>
+    <credit>
+      <actor>Schirripa, Steve</actor>
+      <role>Carmine</role>
+    </credit>
+    <credit>
+      <actor>Schirripa, Steve</actor>
+      <role>Carmine</role>
+    </credit>
+    <credit>
+      <actor>Schmock, Jonathan</actor>
+      <role>Alien</role>
+    </credit>
+    <credit>
+      <actor>Schroeder, Peter Henry</actor>
+      <role>Klingon Chancellor</role>
+    </credit>
+    <credit>
+      <actor>Schuck, John</actor>
+      <role>Antaak</role>
+    </credit>
+    <credit>
+      <actor>Schuck, John</actor>
+      <role>Antaak</role>
+    </credit>
+    <credit>
+      <actor>Schwartz, Scott L.</actor>
+      <role>Orion Guard</role>
+    </credit>
+    <credit>
+      <actor>Schwarzkopf, Norman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Scott, Paul Anthony</actor>
+      <role>Lt.. Foster</role>
+    </credit>
+    <credit>
+      <actor>Segen, Adam</actor>
+      <role>Mazarite Guard #1</role>
+    </credit>
+    <credit>
+      <actor>Selburg, David</actor>
+      <role>Vulcan Captain</role>
+    </credit>
+    <credit>
+      <actor>Shatner, William</actor>
+      <role>Captain James T. Kirk</role>
+    </credit>
+    <credit>
+      <actor>Shea, Christopher (II)</actor>
+      <role>Andorian Captain Telev</role>
+    </credit>
+    <credit>
+      <actor>Shea, Christopher (II)</actor>
+      <role>Sajen</role>
+    </credit>
+    <credit>
+      <actor>Sheridan, Taylor (I)</actor>
+      <role>Jareb</role>
+    </credit>
+    <credit>
+      <actor>Shindoll, Keith</actor>
+      <role>Decon Agent #4</role>
+    </credit>
+    <credit>
+      <actor>Short, John</actor>
+      <role>Drake</role>
+    </credit>
+    <credit>
+      <actor>Sidney, L.</actor>
+      <role>Klingon Crewman #2</role>
+    </credit>
+    <credit>
+      <actor>Silva, Geno</actor>
+      <role>Senator Vrax</role>
+    </credit>
+    <credit>
+      <actor>Silverberg, Mark Elliott</actor>
+      <role>Kraul</role>
+    </credit>
+    <credit>
+      <actor>Siner, Guy</actor>
+      <role>Stuart Reed</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Xindi-Primate</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Xindi-Primate</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Xindi-Primate Councilor</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Xindi-Primate Councilor</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Xindi-Primate Councilor</role>
+    </credit>
+    <credit>
+      <actor>Smith, Sean (II)</actor>
+      <role>Alien Crewman</role>
+    </credit>
+    <credit>
+      <actor>Sobolov, David</actor>
+      <role>Slar</role>
+    </credit>
+    <credit>
+      <actor>Soto, Jermaine</actor>
+      <role>MACO Crewman</role>
+    </credit>
+    <credit>
+      <actor>Spencer, Lee (I)</actor>
+      <role>Vulcan Doctor</role>
+    </credit>
+    <credit>
+      <actor>Spies, Larc</actor>
+      <role>Stel</role>
+    </credit>
+    <credit>
+      <actor>Spiner, Brent</actor>
+      <role>Dr. Arik Soong</role>
+    </credit>
+    <credit>
+      <actor>Spiner, Brent</actor>
+      <role>Dr. Arik Soong</role>
+    </credit>
+    <credit>
+      <actor>Spiner, Brent</actor>
+      <role>Dr. Arik Soong</role>
+    </credit>
+    <credit>
+      <actor>Spiner, Brent</actor>
+      <role>Lt. Commander Data</role>
+    </credit>
+    <credit>
+      <actor>Stashwick, Todd</actor>
+      <role>Talok</role>
+    </credit>
+    <credit>
+      <actor>Sterling, Maury</actor>
+      <role>Tarquin</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Patrick (I)</actor>
+      <role>Captain Jean-Luc Picard</role>
+    </credit>
+    <credit>
+      <actor>Stockwell, Dean</actor>
+      <role>Colonel Grat</role>
+    </credit>
+    <credit>
+      <actor>Stokes, Trey</actor>
+      <role>Tellarite Delegate</role>
+    </credit>
+    <credit>
+      <actor>Storms, Tim</actor>
+      <role>Vulcan Commando # 3</role>
+    </credit>
+    <credit>
+      <actor>Stram, Henry</actor>
+      <role>Hudak</role>
+    </credit>
+    <credit>
+      <actor>Sundquist, Justin</actor>
+      <role>MACO Soldier</role>
+    </credit>
+    <credit>
+      <actor>Surowiec, Sonny</actor>
+      <role>German Soldier</role>
+    </credit>
+    <credit>
+      <actor>Sussman, Mike</actor>
+      <role>Dead Crewman</role>
+    </credit>
+    <credit>
+      <actor>Sweet, Shane</actor>
+      <role>Sim Trip at 17</role>
+    </credit>
+    <credit>
+      <actor>Swetow, Joel</actor>
+      <role>Andorian Ambassador Thoris</role>
+    </credit>
+    <credit>
+      <actor>Szarabajka, Keith</actor>
+      <role>Damrus</role>
+    </credit>
+    <credit>
+      <actor>Talmadge, Victor</actor>
+      <role>Asahf</role>
+    </credit>
+    <credit>
+      <actor>Tanner, Richard</actor>
+      <role>Vulcan Initiate</role>
+    </credit>
+    <credit>
+      <actor>Thames, Byron</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Bruce (I)</actor>
+      <role>Xindi-Reptilian Soldier</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Bruce (I)</actor>
+      <role>Xindi-Reptilian Soldier</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Brian (I)</actor>
+      <role>Admiral Valdore</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Brian (I)</actor>
+      <role>Admiral Valdore</role>
+    </credit>
+    <credit>
+      <actor>Thompson, Lamont</actor>
+      <role>N.D. Alien Pilgrim</role>
+    </credit>
+    <credit>
+      <actor>Tilford, Terrell</actor>
+      <role>Marab</role>
+    </credit>
+    <credit>
+      <actor>Tilford, Terrell</actor>
+      <role>Marab</role>
+    </credit>
+    <credit>
+      <actor>Townsend, Paul (I)</actor>
+      <role>Gunfighter</role>
+    </credit>
+    <credit>
+      <actor>Treger, Scott L.</actor>
+      <role>Horizon Crewman</role>
+    </credit>
+    <credit>
+      <actor>Treger, Scott L.</actor>
+      <role>Xindi-Insectoid</role>
+    </credit>
+    <credit>
+      <actor>Trinneer, Connor</actor>
+      <role>Commander Charles 'Trip' Tucker III</role>
+    </credit>
+    <credit>
+      <actor>Truitt, Steve</actor>
+      <role>Crewman #1</role>
+    </credit>
+    <credit>
+      <actor>Utay, William</actor>
+      <role>Vulcan Captain Vanik</role>
+    </credit>
+    <credit>
+      <actor>Van Dusen, Granville</actor>
+      <role>Andorian General</role>
+    </credit>
+    <credit>
+      <actor>Van Dusen, Granville</actor>
+      <role>Klingon Magistrate</role>
+    </credit>
+    <credit>
+      <actor>Vickery, John (I)</actor>
+      <role>Prosecutor Orak</role>
+    </credit>
+    <credit>
+      <actor>Wagrowski, Gregory</actor>
+      <role>Ceris</role>
+    </credit>
+    <credit>
+      <actor>Walters, Dan</actor>
+      <role>Alien Slave</role>
+    </credit>
+    <credit>
+      <actor>Ward, L.Z.</actor>
+      <role>Starfleet Admiral</role>
+    </credit>
+    <credit>
+      <actor>Warner, Dan (I)</actor>
+      <role>Officer #2</role>
+    </credit>
+    <credit>
+      <actor>Waters, Jason (I)</actor>
+      <role>Alien Soldier</role>
+    </credit>
+    <credit>
+      <actor>Watson, Mike (I)</actor>
+      <role>Skagaran</role>
+    </credit>
+    <credit>
+      <actor>Weller, Peter (I)</actor>
+      <role>John Frederick Paxton</role>
+    </credit>
+    <credit>
+      <actor>West, Joel (I)</actor>
+      <role>Raakin</role>
+    </credit>
+    <credit>
+      <actor>Whalen, Sean (I)</actor>
+      <role>Zoumas</role>
+    </credit>
+    <credit>
+      <actor>Wharton, Richard (I)</actor>
+      <role>Jossen</role>
+    </credit>
+    <credit>
+      <actor>White, Aaron (VII)</actor>
+      <role>MACO Soldier</role>
+    </credit>
+    <credit>
+      <actor>White, Kenneth (I)</actor>
+      <role>Engineering Crewman</role>
+    </credit>
+    <credit>
+      <actor>Wiedergott, Karl</actor>
+      <role>Larr</role>
+    </credit>
+    <credit>
+      <actor>Wight, Paul (I)</actor>
+      <role>Orion Slaver #1</role>
+    </credit>
+    <credit>
+      <actor>Wilcox, Clay</actor>
+      <role>Billy</role>
+    </credit>
+    <credit>
+      <actor>Will, Joseph</actor>
+      <role>Crewman Michael Rostov</role>
+    </credit>
+    <credit>
+      <actor>Will, Joseph</actor>
+      <role>Crewman Michael Rostov</role>
+    </credit>
+    <credit>
+      <actor>Will, Joseph</actor>
+      <role>Crewman Michael Rostov</role>
+    </credit>
+    <credit>
+      <actor>Williams, Brian J.</actor>
+      <role>Alien Decon Agent</role>
+    </credit>
+    <credit>
+      <actor>Williams, Thom (II)</actor>
+      <role>Klingon</role>
+    </credit>
+    <credit>
+      <actor>Williams, Thom (II)</actor>
+      <role>Klingon Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Williams, Wade (II)</actor>
+      <role>Garos</role>
+    </credit>
+    <credit>
+      <actor>Williamson, Matthew J.</actor>
+      <role>Klingon Council Member</role>
+    </credit>
+    <credit>
+      <actor>Willrich, Rudolph</actor>
+      <role>Captain Kuulan</role>
+    </credit>
+    <credit>
+      <actor>Winston, Matt (I)</actor>
+      <role>Temporal Agent Daniels</role>
+    </credit>
+    <credit>
+      <actor>Winston, Matt (I)</actor>
+      <role>Temporal Agent Daniels</role>
+    </credit>
+    <credit>
+      <actor>Winston, Matt (I)</actor>
+      <role>Temporal Agent Daniels</role>
+    </credit>
+    <credit>
+      <actor>Winston, Matt (I)</actor>
+      <role>Temporal Agent Daniels</role>
+    </credit>
+    <credit>
+      <actor>Winston, Matt (I)</actor>
+      <role>Temporal Agent Daniels</role>
+    </credit>
+    <credit>
+      <actor>Witwer, Sam</actor>
+      <role>Sloth #3</role>
+    </credit>
+    <credit>
+      <actor>Woods, D. Elliot</actor>
+      <role>Nausicaan Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Worden, Marc</actor>
+      <role>Klingon Prisoner</role>
+    </credit>
+    <credit>
+      <actor>Worthy, Rick</actor>
+      <role>Jannar</role>
+    </credit>
+    <credit>
+      <actor>Worthy, Rick</actor>
+      <role>Jannar</role>
+    </credit>
+    <credit>
+      <actor>Worthy, Rick</actor>
+      <role>Jannar</role>
+    </credit>
+    <credit>
+      <actor>Worthy, Rick</actor>
+      <role>Jannar</role>
+    </credit>
+    <credit>
+      <actor>Wozniak, Stephen</actor>
+      <role>Latia Male</role>
+    </credit>
+    <credit>
+      <actor>Wright, Bruce (I)</actor>
+      <role>Dr. Fer'at</role>
+    </credit>
+    <credit>
+      <actor>Wright, Tom (I)</actor>
+      <role>Ghrath</role>
+    </credit>
+    <credit>
+      <actor>Wynne, Christopher</actor>
+      <role>Dr. Moninger</role>
+    </credit>
+    <credit>
+      <actor>Yang, Jamison</actor>
+      <role>Crewman</role>
+    </credit>
+    <credit>
+      <actor>Young, Keone</actor>
+      <role>Hoshi's Father</role>
+    </credit>
+    <credit>
+      <actor>Yount, Dell</actor>
+      <role>B'Rat</role>
+    </credit>
+    <credit>
+      <actor>Youse, David</actor>
+      <role>Nalbis</role>
+    </credit>
+    <credit>
+      <actor>Ziegler, Günther</actor>
+      <role>Nazi Doctor</role>
+    </credit>
+  </cast>
+<plot>In the early twenty-second century, the starship Enterprise is launched. Her mission is to explore strange new worlds, seek out new life and new civilizations and to boldly go where no humans have gone before. Along with an alien chief medical officer and first officer, this crew with only NASA-level training and what the Vulcans know of local space, begin to explore and begin the legacy set for other Enterprise crews and captains like Robert April, Christopher Pike, James Kirk, John Harriman, Rachel Garrett, Jean-Luc Picard, William Riker, Edward Jellico and others.</plot><url>http://localhost:8983/solr/movie.html?179249</url></doc>

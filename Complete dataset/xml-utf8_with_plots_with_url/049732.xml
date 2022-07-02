@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="049732">
+  <docid>049732</docid>
+  <title>At the Movies</title>
+  <year>1982</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Talk-Show</genre>
+  </genres>
+  <keywords>
+    <keyword>movie-theater</keyword>
+    <keyword>film-criticism</keyword>
+    <keyword>film-critic</keyword>
+    <keyword>film-review</keyword>
+    <keyword>advice</keyword>
+    <keyword>commentary</keyword>
+    <keyword>film-clip</keyword>
+    <keyword>film-discussion</keyword>
+    <keyword>movie-review</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">26 September 1982</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <cast>
+    <credit>
+      <actor>Ebert, Roger</actor>
+      <role>Himself/Host (1982-1986)</role>
+    </credit>
+    <credit>
+      <actor>Harris, Bill (I)</actor>
+      <role>Himself/Host (1986-1988)</role>
+    </credit>
+    <credit>
+      <actor>Reed, Rex</actor>
+      <role>Himself/Host (1986-1990)</role>
+    </credit>
+    <credit>
+      <actor>Siskel, Gene</actor>
+      <role>Himself/Host (1982-1986)</role>
+    </credit>
+  </cast>
+<plot>The show that made Siskel and Ebert famous. These two Chicago-based movie critics sit around and review movies, giving either "Thumbs up" or "Thumbs down." Noted for the good-natured insults traded by the two reviewers (usually concerning Ebert's weight and Siskel's receding hairline).</plot><url>http://localhost:8983/solr/movie.html?049732</url></doc>

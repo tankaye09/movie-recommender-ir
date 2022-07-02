@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="230811">
+  <docid>230811</docid>
+  <title>Harry</title>
+  <year>1993</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Sutherland, Ian (I)</editor>
+  </editors>
+  <keywords>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="UK">12 April 1995</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">50</runningtime>
+  </runningtimes>
+  <directors>
+    <director>McMurray, Mary</director>
+    <director>Moody, Laurence</director>
+    <director>Roberson, Sid</director>
+    <director>Stellman, Martin</director>
+    <director>Walker, Rob (I)</director>
+  </directors>
+  <writers>
+    <writer>Bowker, Peter (I)</writer>
+    <writer>Ford, Mick (I)</writer>
+    <writer>Hill, Jim (IV)</writer>
+    <writer>Holden, Andrew (I)</writer>
+    <writer>McKenzie, Arthur</writer>
+    <writer>Mukherjee, Robin</writer>
+    <writer>Ould, Chris</writer>
+    <writer>Sheasby, Dave</writer>
+    <writer>Snape, Sam</writer>
+  </writers>
+  <composers>
+    <composer>Mitchell, Richard G.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alexander, Jean (I)</actor>
+      <role>Irene Patterson</role>
+    </credit>
+    <credit>
+      <actor>Ambler, Rachel</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Christine (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Armitage, Peter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Artus, Ashley</actor>
+      <role>Peter</role>
+    </credit>
+    <credit>
+      <actor>Ashe, Christine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Attwell, Michael (I)</actor>
+      <role>Roger</role>
+    </credit>
+    <credit>
+      <actor>Barker, Judith</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Barrass, Lyndyann</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bartholomew, Ian</actor>
+      <role>Snappy</role>
+    </credit>
+    <credit>
+      <actor>Bavolets, Pavel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beach, George</actor>
+      <role>PC Johnson</role>
+    </credit>
+    <credit>
+      <actor>Beard, Steven (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berrington, Tim</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Birkett, Janine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Blakiston, Caroline</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Boland, Eamon</actor>
+      <role>Graham Wade</role>
+    </credit>
+    <credit>
+      <actor>Boluda, Vincent S.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bone, Margery (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bousfield, Tracy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Boyle, Tommy</actor>
+      <role>John Standish</role>
+    </credit>
+    <credit>
+      <actor>Bradford, Andy (I)</actor>
+      <role>Bryce</role>
+    </credit>
+    <credit>
+      <actor>Brightwell, Paul</actor>
+      <role>Danny Murphy</role>
+    </credit>
+    <credit>
+      <actor>Brooke, Judy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Burak, David</actor>
+      <role>Kieran</role>
+    </credit>
+    <credit>
+      <actor>Burton, Cherrie</actor>
+      <role>Melanie Cummings</role>
+    </credit>
+    <credit>
+      <actor>Cauthen, Ben</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Charkham, Esta</actor>
+      <role>Myra Black</role>
+    </credit>
+    <credit>
+      <actor>Chinn, Tony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cinque, Flaminia</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Connolly, Patrick (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coogan, Steve</actor>
+      <role>Stebbings</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Garry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Copley, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Corbitt, Phil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Oliver</actor>
+      <role>Paul Collier</role>
+    </credit>
+    <credit>
+      <actor>Cronnelly, Gabe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cuckson, Simon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Ian</actor>
+      <role>Gyver</role>
+    </credit>
+    <credit>
+      <actor>Curry, Shaun (I)</actor>
+      <role>Gus Avery</role>
+    </credit>
+    <credit>
+      <actor>D'Angelo, Mirella (I)</actor>
+      <role>Alessandra</role>
+    </credit>
+    <credit>
+      <actor>Daglish, Neil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Davies, Art</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Davison, Libby</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Dea, Sharla</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Donald, Scott (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Drewry, Amanda</actor>
+      <role>Dee Mackye</role>
+    </credit>
+    <credit>
+      <actor>Drewry, Mark</actor>
+      <role>Stephen Mackye</role>
+    </credit>
+    <credit>
+      <actor>Drury, Ken</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Drury, Patrick (I)</actor>
+      <role>Monaghan</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Andrew (II)</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Durkin, Barbara</actor>
+      <role>Julie Craven</role>
+    </credit>
+    <credit>
+      <actor>Earl, Judi</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Edge, Chrissy</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Rob (I)</actor>
+      <role>Melhouse</role>
+    </credit>
+    <credit>
+      <actor>Elliot, Mike (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Elliott, David (XIV)</actor>
+      <role>Wayne Coombs</role>
+    </credit>
+    <credit>
+      <actor>Elphick, Michael (I)</actor>
+      <role>Harry Salter</role>
+    </credit>
+    <credit>
+      <actor>Emmanuel, Alphonsia</actor>
+      <role>Cheryl</role>
+    </credit>
+    <credit>
+      <actor>Emmanuel, Alphonsia</actor>
+      <role>Cheryl</role>
+    </credit>
+    <credit>
+      <actor>Ettridge, Christopher</actor>
+      <role>Rivers</role>
+    </credit>
+    <credit>
+      <actor>Evans, Tenniel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ewing, Barbara</actor>
+      <role>Selina</role>
+    </credit>
+    <credit>
+      <actor>Farley, Kerry</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Nicholas</actor>
+      <role>Baily</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Denny</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Finnighan, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ford, Mick (I)</actor>
+      <role>Archer</role>
+    </credit>
+    <credit>
+      <actor>Foskett, Wayne (I)</actor>
+      <role>Terry Milligan</role>
+    </credit>
+    <credit>
+      <actor>Foster, Jacqueline</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Foster, Tracy (IV)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Fowler, Jim (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fox, Trevor</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Foxall, Lucy</actor>
+      <role>Norma</role>
+    </credit>
+    <credit>
+      <actor>Fraser, McKenzie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gallagher, Bernard</actor>
+      <role>Michael Groves</role>
+    </credit>
+    <credit>
+      <actor>Garbutt, James</actor>
+      <role>Albert Crewe</role>
+    </credit>
+    <credit>
+      <actor>Gatiss, Mark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gilligan, Terry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gleaves, Nicholas</actor>
+      <role>Dean Hawkins</role>
+    </credit>
+    <credit>
+      <actor>Golightly, Andrew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grady, Mike (I)</actor>
+      <role>Clive Green</role>
+    </credit>
+    <credit>
+      <actor>Graham, Julie (I)</actor>
+      <role>Alice</role>
+    </credit>
+    <credit>
+      <actor>Graham-Davies, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Graves, Rupert (I)</actor>
+      <role>Dominic Collier</role>
+    </credit>
+    <credit>
+      <actor>Hall, Alex (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hancock, Stephen (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Harding, John (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hargreaves, David (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hawley, Richard (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hays, Will</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Healy, Tim (II)</actor>
+      <role>Ronald Carson</role>
+    </credit>
+    <credit>
+      <actor>Hender, Lynn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Don (II)</actor>
+      <role>DCI Todd</role>
+    </credit>
+    <credit>
+      <actor>Hickson, Robert (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Higginson, Anthony</actor>
+      <role>Sir Martin Harvey</role>
+    </credit>
+    <credit>
+      <actor>Hill, Dave (I)</actor>
+      <role>Wally Hunt</role>
+    </credit>
+    <credit>
+      <actor>Hocking, Kiran</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hodge, Tony (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hollander, Tom</actor>
+      <role>Jonathan</role>
+    </credit>
+    <credit>
+      <actor>Hood, Adrian (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hood, Morag</actor>
+      <role>Audrey Collier</role>
+    </credit>
+    <credit>
+      <actor>Horsley, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Howard, Amanda (I)</actor>
+      <role>Josey</role>
+    </credit>
+    <credit>
+      <actor>Howey, David</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hume, Roger (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hutchison, Nicholas (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ineson, Ralph</actor>
+      <role>Wayne</role>
+    </credit>
+    <credit>
+      <actor>James, Raji</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jefferson, John (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jinks, Rod</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Dystin</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Johnstone, Hope</actor>
+      <role>Mrs. Webster</role>
+    </credit>
+    <credit>
+      <actor>Jones, Crash</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Iain (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Patricia (IV)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Junkin, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kingston, Mark (I)</actor>
+      <role>Lenny Trainer</role>
+    </credit>
+    <credit>
+      <actor>Kirtley, John B.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Knightley, Will</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Laidler, Bren</actor>
+      <role>Sandra Coombs</role>
+    </credit>
+    <credit>
+      <actor>Laird, Martina</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Geoff (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Liddell, Susan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lonnen, Ray</actor>
+      <role>Editor</role>
+    </credit>
+    <credit>
+      <actor>Lonnen, Ray</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lyons, John (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>MacPherson, Fiona (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Peter (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marston, Rob</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marten, Barbara</actor>
+      <role>Rita Salter</role>
+    </credit>
+    <credit>
+      <actor>McBain, Robert</actor>
+      <role>Councillor Dobson</role>
+    </credit>
+    <credit>
+      <actor>McBride, Donald</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Maggie (I)</actor>
+      <role>Sandra</role>
+    </credit>
+    <credit>
+      <actor>McKenna, Samantha</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Jack</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Lizzie</actor>
+      <role>Mary Loomis</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Alan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mickery, Lizzie</actor>
+      <role>Joanne Renshaw</role>
+    </credit>
+    <credit>
+      <actor>Miles, Annie</actor>
+      <role>Sophie Carson</role>
+    </credit>
+    <credit>
+      <actor>Miles, Maria (I)</actor>
+      <role>Claire Melhouse</role>
+    </credit>
+    <credit>
+      <actor>Mills, Frank (II)</actor>
+      <role>Bill Loomis</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Ann (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moody, Clare</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moody, Clare</actor>
+      <role>Samantha Cartlton-Hamilton (1994)</role>
+    </credit>
+    <credit>
+      <actor>Moore, Ashley (III)</actor>
+      <role>Janine Milligan</role>
+    </credit>
+    <credit>
+      <actor>Moran, Tara</actor>
+      <role>Jackie</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Robert (VI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mullan, Peter (I)</actor>
+      <role>Jimmy</role>
+    </credit>
+    <credit>
+      <actor>Mulligan, Andy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nicholson, Michael (V)</actor>
+      <role>Simon Craven</role>
+    </credit>
+    <credit>
+      <actor>Noble, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nuttall, Jeff</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Owen, Martin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Palance, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Paterson, Ronan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Peacock, Trevor</actor>
+      <role>Dan Finch</role>
+    </credit>
+    <credit>
+      <actor>Petrides, Andreas</actor>
+      <role>Man In Bar</role>
+    </credit>
+    <credit>
+      <actor>Peverley, Peter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rapkin, Brian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Redwood, Manning</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rice, Gary</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rogers, Charles (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Roper, David (I)</actor>
+      <role>Nick</role>
+    </credit>
+    <credit>
+      <actor>Rotherwell, Alan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rothwell, Alan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rowe, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Mark (I)</actor>
+      <role>DI Small</role>
+    </credit>
+    <credit>
+      <actor>Saxon, James (I)</actor>
+      <role>Don Mather</role>
+    </credit>
+    <credit>
+      <actor>Scurfield, Sam</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sharp, Richard (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Siew, Donnie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Snell, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Southwood, Brian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Speed, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>St John, Bryan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stone, Oliver (II)</actor>
+      <role>Billy Trafford</role>
+    </credit>
+    <credit>
+      <actor>Tarkenter, David</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thoburn, Grant</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Thomson, John (I)</actor>
+      <role>Royo</role>
+    </credit>
+    <credit>
+      <actor>Trewhella, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tyrrell, Dickon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Villiers, Christopher</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Walker, Chris (I)</actor>
+      <role>Pullen</role>
+    </credit>
+    <credit>
+      <actor>Wallis, Peter (I)</actor>
+      <role>Sam Renshaw</role>
+    </credit>
+    <credit>
+      <actor>Wei, Rex</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Williams, Kevin (V)</actor>
+      <role>Don Webster</role>
+    </credit>
+    <credit>
+      <actor>Woodvine, John</actor>
+      <role>Jack Crow</role>
+    </credit>
+    <credit>
+      <actor>Yap, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Young, Ric</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Yue, Ozzie</actor>
+      <role>Tommy</role>
+    </credit>
+  </cast>
+<plot>Harry Salter is the ruthless owner of a news agency in Darlington who will resort to any under-hand means or exploit anyone in order to get a story that he can sell to a newspaper. He is assisted at his agency by Alice, his secretary/PA, and Snappy, his photographer.</plot><url>http://localhost:8983/solr/movie.html?230811</url></doc>

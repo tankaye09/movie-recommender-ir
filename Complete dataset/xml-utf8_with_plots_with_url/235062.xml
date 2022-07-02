@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="235062">
+  <docid>235062</docid>
+  <title>Hello Culture</title>
+  <year>2001</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">2001</releasedate>
+  </releasedates>
+  <directors>
+    <director>Chang, Mandy (II)</director>
+    <director>MacMillan, Ian (I)</director>
+  </directors>
+  <producers>
+    <producer>Collings, Matthew</producer>
+    <producer>Zavala, Antonio</producer>
+  </producers>
+  <writers>
+    <writer>Collings, Matthew</writer>
+    <writer>Hawkins, Paulara</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Collings, Matthew</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Romanticism from 200 years ago to 2001 is a reality system that comes from the imagination. It looks for and recognises extremes - from light to dark, from joy to dejection. Imagination, which creates the world, has to be kept supplied with feeling and intensified, otherwise the world dies. For the world to exist and for imagination to work, something has to be happening.</plot><url>http://localhost:8983/solr/movie.html?235062</url></doc>

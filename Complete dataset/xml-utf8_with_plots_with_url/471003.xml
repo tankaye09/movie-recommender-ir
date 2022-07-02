@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="471003">
+  <docid>471003</docid>
+  <title>Rusalka</title>
+  <year>1910</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <languages>
+    <language>Russian</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Russia</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Russia">30 March 1910</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Goncharov, Vasili</director>
+  </directors>
+  <writers>
+    <writer>Goncharov, Vasili</writer>
+    <writer>Pushkin, Alexander</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Goncharova, Aleksandra</actor>
+      <role>Natalya, His Daughter</role>
+    </credit>
+    <credit>
+      <actor>Gromov, Andrej</actor>
+      <role>The Prince</role>
+    </credit>
+    <credit>
+      <actor>Stepanov, Vasili</actor>
+      <role>The Miller</role>
+    </credit>
+  </cast>
+<plot>Based on an opera by Dargomizhsky, and other sources: A prince and a miller's daughter have been involved in a romance together, but now the prince tells her that he must break it off. After the prince leaves, the distraught young woman attempts to drown herself. When the prince's wedding day arrives, he is tormented by her image, which appears wherever he goes. Eventually, he is compelled to return and to try to find out what happened to her, regardless of the consequences.</plot><url>http://localhost:8983/solr/movie.html?471003</url></doc>

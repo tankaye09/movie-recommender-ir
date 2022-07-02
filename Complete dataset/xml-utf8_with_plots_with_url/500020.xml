@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="500020">
+  <docid>500020</docid>
+  <title>Skeletons</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Nordell, Austin</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">25 October 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Biswas, Bivas</director>
+  </directors>
+  <writers>
+    <writer>Rosete, Jose</writer>
+  </writers>
+  <composers>
+    <composer>Nordell, Austin</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Baugh, Patricia</actor>
+      <role>Ruiz's Wife</role>
+    </credit>
+    <credit>
+      <actor>Irene, Cristen</actor>
+      <role>Drunk Driver's Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Matt (VIII)</actor>
+      <role>Detective Murphy</role>
+    </credit>
+    <credit>
+      <actor>Rosete, Jose</actor>
+      <role>Officer/Detective Ruiz</role>
+    </credit>
+    <credit>
+      <actor>Zaklukiewicz, Eric</actor>
+      <role>Drunk Driver</role>
+    </credit>
+  </cast>
+<plot>A burnt out Detective is haunted by a violent incident that occurred when he was younger as an officer. 10 years later, Detective Ruiz crosses paths with a head strong rookie Detective who thinks Ruiz is a god in the police world. Now, Detective Ruiz finds himself in a position to either confront his dark past, or bury the truth forever.</plot><url>http://localhost:8983/solr/movie.html?500020</url></doc>

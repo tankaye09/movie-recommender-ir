@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="555190">
+  <docid>555190</docid>
+  <title>The Emergency Case</title>
+  <year>1930</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Vitaphone</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">September 1930</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hurley, Arthur (I)</director>
+  </directors>
+  <writers>
+    <writer>Rauh, Stanley</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Cameron, Hugh</actor>
+      <role>Ned Brown</role>
+    </credit>
+    <credit>
+      <actor>Ochs, Al</actor>
+      <role>Officer Hendricks</role>
+    </credit>
+  </cast>
+<plot>A man assumes his brother's identity as a doctor to avoid a speeding ticket. Complications ensue when the police officer later asks the "doctor" to examine his wife.</plot><url>http://localhost:8983/solr/movie.html?555190</url></doc>

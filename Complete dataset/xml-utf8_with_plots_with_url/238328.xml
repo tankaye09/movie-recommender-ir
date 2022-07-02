@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="238328">
+  <docid>238328</docid>
+  <title>Hi-De-Hi!</title>
+  <year>1980</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Jones, Colin (III)</editor>
+    <editor>Robotham, Mike</editor>
+  </editors>
+  <genres>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>holiday-camp</keyword>
+    <keyword>farce</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Sweden">23 September 1981</releasedate>
+    <releasedate country="UK">12 January 1986</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="UK">60</runningtime>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Carr, Robin (I)</director>
+    <director>Croft, David (I)</director>
+    <director>Kilby, John</director>
+    <director>Stephens, Mike (I)</director>
+  </directors>
+  <producers>
+    <producer>Croft, David (I)</producer>
+    <producer>Croft, David (I)</producer>
+    <producer>Kilby, John</producer>
+    <producer>Stephens, Mike (I)</producer>
+  </producers>
+  <writers>
+    <writer>Croft, David (I)</writer>
+    <writer>Perry, Jimmy</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Allan, Johnny</actor>
+      <role>Charlie Dawson</role>
+    </credit>
+    <credit>
+      <actor>Allen, Laura (IV)</actor>
+      <role>Betty</role>
+    </credit>
+    <credit>
+      <actor>Anders, Iain</actor>
+      <role>Vice-Admiral Neville Dempster</role>
+    </credit>
+    <credit>
+      <actor>Anders, Iain</actor>
+      <role>Vice-Admiral Neville Dempster</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Chris (III)</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Antosz, Josephine</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Antosz, Josephine</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>Aris, Ben</actor>
+      <role>Julian Dalrymple-Sykes</role>
+    </credit>
+    <credit>
+      <actor>Aris, Ben</actor>
+      <role>Julian Dalrymple-Sykes</role>
+    </credit>
+    <credit>
+      <actor>Bardon, John</actor>
+      <role>Ron Armitage</role>
+    </credit>
+    <credit>
+      <actor>Barry, Morris</actor>
+      <role>Monty</role>
+    </credit>
+    <credit>
+      <actor>Bates, Richard (I)</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Bateson, Timothy</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Beagley, Susan</actor>
+      <role>Tracy Bentward</role>
+    </credit>
+    <credit>
+      <actor>Beagley, Susan</actor>
+      <role>Tracy Bentward</role>
+    </credit>
+    <credit>
+      <actor>Beagley, Susan</actor>
+      <role>Tracy Bentward</role>
+    </credit>
+    <credit>
+      <actor>Beagley, Susan</actor>
+      <role>Tracy Bentward</role>
+    </credit>
+    <credit>
+      <actor>Beale, David (I)</actor>
+      <role>Mr. Glover</role>
+    </credit>
+    <credit>
+      <actor>Bean, Colin</actor>
+      <role>Verger</role>
+    </credit>
+    <credit>
+      <actor>Benfield, Derek</actor>
+      <role>Rose's Dad</role>
+    </credit>
+    <credit>
+      <actor>Benson, Anthony (I)</actor>
+      <role>Villager</role>
+    </credit>
+    <credit>
+      <actor>Benson, Perry</actor>
+      <role>Trevor</role>
+    </credit>
+    <credit>
+      <actor>Berkeley, Ballard</actor>
+      <role>Gentleman</role>
+    </credit>
+    <credit>
+      <actor>Bidmead, Kathleen</actor>
+      <role>Matron</role>
+    </credit>
+    <credit>
+      <actor>Birch, Barry</actor>
+      <role>Boy in Ballroom</role>
+    </credit>
+    <credit>
+      <actor>Black, Jennifer (I)</actor>
+      <role>Françoise Ogilvy</role>
+    </credit>
+    <credit>
+      <actor>Bluthal, Lisa</actor>
+      <role>Enid</role>
+    </credit>
+    <credit>
+      <actor>Blythen, Julie-Anne</actor>
+      <role>Brenda</role>
+    </credit>
+    <credit>
+      <actor>Bostrom, Arthur</actor>
+      <role>The Hulk</role>
+    </credit>
+    <credit>
+      <actor>Bowers, Lally</actor>
+      <role>Mrs. Baxter</role>
+    </credit>
+    <credit>
+      <actor>Bowness, Felix</actor>
+      <role>Fred Quilley</role>
+    </credit>
+    <credit>
+      <actor>Bowness, Felix</actor>
+      <role>Fred Quilley</role>
+    </credit>
+    <credit>
+      <actor>Bowness, Felix</actor>
+      <role>Fred Quilley</role>
+    </credit>
+    <credit>
+      <actor>Bowness, Felix</actor>
+      <role>Fred Quilley</role>
+    </credit>
+    <credit>
+      <actor>Brody, Ronnie</actor>
+      <role>Plumber</role>
+    </credit>
+    <credit>
+      <actor>Brody, Ronnie</actor>
+      <role>Reg</role>
+    </credit>
+    <credit>
+      <actor>Brook, Russell</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Fred (I)</actor>
+      <role>Bishop Simon Dempster</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Fred (I)</actor>
+      <role>Bishop Simon Dempster</role>
+    </credit>
+    <credit>
+      <actor>Burden, Billy</actor>
+      <role>Mr. Thompson</role>
+    </credit>
+    <credit>
+      <actor>Burden, Billy</actor>
+      <role>Mr. Turner</role>
+    </credit>
+    <credit>
+      <actor>Burden, Billy</actor>
+      <role>Mr. Turner</role>
+    </credit>
+    <credit>
+      <actor>Burden, Billy</actor>
+      <role>Mr. Turner</role>
+    </credit>
+    <credit>
+      <actor>Burdon, Bryan</actor>
+      <role>Van Driver</role>
+    </credit>
+    <credit>
+      <actor>Burns, Michael (III)</actor>
+      <role>Trevor's Dad</role>
+    </credit>
+    <credit>
+      <actor>Cadell, Simon</actor>
+      <role>Jeffrey Fairbrother</role>
+    </credit>
+    <credit>
+      <actor>Carnell, Mike</actor>
+      <role>Parent</role>
+    </credit>
+    <credit>
+      <actor>Challis, Jean</actor>
+      <role>Matronly Woman</role>
+    </credit>
+    <credit>
+      <actor>Challis, Jean</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Christian-Young, Julie</actor>
+      <role>Babs</role>
+    </credit>
+    <credit>
+      <actor>Christian-Young, Julie</actor>
+      <role>Babs</role>
+    </credit>
+    <credit>
+      <actor>Christie, Madeleine</actor>
+      <role>Lady</role>
+    </credit>
+    <credit>
+      <actor>Clifford, Peggy Ann</actor>
+      <role>Mrs. Harris</role>
+    </credit>
+    <credit>
+      <actor>Collier, Ian (I)</actor>
+      <role>Inspector Sutcliffe</role>
+    </credit>
+    <credit>
+      <actor>Collins, Andrew (VI)</actor>
+      <role>RAF Officer</role>
+    </credit>
+    <credit>
+      <actor>Collins, John D.</actor>
+      <role>Bailiff</role>
+    </credit>
+    <credit>
+      <actor>Connor, Kenneth</actor>
+      <role>Uncle Sammy Morris</role>
+    </credit>
+    <credit>
+      <actor>Connor, Kenneth</actor>
+      <role>Uncle Sammy Morris</role>
+    </credit>
+    <credit>
+      <actor>Cottan, Richard</actor>
+      <role>Marty Storm</role>
+    </credit>
+    <credit>
+      <actor>Cottan, Richard</actor>
+      <role>Marty Storm</role>
+    </credit>
+    <credit>
+      <actor>Cowling, Brenda</actor>
+      <role>Lady Camper</role>
+    </credit>
+    <credit>
+      <actor>Cowling, Brenda</actor>
+      <role>Nora</role>
+    </credit>
+    <credit>
+      <actor>Cowling, Brenda</actor>
+      <role>Station Announcer</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Creasey, Terence</actor>
+      <role>Gary</role>
+    </credit>
+    <credit>
+      <actor>Curry, Shaun (I)</actor>
+      <role>Horse Box Driver</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Bobby</actor>
+      <role>Harry Plowright</role>
+    </credit>
+    <credit>
+      <actor>Dennis, Caroline</actor>
+      <role>Betty Barlow</role>
+    </credit>
+    <credit>
+      <actor>Dorward, Helen</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Dwyer, Leslie</actor>
+      <role>Mr. Partridge</role>
+    </credit>
+    <credit>
+      <actor>Dwyer, Leslie</actor>
+      <role>Mr. Partridge</role>
+    </credit>
+    <credit>
+      <actor>Earlle, Freddie</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Earlle, Freddie</actor>
+      <role>Ron Griffin</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Percy</actor>
+      <role>Bubbles</role>
+    </credit>
+    <credit>
+      <actor>Elliot, Su</actor>
+      <role>Trevor's Mum</role>
+    </credit>
+    <credit>
+      <actor>Fernley, John</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Fielder, Harry</actor>
+      <role>Constable</role>
+    </credit>
+    <credit>
+      <actor>Fontaine, Peter</actor>
+      <role>General Sir Claude Dempster</role>
+    </credit>
+    <credit>
+      <actor>Fontaine, Peter</actor>
+      <role>General Sir Claude Dempster</role>
+    </credit>
+    <credit>
+      <actor>Fortune, John (I)</actor>
+      <role>Max Tewkesbury</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Brian (I)</actor>
+      <role>Jimmy Jasper</role>
+    </credit>
+    <credit>
+      <actor>Gould, Lucy (II)</actor>
+      <role>Eunice</role>
+    </credit>
+    <credit>
+      <actor>Gould, Lucy (II)</actor>
+      <role>Rose</role>
+    </credit>
+    <credit>
+      <actor>Gow, James (II)</actor>
+      <role>Police Constable</role>
+    </credit>
+    <credit>
+      <actor>Graham-Jones, Angela</actor>
+      <role>Christine</role>
+    </credit>
+    <credit>
+      <actor>Grant, Joyce (II)</actor>
+      <role>Mrs. Fairbrother</role>
+    </credit>
+    <credit>
+      <actor>Grant, Joyce (II)</actor>
+      <role>Mrs. Fairbrother</role>
+    </credit>
+    <credit>
+      <actor>Griffin, David (I)</actor>
+      <role>Squadron Leader Clive Dempster DFC</role>
+    </credit>
+    <credit>
+      <actor>Gwaspari, Brian</actor>
+      <role>Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Hackney, Pearl</actor>
+      <role>Rose's Mum</role>
+    </credit>
+    <credit>
+      <actor>Hall, Wendy (II)</actor>
+      <role>Olwen Jones - No. 8</role>
+    </credit>
+    <credit>
+      <actor>Harding, Jan</actor>
+      <role>Station Master</role>
+    </credit>
+    <credit>
+      <actor>Harding, Jan</actor>
+      <role>Station Master</role>
+    </credit>
+    <credit>
+      <actor>Harper, Leni (I)</actor>
+      <role>Girl</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Gail</actor>
+      <role>Val</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Gail</actor>
+      <role>Val</role>
+    </credit>
+    <credit>
+      <actor>Heather, Roy</actor>
+      <role>Inspector Palmer</role>
+    </credit>
+    <credit>
+      <actor>Heather, Roy</actor>
+      <role>Second Man</role>
+    </credit>
+    <credit>
+      <actor>Henry, Les</actor>
+      <role>Heavy</role>
+    </credit>
+    <credit>
+      <actor>Hodson, Karen</actor>
+      <role>Yellowcoat Receptionist</role>
+    </credit>
+    <credit>
+      <actor>Holland, Diane (I)</actor>
+      <role>Yvonne Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Holland, Diane (I)</actor>
+      <role>Yvonne Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Holland, Diane (I)</actor>
+      <role>Yvonne Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Holland, Diane (I)</actor>
+      <role>Yvonne Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Holland, Jeffrey</actor>
+      <role>Spike Dixon</role>
+    </credit>
+    <credit>
+      <actor>Holland, Jeffrey</actor>
+      <role>Spike Dixon</role>
+    </credit>
+    <credit>
+      <actor>Hooper, Ewan</actor>
+      <role>Alec Foster</role>
+    </credit>
+    <credit>
+      <actor>Hooper, Ewan</actor>
+      <role>Alec Foster</role>
+    </credit>
+    <credit>
+      <actor>Horsley, John</actor>
+      <role>Clive</role>
+    </credit>
+    <credit>
+      <actor>Howard, Barry (I)</actor>
+      <role>Barry Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Howard, Barry (I)</actor>
+      <role>Barry Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Howard, Barry (I)</actor>
+      <role>Barry Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Howard, Barry (I)</actor>
+      <role>Barry Stuart-Hargreaves</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rikki</actor>
+      <role>Betty Whistler</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rikki</actor>
+      <role>Betty Whistler</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rikki</actor>
+      <role>Betty Whistler</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rikki</actor>
+      <role>Betty Whistler</role>
+    </credit>
+    <credit>
+      <actor>Howard, Rikki</actor>
+      <role>Betty Whistler</role>
+    </credit>
+    <credit>
+      <actor>Howe, Len</actor>
+      <role>Cinema Manager</role>
+    </credit>
+    <credit>
+      <actor>Irving, Penny</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Irving, Penny</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Irving, Penny</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Laura (II)</actor>
+      <role>Dawn</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Laura (II)</actor>
+      <role>Dawn</role>
+    </credit>
+    <credit>
+      <actor>James, Keith (I)</actor>
+      <role>Camper At Bar</role>
+    </credit>
+    <credit>
+      <actor>Jameson, Susan</actor>
+      <role>Jenny Maitland</role>
+    </credit>
+    <credit>
+      <actor>Jefferson, Pauline</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Sorel</actor>
+      <role>WRAF Officer</role>
+    </credit>
+    <credit>
+      <actor>Jones-Parry, Sarah</actor>
+      <role>Tennis Girl</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Nikki (I)</actor>
+      <role>Sylvia Garnsey</role>
+    </credit>
+    <credit>
+      <actor>Kendall, Philip</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Le Mesurier, John</actor>
+      <role>Hugo Buxton</role>
+    </credit>
+    <credit>
+      <actor>Lear, Jean</actor>
+      <role>Ramona</role>
+    </credit>
+    <credit>
+      <actor>Lear, Rex</actor>
+      <role>Gatekeeper</role>
+    </credit>
+    <credit>
+      <actor>Lee, Rikki (I)</actor>
+      <role>Hilary Bovis</role>
+    </credit>
+    <credit>
+      <actor>Lees, Michael</actor>
+      <role>Inspector Phillips</role>
+    </credit>
+    <credit>
+      <actor>Leesley, Geoffrey</actor>
+      <role>Debt Collector</role>
+    </credit>
+    <credit>
+      <actor>Lomax, Michael</actor>
+      <role>Real Vicar</role>
+    </credit>
+    <credit>
+      <actor>Longworth, Eric</actor>
+      <role>Head Waiter</role>
+    </credit>
+    <credit>
+      <actor>Mac, Jimmy (I)</actor>
+      <role>Camper At Table</role>
+    </credit>
+    <credit>
+      <actor>Madoc, Ruth</actor>
+      <role>Gladys Dempster</role>
+    </credit>
+    <credit>
+      <actor>Madoc, Ruth</actor>
+      <role>Gladys Pugh</role>
+    </credit>
+    <credit>
+      <actor>Madoc, Ruth</actor>
+      <role>Gladys Pugh</role>
+    </credit>
+    <credit>
+      <actor>Manson, Pamela</actor>
+      <role>Mavis</role>
+    </credit>
+    <credit>
+      <actor>Markham, Harry</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Markham, Harry</actor>
+      <role>Old Man</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Nick (I)</actor>
+      <role>Groom</role>
+    </credit>
+    <credit>
+      <actor>Mockford, Jeanne</actor>
+      <role>Marjorie</role>
+    </credit>
+    <credit>
+      <actor>Ottaway, James</actor>
+      <role>Reverend Fulljames</role>
+    </credit>
+    <credit>
+      <actor>Parkinson, Robin</actor>
+      <role>Camper</role>
+    </credit>
+    <credit>
+      <actor>Pember, Ron</actor>
+      <role>Private Detective</role>
+    </credit>
+    <credit>
+      <actor>Pertwee, Bill (I)</actor>
+      <role>Angry Camper</role>
+    </credit>
+    <credit>
+      <actor>Peters, Gordon (I)</actor>
+      <role>Henry the Gatekeeper</role>
+    </credit>
+    <credit>
+      <actor>Peters, Gordon (I)</actor>
+      <role>Henry the Gatekeeper</role>
+    </credit>
+    <credit>
+      <actor>Probert, Sion</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Ramsden, Dennis</actor>
+      <role>Charles Dempster</role>
+    </credit>
+    <credit>
+      <actor>Ramsden, Dennis</actor>
+      <role>Charles Dempster</role>
+    </credit>
+    <credit>
+      <actor>Rayner, Stuart</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Read, Martyn</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Redfern, Michael (I)</actor>
+      <role>Fire Chief</role>
+    </credit>
+    <credit>
+      <actor>Rice, Gary</actor>
+      <role>Boy With Glasses</role>
+    </credit>
+    <credit>
+      <actor>Richards, Gavin (I)</actor>
+      <role>Harold Fox</role>
+    </credit>
+    <credit>
+      <actor>Richards, Gavin (I)</actor>
+      <role>Harold Fox</role>
+    </credit>
+    <credit>
+      <actor>Richards, Gavin (I)</actor>
+      <role>Harold Fox</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Michael (I)</actor>
+      <role>Roger</role>
+    </credit>
+    <credit>
+      <actor>Rutland, John (I)</actor>
+      <role>Elderly Man</role>
+    </credit>
+    <credit>
+      <actor>Shane, Paul</actor>
+      <role>Ted Bovis</role>
+    </credit>
+    <credit>
+      <actor>Shane, Paul</actor>
+      <role>Ted Bovis</role>
+    </credit>
+    <credit>
+      <actor>Smart, Sam (I)</actor>
+      <role>Charlie Ruckston - No. 7</role>
+    </credit>
+    <credit>
+      <actor>Speight, Richard (I)</actor>
+      <role>Steve</role>
+    </credit>
+    <credit>
+      <actor>Stark, Graham (I)</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Ronnie (I)</actor>
+      <role>Jerry Price</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Jeff (I)</actor>
+      <role>Police Constable</role>
+    </credit>
+    <credit>
+      <actor>Swinton, Tim</actor>
+      <role>First Vicar</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Talfryn</actor>
+      <role>Gareth Davies</role>
+    </credit>
+    <credit>
+      <actor>Toothill, Paul</actor>
+      <role>Police Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Toothill, Paul</actor>
+      <role>Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Troughton, David</actor>
+      <role>Sergeant Pritchard</role>
+    </credit>
+    <credit>
+      <actor>Waddington, Peter</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Ward, Paddy</actor>
+      <role>Percy</role>
+    </credit>
+    <credit>
+      <actor>Ward-Lewis, Colin</actor>
+      <role>TV Newsreader</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, David (V)</actor>
+      <role>Stanley Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Webb, Tony (II)</actor>
+      <role>Bruce Matthews</role>
+    </credit>
+    <credit>
+      <actor>Wilce, Paul</actor>
+      <role>Christine's Partner</role>
+    </credit>
+    <credit>
+      <actor>Williams, Frank (I)</actor>
+      <role>Vicar</role>
+    </credit>
+    <credit>
+      <actor>Williams, Nigel (III)</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Young, Stan (I)</actor>
+      <role>Chauffeur</role>
+    </credit>
+  </cast>
+<plot>Comic goings on in this series set in an English holiday camp called Maplins. The title comes from the camp's greeting, which the staff are meant to say with enthusiasm but all too often the camp guests are the last thing on their minds. Ted's the camp comic but is always on the lookout for a way to make money. Gladys has her eye on the boss, and Peggy wants to swap her mop and cleaner's outfit for a "yellow coat".</plot><url>http://localhost:8983/solr/movie.html?238328</url></doc>

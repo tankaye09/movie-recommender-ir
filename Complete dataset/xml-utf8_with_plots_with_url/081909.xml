@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="081909">
+  <docid>081909</docid>
+  <title>Brave Little Tailor</title>
+  <year>1938</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>cartoon</keyword>
+    <keyword>giant</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>medieval</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Australia">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">23 September 1938</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Roberts, Bill (I)</director>
+  </directors>
+  <producers>
+    <producer>Disney, Walt</producer>
+  </producers>
+  <composers>
+    <composer>Malotte, Albert Hay</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Disney, Walt</actor>
+      <role>Mickey Mouse</role>
+    </credit>
+    <credit>
+      <actor>Garner, Marcellite</actor>
+      <role>Minnie Mouse</role>
+    </credit>
+  </cast>
+<plot>When a giant threatens the land, the cityfolk mistake Mickey's boast of killing seven flies with one blow to be giants. He is then forced to fight the giant for real.</plot><url>http://localhost:8983/solr/movie.html?081909</url></doc>

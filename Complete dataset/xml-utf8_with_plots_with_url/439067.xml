@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="439067">
+  <docid>439067</docid>
+  <title>Popular Science</title>
+  <year>1935</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Carlisle, Robert (I)</director>
+  </directors>
+  <writers>
+    <writer>Whitman, Gayne</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Farnsworth, Philo T.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Herms, William B.</actor>
+      <role>Himself (biologist)</role>
+    </credit>
+    <credit>
+      <actor>Whitman, Gayne</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>Scientist W.B. Herms works with black widow spider venom. Also, the modern trailer; invention of canned beer; a thermal-powered clock; the San Francisco Bay Bridge; accurate artificial flowers; a test pilot.</plot><url>http://localhost:8983/solr/movie.html?439067</url></doc>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="008555">
+  <docid>008555</docid>
+  <title>A Christmas Special with Luciano Pavarotti</title>
+  <year>1980</year>
+  <type>TelevisionMovie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Music</genre>
+  </genres>
+  <keywords>
+    <keyword>christmas</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">7 December 1980</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">55</runningtime>
+  </runningtimes>
+  <cast>
+    <credit>
+      <actor>Pavarotti, Luciano</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The famed tenor performs holiday classics in this program at Notre Dame Cathedral in Montréal, joined by a boys choir, Les Petits Chanteur du Mont-Royal, and an adult choir, Les Disciples de Massenet.</plot><url>http://localhost:8983/solr/movie.html?008555</url></doc>

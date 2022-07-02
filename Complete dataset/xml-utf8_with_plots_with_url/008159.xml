@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="008159">
+  <docid>008159</docid>
+  <title>A Car Stopped...</title>
+  <year>1999</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Payne, Paddy</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Webster, Ruaridh</director>
+  </directors>
+  <producers>
+    <producer>Richards, Julian (II)</producer>
+  </producers>
+  <writers>
+    <writer>Broder, Jake</writer>
+    <writer>Long, Adam (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Broder, Jake</actor>
+      <role>Jack Dean</role>
+    </credit>
+    <credit>
+      <actor>Laurie, Edward</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rippy, Matt</actor>
+      <role>Bradley</role>
+    </credit>
+  </cast>
+<plot>A pair of American slackers travel across Europe in a car. As they run out of gas they come across a petrol station that appears deserted. While one searches for the owners the other fills the car up. They discover too late that the station has been abandoned and that the pump is pumping water and not gasoline. Their hippy sentiments quickly gives way to frustration and fighting.</plot><url>http://localhost:8983/solr/movie.html?008159</url></doc>

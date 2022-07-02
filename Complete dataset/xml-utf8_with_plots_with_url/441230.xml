@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="441230">
+  <docid>441230</docid>
+  <title>Power Rangers DinoThunder</title>
+  <year>2004</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Thriller</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+  </genres>
+  <keywords>
+    <keyword>teenage-superhero</keyword>
+    <keyword>sonic-scream</keyword>
+    <keyword>power-rangers</keyword>
+    <keyword>glowing-eyes</keyword>
+    <keyword>puppet</keyword>
+    <keyword>jekyll-and-hyde</keyword>
+    <keyword>robot-monster-battle</keyword>
+    <keyword>skeleton-bone</keyword>
+    <keyword>altered-behavior</keyword>
+    <keyword>human-puppet</keyword>
+    <keyword>wild-goose-chase</keyword>
+    <keyword>evil-skeleton-monster</keyword>
+    <keyword>teenage-superheroine</keyword>
+    <keyword>sentai-adaptation</keyword>
+    <keyword>cyber-cafe</keyword>
+    <keyword>mind-control</keyword>
+    <keyword>museum-trip</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="USA">TV-Y7</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Finland">2 September 2005</releasedate>
+    <releasedate country="USA">1 May 2004</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Grinder, Paul</director>
+    <director>Haskell, Charlie</director>
+    <director>Johnstone, Britta</director>
+    <director>Merrifield, Andrew</director>
+    <director>Sakamoto, Koichi</director>
+    <director>Sloan, Douglas (I)</director>
+  </directors>
+  <producers>
+    <producer>Sakamoto, Koichi</producer>
+    <producer>Knapp, Ann</producer>
+    <producer>Sloan, Douglas (I)</producer>
+    <producer>Dickens, Janine</producer>
+  </producers>
+  <writers>
+    <writer>Hoffmeier, Mark</writer>
+    <writer>Kalish, Bruce (I)</writer>
+    <writer>Knapp, Ann</writer>
+    <writer>Marchand, Jackie</writer>
+    <writer>Slavkin, Steve</writer>
+    <writer>Sloan, Douglas (I)</writer>
+    <writer>Tellegen, John</writer>
+    <writer>Tellegen, Toon</writer>
+  </writers>
+  <composers>
+    <composer>Lynch, Bruce</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abe, Kaoru (I)</actor>
+      <role>Mikey/Black Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Aning, Samuel Pop</actor>
+      <role>Whacker Wilson</role>
+    </credit>
+    <credit>
+      <actor>Ashley, Karan</actor>
+      <role>Aisha Campbell</role>
+    </credit>
+    <credit>
+      <actor>Ashton, Penny (I)</actor>
+      <role>Fridgia</role>
+    </credit>
+    <credit>
+      <actor>Axelrod, Robert</actor>
+      <role>Lord Zedd</role>
+    </credit>
+    <credit>
+      <actor>Barker, John (II)</actor>
+      <role>Mikey/Black Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Barnett, Dallas</actor>
+      <role>De-Magnetron</role>
+    </credit>
+    <credit>
+      <actor>Barrett, Paul (III)</actor>
+      <role>Megalador</role>
+    </credit>
+    <credit>
+      <actor>Birchall, Jeremy (I)</actor>
+      <role>Sumo Wrestler/Morpher</role>
+    </credit>
+    <credit>
+      <actor>Blackett, Tony</actor>
+      <role>Squidrose</role>
+    </credit>
+    <credit>
+      <actor>Bland, Carl</actor>
+      <role>Creature</role>
+    </credit>
+    <credit>
+      <actor>Boelee, Onno</actor>
+      <role>Security Guard</role>
+    </credit>
+    <credit>
+      <actor>Bosch, Johnny Yong</actor>
+      <role>Adam Park</role>
+    </credit>
+    <credit>
+      <actor>Brady, Susan (I)</actor>
+      <role>Old Japanese Woman</role>
+    </credit>
+    <credit>
+      <actor>Brown, Philip (I)</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Browne, Katrina (I)</actor>
+      <role>Kapri</role>
+    </credit>
+    <credit>
+      <actor>Browning, Alistair</actor>
+      <role>Pollinator</role>
+    </credit>
+    <credit>
+      <actor>Brunton, Stephen</actor>
+      <role>Scorpex</role>
+    </credit>
+    <credit>
+      <actor>Burgh, Jonathan</actor>
+      <role>Rumba Monkey</role>
+    </credit>
+    <credit>
+      <actor>Burrise, Nakia</actor>
+      <role>Tanya Sloan</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Dwayne</actor>
+      <role>Derrick</role>
+    </credit>
+    <credit>
+      <actor>Cardenas, Steve</actor>
+      <role>Rocky De Santos</role>
+    </credit>
+    <credit>
+      <actor>Chan, Jason (II)</actor>
+      <role>Cameron 'Cam' Watanabe</role>
+    </credit>
+    <credit>
+      <actor>Chan, Jason (II)</actor>
+      <role>Cameron 'Cam' Watanabe/Green Samurai Ranger</role>
+    </credit>
+    <credit>
+      <actor>Chaturantabut, Michael</actor>
+      <role>Chad Lee</role>
+    </credit>
+    <credit>
+      <actor>Clare, Mark</actor>
+      <role>Coach Beckman</role>
+    </credit>
+    <credit>
+      <actor>Coleman, James (II)</actor>
+      <role>Ugly Monster</role>
+    </credit>
+    <credit>
+      <actor>Craig, Sasha</actor>
+      <role>Kelsey Winslow</role>
+    </credit>
+    <credit>
+      <actor>Cruz, Tracy Lynn</actor>
+      <role>Ashley Hammond</role>
+    </credit>
+    <credit>
+      <actor>Daube, Peter</actor>
+      <role>Dr. Norton Morton/Horn Rimmed Monster</role>
+    </credit>
+    <credit>
+      <actor>Devenie, Stuart</actor>
+      <role>Mr. O'Shaunessy/Bald Man</role>
+    </credit>
+    <credit>
+      <actor>Devine, Katrina</actor>
+      <role>Cassidy Cornell</role>
+    </credit>
+    <credit>
+      <actor>Devine, Katrina</actor>
+      <role>Cassidy Cornell</role>
+    </credit>
+    <credit>
+      <actor>Devine, Katrina</actor>
+      <role>Marah/Cassidy Cornell</role>
+    </credit>
+    <credit>
+      <actor>Devine, Katrina</actor>
+      <role>Marah/Cassidy Cornell</role>
+    </credit>
+    <credit>
+      <actor>Dolan, Geoff</actor>
+      <role>Jade Gladiator</role>
+    </credit>
+    <credit>
+      <actor>Drake, Glen</actor>
+      <role>Fossilador</role>
+    </credit>
+    <credit>
+      <actor>Duhaney, Kevin</actor>
+      <role>Ethan James/Blue DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Dungey, Lori</actor>
+      <role>Mrs. Porter</role>
+    </credit>
+    <credit>
+      <actor>Easton, Helena</actor>
+      <role>Young Girl</role>
+    </credit>
+    <credit>
+      <actor>Fairhead, Morgan Reese</actor>
+      <role>Kylee Styles</role>
+    </credit>
+    <credit>
+      <actor>Fairhead, Morgan Reese</actor>
+      <role>Yellow Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Faulkner, Andrew</actor>
+      <role>Deadwood</role>
+    </credit>
+    <credit>
+      <actor>Faville, Tim</actor>
+      <role>Rude Elf</role>
+    </credit>
+    <credit>
+      <actor>Feeney, Peter</actor>
+      <role>Angor</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Rhett</actor>
+      <role>Ryan Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Foster, Blake</actor>
+      <role>Justin Stewart</role>
+    </credit>
+    <credit>
+      <actor>Frank, Jason David</actor>
+      <role>Dr. Tommy Oliver</role>
+    </credit>
+    <credit>
+      <actor>Frank, Jason David</actor>
+      <role>Dr. Tommy Oliver/Black DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Gaines, Latham</actor>
+      <role>Dr. Anton Mercer/Mesogog</role>
+    </credit>
+    <credit>
+      <actor>Gaiqui, Chantal</actor>
+      <role>Nikki Valentina</role>
+    </credit>
+    <credit>
+      <actor>Gardiner, Adam</actor>
+      <role>Evil White Ranger</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Zeltrax</role>
+    </credit>
+    <credit>
+      <actor>Gaylyn, James</actor>
+      <role>Zeltrax/Golden Rod</role>
+    </credit>
+    <credit>
+      <actor>Glendinning, Tristan</actor>
+      <role>Roof Worker</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Nigel</actor>
+      <role>Funky Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Goodson, Barbara</actor>
+      <role>Rita Repulsa</role>
+    </credit>
+    <credit>
+      <actor>Hall, Stephen (II)</actor>
+      <role>Edward Cormier</role>
+    </credit>
+    <credit>
+      <actor>Harris, Winston</actor>
+      <role>Alexi Poporoff</role>
+    </credit>
+    <credit>
+      <actor>Haskell, Charlie</actor>
+      <role>Worker</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Kelson</actor>
+      <role>Kira's Agent</role>
+    </credit>
+    <credit>
+      <actor>Hern, Tom</actor>
+      <role>Devin Del Valle</role>
+    </credit>
+    <credit>
+      <actor>Hern, Tom</actor>
+      <role>Devin Del Valle</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Bruce (I)</actor>
+      <role>Ruby Dragon</role>
+    </credit>
+    <credit>
+      <actor>Hoyt, Carol</actor>
+      <role>Divatox</role>
+    </credit>
+    <credit>
+      <actor>Hoyte, Jason</actor>
+      <role>Donkeyvac</role>
+    </credit>
+    <credit>
+      <actor>Ito, Aiko (II)</actor>
+      <role>Japanese Yellow Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Ja Lee, Patricia</actor>
+      <role>Cassie Chan</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Amy Jo</actor>
+      <role>Kimberly Hart</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Greg (I)</actor>
+      <role>Ka-Ching</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Sean Cw</actor>
+      <role>Carter Grayson</role>
+    </credit>
+    <credit>
+      <actor>Johnston, Ismay</actor>
+      <role>Hayley</role>
+    </credit>
+    <credit>
+      <actor>Jones, Walter (I)</actor>
+      <role>Zack Taylor</role>
+    </credit>
+    <credit>
+      <actor>Judge, Derek</actor>
+      <role>Tutenhawken</role>
+    </credit>
+    <credit>
+      <actor>Kao, Archie</actor>
+      <role>Kai Chen</role>
+    </credit>
+    <credit>
+      <actor>King, Richard (XIII)</actor>
+      <role>Guy</role>
+    </credit>
+    <credit>
+      <actor>King, Richard (XVII)</actor>
+      <role>Guy</role>
+    </credit>
+    <credit>
+      <actor>King, Richard (XXII)</actor>
+      <role>Guy</role>
+    </credit>
+    <credit>
+      <actor>Lahana, Emma</actor>
+      <role>Kira Ford</role>
+    </credit>
+    <credit>
+      <actor>Lahana, Emma</actor>
+      <role>Kira Ford/Yellow DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Laing, Andrew (I)</actor>
+      <role>Copyotter</role>
+    </credit>
+    <credit>
+      <actor>Lee, Christopher Khayman</actor>
+      <role>Andros</role>
+    </credit>
+    <credit>
+      <actor>Leigh, John (I)</actor>
+      <role>Insectolite</role>
+    </credit>
+    <credit>
+      <actor>Linehan, Jamie (I)</actor>
+      <role>Red Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Louwerens, Monica</actor>
+      <role>Ms Angela Fairweather</role>
+    </credit>
+    <credit>
+      <actor>MacInnis, Alison</actor>
+      <role>Dana Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Magasiva, Pua</actor>
+      <role>Shane Clarke/Red Wind Ranger</role>
+    </credit>
+    <credit>
+      <actor>Manahan, Robert L.</actor>
+      <role>Zordon</role>
+    </credit>
+    <credit>
+      <actor>Martin, Sally (II)</actor>
+      <role>Tori Hanson/Blue Wind Ranger</role>
+    </credit>
+    <credit>
+      <actor>McFarland, Grant</actor>
+      <role>Lothor/Sensei Kanoi Watanabe</role>
+    </credit>
+    <credit>
+      <actor>McLarty, Jim</actor>
+      <role>Skortch</role>
+    </credit>
+    <credit>
+      <actor>McMillan, Glenn</actor>
+      <role>Dustin Brooks/Yellow Wind Ranger</role>
+    </credit>
+    <credit>
+      <actor>Merrifield, Andrew</actor>
+      <role>Foreman</role>
+    </credit>
+    <credit>
+      <actor>Miller, Amy (III)</actor>
+      <role>Trakeena</role>
+    </credit>
+    <credit>
+      <actor>Napier, James (I)</actor>
+      <role>Conner McKnight</role>
+    </credit>
+    <credit>
+      <actor>Napier, James (I)</actor>
+      <role>Conner McKnight/Red Dino Thunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Napier, James (I)</actor>
+      <role>Conner McKnight/Red DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Nimmo, Justin</actor>
+      <role>Zhane</role>
+    </credit>
+    <credit>
+      <actor>Nishi, Kouichiro</actor>
+      <role>Red Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Parazzo, Jeffrey</actor>
+      <role>Trent Fernandez</role>
+    </credit>
+    <credit>
+      <actor>Parazzo, Jeffrey</actor>
+      <role>Trent Fernandez/White DinoThunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Parker, Anthony Ray</actor>
+      <role>Thornox</role>
+    </credit>
+    <credit>
+      <actor>Pierard, Charles</actor>
+      <role>Director</role>
+    </credit>
+    <credit>
+      <actor>Port, George</actor>
+      <role>Guy</role>
+    </credit>
+    <credit>
+      <actor>Raby, Timothy</actor>
+      <role>Beldorf</role>
+    </credit>
+    <credit>
+      <actor>Rakestraw, Barrett</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Rea, Neill</actor>
+      <role>Carson Brady</role>
+    </credit>
+    <credit>
+      <actor>Read, Tyler</actor>
+      <role>Little Kid</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Cameron</actor>
+      <role>Marty the Mackerel</role>
+    </credit>
+    <credit>
+      <actor>Robertt, Andrew</actor>
+      <role>Dysotron</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Keith (III)</actor>
+      <role>Joel Rawlings</role>
+    </credit>
+    <credit>
+      <actor>Roggé, Ron (I)</actor>
+      <role>Captain William Mitchell</role>
+    </credit>
+    <credit>
+      <actor>Rolle, Reggie</actor>
+      <role>Damon Henderson</role>
+    </credit>
+    <credit>
+      <actor>Rowley, Peter</actor>
+      <role>Zurgane</role>
+    </credit>
+    <credit>
+      <actor>Slavin, Danny</actor>
+      <role>Leo Corbett</role>
+    </credit>
+    <credit>
+      <actor>St. John, Austin</actor>
+      <role>Jason Lee Scott</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Kurt</actor>
+      <role>Ninjor</role>
+    </credit>
+    <credit>
+      <actor>Sunderland, Matthew (II)</actor>
+      <role>Monster General #2</role>
+    </credit>
+    <credit>
+      <actor>Tennet, Anton</actor>
+      <role>Soccer Buddy</role>
+    </credit>
+    <credit>
+      <actor>Tobeck, Joel</actor>
+      <role>Jupitor</role>
+    </credit>
+    <credit>
+      <actor>Tomita, Shou</actor>
+      <role>Kenny Yukito/Blue Japanese Ranger Teen</role>
+    </credit>
+    <credit>
+      <actor>Trout, Ray</actor>
+      <role>Croco D'Vile</role>
+    </credit>
+    <credit>
+      <actor>Tuominen, Adam</actor>
+      <role>Hunter Bradley</role>
+    </credit>
+    <credit>
+      <actor>Tuominen, Adam</actor>
+      <role>Hunter Bradley/Crimson Thunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Turner, Jermaine</actor>
+      <role>Whacker Wilson</role>
+    </credit>
+    <credit>
+      <actor>Ubeda, Miquel</actor>
+      <role>Soccer Player</role>
+    </credit>
+    <credit>
+      <actor>Vargas, Jorge (I)</actor>
+      <role>Blake Bradley</role>
+    </credit>
+    <credit>
+      <actor>Vargas, Jorge (I)</actor>
+      <role>Blake Bradley/Navy Thunder Ranger</role>
+    </credit>
+    <credit>
+      <actor>Vargas, Jorge (I)</actor>
+      <role>Kenny Yukito/Blue Japanese Ranger</role>
+    </credit>
+    <credit>
+      <actor>Velasco, Roger</actor>
+      <role>Carlos Valerte</role>
+    </credit>
+    <credit>
+      <actor>Wallace, Des</actor>
+      <role>Bulldozer Driver</role>
+    </credit>
+    <credit>
+      <actor>Wallace, Des</actor>
+      <role>Worker</role>
+    </credit>
+    <credit>
+      <actor>Ward, Selwyn</actor>
+      <role>Theodore Jay Jarvis 'TJ' Johnson</role>
+    </credit>
+    <credit>
+      <actor>Way, John (I)</actor>
+      <role>Museum Guard</role>
+    </credit>
+    <credit>
+      <actor>Wills, Scott (I)</actor>
+      <role>Termitetron</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Patrick (VI)</actor>
+      <role>Monster General #1</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Patrick (VI)</actor>
+      <role>News Reporter</role>
+    </credit>
+    <credit>
+      <actor>Wright, Edwin (I)</actor>
+      <role>Dr. Walsh</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>Rojobot</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>White Terrorsaurus</role>
+    </credit>
+    <credit>
+      <actor>Wright, Mark (I)</actor>
+      <role>White Terrorsaurus II</role>
+    </credit>
+    <credit>
+      <actor>Yost, David</actor>
+      <role>William 'Billy' Cranston</role>
+    </credit>
+  </cast>
+<plot>When the evil Mesogog launches an attack on the earth, using three fierce machines called Dino Zords - creatures of incredible strength and intelligence - on the world, Dr. Tommy Oliver, a mild-mannered high school teacher must stop him. Reigniting his secret past, as the Green, White, Red Zeo and Red Turbo Power Rangers, Oliver recruits three students as Rangers. But can a rebellious soccer star, a beautiful loner musician and a laid-back champion video gamer become superheroes in time to vanquish Mesogog and his mutant warriors and an upcoming evil White Ranger?</plot><url>http://localhost:8983/solr/movie.html?441230</url></doc>

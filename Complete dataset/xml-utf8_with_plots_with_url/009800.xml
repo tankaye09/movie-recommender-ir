@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="009800">
+  <docid>009800</docid>
+  <title>A Doll's House</title>
+  <year>1922</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-play</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">12 February 1922</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">70</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bryant, Charles (I)</director>
+  </directors>
+  <writers>
+    <writer>Ibsen, Henrik</writer>
+    <writer>Nazimova, Alla</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>De Brulier, Nigel</actor>
+      <role>Dr. Rank</role>
+    </credit>
+    <credit>
+      <actor>De Lacy, Philippe</actor>
+      <role>Ivar</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Florence</actor>
+      <role>Mrs. Linden</role>
+    </credit>
+    <credit>
+      <actor>Hale, Alan (I)</actor>
+      <role>Torvald Helmer</role>
+    </credit>
+    <credit>
+      <actor>Lee, Clara (I)</actor>
+      <role>Ellen</role>
+    </credit>
+    <credit>
+      <actor>Maier, Barbara</actor>
+      <role>Emmy</role>
+    </credit>
+    <credit>
+      <actor>Nowell, Wedgwood</actor>
+      <role>Nils Krogstad</role>
+    </credit>
+  </cast>
+<plot>Nora Helmer has years earlier committed a forgery in order to save the life of her authoritarian husband Torvald. Now she is being blackmailed lives in fear of her husband's finding out and of the shame such a revelation would bring to his career. But when the truth comes out, Nora is shocked to learn where she really stands in her husband's esteem.</plot><url>http://localhost:8983/solr/movie.html?009800</url></doc>

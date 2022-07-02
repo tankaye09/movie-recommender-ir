@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="503523">
+  <docid>503523</docid>
+  <title>Snowballing</title>
+  <year>1904</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Haggar, William</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">1904</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">2</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Haggar, William</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Mog</actor>
+      <role>Mog the Fireman</role>
+    </credit>
+  </cast>
+<plot>The village lads and lasses engage in a snowball fight, during which they also pelt pedestrians and a cyclist: but they are then assailed by a big, powerful female, "Mog the Fireman" (who is none other than our old friend Mirthful Mary), who gives a good account of herself against enormous odds.</plot><url>http://localhost:8983/solr/movie.html?503523</url></doc>

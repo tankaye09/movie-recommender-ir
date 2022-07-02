@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="541444">
+  <docid>541444</docid>
+  <title>The Babbling Book</title>
+  <year>1932</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">11 March 1932</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">11</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Scotto, Aubrey</director>
+  </directors>
+  <writers>
+    <writer>Burns, George</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Allen, Gracie</actor>
+      <role>Grace Allen</role>
+    </credit>
+    <credit>
+      <actor>Burns, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clute, Chester</actor>
+      <role>Mystery customer</role>
+    </credit>
+    <credit>
+      <actor>Meek, Donald</actor>
+      <role>Father</role>
+    </credit>
+  </cast>
+<plot>After a domestic scene with her parents, Gracie goes to work at the bookstore next door, just in time for a dizzy conversation with customer George.</plot><url>http://localhost:8983/solr/movie.html?541444</url></doc>

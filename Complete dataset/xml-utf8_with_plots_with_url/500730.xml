@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="500730">
+  <docid>500730</docid>
+  <title>Skye</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>independent-film</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">22</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Saville, Jason (III)</director>
+  </directors>
+  <producers>
+    <producer>Ngo, Jean</producer>
+    <producer>Mathis, Grant</producer>
+    <producer>Saville, Jason (I)</producer>
+  </producers>
+  <writers>
+    <writer>Saville, Jason (I)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Davis, Jackson (III)</actor>
+      <role>James</role>
+    </credit>
+    <credit>
+      <actor>King, Ryan (I)</actor>
+      <role>The Playa</role>
+    </credit>
+  </cast>
+<plot>J.J. is a nice guy in his late 20's who is just trying to find his way in life. He happens to be a great street basketball player. Skye, a woman he met three months earlier at a party comes to pay J.J. a visit. She has a secret that she needs to tell him that can change his life.</plot><url>http://localhost:8983/solr/movie.html?500730</url></doc>

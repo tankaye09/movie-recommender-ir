@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="210245">
+  <docid>210245</docid>
+  <title>Garfield and Friends</title>
+  <year>1988</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Borquez, Timothy</editor>
+    <editor>Gustafson, Julie (I)</editor>
+    <editor>Horta, Sam</editor>
+    <editor>Mars, Brian F.</editor>
+    <editor>Terusa, Tim</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>based-on-comic-strip</keyword>
+    <keyword>cat</keyword>
+    <keyword>dog</keyword>
+    <keyword>garfield-the-cat</keyword>
+    <keyword>pig</keyword>
+    <keyword>reference-to-alice-in-wonderland</keyword>
+    <keyword>veterinarian</keyword>
+    <keyword>farm</keyword>
+    <keyword>laziness</keyword>
+    <keyword>rooster</keyword>
+    <keyword>scheme</keyword>
+    <keyword>character-name-in-title</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Singapore">G</certificate>
+    <certificate country="South Korea">All</certificate>
+    <certificate country="USA">TV-Y</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="West Germany">24 December 1989</releasedate>
+    <releasedate country="USA">27 October 1990</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">30</runningtime>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Brain, Dave</director>
+    <director>Clark, Steve (VIII)</director>
+    <director>Davis, Vincent (I)</director>
+    <director>Hall, Jeff (I)</director>
+    <director>Miletic Dail, Marija</director>
+    <director>Myrick, Emory</director>
+    <director>Peterson, Karen (I)</director>
+    <director>Ray, Tom (I)</director>
+    <director>Schauer, Mitch</director>
+    <director>Sparey, John</director>
+    <director>Tataranowicz, Tom</director>
+    <director>Walker, John (III)</director>
+    <director>West, James (VIII)</director>
+  </directors>
+  <producers>
+    <producer>Cawley, John (I)</producer>
+    <producer>Wyatt, Jim (I)</producer>
+    <producer>Campbell, Kim (I)</producer>
+    <producer>Evanier, Mark</producer>
+    <producer>Davis, Jim (II)</producer>
+    <producer>Mendelson, Lee</producer>
+    <producer>Roman, Phil</producer>
+    <producer>Curtis, Bob (II)</producer>
+    <producer>Davis, Vincent (I)</producer>
+    <producer>Nesler, Bob</producer>
+    <producer>Schauer, Mitch</producer>
+    <producer>Singer, George (I)</producer>
+  </producers>
+  <writers>
+    <writer>Davis, Jim (II)</writer>
+    <writer>Divono, Sharman</writer>
+    <writer>Evanier, Mark</writer>
+  </writers>
+  <composers>
+    <composer>Bogas, Ed</composer>
+    <composer>Goyette, Desirée</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aidman, Charles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ballantine, Carl</actor>
+      <role>Al J. Swindler</role>
+    </credit>
+    <credit>
+      <actor>Ballantine, Carl</actor>
+      <role>Al J. Swindler</role>
+    </credit>
+    <credit>
+      <actor>Ballantine, Carl</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beals, Dick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beals, Dick</actor>
+      <role>Roscoe</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Julie (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Berg, Greg (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berg, Greg (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig/Floyd</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig/Floyd Mouse/Herman the Mailman/Weasel</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig/Mr. Rogers</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Odie/Orson Pig/Orb</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Sheryl</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Sheryl</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Conscience Crickett</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Burson, Greg</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Cactus Jake</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Cactus Jake</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Cactus Jake</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buttram, Pat (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buxton, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Byner, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Castillo, Adriano</actor>
+      <role>Jon Arbuckle</role>
+    </credit>
+    <credit>
+      <actor>Coca, Imogene</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Brian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jim (II)</actor>
+      <role>J.D.</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jim (II)</actor>
+      <role>Police Chief</role>
+    </credit>
+    <credit>
+      <actor>Divono, Sharman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Divono, Sharman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Divono, Sharman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>DuArt, Louise</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ducommun, Rick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Elias, Jeannie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Evanier, Mark</actor>
+      <role>Director</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Foreman, George</actor>
+      <role>George Fisticuff</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Freberg, Stan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Additional Voice</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Nermal</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Nermal</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Nermal</role>
+    </credit>
+    <credit>
+      <actor>Goyette, Desirée</actor>
+      <role>Nermal</role>
+    </credit>
+    <credit>
+      <actor>Hackett, Buddy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hearn, Chick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Huge, Thom</actor>
+      <role>Jon Arbuckle/Binky the Clown/Roy Rooster</role>
+    </credit>
+    <credit>
+      <actor>Huge, Thom</actor>
+      <role>Jon Arbuckle/Roy Rooster</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Victoria (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Victoria (I)</actor>
+      <role>Penelope</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Victoria (I)</actor>
+      <role>Penelope</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Victoria (I)</actor>
+      <role>Penelope</role>
+    </credit>
+    <credit>
+      <actor>Jones, James Earl</actor>
+      <role>Diablo</role>
+    </credit>
+    <credit>
+      <actor>Kaplan, Marvin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kerr, Heather</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kirchenbauer, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Knotts, Don</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Korman, Harvey</actor>
+      <role>Additional voice</role>
+    </credit>
+    <credit>
+      <actor>Korman, Harvey</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Eddie (I)</actor>
+      <role>The Feline Philosopher</role>
+    </credit>
+    <credit>
+      <actor>Leach, Robin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Leach, Robin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lee, Tom (XI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Monster</role>
+    </credit>
+    <credit>
+      <actor>Mars, Kenneth</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCann, Chuck (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Meaney, Kevin</actor>
+      <role>Aloysius Pig</role>
+    </credit>
+    <credit>
+      <actor>Meaney, Kevin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Meaney, Kevin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Menken, Shepard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Ludlow</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck/</role>
+    </credit>
+    <credit>
+      <actor>Morris, Howard (I)</actor>
+      <role>Wade Duck/Wart/Wolf/Worm</role>
+    </credit>
+    <credit>
+      <actor>Moschitta Jr., John</actor>
+      <role>Super Sonic Seymour</role>
+    </credit>
+    <credit>
+      <actor>Music, Lorenzo</actor>
+      <role>Garfield</role>
+    </credit>
+    <credit>
+      <actor>Music, Lorenzo</actor>
+      <role>Garfield/Charlie</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Owens, Gary (I)</actor>
+      <role>Instructor</role>
+    </credit>
+    <credit>
+      <actor>Riley, Jack (II)</actor>
+      <role>Tyrone</role>
+    </credit>
+    <credit>
+      <actor>Roddy, Rod</actor>
+      <role>Johnny</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ross, Stanley Ralph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>McKraven</role>
+    </credit>
+    <credit>
+      <actor>Sharp, Thom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stang, Arnold</actor>
+      <role>Irwin the Mouse</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Rip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tufeld, Dick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Weinrib, Lennie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bo/Booker/Sheldon</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bo/Booker/Sheldon</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bo/Booker/Sheldon</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Booker/Sheldon/Bo</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Booker/Sheldon/Bo</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Booker/Sheldon/Bo/Mort</role>
+    </credit>
+    <credit>
+      <actor>White, Jesse (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whitehead, Paxton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Mr. Baggett</role>
+    </credit>
+    <credit>
+      <actor>Winters, Jonathan (I)</actor>
+      <role>Berferd</role>
+    </credit>
+    <credit>
+      <actor>Winters, Jonathan (I)</actor>
+      <role>Maharishi Sensei Bhogwan Chang Su Gunga Din</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Host</role>
+    </credit>
+  </cast>
+<plot>Cartoon series based on Jim Davis' popular comic strip. The star of the series was Garfield, a lazy feline whose only desires in life were lasanga, catnaps and kicking his hapless canine companion, Odie, off the table. The show also starred Garfield's hopelessly-single owner, Jon Arbuckle. Each Garfield adventure featured Garfield's adventures and run-ins with the cast of semi-regulars (including Neurmal, an irksome kitty; Binky the Clown and the mice which inhabited Jon's house); most were satires on American life and pop culture. Each show also featured "U.S. Acres," another of Davis' strips; this strip was set in a barnyard and featured the adventures of such characters as Orson Pig, Wade Duck, Roy Rooster, Bo and Lanolin the sheep, Booker the chick and Sheldon, an unhatched egg.</plot><url>http://localhost:8983/solr/movie.html?210245</url></doc>

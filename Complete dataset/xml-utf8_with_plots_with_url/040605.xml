@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="040605">
+  <docid>040605</docid>
+  <title>Angustia</title>
+  <year>1987</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Sabin, Tom</editor>
+  </editors>
+  <genres>
+    <genre>Horror</genre>
+  </genres>
+  <keywords>
+    <keyword>twist-in-the-end</keyword>
+    <keyword>film-in-film</keyword>
+    <keyword>movie-theater</keyword>
+    <keyword>snail</keyword>
+    <keyword>contact-lens</keyword>
+    <keyword>spiral</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>obsession</keyword>
+    <keyword>hypnotism</keyword>
+    <keyword>dove</keyword>
+    <keyword>serial-killer</keyword>
+    <keyword>mutilation</keyword>
+    <keyword>ophthalmologist</keyword>
+    <keyword>eyeball</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>slasher</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Spain</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="UK">18</certificate>
+    <certificate country="Australia">R</certificate>
+    <certificate country="USA">R</certificate>
+    <certificate country="France">-12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Portugal">February 1989</releasedate>
+    <releasedate country="West Germany">30 June 1988</releasedate>
+    <releasedate country="Spain">23 March 1987</releasedate>
+    <releasedate country="Finland">2 November 2002</releasedate>
+    <releasedate country="USA">8 January 1988</releasedate>
+    <releasedate country="France">19 April 1989</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Argentina">95</runningtime>
+    <runningtime country="Portugal">83</runningtime>
+    <runningtime country="default">86</runningtime>
+    <runningtime country="USA">89</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Luna, Bigas</director>
+  </directors>
+  <producers>
+    <producer>Visa, Xavier</producer>
+    <producer>Ayoub, George</producer>
+    <producer>Coromina, Andreu</producer>
+    <producer>Coromina, Pepón</producer>
+  </producers>
+  <composers>
+    <composer>Pagán, José Manuel</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alaban, Beatriz</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Alger, May</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Amposta, José Luis</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Auba, Marc</actor>
+      <role>Jack (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Azarian, Mani</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Azulay, Eric</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Azulay, Jean</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Azulay, Ricardo</actor>
+      <role>Police Commander (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Baker, Nat (I)</actor>
+      <role>Teaching Doctor (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Battcheri, Sandra</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Bergoño, Gemma</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Berkley, Robert</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Bigas, Betty</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Bird, Wendy</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Blackburn, Joy</actor>
+      <role>Concession Girl (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Blumet, Mailena</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Bohigas, Maria</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Borchaca, Josephine</actor>
+      <role>Concession Girl (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Borchaca, Margarita</actor>
+      <role>Nurse in Street (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Braum, Clause</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Brown, Steven (II)</actor>
+      <role>SWAT Man #1 (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Caballerias, Pedro</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Canal, Constanti</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Carrasco, Julia (I)</actor>
+      <role>Nurse in Street - New movie/New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Castaña, Ernesto</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Michael (II)</actor>
+      <role>Projectionist (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Chapper, Walter</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Chucarro, Jose M.</actor>
+      <role>Caroline's Boyfriend (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Corbet, Tony</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Cordoba, Cristina</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Costa, Jaume</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Cowdery, George</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Craven, Frank (II)</actor>
+      <role>Sleepy (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Crehvet, Elisa</actor>
+      <role>Ann (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Criton, Tim</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Cuxart, Pep</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>De La Cruz, Juana</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Dinky (I)</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Durán, Javier (III)</actor>
+      <role>Moe (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Espinosa, Jose (II)</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Estivill, Jordi</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Fabregas, Javier</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Farre, Cristina</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Federico, Luciano (I)</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Fernández, Mário</actor>
+      <role>Black Boy (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Ferrer, Jorge (I)</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Figueras, Jaume (I)</actor>
+      <role>New cinema spectator in ending credits</role>
+    </credit>
+    <credit>
+      <actor>Gahl, Norman</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Alvaro (I)</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Garcia, John (I)</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Rosa M.</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>García Lorca, Isabel</actor>
+      <role>Caroline Robinson (old movie)</role>
+    </credit>
+    <credit>
+      <actor>García, Ignacio (II)</actor>
+      <role>Medic (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Gari, Tatiana</actor>
+      <role>Nurse in Street (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Gascón, Merche</actor>
+      <role>Nurse at Clinic #2 (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Gil, Vicente</actor>
+      <role>Taxi Driver (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Gili, Gustavo</actor>
+      <role>Student #1 (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Guarino, Gustavo</actor>
+      <role>Hysterical Husband (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Guerín, María</actor>
+      <role>Nurse in Street (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Guillén, Víctor</actor>
+      <role>Sleepy (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Heald, Eva</actor>
+      <role>Granny (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Heald, Jack</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Heat, Michael</actor>
+      <role>Inspector (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Hellman, Smantha</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Herce, Ana</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Herce, Maria</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Hill, Craig (I)</actor>
+      <role>Doctor at Hospital (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Jové, Àngel</actor>
+      <role>The Killer (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Kincannon, Kit</actor>
+      <role>Salesman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Ledden, Edward</actor>
+      <role>Doctor Murphy (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Lerner, Michael (I)</actor>
+      <role>John Pressman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Linares, Margot</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Lloveras, Joan</actor>
+      <role>Medic (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Long, Robert (VII)</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Audrey</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>MacGlacken, Ana</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Macarini</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Maloney, Marc</actor>
+      <role>Elderly Man (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Manget, Patrice</actor>
+      <role>Nurse at Clinic #1 (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Manuel, Ana M.</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Marti, Juloia</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Martínez, Maribel (I)</actor>
+      <role>Hysterical Woman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Matas, Fabia</actor>
+      <role>SWAT Man #2 (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Matías, Emy</actor>
+      <role>Hairy Woman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Merelles, Alberto</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Molla, Yvonne</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Montfort, Miguel</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Moya, Javier (II)</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Nogurio, Joaquin</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Norman, Mr.</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>O'Rafferty, Fiacre</actor>
+      <role>Projectionist (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Parker, Bill (III)</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Parker, Mark (I)</actor>
+      <role>SWAT Man #3 (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Parker, Memo</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Pier, Eric</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Pocino, Benito</actor>
+      <role>Popcorn Man (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Price, Gilbert</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Rabella, Francesco</actor>
+      <role>Don (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Regueiro, Antonio</actor>
+      <role>Student #2 (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Ribas, Joaquín</actor>
+      <role>Student #3 (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Rodgers, Philip</actor>
+      <role>Medic (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Ros, Jaime</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Rosas, Pep</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Ràfols, Mingo</actor>
+      <role>Chicano (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Salarich, Miguel</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Salinas, Rafael</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Shelly, John (I)</actor>
+      <role>Patty's Father (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Soto, Jean Paul</actor>
+      <role>Manny (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Randall</actor>
+      <role>First Murder (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Tella, Jose M.</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Torras, Jorge</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Tuning, Michael</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Turnill, Edward</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Verges, Jophine</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Vicente, David</actor>
+      <role>New cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Vidal, Pedro (III)</actor>
+      <role>Policeman (old movie)</role>
+    </credit>
+    <credit>
+      <actor>Vilaplana, Josep</actor>
+      <role>Old cinema spectator</role>
+    </credit>
+    <credit>
+      <actor>Wolberg, Joe</actor>
+      <role>SWAT Commander (new movie)</role>
+    </credit>
+    <credit>
+      <actor>Álvarez, Tito (I)</actor>
+      <role>Policeman (new movie)</role>
+    </credit>
+  </cast>
+<plot>A film-within-a-film thriller about two teen girls among a small group of people whom are terrorized in a movie theater by a killer while watching a horror film about a murderous optometrist who stalks his victims in a movie theater in the film.</plot><url>http://localhost:8983/solr/movie.html?040605</url></doc>

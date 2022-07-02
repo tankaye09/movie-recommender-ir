@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="292767">
+  <docid>292767</docid>
+  <title>Kingdom Hearts II</title>
+  <year>2005</year>
+  <type>VideoGame</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Mystery</genre>
+    <genre>Comedy</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <keywords>
+    <keyword>square</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>donald-duck</keyword>
+    <keyword>cartoon-duck</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>piglet</keyword>
+    <keyword>second-part</keyword>
+    <keyword>fictional-war</keyword>
+    <keyword>hercules</keyword>
+    <keyword>mickey-mouse</keyword>
+    <keyword>winnie-the-pooh</keyword>
+    <keyword>pig</keyword>
+    <keyword>duck</keyword>
+    <keyword>bishounen</keyword>
+    <keyword>lion</keyword>
+    <keyword>final-fantasy</keyword>
+    <keyword>king</keyword>
+    <keyword>jack-sparrow</keyword>
+    <keyword>peter-pan</keyword>
+    <keyword>sequel</keyword>
+    <keyword>mermaid</keyword>
+    <keyword>jiminy-cricket</keyword>
+    <keyword>daisy-duck</keyword>
+    <keyword>teapot</keyword>
+    <keyword>goofy-the-character</keyword>
+    <keyword>owl</keyword>
+    <keyword>crossover</keyword>
+    <keyword>chicken-little</keyword>
+    <keyword>aladdin</keyword>
+    <keyword>santa-claus</keyword>
+    <keyword>pluto-the-character</keyword>
+    <keyword>cricket</keyword>
+  </keywords>
+  <languages>
+    <language>Japanese</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Japan</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">E10+</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Japan">22 December 2005</releasedate>
+    <releasedate country="UK">29 September 2006</releasedate>
+    <releasedate country="Germany">29 September 2006</releasedate>
+    <releasedate country="France">28 September 2006</releasedate>
+    <releasedate country="Ireland">29 September 2006</releasedate>
+    <releasedate country="Australia">28 September 2006</releasedate>
+    <releasedate country="Italy">29 September 2006</releasedate>
+    <releasedate country="USA">28 March 2006</releasedate>
+  </releasedates>
+  <directors>
+    <director>Nomura, Tetsuya</director>
+  </directors>
+  <producers>
+    <producer>Chen, Patrick</producer>
+    <producer>Kitase, Yoshinori</producer>
+    <producer>Honda, Keiji</producer>
+    <producer>Wada, Yoichi (II)</producer>
+    <producer>Hashimoto, Shinji</producer>
+    <producer>Kato, Akira (III)</producer>
+    <producer>Ishioka, Sonoko</producer>
+    <producer>Yamamoto, Emiko (II)</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Adams, Brandon Quintin</actor>
+      <role>Raijin (Rai)</role>
+    </credit>
+    <credit>
+      <actor>Akimoto, Yôsuke</actor>
+      <role>Xaldin</role>
+    </credit>
+    <credit>
+      <actor>Allwine, Wayne</actor>
+      <role>King Mickey Mouse</role>
+    </credit>
+    <credit>
+      <actor>Anselmo, Tony</actor>
+      <role>Donald Duck</role>
+    </credit>
+    <credit>
+      <actor>Aoki, Mayuko</actor>
+      <role>Yuna/Selphie Tilmitt</role>
+    </credit>
+    <credit>
+      <actor>Aoyagi, Yakashi</actor>
+      <role>Mickey Mouse</role>
+    </credit>
+    <credit>
+      <actor>Asô, Kaori</actor>
+      <role>Princess Jasmine</role>
+    </credit>
+    <credit>
+      <actor>Asô, Miyoko</actor>
+      <role>Flora</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Christopher Daniel</actor>
+      <role>Prince Eric</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Merlin/Lumiere/Barrel</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jimmy (III)</actor>
+      <role>Roo</role>
+    </credit>
+    <credit>
+      <actor>Benson, Jodi</actor>
+      <role>Ariel</role>
+    </credit>
+    <credit>
+      <actor>Benson, Robby</actor>
+      <role>Beast</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Eeyore</role>
+    </credit>
+    <credit>
+      <actor>Billingslea, Beau</actor>
+      <role>Bo'Sun/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Blakeslee, Susanne</actor>
+      <role>Maleficent/Flora/Twilight Town computer</role>
+    </credit>
+    <credit>
+      <actor>Bowen, Jillian (I)</actor>
+      <role>Fujin (Fuu)</role>
+    </credit>
+    <credit>
+      <actor>Boxleitner, Bruce</actor>
+      <role>Tron</role>
+    </credit>
+    <credit>
+      <actor>Braff, Zach</actor>
+      <role>Chicken Little</role>
+    </credit>
+    <credit>
+      <actor>Buckley, A.J. (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Burress, Hedy</actor>
+      <role>Yuna</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Dale/MCP/Santa Claus/Sark/Shan-Yu/The Peddler/Yen Sid/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Burton, Steve (I)</actor>
+      <role>Cloud Strife</role>
+    </credit>
+    <credit>
+      <actor>Butcher, Paul</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Eddie (I)</actor>
+      <role>Jiminy Cricket</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Pat (I)</actor>
+      <role>Ursula</role>
+    </credit>
+    <credit>
+      <actor>Castellaneta, Dan</actor>
+      <role>Genie</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Cam</actor>
+      <role>Simba</role>
+    </credit>
+    <credit>
+      <actor>Clotworthy, Robert</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cook, Rachael Leigh</actor>
+      <role>Tifa Lockhart</role>
+    </credit>
+    <credit>
+      <actor>Costanzo, Robert</actor>
+      <role>Philoctetes (Phil)</role>
+    </credit>
+    <credit>
+      <actor>Cowden, Justin</actor>
+      <role>Hayner</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Ed/Pete/Tigger/Winnie the Pooh</role>
+    </credit>
+    <credit>
+      <actor>Delaney, Kevin (III)</actor>
+      <role>Tournament Announcer</role>
+    </credit>
+    <credit>
+      <actor>Di Cicco, Jessica</actor>
+      <role>Olette</role>
+    </credit>
+    <credit>
+      <actor>Di Maggio, John</actor>
+      <role>Jacoby/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Dirickson, Barbara</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Disney, Melissa</actor>
+      <role>Vivi Ornitier</role>
+    </credit>
+    <credit>
+      <actor>Doi, Mika</actor>
+      <role>Daisy Duck</role>
+    </credit>
+    <credit>
+      <actor>Doi, Yuko</actor>
+      <role>Sally/Shock</role>
+    </credit>
+    <credit>
+      <actor>Donovan, Tate</actor>
+      <role>Hercules</role>
+    </credit>
+    <credit>
+      <actor>Downes, Robin Atkin</actor>
+      <role>Luxord</role>
+    </credit>
+    <credit>
+      <actor>Draper, Courtnee</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ebara, Masashi</actor>
+      <role>Lumiere</role>
+    </credit>
+    <credit>
+      <actor>Edgerly, Chris</actor>
+      <role>Cid Highwind</role>
+    </credit>
+    <credit>
+      <actor>Egan, Susan</actor>
+      <role>Megara</role>
+    </credit>
+    <credit>
+      <actor>Epcar, Richard</actor>
+      <role>Ansem (Xehanort's Heartless)/Xehanort</role>
+    </credit>
+    <credit>
+      <actor>Erholtz, Doug</actor>
+      <role>Squall Leonhart (Leon)</role>
+    </credit>
+    <credit>
+      <actor>Farmer, Bill (I)</actor>
+      <role>Goofy Goof/Pluto/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Fierstein, Harvey</actor>
+      <role>Yao</role>
+    </credit>
+    <credit>
+      <actor>Fisher, David Dayan</actor>
+      <role>Xaldin</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Quinton</actor>
+      <role>Axel</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Crispin</actor>
+      <role>Setzer Gabbiani/Will Turner/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Jonathan (I)</actor>
+      <role>Jafar</role>
+    </credit>
+    <credit>
+      <actor>Friedle, Will</actor>
+      <role>Seifer Almasy</role>
+    </credit>
+    <credit>
+      <actor>Fujioka, Hiroshi (I)</actor>
+      <role>Shan-Yu</role>
+    </credit>
+    <credit>
+      <actor>Fujiwara, Keiji</actor>
+      <role>Axel</role>
+    </credit>
+    <credit>
+      <actor>Fukuda, Kimiko (I)</actor>
+      <role>Mrs. Potts</role>
+    </credit>
+    <credit>
+      <actor>Funaki, Masato</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Gallagher, David (I)</actor>
+      <role>Riku</role>
+    </credit>
+    <credit>
+      <actor>Genda, Tesshô</actor>
+      <role>Tigger</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Capt. Barbossa</role>
+    </credit>
+    <credit>
+      <actor>Goris, Parker</actor>
+      <role>Flounder</role>
+    </credit>
+    <credit>
+      <actor>Gottfried, Gilbert</actor>
+      <role>Iago</role>
+    </credit>
+    <credit>
+      <actor>Gough, Michael (II)</actor>
+      <role>Gopher</role>
+    </credit>
+    <credit>
+      <actor>Guillaume, Robert</actor>
+      <role>Rafiki</role>
+    </credit>
+    <credit>
+      <actor>Hamano, Kazuko</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Hanamura, Riko</actor>
+      <role>Nala</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Dr. Finkelstein/Lock</role>
+    </credit>
+    <credit>
+      <actor>Hatanaka, Hiroshi</actor>
+      <role>Oogie Boogie/Pumbaa</role>
+    </credit>
+    <credit>
+      <actor>Hayashi, Yu</actor>
+      <role>Peter Pan</role>
+    </credit>
+    <credit>
+      <actor>Hirakawa, Daisuke</actor>
+      <role>William Turner</role>
+    </credit>
+    <credit>
+      <actor>Hirasawa, Yuka</actor>
+      <role>Olette</role>
+    </credit>
+    <credit>
+      <actor>Hirata, Hiroaki (I)</actor>
+      <role>Captain Jack Sparrow</role>
+    </credit>
+    <credit>
+      <actor>Hiura, Ben</actor>
+      <role>Banzai The Hyena</role>
+    </credit>
+    <credit>
+      <actor>Horan, James</actor>
+      <role>Scar</role>
+    </credit>
+    <credit>
+      <actor>Hosono, Masayo</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Houser, Christie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ichimura, Masachika</actor>
+      <role>Jack Skellington</role>
+    </credit>
+    <credit>
+      <actor>Inaba, Minoru</actor>
+      <role>Dale</role>
+    </credit>
+    <credit>
+      <actor>Inagaki, Takashi (I)</actor>
+      <role>Yen Sid</role>
+    </credit>
+    <credit>
+      <actor>Inoue, Aki</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Inoue, Kazuhiko (I)</actor>
+      <role>Prince Eric</role>
+    </credit>
+    <credit>
+      <actor>Irino, Miyu</actor>
+      <role>Sora</role>
+    </credit>
+    <credit>
+      <actor>Ishida, Tarô</actor>
+      <role>King Triton/Eeyore</role>
+    </credit>
+    <credit>
+      <actor>Ishikawa, Hideo</actor>
+      <role>Squall Leonhart/Auron</role>
+    </credit>
+    <credit>
+      <actor>Ito, Ayumi</actor>
+      <role>Tifa Lockhart</role>
+    </credit>
+    <credit>
+      <actor>Itô, Eri (I)</actor>
+      <role>Belle</role>
+    </credit>
+    <credit>
+      <actor>Joles, Bob</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Jones, James Earl</actor>
+      <role>Mufasa</role>
+    </credit>
+    <credit>
+      <actor>Jô, Haruhiko</actor>
+      <role>Captain Barbossa/Scar</role>
+    </credit>
+    <credit>
+      <actor>Kaihoko, Takuya</actor>
+      <role>Flounder</role>
+    </credit>
+    <credit>
+      <actor>Kakazu, Yumi</actor>
+      <role>Yuffie Kisaragi</role>
+    </credit>
+    <credit>
+      <actor>Kameyama, Sukekiyo</actor>
+      <role>Winnie The Pooh</role>
+    </credit>
+    <credit>
+      <actor>Kanao, Tetsuo</actor>
+      <role>Sark</role>
+    </credit>
+    <credit>
+      <actor>Kataoka, Tomie</actor>
+      <role>Shenzi The Hyena/Kanga</role>
+    </credit>
+    <credit>
+      <actor>Kimotsuki, Kaneta</actor>
+      <role>Jiminy Cricket</role>
+    </credit>
+    <credit>
+      <actor>Kobayashi, Osamu (I)</actor>
+      <role>The Emperor of China</role>
+    </credit>
+    <credit>
+      <actor>Koizumi, Ichirota</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kondo, Takako</actor>
+      <role>Wardrobe</role>
+    </credit>
+    <credit>
+      <actor>Koyasu, Takehito</actor>
+      <role>Seifer Almasy</role>
+    </credit>
+    <credit>
+      <actor>Kujira</actor>
+      <role>Ursula</role>
+    </credit>
+    <credit>
+      <actor>Kumakura, Kazuo</actor>
+      <role>Cogsworth</role>
+    </credit>
+    <credit>
+      <actor>Kyôda, Hisako</actor>
+      <role>Fauna</role>
+    </credit>
+    <credit>
+      <actor>Landor, Rosalyn</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lanoil, Bruce</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lansbury, Angela</actor>
+      <role>Mrs. Potts</role>
+    </credit>
+    <credit>
+      <actor>Larkin, Linda</actor>
+      <role>Jasmine</role>
+    </credit>
+    <credit>
+      <actor>Leadbeater, Adam</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lee, Christopher (I)</actor>
+      <role>DiZ/Ansem the Wise</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Daisy Duck/Chip/Merryweather/Kanga/Shenzi</role>
+    </credit>
+    <credit>
+      <actor>Maeda, Hiromi</actor>
+      <role>Ariel's Sister #1</role>
+    </credit>
+    <credit>
+      <actor>Manoux, J.P.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Marin, Cheech</actor>
+      <role>Banzai</role>
+    </credit>
+    <credit>
+      <actor>Marlette, Molly</actor>
+      <role>Selphie Tilmitt</role>
+    </credit>
+    <credit>
+      <actor>Marquette, Sean</actor>
+      <role>Pence</role>
+    </credit>
+    <credit>
+      <actor>Mars, Kenneth</actor>
+      <role>King Triton</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Vanessa</actor>
+      <role>Nala</role>
+    </credit>
+    <credit>
+      <actor>Matsumoto, Marika</actor>
+      <role>Rikku</role>
+    </credit>
+    <credit>
+      <actor>Matsumoto, Rica</actor>
+      <role>Megara</role>
+    </credit>
+    <credit>
+      <actor>Matsumoto, Yasunori</actor>
+      <role>Hercules</role>
+    </credit>
+    <credit>
+      <actor>Matsuo, Takashi (I)</actor>
+      <role>The Merchant</role>
+    </credit>
+    <credit>
+      <actor>Matsuora, Chie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Matsuzawa, Shigeo</actor>
+      <role>Barrel</role>
+    </credit>
+    <credit>
+      <actor>McCartney, Jesse</actor>
+      <role>Roxas</role>
+    </credit>
+    <credit>
+      <actor>McKenzie, Matt (I)</actor>
+      <role>Auron</role>
+    </credit>
+    <credit>
+      <actor>Miki, Shinichirô</actor>
+      <role>Aladdin</role>
+    </credit>
+    <credit>
+      <actor>Ming-Na</actor>
+      <role>Mulan</role>
+    </credit>
+    <credit>
+      <actor>Mitsuya, Yûji</actor>
+      <role>Dr. Finkelstein/Timon</role>
+    </credit>
+    <credit>
+      <actor>Miyamoto, Mitsuru</actor>
+      <role>Simba</role>
+    </credit>
+    <credit>
+      <actor>Miyano, Mamoru</actor>
+      <role>Riku</role>
+    </credit>
+    <credit>
+      <actor>Mizutani, Yûko</actor>
+      <role>Minnie Mouse</role>
+    </credit>
+    <credit>
+      <actor>Mon, Monie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Morikawa, Toshiyuki</actor>
+      <role>Sephiroth</role>
+    </credit>
+    <credit>
+      <actor>Morita, Pat</actor>
+      <role>Emperor of China</role>
+    </credit>
+    <credit>
+      <actor>Moseley, Mark (I)</actor>
+      <role>Mushu</role>
+    </credit>
+    <credit>
+      <actor>Nagae, Tomoaki</actor>
+      <role>Santa Claus</role>
+    </credit>
+    <credit>
+      <actor>Nagai, Ichirô</actor>
+      <role>Philoctetes</role>
+    </credit>
+    <credit>
+      <actor>Nakai, Kazuya</actor>
+      <role>Raijin (Rai)</role>
+    </credit>
+    <credit>
+      <actor>Nakao, Ryûsei</actor>
+      <role>Ling</role>
+    </credit>
+    <credit>
+      <actor>Nakata, Jôji</actor>
+      <role>Luxord</role>
+    </credit>
+    <credit>
+      <actor>Newbern, George</actor>
+      <role>Sephiroth</role>
+    </credit>
+    <credit>
+      <actor>O'Donohue, Ryan</actor>
+      <role>Demyx</role>
+    </credit>
+    <credit>
+      <actor>Oates, Travis</actor>
+      <role>Piglett</role>
+    </credit>
+    <credit>
+      <actor>Oda, Yutaka</actor>
+      <role>Yao</role>
+    </credit>
+    <credit>
+      <actor>Ogata, Mitsuru</actor>
+      <role>Piglet</role>
+    </credit>
+    <credit>
+      <actor>Ogawa, Kazuki</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Okiayu, Ryôtarô</actor>
+      <role>Setzer Gabbiani</role>
+    </credit>
+    <credit>
+      <actor>Olson, Jon (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Osment, Haley Joel</actor>
+      <role>Sora</role>
+    </credit>
+    <credit>
+      <actor>Page, Ken</actor>
+      <role>Oogie Boogie</role>
+    </credit>
+    <credit>
+      <actor>Paul, Adam (I)</actor>
+      <role>Tournament Announcer/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Pierce, Bradley</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Sebastian</role>
+    </credit>
+    <credit>
+      <actor>Sabella, Ernie</actor>
+      <role>Pumbaa</role>
+    </credit>
+    <credit>
+      <actor>Saikachi, Ryûji</actor>
+      <role>Rafiki</role>
+    </credit>
+    <credit>
+      <actor>Sakurai, Takahiro</actor>
+      <role>Cloud Strife</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Chris (III)</actor>
+      <role>Stitch</role>
+    </credit>
+    <credit>
+      <actor>Sansom, Ken</actor>
+      <role>Rabbit</role>
+    </credit>
+    <credit>
+      <actor>Sarandon, Chris (I)</actor>
+      <role>Jack Skellington</role>
+    </credit>
+    <credit>
+      <actor>Sasaki, Kazunori</actor>
+      <role>Hayner</role>
+    </credit>
+    <credit>
+      <actor>Sato, Ginpei</actor>
+      <role>Saix</role>
+    </credit>
+    <credit>
+      <actor>Sawaki, Ikuya</actor>
+      <role>Master Control Program</role>
+    </credit>
+    <credit>
+      <actor>Shadix, Glenn</actor>
+      <role>Mayor of Halloween Town</role>
+    </credit>
+    <credit>
+      <actor>Shimada, Kyusaku</actor>
+      <role>Hades</role>
+    </credit>
+    <credit>
+      <actor>Shimaka, Yu</actor>
+      <role>Goofy</role>
+    </credit>
+    <credit>
+      <actor>Shimaka, Yutaka</actor>
+      <role>Goofy Goof</role>
+    </credit>
+    <credit>
+      <actor>Shioya, Kôzô</actor>
+      <role>Chien-Po</role>
+    </credit>
+    <credit>
+      <actor>Sonobe, Yoshinori</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Sonooka, Shintarou</actor>
+      <role>Captain Li Shang/Lock</role>
+    </credit>
+    <credit>
+      <actor>St. Peter, Paul</actor>
+      <role>Xemnas</role>
+    </credit>
+    <credit>
+      <actor>Steele, Christopher (II)</actor>
+      <role>Peter Pan</role>
+    </credit>
+    <credit>
+      <actor>Stiers, David Ogden</actor>
+      <role>Cogsworth</role>
+    </credit>
+    <credit>
+      <actor>Stojka, Andre</actor>
+      <role>Owl</role>
+    </credit>
+    <credit>
+      <actor>Stuart, James Patrick</actor>
+      <role>Xigbar</role>
+    </credit>
+    <credit>
+      <actor>Sugimoto, Masaya</actor>
+      <role>Roo</role>
+    </credit>
+    <credit>
+      <actor>Suwabe, Junichi</actor>
+      <role>Tournament Announcer</role>
+    </credit>
+    <credit>
+      <actor>Suzumura, Kenichi</actor>
+      <role>Demyx</role>
+    </credit>
+    <credit>
+      <actor>Takarada, Akira</actor>
+      <role>Jafar</role>
+    </credit>
+    <credit>
+      <actor>Takashina, Toshitsugu</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Takizawa, Roko</actor>
+      <role>Chip</role>
+    </credit>
+    <credit>
+      <actor>Tatsuta, Naoki</actor>
+      <role>Rabbit</role>
+    </credit>
+    <credit>
+      <actor>Taya, Hayato</actor>
+      <role>Pence</role>
+    </credit>
+    <credit>
+      <actor>Taylor, James Arnold</actor>
+      <role>Capt. Jack Sparrow/Timon</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Jonathan Taylor</actor>
+      <role>Young Simba</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Kirk</actor>
+      <role>Saïx</role>
+    </credit>
+    <credit>
+      <actor>Tondo, Jerry</actor>
+      <role>Chien-Po</role>
+    </credit>
+    <credit>
+      <actor>Tsuchida, Hiroshi</actor>
+      <role>Tron</role>
+    </credit>
+    <credit>
+      <actor>Tsujimura, Mahito</actor>
+      <role>Gopher</role>
+    </credit>
+    <credit>
+      <actor>Uchida, Minoru</actor>
+      <role>Merlin</role>
+    </credit>
+    <credit>
+      <actor>Uchiyama, Koki</actor>
+      <role>Roxas</role>
+    </credit>
+    <credit>
+      <actor>Ueda, Toshiya</actor>
+      <role>Owl</role>
+    </credit>
+    <credit>
+      <actor>Wakamoto, Norio</actor>
+      <role>Xemnas</role>
+    </credit>
+    <credit>
+      <actor>Wakayama, Genzô</actor>
+      <role>DiZ/Ansem the Wise</role>
+    </credit>
+    <credit>
+      <actor>Watanabe, Gedde</actor>
+      <role>Ling</role>
+    </credit>
+    <credit>
+      <actor>Watanabe, Hideo (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Weinger, Scott</actor>
+      <role>Aladdin</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Abu</role>
+    </credit>
+    <credit>
+      <actor>Wong, B.D.</actor>
+      <role>Captain Li Shang</role>
+    </credit>
+    <credit>
+      <actor>Woods, James (I)</actor>
+      <role>Hades</role>
+    </credit>
+    <credit>
+      <actor>Yamadera, Kôichi</actor>
+      <role>Donald Duck/Mushu/Beast/Sebastian/Genie/Stitch</role>
+    </credit>
+    <credit>
+      <actor>Yamaji, Kazuhiro</actor>
+      <role>Cid Highwind</role>
+    </credit>
+    <credit>
+      <actor>Yamauchi, Tsutomu</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Yoshino, Takahiro</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ôhira, Tôru</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Ôkawa, Tôru</actor>
+      <role>Iago</role>
+    </credit>
+    <credit>
+      <actor>Ôsugi, Jun</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ôtsuka, Akio</actor>
+      <role>Ansem (Xehanort's Heartless)/Xehanort</role>
+    </credit>
+    <credit>
+      <actor>Ôtsuka, Hôchû</actor>
+      <role>Xigbar</role>
+    </credit>
+    <credit>
+      <actor>Ôwada, Shin'ya</actor>
+      <role>Mufasa</role>
+    </credit>
+  </cast>
+<plot>One year after the events of Kingdom Hearts: Chain of Memories, Sora, Donald, and goofy awaken in Twilight Town. Bent on his quest to find Riku and King Mickey, the three set off on another adventure. However, they soon discover that while they have been asleep, the Heartless are back! Not only that, but Sora, Donald, and Goofy must face new enemies: The Nobodies and Organization 13! They set off on a quest to rid the world of the Heartless once more, uncovering the many secrets that linger about Ansem and Organization 13...</plot><url>http://localhost:8983/solr/movie.html?292767</url></doc>

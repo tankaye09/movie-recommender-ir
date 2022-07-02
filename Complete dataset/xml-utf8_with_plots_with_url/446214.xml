@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="446214">
+  <docid>446214</docid>
+  <title>Promise</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>McQuery, Brian</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">21 August 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">5</runningtime>
+  </runningtimes>
+  <directors>
+    <director>McQuery, Brian</director>
+  </directors>
+  <writers>
+    <writer>McQuery, Brian</writer>
+  </writers>
+  <composers>
+    <composer>Leven, Mark</composer>
+    <composer>Sundstrom, Karl</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Melone, Patricia</actor>
+      <role>Girl in the photo</role>
+    </credit>
+    <credit>
+      <actor>Newell, Jack</actor>
+      <role>Friend</role>
+    </credit>
+    <credit>
+      <actor>Tutor, Jayme</actor>
+      <role>Young Man</role>
+    </credit>
+  </cast>
+<plot>A young man on a journey. He drives out to the middle of nowhere to fulfill his promise. His car breaks down, but he soldiers on and takes to the road on foot. Attempts at hitchhiking fail and he ends up sleeping out in a field. The next day he reaches a gas station and calls a friend, who drives him to his final destination.</plot><url>http://localhost:8983/solr/movie.html?446214</url></doc>

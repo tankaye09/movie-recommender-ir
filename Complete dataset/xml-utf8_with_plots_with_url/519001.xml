@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="519001">
+  <docid>519001</docid>
+  <title>Student Film</title>
+  <year>1993</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Holmes, Margaret (II)</editor>
+    <editor>O'Brien, Dermot</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Ireland</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">42</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Duffy, Alan (I)</director>
+  </directors>
+  <writers>
+    <writer>Duffy, Alan (I)</writer>
+    <writer>Gregg, Alan (II)</writer>
+  </writers>
+  <composers>
+    <composer>Cronin, Derek</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bannon, Eddie</actor>
+      <role>Julian</role>
+    </credit>
+    <credit>
+      <actor>Dwyer, Michael (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gildea, Kevin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Hanlon, Ardal</actor>
+      <role>Myles</role>
+    </credit>
+    <credit>
+      <actor>Rooney, Joe (I)</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The Spinal Tap of the student film world. Five earnest young filmmakers set about making a film that will change the world. Or at least a film that will be watched by more than 10 people. This spoof documentary tracks their early production meetings right through principal photography and concludes with their dream entry into the semi-prestigious Irish Film Festival.</plot><url>http://localhost:8983/solr/movie.html?519001</url></doc>

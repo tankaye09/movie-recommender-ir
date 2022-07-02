@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="470455">
+  <docid>470455</docid>
+  <title>Run</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Stryker, Bayard</editor>
+    <editor>Zien, Matt</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>escape</keyword>
+    <keyword>running</keyword>
+    <keyword>psa</keyword>
+    <keyword>amateur</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Canada</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">22 April 2006</releasedate>
+    <releasedate country="USA">17 May 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Canada">4</runningtime>
+    <runningtime country="default">43</runningtime>
+    <runningtime country="USA">4</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Brunskill, Nathan</director>
+    <director>Zien, Matt</director>
+  </directors>
+  <writers>
+    <writer>Brunskill, Nathan</writer>
+    <writer>Zien, Matt</writer>
+  </writers>
+  <composers>
+    <composer>MacLeod, Kevin (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Allen, Steven Lee</actor>
+      <role>John</role>
+    </credit>
+    <credit>
+      <actor>Belkin, Wolfe</actor>
+      <role>Young Man</role>
+    </credit>
+    <credit>
+      <actor>Nagel, Michael (I)</actor>
+      <role>Rich</role>
+    </credit>
+  </cast>
+<plot>A young man runs from a seemingly evil force, only to find what that force really is.</plot><url>http://localhost:8983/solr/movie.html?470455</url></doc>

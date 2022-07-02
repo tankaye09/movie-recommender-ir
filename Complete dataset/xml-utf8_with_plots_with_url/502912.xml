@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="502912">
+  <docid>502912</docid>
+  <title>Smurfs</title>
+  <year>1981</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <keywords>
+    <keyword>village</keyword>
+    <keyword>based-on-comic</keyword>
+    <keyword>sorcerer</keyword>
+    <keyword>cat</keyword>
+    <keyword>middle-age</keyword>
+    <keyword>blue</keyword>
+    <keyword>friendship</keyword>
+    <keyword>kids-and-family</keyword>
+    <keyword>problem-solving</keyword>
+    <keyword>scheme</keyword>
+    <keyword>wisdom</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>community</keyword>
+    <keyword>time-travel</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>Belgium</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Netherlands">AL</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="Australia">G</certificate>
+    <certificate country="USA">TV-Y</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">1 October 1982</releasedate>
+    <releasedate country="Poland">2 May 2005</releasedate>
+    <releasedate country="Canada">7 November 1981</releasedate>
+    <releasedate country="USA">12 November 1983</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">90</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Dufau, Oscar</director>
+    <director>Goe, Bob</director>
+    <director>Gordon, George (I)</director>
+    <director>Hathcock, Bob</director>
+    <director>Kimball, John</director>
+    <director>Lusk, Don</director>
+    <director>Sarbry, Jay</director>
+    <director>Sommer, Paul (II)</director>
+    <director>Urbano, Carl</director>
+    <director>Walker, John (III)</director>
+    <director>Zamora, Rudy (I)</director>
+    <director>Zaslove, Alan</director>
+  </directors>
+  <producers>
+    <producer>Grosvenor, Charles</producer>
+    <producer>Hathcock, Bob</producer>
+    <producer>Takamoto, Iwao</producer>
+    <producer>Barbera, Joseph</producer>
+    <producer>Hanna, William (I)</producer>
+    <producer>Monnickendam, Freddy</producer>
+    <producer>Baldwin, Gerard (I)</producer>
+    <producer>Hathcock, Bob</producer>
+    <producer>Jurwich, Don</producer>
+    <producer>Kubiak, Walt</producer>
+    <producer>Sabella, Paul</producer>
+    <producer>Baldwin, Gerard (I)</producer>
+  </producers>
+  <writers>
+    <writer>Anasti, Tedd</writer>
+    <writer>Ayres, Gene</writer>
+    <writer>Barnes, Creighton</writer>
+    <writer>Bates, John (IX)</writer>
+    <writer>Bonaccorsi, John</writer>
+    <writer>Booth, Doug (II)</writer>
+    <writer>Burnett, Alan</writer>
+    <writer>Cameron, Patsy</writer>
+    <writer>Contreras, Ernie</writer>
+    <writer>Derek, Sean Catherine</writer>
+    <writer>Fogel, Rich</writer>
+    <writer>Geber, Claire</writer>
+    <writer>Hasley, William (I)</writer>
+    <writer>Hopps, Kevin</writer>
+    <writer>Hudock, John</writer>
+    <writer>Janson, Len</writer>
+    <writer>Jenkyns, Chris</writer>
+    <writer>Johnson, Catherine (V)</writer>
+    <writer>Kadrey, Richard</writer>
+    <writer>Langhans, Bob</writer>
+    <writer>Leopold, Glenn</writer>
+    <writer>Luckey, Kristina</writer>
+    <writer>Matheny, Bill</writer>
+    <writer>Menville, Chuck</writer>
+    <writer>Miller, Craig (I)</writer>
+    <writer>Naugle, Therese</writer>
+    <writer>Nesler, Bob</writer>
+    <writer>Neustein, Joseph</writer>
+    <writer>Novier, Frances</writer>
+    <writer>Pedersen, Ted (II)</writer>
+    <writer>Peyo (I)</writer>
+    <writer>Poole, Duane</writer>
+    <writer>Reaves, Michael (I)</writer>
+    <writer>Robbins, Reed (II)</writer>
+    <writer>Roberts, Cliff (I)</writer>
+    <writer>Segal, Jeff (II)</writer>
+    <writer>Swale, Tom</writer>
+    <writer>Villaire, David</writer>
+    <writer>Wetanson, Burt</writer>
+    <writer>Zicree, Marc Scott</writer>
+    <writer>Anasti, Tedd</writer>
+    <writer>Ayres, Gene</writer>
+    <writer>Baldwin, Gerard (I)</writer>
+    <writer>Barkin, Haskell</writer>
+    <writer>Barmeier, James</writer>
+    <writer>Bates, John (IX)</writer>
+    <writer>Bonaccorsi, John</writer>
+    <writer>Bradford, John (II)</writer>
+    <writer>Burnett, Alan</writer>
+    <writer>Cameron, Patsy</writer>
+    <writer>Contreras, Ernie</writer>
+    <writer>Derek, Sean Catherine</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Egbert, Glen</writer>
+    <writer>Fogel, Rich</writer>
+    <writer>Friedlob, Cynthia</writer>
+    <writer>Gabai, Evelyn</writer>
+    <writer>Hasley, William (I)</writer>
+    <writer>Hopps, Kevin</writer>
+    <writer>Janson, Len</writer>
+    <writer>Jenkyns, Chris</writer>
+    <writer>Keenan, William J.</writer>
+    <writer>Kron, Fred</writer>
+    <writer>Leopold, Glenn</writer>
+    <writer>Loy, John (I)</writer>
+    <writer>Matheny, Bill</writer>
+    <writer>McClellan, Mark (II)</writer>
+    <writer>Naugle, Therese</writer>
+    <writer>Novier, Frances</writer>
+    <writer>Painter, Sharon</writer>
+    <writer>Peyo (I)</writer>
+    <writer>Reaves, Michael (I)</writer>
+    <writer>Robbins, Reed (II)</writer>
+    <writer>Robertshaw, Gwen</writer>
+    <writer>Seidenberg, Mark</writer>
+    <writer>Semper, John</writer>
+    <writer>Spath, Thomas J.</writer>
+    <writer>Anasti, Tedd</writer>
+    <writer>Arnold, Jim (VII)</writer>
+    <writer>Averill, Morgan Flynn</writer>
+    <writer>Ayres, Gene</writer>
+    <writer>Baldwin, Gerard (I)</writer>
+    <writer>Bates, John (IX)</writer>
+    <writer>Beal, Mary</writer>
+    <writer>Belkin, Harriet</writer>
+    <writer>Belkin, Norman</writer>
+    <writer>Bonaccorsi, John</writer>
+    <writer>Bradford, John (II)</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Burnett, Alan</writer>
+    <writer>Cameron, Patsy</writer>
+    <writer>Campbell, Ron (II)</writer>
+    <writer>Collins, Terrie</writer>
+    <writer>Contreras, Ernie</writer>
+    <writer>Delporte, Yvan</writer>
+    <writer>Derek, Sean Catherine</writer>
+    <writer>Dini, Paul</writer>
+    <writer>Egbert, Glen</writer>
+    <writer>Fogel, Rich</writer>
+    <writer>Friedlob, Cynthia</writer>
+    <writer>Fries, Sandy</writer>
+    <writer>Gabai, Evelyn</writer>
+    <writer>Gilden, Mel</writer>
+    <writer>Hartnett, Joe</writer>
+    <writer>Hopps, Kevin</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>Jenkyns, Chris</writer>
+    <writer>Keenan, William J.</writer>
+    <writer>Keyes, Michael</writer>
+    <writer>Koonce, Ken</writer>
+    <writer>Leopold, Glenn</writer>
+    <writer>Loy, John (I)</writer>
+    <writer>Maliani, Lisa</writer>
+    <writer>Maliani, Michael</writer>
+    <writer>Matheny, Bill</writer>
+    <writer>Menville, Chuck</writer>
+    <writer>Merwin, Richard</writer>
+    <writer>Morreale Jr., Vin</writer>
+    <writer>Murray, J.C.</writer>
+    <writer>Naugle, Kathleen</writer>
+    <writer>Naugle, Therese</writer>
+    <writer>Novier, Frances</writer>
+    <writer>O'Hare, Jeffry</writer>
+    <writer>Otsuki, Chris</writer>
+    <writer>Painter, Sharon</writer>
+    <writer>Parker, LeRoy</writer>
+    <writer>Parker, Ray (III)</writer>
+    <writer>Parr, Larry</writer>
+    <writer>Peyo (I)</writer>
+    <writer>Quick, Marie</writer>
+    <writer>Reaves, Michael (I)</writer>
+    <writer>Robbins, Reed (II)</writer>
+    <writer>Segal, Jeff (II)</writer>
+    <writer>Seidenberg, Mark</writer>
+    <writer>Semper, John</writer>
+    <writer>VanLeuven, Hendrik</writer>
+    <writer>Villaire, David</writer>
+    <writer>Vipperman, Louis F.</writer>
+    <writer>Walla, Tom</writer>
+    <writer>Weimers, David</writer>
+    <writer>Wetanson, Burt</writer>
+    <writer>Wise, David (I)</writer>
+    <writer>Zicree, Marc Scott</writer>
+  </writers>
+  <composers>
+    <composer>Curtin, Hoyt</composer>
+    <composer>Gassman, Clark</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Natural 'Nat' Smurf (1984-1990)</role>
+    </credit>
+    <credit>
+      <actor>Adler, Charles (I)</actor>
+      <role>Natural 'Nat' Smurfling</role>
+    </credit>
+    <credit>
+      <actor>Algera, Marjolein</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Angel, Jack (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Aragon, Marlene</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Arbogast, Bob</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Arquette, Lewis</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Auberjonois, Rene</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Banfield, Bever-Leigh</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Barclay, Jered</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bart, Bram</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Begley Jr., Ed</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Behrens, Bernard</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Grouchy Smurf/Handy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Grouchy Smurf/Handy Smurf/Lazy Smurf/Johan (1982-1990)</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Handy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Bell, Michael (I)</actor>
+      <role>Handy Smurf/Lazy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Berger, Gregg</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bliss, Lucille</actor>
+      <role>Smurfette</role>
+    </credit>
+    <credit>
+      <actor>Bliss, Lucille</actor>
+      <role>Smurfette (1981-1990)</role>
+    </credit>
+    <credit>
+      <actor>Blu, Susan</actor>
+      <role>Granny Smurf (1988-1989)</role>
+    </credit>
+    <credit>
+      <actor>Booke, Sorrell</actor>
+      <role>Additional voices</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Peter (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Bussemaker, Reinout</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Butter, Fred</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buzzi, Ruth</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Callaway, William</actor>
+      <role>Clumsy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Callaway, William</actor>
+      <role>Clumsy Smurf/Painter Smurf</role>
+    </credit>
+    <credit>
+      <actor>Camen, Joey</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Camp, Hamilton</actor>
+      <role>Greedy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Camp, Hamilton</actor>
+      <role>Greedy Smurf/Harmony Smurf</role>
+    </credit>
+    <credit>
+      <actor>Carmel, Roger C.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Carroll, Victoria</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Catlett, Mary Jo</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Christopher, William</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Philip L.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cole, Selette</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Corden, Henry</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cornelissen, Hans</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cronyn, Tandy</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cullen, Peter (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Keene</actor>
+      <role>Balthazar</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Keene</actor>
+      <role>Balthazar (1982-1989)</role>
+    </credit>
+    <credit>
+      <actor>Darling, Jennifer</actor>
+      <role>Princess Salvina (1982-1989)</role>
+    </credit>
+    <credit>
+      <actor>DeLyon, Leo</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Delhez, Robert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Deutsch, Patti</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Dicker, Barbara</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Doucette, Jeff (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Drupsteen, Ruud</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dumat, Philippe</actor>
+      <role>Gargamel</role>
+    </credit>
+    <credit>
+      <actor>Dysart, Richard</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Edmiston, Walker</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Efron, Marshall</actor>
+      <role>Sloppy Smurf (1982-1984)</role>
+    </credit>
+    <credit>
+      <actor>Eiding, Paul</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Erdman, Richard (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Erhard, Bernard</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Foray, June</actor>
+      <role>Jokey Smurf</role>
+    </credit>
+    <credit>
+      <actor>Fraley, Pat (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Gary, Linda</actor>
+      <role>Dame Barbara (1982-1989)</role>
+    </credit>
+    <credit>
+      <actor>Gautier, Richard</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Henry (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Gocke, Justin</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Goldman, Danny (I)</actor>
+      <role>Brainy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Gorcum, Paul van</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gordon, Barry (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Hartman, Phil (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Hartmann, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hernandez, Gérard</actor>
+      <role>Grand Schtroumpf/Pirlouit</role>
+    </credit>
+    <credit>
+      <actor>Herwijnen, Carol van</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Holt, Bob</actor>
+      <role>The King (1982-1990)</role>
+    </credit>
+    <credit>
+      <actor>Houser, Jerry</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ingle, John</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Jansen, Dieter</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Arte</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kaplan, Marvin (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kessler, Zale</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Kincaid, Aron</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>King, Kip</actor>
+      <role>Tailor Smurf</role>
+    </credit>
+    <credit>
+      <actor>Kirby, Paul (II)</actor>
+      <role>Narator (1985-1990)</role>
+    </credit>
+    <credit>
+      <actor>Lax, Francis</actor>
+      <role>Schtroumpf à Lunettes/Schtroumpf Maladroit</role>
+    </credit>
+    <credit>
+      <actor>Leccia, François</actor>
+      <role>Johan</role>
+    </credit>
+    <credit>
+      <actor>Lee, Ruta</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lembeck, Michael</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Limburg, Stan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lurie, Allan</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacMillan, Norma</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Maloney, Patty</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McBroom, Amanda</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McClurg, Edie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McGee, Cindy</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McWhirter, Julie</actor>
+      <role>Baby Smurf (1984-1990)/Sassette Smurf (1985-1990)</role>
+    </credit>
+    <credit>
+      <actor>McWhirter, Julie</actor>
+      <role>Sassette Smurfling</role>
+    </credit>
+    <credit>
+      <actor>Medalis, Joseph G.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Meijer, Fred</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Melvin, Allan</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Papa Smurf</role>
+    </credit>
+    <credit>
+      <actor>Messick, Don</actor>
+      <role>Papa Smurf/Azrael</role>
+    </credit>
+    <credit>
+      <actor>Miller, Sidney (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Montsarrat, Céline</actor>
+      <role>Schtroumpfette</role>
+    </credit>
+    <credit>
+      <actor>Moss, Larry (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Muller, Hero</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Oppenheimer, Alan</actor>
+      <role>Father Time/Vanity Smurf</role>
+    </credit>
+    <credit>
+      <actor>Oppenheimer, Alan</actor>
+      <role>Vanity Smurf</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Perrin, Vic</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Polic II, Henry</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Proctor, Phil</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ramirez, Ken</actor>
+      <role>Hefty Smurf</role>
+    </credit>
+    <credit>
+      <actor>Reekers, Edward</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ridgely, Robert</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ruskin, Joseph</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Will (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Rye, Michael</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Schallert, William</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Schell, Ronnie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Schreiber, Avery</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Smit, Ger</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Smith, Hal</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Kris Erik</actor>
+      <role>Narrator (1981-1985)</role>
+    </credit>
+    <credit>
+      <actor>Stojka, Andre</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Tak, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Travalena, Fred</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Tremayne, Les</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Van Dusschoten, Frans</actor>
+      <role>Brilsmurf, knutselsmurf</role>
+    </credit>
+    <credit>
+      <actor>Vellema, Eelco</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Walston, Ray</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Weinrib, Lennie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Hefty Smurf</role>
+    </credit>
+    <credit>
+      <actor>Westerweel, Bas</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Baby Smurf</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Gargamel</role>
+    </credit>
+    <credit>
+      <actor>Winchell, Paul</actor>
+      <role>Gargamel (1981-1989)/Baby Smurf/Nosey Smurf</role>
+    </credit>
+    <credit>
+      <actor>Winters, Jonathan (I)</actor>
+      <role>Grandpa Smurf (1986-1990)/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Young, Alan (I)</actor>
+      <role>Farmer Smurf</role>
+    </credit>
+    <credit>
+      <actor>Young, Alan (I)</actor>
+      <role>Farmer Smurf/Scaredy Smurf</role>
+    </credit>
+    <credit>
+      <actor>Young, Alan (I)</actor>
+      <role>Miner Smurf (1984-1989)/Farmer Smurf (1982-1990)/Scaredy Smurf</role>
+    </credit>
+    <credit>
+      <actor>de Boer, Angelique</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>de Lange, Lucie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>van Hoof, Peter</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>van der Dool, Bert</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The Smurfs are little blue creatures that live in mushroom houses in a forest inhabited mainly by their own kind. The smurfs average daily routine is attempting to avoid Gargomel, an evil man who wants to kill our little blue friends. A long running and popular cartoon show.</plot><url>http://localhost:8983/solr/movie.html?502912</url></doc>

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="186790">
+  <docid>186790</docid>
+  <title>F Troop</title>
+  <year>1965</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Arnsten, Stefan (I)</editor>
+    <editor>Chudnow, Byron</editor>
+    <editor>Heckert, James T.</editor>
+    <editor>Hollingsworth, Elbert K.</editor>
+    <editor>Kleinberg, Milt</editor>
+    <editor>Wages, David</editor>
+    <editor>Wiard, Bill</editor>
+  </editors>
+  <genres>
+    <genre>War</genre>
+    <genre>Comedy</genre>
+    <genre>Western</genre>
+  </genres>
+  <keywords>
+    <keyword>u.s.-cavalry</keyword>
+    <keyword>hekawi-tribe</keyword>
+    <keyword>old-west</keyword>
+    <keyword>commanding-officer</keyword>
+    <keyword>native-american</keyword>
+    <keyword>fort</keyword>
+    <keyword>sword-duel</keyword>
+    <keyword>spoof</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>native-american-chief</keyword>
+    <keyword>army-life</keyword>
+    <keyword>army</keyword>
+    <keyword>sitcom</keyword>
+    <keyword>comic-sidekick</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">20 October 1966</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">25</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Alexander, David (I)</director>
+    <director>Goodwins, Leslie</director>
+    <director>March, Hal</director>
+    <director>Morse, Hollingsworth</director>
+    <director>Nelson, Gary (I)</director>
+    <director>Nelson, Gene (I)</director>
+    <director>Rawlins, Phil (I)</director>
+    <director>Reynolds, Gene (I)</director>
+    <director>Robbie, Seymour</director>
+    <director>Rondeau, Charles R.</director>
+  </directors>
+  <producers>
+    <producer>Rawlins, Phil (I)</producer>
+    <producer>Saunders, Herman S.</producer>
+    <producer>Averback, Hy</producer>
+    <producer>Orr, William T.</producer>
+    <producer>Averback, Hy</producer>
+    <producer>Bluel, Richard M.</producer>
+    <producer>Saunders, Herman S.</producer>
+  </producers>
+  <writers>
+    <writer>Adair, Tom (I)</writer>
+    <writer>Allardice, James B.</writer>
+    <writer>Baer, Richard (I)</writer>
+    <writer>Barnett, James (I)</writer>
+    <writer>Bluel, Richard M.</writer>
+    <writer>Burns, Stan</writer>
+    <writer>Dreben, Stan</writer>
+    <writer>Goldman, Hal (I)</writer>
+    <writer>Gordon, Al (I)</writer>
+    <writer>Julian, Arthur</writer>
+    <writer>Kalish, Austin</writer>
+    <writer>Kalish, Irma</writer>
+    <writer>Marmer, Mike</writer>
+    <writer>Merrill, Howard (I)</writer>
+    <writer>Barnett, James (I)</writer>
+    <writer>Burns, Stan</writer>
+    <writer>Dreben, Stan</writer>
+    <writer>Elinson, Irving</writer>
+    <writer>Fox, Fred S.</writer>
+    <writer>Goldman, Hal (I)</writer>
+    <writer>Gordon, Al (I)</writer>
+    <writer>Jacobs, Seaman</writer>
+    <writer>James, Ed (II)</writer>
+    <writer>Julian, Arthur</writer>
+    <writer>Markes, Larry (I)</writer>
+    <writer>Marmer, Mike</writer>
+    <writer>Merrill, Howard (I)</writer>
+    <writer>Morris, Michael (V)</writer>
+  </writers>
+  <composers>
+    <composer>LaSalle, Richard</composer>
+    <composer>Lava, William</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Anderson, Robert G. (I)</actor>
+      <role>Bob Colton</role>
+    </credit>
+    <credit>
+      <actor>Arquette, Cliff</actor>
+      <role>General Sam Courage</role>
+    </credit>
+    <credit>
+      <actor>Aubuchon, Jacques</actor>
+      <role>Gideon D. Jeffries</role>
+    </credit>
+    <credit>
+      <actor>Avery, Tol</actor>
+      <role>Derby Dan McGurney</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Colonel Watkins</role>
+    </credit>
+    <credit>
+      <actor>Baker, Benny</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Baker, Benny</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Baker, Benny</actor>
+      <role>Pete (Bartender)</role>
+    </credit>
+    <credit>
+      <actor>Baker, Benny</actor>
+      <role>Pete the Bartender</role>
+    </credit>
+    <credit>
+      <actor>Baker, Joby</actor>
+      <role>Mario Maracucci</role>
+    </credit>
+    <credit>
+      <actor>Barrows, George</actor>
+      <role>Pecos</role>
+    </credit>
+    <credit>
+      <actor>Barry, Don 'Red'</actor>
+      <role>Colonel Donnely</role>
+    </credit>
+    <credit>
+      <actor>Beddoe, Don</actor>
+      <role>The Hermit</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Trooper Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Trooper Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Trooper Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bell, Ivan</actor>
+      <role>Trooper Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Marjorie</actor>
+      <role>Ella Vorhees</role>
+    </credit>
+    <credit>
+      <actor>Berle, Milton</actor>
+      <role>Wise Owl</role>
+    </credit>
+    <credit>
+      <actor>Berry, Ken (I)</actor>
+      <role>Capt. Wilton Parmenter</role>
+    </credit>
+    <credit>
+      <actor>Berry, Ken (I)</actor>
+      <role>Capt. Wilton Parmenter/Kid Vicious</role>
+    </credit>
+    <credit>
+      <actor>Berry, Ken (I)</actor>
+      <role>Capt. Wilton Parmeter</role>
+    </credit>
+    <credit>
+      <actor>Blaisdell, Makee K.</actor>
+      <role>War Cloud</role>
+    </credit>
+    <credit>
+      <actor>Bouchey, Willis</actor>
+      <role>Colonel Herman Saunders</role>
+    </credit>
+    <credit>
+      <actor>Brady, Buff</actor>
+      <role>Stagecoach Driver</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Henry (I)</actor>
+      <role>Indian Chief (Shug)</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Duddleson</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Trooper Vanderbitl</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Joe (I)</actor>
+      <role>Vanderbilt</role>
+    </credit>
+    <credit>
+      <actor>Brown Jr., Les</actor>
+      <role>Lt. Mark Harrison</role>
+    </credit>
+    <credit>
+      <actor>Bruck, Bella</actor>
+      <role>Old Squaw - Wild Turkey</role>
+    </credit>
+    <credit>
+      <actor>Clark, Fred (I)</actor>
+      <role>Major Hewitt</role>
+    </credit>
+    <credit>
+      <actor>Clarke, Mae</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Conrad, William (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Pepper</actor>
+      <role>Girl</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Pepper</actor>
+      <role>Lily</role>
+    </credit>
+    <credit>
+      <actor>Daris, James</actor>
+      <role>Loco Brother #1</role>
+    </credit>
+    <credit>
+      <actor>De Mave, Jack</actor>
+      <role>First Trooper Stanley</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Chief Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Chief Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Chief Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>DeKova, Frank</actor>
+      <role>Wild Eagle</role>
+    </credit>
+    <credit>
+      <actor>Dehner, John</actor>
+      <role>Professor Cornelius Clyde</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Brave</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Crazy Cat</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Crazy Cat</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Crazy Cat</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Crazy Cat</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Don</actor>
+      <role>Crazy Kat</role>
+    </credit>
+    <credit>
+      <actor>Doucette, Rudy</actor>
+      <role>Slim</role>
+    </credit>
+    <credit>
+      <actor>Doucette, Rudy</actor>
+      <role>Stage Driver</role>
+    </credit>
+    <credit>
+      <actor>Doucette, Rudy</actor>
+      <role>Stage Driver</role>
+    </credit>
+    <credit>
+      <actor>Drake, Charles (I)</actor>
+      <role>Major Terence McConnell</role>
+    </credit>
+    <credit>
+      <actor>Drake, James (I)</actor>
+      <role>Dan's Confederate</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Andrew (I)</actor>
+      <role>Major Chester Winster</role>
+    </credit>
+    <credit>
+      <actor>Elam, Jack</actor>
+      <role>Sam Urp</role>
+    </credit>
+    <credit>
+      <actor>Elias, Louie</actor>
+      <role>Trooper Franklin</role>
+    </credit>
+    <credit>
+      <actor>England, Hal</actor>
+      <role>Lt. George Anderson</role>
+    </credit>
+    <credit>
+      <actor>England, Hal</actor>
+      <role>Lt. Goodbody</role>
+    </credit>
+    <credit>
+      <actor>Factory Rock Quartet, The</actor>
+      <role>The Bedbugs</role>
+    </credit>
+    <credit>
+      <actor>Farr, Jamie</actor>
+      <role>Geronimo's Friend</role>
+    </credit>
+    <credit>
+      <actor>Farr, Jamie</actor>
+      <role>Standup Bull</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Tommy</actor>
+      <role>Jenks</role>
+    </credit>
+    <credit>
+      <actor>Fisk, Marilyn</actor>
+      <role>Kissing Squaw</role>
+    </credit>
+    <credit>
+      <actor>Fisk, Marilyn</actor>
+      <role>Squirrel Girl</role>
+    </credit>
+    <credit>
+      <actor>Flory, Med</actor>
+      <role>Loco Brother #2</role>
+    </credit>
+    <credit>
+      <actor>Foster, Linda (I)</actor>
+      <role>Cindy Charles</role>
+    </credit>
+    <credit>
+      <actor>Fox, Bernard (I)</actor>
+      <role>Major Bently Royce</role>
+    </credit>
+    <credit>
+      <actor>French, Victor</actor>
+      <role>Cpl. Matt Delaney</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Happy Bear</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Lookout</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Papa Bear</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Smokey Bear</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Smokey Bear</role>
+    </credit>
+    <credit>
+      <actor>Frommer, Ben</actor>
+      <role>Smokey Bear</role>
+    </credit>
+    <credit>
+      <actor>Furth, George</actor>
+      <role>Captain Jonathan W. Blair</role>
+    </credit>
+    <credit>
+      <actor>Gabor, Zsa Zsa</actor>
+      <role>Marika</role>
+    </credit>
+    <credit>
+      <actor>Gage, Ben</actor>
+      <role>Mike O'Hanlon</role>
+    </credit>
+    <credit>
+      <actor>George, Lowell</actor>
+      <role>Bedbug</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Henry (I)</actor>
+      <role>Pvt. Wrongo Starr</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Henry (I)</actor>
+      <role>Wrongo Starr</role>
+    </credit>
+    <credit>
+      <actor>Gobel, George</actor>
+      <role>Henry Terkel</role>
+    </credit>
+    <credit>
+      <actor>Gregory, James (I)</actor>
+      <role>Big Jim Parker</role>
+    </credit>
+    <credit>
+      <actor>Gregory, James (I)</actor>
+      <role>Major Duncan</role>
+    </credit>
+    <credit>
+      <actor>Gregory, James (I)</actor>
+      <role>Major Duncan</role>
+    </credit>
+    <credit>
+      <actor>Griffith, James (I)</actor>
+      <role>Sergeant Crawford</role>
+    </credit>
+    <credit>
+      <actor>Hampton, James (I)</actor>
+      <role>Dobbs</role>
+    </credit>
+    <credit>
+      <actor>Hampton, James (I)</actor>
+      <role>Hannibal Dobbs</role>
+    </credit>
+    <credit>
+      <actor>Hampton, James (I)</actor>
+      <role>Trooper Dobbs</role>
+    </credit>
+    <credit>
+      <actor>Hampton, James (I)</actor>
+      <role>Trooper Hannibal Dobbs</role>
+    </credit>
+    <credit>
+      <actor>Hampton, James (I)</actor>
+      <role>Trooper Hannibal Dobbs</role>
+    </credit>
+    <credit>
+      <actor>Harrington Jr., Pat</actor>
+      <role>B Wise</role>
+    </credit>
+    <credit>
+      <actor>Harris, Phil (I)</actor>
+      <role>Flaming Arrow</role>
+    </credit>
+    <credit>
+      <actor>Hayward, Richard T.</actor>
+      <role>Bedbug</role>
+    </credit>
+    <credit>
+      <actor>Hewitt, Alan (I)</actor>
+      <role>Colonel Malcolm</role>
+    </credit>
+    <credit>
+      <actor>Holland, John (I)</actor>
+      <role>Colonel Leslie Willoughby</role>
+    </credit>
+    <credit>
+      <actor>Holloway, Sterling</actor>
+      <role>Sheriff Pat Lawton</role>
+    </credit>
+    <credit>
+      <actor>Horan, James W.</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Horton, Edward Everett</actor>
+      <role>Roaring Chicken</role>
+    </credit>
+    <credit>
+      <actor>Horton, Edward Everett</actor>
+      <role>Roaring Chicken</role>
+    </credit>
+    <credit>
+      <actor>Horton, Edward Everett</actor>
+      <role>Roaring Chicken</role>
+    </credit>
+    <credit>
+      <actor>Howdy, Clyde</actor>
+      <role>Man</role>
+    </credit>
+    <credit>
+      <actor>Jameson, Joyce</actor>
+      <role>Sally Tyler</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Arch</actor>
+      <role>Colonel Adams</role>
+    </credit>
+    <credit>
+      <actor>Jolley, I. Stanford</actor>
+      <role>Colonel Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Jory, Victor (I)</actor>
+      <role>Chief Mean Buffalo</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Jackie</actor>
+      <role>Betty Lou MacDonald</role>
+    </credit>
+    <credit>
+      <actor>Joslyn, Allyn</actor>
+      <role>Colonel Parmenter</role>
+    </credit>
+    <credit>
+      <actor>Julian, Arthur</actor>
+      <role>Undertaker</role>
+    </credit>
+    <credit>
+      <actor>Kelley, Barry (I)</actor>
+      <role>The General</role>
+    </credit>
+    <credit>
+      <actor>Kibbee, Martin F.</actor>
+      <role>Bedbug</role>
+    </credit>
+    <credit>
+      <actor>Klein, Warren S.</actor>
+      <role>Bedbug</role>
+    </credit>
+    <credit>
+      <actor>Korens, Angela</actor>
+      <role>Sonya</role>
+    </credit>
+    <credit>
+      <actor>Korman, Harvey</actor>
+      <role>Col. Heindreich von Zeppel</role>
+    </credit>
+    <credit>
+      <actor>Krugman, Lou</actor>
+      <role>Snake Eyes</role>
+    </credit>
+    <credit>
+      <actor>Lane, Abbe</actor>
+      <role>Lorelei Duval</role>
+    </credit>
+    <credit>
+      <actor>Lane, Charles (I)</actor>
+      <role>Mr. S. A. MacGuire</role>
+    </credit>
+    <credit>
+      <actor>Leeds, Peter</actor>
+      <role>Mr. Larson</role>
+    </credit>
+    <credit>
+      <actor>Lerner, Jeff (I)</actor>
+      <role>Brave #1</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Cathy (I)</actor>
+      <role>Whispering Breeze</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Forrest</actor>
+      <role>Doc Emmett</role>
+    </credit>
+    <credit>
+      <actor>Lieb, Robert P.</actor>
+      <role>Assistant</role>
+    </credit>
+    <credit>
+      <actor>Lieb, Robert P.</actor>
+      <role>Attaché</role>
+    </credit>
+    <credit>
+      <actor>Lieb, Robert P.</actor>
+      <role>Jenkins</role>
+    </credit>
+    <credit>
+      <actor>Loughery, Jackie</actor>
+      <role>Tanya</role>
+    </credit>
+    <credit>
+      <actor>Lynde, Paul</actor>
+      <role>Sgt. Ramsden</role>
+    </credit>
+    <credit>
+      <actor>Mako (I)</actor>
+      <role>Samurai Warrior</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Linda (I)</actor>
+      <role>Lucy Landfield</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Sarah (I)</actor>
+      <role>Hermione Gooderly</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Tony (I)</actor>
+      <role>Felipe</role>
+    </credit>
+    <credit>
+      <actor>Mayama, Miko</actor>
+      <role>Miko Tanahara</role>
+    </credit>
+    <credit>
+      <actor>Mazurki, Mike</actor>
+      <role>Geronimo</role>
+    </credit>
+    <credit>
+      <actor>McHugh, Frank</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>McVeagh, Eve</actor>
+      <role>Wilma McGee</role>
+    </credit>
+    <credit>
+      <actor>Meriwether, Lee</actor>
+      <role>Lily O'Reilly</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Balladeer</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Trooper Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Trooper Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Mitchum, John</actor>
+      <role>Trooper Hoffenmueller</role>
+    </credit>
+    <credit>
+      <actor>Moore, Del</actor>
+      <role>Dapper Dan Fulbright</role>
+    </credit>
+    <credit>
+      <actor>Nolan, John (I)</actor>
+      <role>Soldier</role>
+    </credit>
+    <credit>
+      <actor>Novello, Jay</actor>
+      <role>Emilio Barberini</role>
+    </credit>
+    <credit>
+      <actor>O'Malley, J. Pat</actor>
+      <role>Medicine Man</role>
+    </credit>
+    <credit>
+      <actor>O'Malley, J. Pat</actor>
+      <role>Medicine Man</role>
+    </credit>
+    <credit>
+      <actor>Parker, Lew</actor>
+      <role>George C. Bragan</role>
+    </credit>
+    <credit>
+      <actor>Parry, Harvey</actor>
+      <role>Charley</role>
+    </credit>
+    <credit>
+      <actor>Parry, Harvey</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Parry, Harvey</actor>
+      <role>Charlie (Drunk)</role>
+    </credit>
+    <credit>
+      <actor>Petersen, Paul (I)</actor>
+      <role>Johnny Eagle Eye</role>
+    </credit>
+    <credit>
+      <actor>Phipps, William</actor>
+      <role>Scout</role>
+    </credit>
+    <credit>
+      <actor>Prentiss, Ed</actor>
+      <role>General Morgan</role>
+    </credit>
+    <credit>
+      <actor>Price, Vincent (I)</actor>
+      <role>Count Sfoza</role>
+    </credit>
+    <credit>
+      <actor>Reeves, Richard (I)</actor>
+      <role>Jim Sweeney</role>
+    </credit>
+    <credit>
+      <actor>Rickles, Don</actor>
+      <role>Bald Eagle</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Peter (I)</actor>
+      <role>Joey Walker</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Bartlett</actor>
+      <role>Colonel Griswald</role>
+    </credit>
+    <credit>
+      <actor>Roya, David</actor>
+      <role>Apache Warrior</role>
+    </credit>
+    <credit>
+      <actor>Rudin, Herman</actor>
+      <role>Shug Chief</role>
+    </credit>
+    <credit>
+      <actor>Seel, Charles</actor>
+      <role>Abijah Mimms</role>
+    </credit>
+    <credit>
+      <actor>Seel, Charles</actor>
+      <role>Clem Hackett - Prospector</role>
+    </credit>
+    <credit>
+      <actor>Sheffield, Jay</actor>
+      <role>Lt. Jefferson Hawkes</role>
+    </credit>
+    <credit>
+      <actor>Shelly, Alfred</actor>
+      <role>Little Fox</role>
+    </credit>
+    <credit>
+      <actor>Slattery, Richard X.</actor>
+      <role>Colonel William Bartlett</role>
+    </credit>
+    <credit>
+      <actor>Sorensen, Paul (II)</actor>
+      <role>Tombstone</role>
+    </credit>
+    <credit>
+      <actor>Sorrells, Robert</actor>
+      <role>Clarence</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Steele, Bob (I)</actor>
+      <role>Trooper Duffy</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, John (I)</actor>
+      <role>General Custer</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Agarn</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Agarn/Dmitri Agarnoff</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Agarn/Lucky Pierre Agarniere</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Randolph Agarn</role>
+    </credit>
+    <credit>
+      <actor>Storch, Larry</actor>
+      <role>Cpl. Randolph Agarn/Pancho Agarnado 'El Diablo'/Granny Agarn/Gaylord Agarn/Carmen</role>
+    </credit>
+    <credit>
+      <actor>Tayback, Vic</actor>
+      <role>Bill Colton</role>
+    </credit>
+    <credit>
+      <actor>Troy, Dennis</actor>
+      <role>Medicine Man</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Forrest</actor>
+      <role>Sgt. Morgan O'Rourke</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Forrest</actor>
+      <role>Sgt. Morgan Sylvester O'Rourke</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Forrest</actor>
+      <role>Sgt. O'Rourke</role>
+    </credit>
+    <credit>
+      <actor>Tyne, George</actor>
+      <role>Colonel</role>
+    </credit>
+    <credit>
+      <actor>Tyne, George</actor>
+      <role>Major Bradley</role>
+    </credit>
+    <credit>
+      <actor>Waterman, Willard</actor>
+      <role>Bill McCormick</role>
+    </credit>
+    <credit>
+      <actor>Williams, Tom (I)</actor>
+      <role>Bank Teller</role>
+    </credit>
+    <credit>
+      <actor>Wills Jr., Lou</actor>
+      <role>Beware of Dog</role>
+    </credit>
+    <credit>
+      <actor>Wills Jr., Lou</actor>
+      <role>Running Bull</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Secretary of War</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Secretary of War</role>
+    </credit>
+    <credit>
+      <actor>Woodson, William</actor>
+      <role>Secretary of War</role>
+    </credit>
+  </cast>
+<plot>Becoming a hero by accidentally leading a cavalry charge the wrong way, Lieutenant Wilton Parmenter is given command of Fort Courage. The Fort's crafty Sgt. O'Rourke has a deal with the local Hekawi Indians to market their wares to the tourists. They must sometimes pretend to be enemies (and the Shugs really are enemies). Jane is out to marry the innocent Parmenter.</plot><url>http://localhost:8983/solr/movie.html?186790</url></doc>

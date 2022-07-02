@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="333814">
+  <docid>333814</docid>
+  <title>Letters</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>German</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">6 September 2009</releasedate>
+    <releasedate country="USA">13 September 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">10</runningtime>
+    <runningtime country="USA">20</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Butterworth, Daniel</director>
+  </directors>
+  <writers>
+    <writer>Kelly, Daniel Robert</writer>
+  </writers>
+  <composers>
+    <composer>Rother, Michael J.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Erbes, Stephanie</actor>
+      <role>Dreamer</role>
+    </credit>
+    <credit>
+      <actor>Etzkorn, Timothy</actor>
+      <role>Vishnu</role>
+    </credit>
+    <credit>
+      <actor>Gonzales Garcia, Carolina</actor>
+      <role>Lakshmi</role>
+    </credit>
+  </cast>
+<plot>A man studying abroad exchanges a series of letters with a new friend at home. his letters are about the mundane, the day to day of life in India as he sees it. Her's are a series of dreams as she wishes to be in India. The letters pass each other, never quite being in dialog.</plot><url>http://localhost:8983/solr/movie.html?333814</url></doc>

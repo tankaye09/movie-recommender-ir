@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="621823">
+  <docid>621823</docid>
+  <title>Twenty</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Albert, Michael</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="USA">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Albert, Michael</director>
+  </directors>
+  <writers>
+    <writer>Albert, Michael</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Beck, Maria</actor>
+      <role>Carla</role>
+    </credit>
+    <credit>
+      <actor>Beeby, Shannon</actor>
+      <role>Kathryn</role>
+    </credit>
+    <credit>
+      <actor>Carrera, Barbara (II)</actor>
+      <role>Maria</role>
+    </credit>
+    <credit>
+      <actor>Dowd, Jim (I)</actor>
+      <role>Jack</role>
+    </credit>
+    <credit>
+      <actor>Miller, Zee</actor>
+      <role>Samantha</role>
+    </credit>
+  </cast>
+<plot>20 year old Maria, a young hispanic girl, falls in love with Jason who shortly leaves for Iraq. After his departure, she reaches out to his family and is completely rejected. A surprise awaits her as she revisits their home with important news.</plot><url>http://localhost:8983/solr/movie.html?621823</url></doc>

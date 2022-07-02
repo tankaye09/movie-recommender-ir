@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="221627">
+  <docid>221627</docid>
+  <title>Grand Theft Auto: Vice City</title>
+  <year>2002</year>
+  <type>VideoGame</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Thriller</genre>
+    <genre>Comedy</genre>
+    <genre>Action</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>boat-racing</keyword>
+    <keyword>elevator</keyword>
+    <keyword>low-rider</keyword>
+    <keyword>street-gang</keyword>
+    <keyword>lockup</keyword>
+    <keyword>explosion</keyword>
+    <keyword>reference-to-the-lone-ranger</keyword>
+    <keyword>mafia</keyword>
+    <keyword>rocket-launcher</keyword>
+    <keyword>police</keyword>
+    <keyword>drive-by</keyword>
+    <keyword>bomb</keyword>
+    <keyword>blood</keyword>
+    <keyword>construction-site</keyword>
+    <keyword>betrayal</keyword>
+    <keyword>heavy-metal</keyword>
+    <keyword>fourth-part</keyword>
+    <keyword>1980s</keyword>
+    <keyword>ice-cream-truck</keyword>
+    <keyword>haitian-gang</keyword>
+    <keyword>stadium</keyword>
+    <keyword>crime-lord</keyword>
+    <keyword>colt-magnum</keyword>
+    <keyword>fbi</keyword>
+    <keyword>drugs</keyword>
+    <keyword>factory</keyword>
+    <keyword>profanity</keyword>
+    <keyword>film-studio</keyword>
+    <keyword>riot</keyword>
+    <keyword>organized-crime</keyword>
+    <keyword>arson</keyword>
+    <keyword>katana-sword</keyword>
+    <keyword>seaplane</keyword>
+    <keyword>minigun</keyword>
+    <keyword>airport</keyword>
+    <keyword>satire</keyword>
+    <keyword>motorcycle</keyword>
+    <keyword>graffiti</keyword>
+    <keyword>merchant-ship</keyword>
+    <keyword>war-crime</keyword>
+    <keyword>pizza-delivery</keyword>
+    <keyword>music-industry</keyword>
+    <keyword>drug-smuggling</keyword>
+    <keyword>gatling-gun</keyword>
+    <keyword>dance-club</keyword>
+    <keyword>taxicab</keyword>
+    <keyword>gas</keyword>
+    <keyword>arena</keyword>
+    <keyword>rock-band</keyword>
+    <keyword>criminal</keyword>
+    <keyword>sniper-rifle</keyword>
+    <keyword>paramedic</keyword>
+    <keyword>yacht</keyword>
+    <keyword>obstacle-course</keyword>
+    <keyword>beach</keyword>
+    <keyword>mall</keyword>
+    <keyword>grenade</keyword>
+    <keyword>killer</keyword>
+    <keyword>sabotage</keyword>
+    <keyword>hospital</keyword>
+    <keyword>drug-lord</keyword>
+    <keyword>murder</keyword>
+    <keyword>hit-and-run</keyword>
+    <keyword>protection-racket</keyword>
+    <keyword>corruption</keyword>
+    <keyword>drug-dealer</keyword>
+    <keyword>vigilante</keyword>
+    <keyword>u-boat</keyword>
+    <keyword>controversial</keyword>
+    <keyword>mafia-boss</keyword>
+    <keyword>porn</keyword>
+    <keyword>grand-theft-auto</keyword>
+    <keyword>street-racing</keyword>
+    <keyword>gore</keyword>
+    <keyword>radio-station</keyword>
+    <keyword>head-blown-off</keyword>
+    <keyword>chopper</keyword>
+    <keyword>decapitation</keyword>
+    <keyword>swat-team</keyword>
+    <keyword>helicopter</keyword>
+    <keyword>english</keyword>
+    <keyword>fire-truck</keyword>
+    <keyword>sequel</keyword>
+    <keyword>police-corruption</keyword>
+    <keyword>biker-gang</keyword>
+    <keyword>lawyer</keyword>
+    <keyword>coffee-shop</keyword>
+    <keyword>love-fist</keyword>
+    <keyword>cuban-gang</keyword>
+    <keyword>cocaine</keyword>
+    <keyword>prostitute</keyword>
+    <keyword>transvestism</keyword>
+    <keyword>counterfeiting</keyword>
+    <keyword>strip-club</keyword>
+    <keyword>vietnam</keyword>
+    <keyword>chainsaw</keyword>
+    <keyword>army</keyword>
+    <keyword>police-station</keyword>
+    <keyword>police-chase</keyword>
+    <keyword>jailbreak</keyword>
+    <keyword>porn-star</keyword>
+    <keyword>boat</keyword>
+    <keyword>recording-studio</keyword>
+    <keyword>malibu-club</keyword>
+    <keyword>porn-industry</keyword>
+  </keywords>
+  <languages>
+    <language>Spanish</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>DTS</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">18</certificate>
+    <certificate country="UK">18</certificate>
+    <certificate country="Singapore">M18</certificate>
+    <certificate country="Germany">16</certificate>
+    <certificate country="France">-16</certificate>
+    <certificate country="Ireland">18</certificate>
+    <certificate country="Australia">MA</certificate>
+    <certificate country="Finland">K-18</certificate>
+    <certificate country="New Zealand">R18</certificate>
+    <certificate country="USA">M</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">16 May 2003</releasedate>
+    <releasedate country="Japan">29 July 2004</releasedate>
+    <releasedate country="UK">8 November 2002</releasedate>
+    <releasedate country="Germany">16 May 2003</releasedate>
+    <releasedate country="France">2 January 2004</releasedate>
+    <releasedate country="Canada">4 November 2003</releasedate>
+    <releasedate country="USA">4 November 2003</releasedate>
+  </releasedates>
+  <directors>
+    <director>Khonsari, Navid</director>
+  </directors>
+  <producers>
+    <producer>Pope, Jeremy</producer>
+    <producer>Houser, Sam (I)</producer>
+    <producer>Benzies, Leslie</producer>
+    <producer>Houser, Dan</producer>
+    <producer>King, Jamie (II)</producer>
+    <producer>Sebbane, Renaud</producer>
+  </producers>
+  <writers>
+    <writer>Houser, Dan</writer>
+    <writer>Worrall, James</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ajayi, Dupe</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Allard, T.J.</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Aller, Juan</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Allstadt, Max</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Alvarez, Melissa</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Amadio, Lucio</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Anthony Sioukas, Alex</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Anthony, Alex (I)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Anthony-Rodriguez, Philip</actor>
+      <role>Maurice Chavez</role>
+    </credit>
+    <credit>
+      <actor>Appel, Peter</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Atti, Anthony</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Avellaneda, Edwin</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Balk, Fairuza</actor>
+      <role>Mercedes Cortez</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Devin</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Berlin, Jeff (I)</actor>
+      <role>Imaging Voice (Flash FM)/Commercials</role>
+    </credit>
+    <credit>
+      <actor>Bertini, Carey</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Birdsong, Mary</actor>
+      <role>Michaela Carapadis/Jenny Louise Crab</role>
+    </credit>
+    <credit>
+      <actor>Bisogno, Brett</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Bogdanov, Max</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Brauman, Spelman</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Broadus, Keith</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Broday, Christopher</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Brown, Alejandro K.</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Buhrmester, Jason</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Busey, Gary</actor>
+      <role>Phil Cassidy</role>
+    </credit>
+    <credit>
+      <actor>Canfield, Jamie</actor>
+      <role>Adam First</role>
+    </credit>
+    <credit>
+      <actor>Carlucci, Gregg</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Carro, Christopher</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Chambers, Maria</actor>
+      <role>Toni</role>
+    </credit>
+    <credit>
+      <actor>Chaney-Giles, Debranda</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Chatfield, David</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Chavez, Frank (V)</actor>
+      <role>Fernando Martinez</role>
+    </credit>
+    <credit>
+      <actor>Chiroldes, Tony</actor>
+      <role>Pepe</role>
+    </credit>
+    <credit>
+      <actor>Chung, Matthew</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Cihra, Alison</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Cihra, Robert</actor>
+      <role>Mike The Goon/Porn Guy</role>
+    </credit>
+    <credit>
+      <actor>Clark, Josh (I)</actor>
+      <role>Radio Caller/Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Clervoix Jr., Gregory</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Colacios, Sylvia</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Collins, Deborah</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Concepion, Rey</actor>
+      <role>Shipping Captain/Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Conner, Craig</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Corbett, Colleen</actor>
+      <role>Mandy</role>
+    </credit>
+    <credit>
+      <actor>Cosgrove, Gerry</actor>
+      <role>Morgan Merryweather</role>
+    </credit>
+    <credit>
+      <actor>Coutts, Duncan</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Crolla, Raff</actor>
+      <role>Commercial Singer</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Lee (III)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Davi, Robert</actor>
+      <role>Colonel Juan Garcia Cortez</role>
+    </credit>
+    <credit>
+      <actor>Davidson, Adam (III)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jon Michael</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>De Negro, Robert</actor>
+      <role>Beatbox</role>
+    </credit>
+    <credit>
+      <actor>Descalzo, Natalie</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>DiCenzo, George</actor>
+      <role>Earnest Kelly</role>
+    </credit>
+    <credit>
+      <actor>Difate, Chris</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Dowling, Carl</actor>
+      <role>Pat 'Mr.Zoo' Flanerdy</role>
+    </credit>
+    <credit>
+      <actor>Dukich, Kate</actor>
+      <role>Commercial Voice/Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Dyer, Danny (I)</actor>
+      <role>'Kent' Paul</role>
+    </credit>
+    <credit>
+      <actor>Dyson, Julius</actor>
+      <role>Oliver 'Ladykiller' Biscuit</role>
+    </credit>
+    <credit>
+      <actor>Ed, Couzin</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Fava, Frank</actor>
+      <role>Thor</role>
+    </credit>
+    <credit>
+      <actor>Federline, Mike</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Fernandez, Marco (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Ferrante Sr., Mike</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Ferrante, Chris</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Ferrante, James</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Ferranti Jr., Mike</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Fichtner, William</actor>
+      <role>Ken Rosenberg</role>
+    </credit>
+    <credit>
+      <actor>Font, F.</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Foreman, Russell</actor>
+      <role>Percy</role>
+    </credit>
+    <credit>
+      <actor>Frailman, Seymour</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Gansen, L.J.</actor>
+      <role>John Florida Hickory</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Alex (IV)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Gennaro, Jane</actor>
+      <role>Maude Hanson</role>
+    </credit>
+    <credit>
+      <actor>Goldstein, Emmanuel</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, Rafael</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Gonzalez, Santos</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Green, David (III)</actor>
+      <role>Pastor Richards</role>
+    </credit>
+    <credit>
+      <actor>Greene Jr., Oswald</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Greene, Cynthia</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Greene, Joseph</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Guest, Kelly</actor>
+      <role>Michelle Montanius</role>
+    </credit>
+    <credit>
+      <actor>Gurney, Kim</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Gustin, Pete</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Guzmán, Luis (I)</actor>
+      <role>Ricardo Diaz</role>
+    </credit>
+    <credit>
+      <actor>Hale, Verdel</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Hanlon, Mark (II)</actor>
+      <role>Willy</role>
+    </credit>
+    <credit>
+      <actor>Hanst, Jonathan</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Harris, Youree Dell</actor>
+      <role>Auntie Poulet</role>
+    </credit>
+    <credit>
+      <actor>Harrison, David (XI)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Harrison, Douglas</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Harry, Deborah (I)</actor>
+      <role>Delores</role>
+    </credit>
+    <credit>
+      <actor>Hayashi, Futaba</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Hilgreen, Gene</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Hopkins, Kevin (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Hopper, Dennis</actor>
+      <role>Steve Scott</role>
+    </credit>
+    <credit>
+      <actor>Houser, Dan</actor>
+      <role>Radio Caller/Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Howell, Elizabeth (II)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Howell, Joseph</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Robert (IV)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>James, LaDawn</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Jameson, Jenna</actor>
+      <role>Candy Suxxx</role>
+    </credit>
+    <credit>
+      <actor>Jemison, Jennifer (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Randy (IV)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Jones, Barb</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Jones, Jason (VII)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Jones, Lazlow</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Lucien</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Lorna</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Karplus, Esteban</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Joe (VI)</actor>
+      <role>Imaging Voice (VRock)</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Lindsay (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Khonsari, Navid</actor>
+      <role>Dwayne</role>
+    </credit>
+    <credit>
+      <actor>Knezevich, Steve</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Konstantinos</actor>
+      <role>Konstantinos Smith</role>
+    </credit>
+    <credit>
+      <actor>Koukoulas, Demetra</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Krech, Ben</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Krüger, Richard</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Charisse</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Lee, Dan (III)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Leinfelder, Zeno</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Susan (IV)</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Liotta, Ray</actor>
+      <role>Tommy Vercetti</role>
+    </credit>
+    <credit>
+      <actor>Lipton, Lynn</actor>
+      <role>Gethsemanee</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Damaries</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Christopher (I)</actor>
+      <role>Congressman Alex Shrub</role>
+    </credit>
+    <credit>
+      <actor>Luna, Gerard</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Mackie, Paul</actor>
+      <role>Percy</role>
+    </credit>
+    <credit>
+      <actor>Magic, Mister</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Majors, Lee (I)</actor>
+      <role>'Big' Mitch Baker</role>
+    </credit>
+    <credit>
+      <actor>Mallo, Nicolas</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Mandelos, Nick</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Mata, Breye</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Matthews, Marion</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Mauceri, John</actor>
+      <role>Claude Maginot</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Laura (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>May, Michael (II)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>McIntyre, Ross A.</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>McKay, Peter (II)</actor>
+      <role>Dick</role>
+    </credit>
+    <credit>
+      <actor>McKidd, Kevin</actor>
+      <role>Jezz Torrent</role>
+    </credit>
+    <credit>
+      <actor>McMann, Ed</actor>
+      <role>Male Imaging Voice (Fever 105)/Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Members, N'Gai</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Michael Robert, Steve</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Miller, Shelley (V)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Milner, Justin T.</actor>
+      <role>Patrick</role>
+    </credit>
+    <credit>
+      <actor>Mitsuyama, Masayoshi</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Miyazaki, Tomoko (II)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Modica, Sean</actor>
+      <role>Callum Crayshaw</role>
+    </credit>
+    <credit>
+      <actor>Mondesir, Yves</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Morivan, Norbert</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Morton, Will</actor>
+      <role>Stalker</role>
+    </credit>
+    <credit>
+      <actor>Murfin, Gareth</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Murray, Tom (V)</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Nagle, Eric</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>O'Neill, Kel</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Wayne</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Olsen, Pat</actor>
+      <role>Jonathan Freeloader</role>
+    </credit>
+    <credit>
+      <actor>Palermo, Michael (I)</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Panen, Brian</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Pearlstein, Randy</actor>
+      <role>Jack Howitzer</role>
+    </credit>
+    <credit>
+      <actor>Perry, Blayne</actor>
+      <role>Cougar</role>
+    </credit>
+    <credit>
+      <actor>Platin, Hunter</actor>
+      <role>Psycho</role>
+    </credit>
+    <credit>
+      <actor>Porkchop</actor>
+      <role>Radio Caller</role>
+    </credit>
+    <credit>
+      <actor>Pupo, Jorge</actor>
+      <role>Gonzales</role>
+    </credit>
+    <credit>
+      <actor>Reeve, Ron</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Reisenberger, Chris</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Burt (I)</actor>
+      <role>Avery Carrington</role>
+    </credit>
+    <credit>
+      <actor>Riesco, Armando</actor>
+      <role>Supplier</role>
+    </credit>
+    <credit>
+      <actor>Rivera, Anthony (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Ronicle, Aron</actor>
+      <role>Commercial Singer</role>
+    </credit>
+    <credit>
+      <actor>Rosa, Jeff</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Rossett, J.</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Rothstein, Michael (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Ryan, Dave (V)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Savarese, Preston</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Schneider, Dan (II)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Schuler, Robert (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Schweizer, Greg</actor>
+      <role>Commercial Voice/Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Sebbane, Renaud</actor>
+      <role>Barry Stark</role>
+    </credit>
+    <credit>
+      <actor>Shams, Bijan</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Shigemori, Jason</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Silvestro, Frank</actor>
+      <role>Imaging Voice (Wildstyle)</role>
+    </credit>
+    <credit>
+      <actor>Silvestro, Peter</actor>
+      <role>Jeremy Robard</role>
+    </credit>
+    <credit>
+      <actor>Sims, Gregory</actor>
+      <role>Cam Jones</role>
+    </credit>
+    <credit>
+      <actor>Sizemore, Tom</actor>
+      <role>Sonny Forelli</role>
+    </credit>
+    <credit>
+      <actor>Smith, Scott (XVI)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Straley, Kevin</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Suazo, Salvadore</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Taggert, Jeremy</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Lawrence (II)</actor>
+      <role>BJ Smith</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Brian (I)</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Philip Michael</actor>
+      <role>Lance Vance</role>
+    </credit>
+    <credit>
+      <actor>Tibbs, Rob</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Tomicki, Hadley</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Toyama, Dan</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Trejo, Danny</actor>
+      <role>Umberto Robina</role>
+    </credit>
+    <credit>
+      <actor>Tron</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Tucker, Charles (II)</actor>
+      <role>Hilary King</role>
+    </credit>
+    <credit>
+      <actor>Vega, Jameel</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Vidal, Miguel (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Watkins, Adam (II)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>White, Sam (VII)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Wiley, David (I)</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Williams, Lance (III)</actor>
+      <role>Commercial Voices</role>
+    </credit>
+    <credit>
+      <actor>Winterbottom, Devin</actor>
+      <role>Pedestrian</role>
+    </credit>
+    <credit>
+      <actor>Yoder, Brock</actor>
+      <role>Commercial Voice</role>
+    </credit>
+    <credit>
+      <actor>Zurhellen, John</actor>
+      <role>Jethro</role>
+    </credit>
+  </cast>
+<plot>Having just made it back to the streets of Liberty City after a long stretch inside, Tommy Vercetti is sent to Vice City by his old boss, Sonny Forelli. But all does not go smoothly apon his arrival in the glamorous, hedonistic metropolis of Vice City. Tommy is set up, and loses everything. Sonny wants his money back, but the biker gangs, Cuban gangsters, and corrupt politicians stand in his way. Most of Vice City seems to want Tommy dead. His only answer is to fight back, and take over Vice City himself...</plot><url>http://localhost:8983/solr/movie.html?221627</url></doc>

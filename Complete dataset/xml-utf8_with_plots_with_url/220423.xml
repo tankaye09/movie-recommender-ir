@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="220423">
+  <docid>220423</docid>
+  <title>Gopher Broke</title>
+  <year>2004</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">26 April 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">4</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fowler, Jeff (I)</director>
+  </directors>
+  <producers>
+    <producer>Sekelsky, Mandy</producer>
+    <producer>Miller, Tim (X)</producer>
+  </producers>
+  <writers>
+    <writer>Fowler, Jeff (I)</writer>
+  </writers>
+  <composers>
+    <composer>Cairns, Rob (I)</composer>
+    <composer>Morales, Tony (II)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Berg, Greg (I)</actor>
+      <role>Gopher</role>
+    </credit>
+  </cast>
+<plot>A gopher finds himself on a road where trucks are hauling produce to market. He hits on the idea of shaking some of the produce loose for himself, but other animals always beat him to the booty. That is, until a truck comes along with a cow...</plot><url>http://localhost:8983/solr/movie.html?220423</url></doc>

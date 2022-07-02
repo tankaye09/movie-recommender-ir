@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="194200">
+  <docid>194200</docid>
+  <title>Film</title>
+  <year>1965</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Meyers, Sidney</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>eye</keyword>
+    <keyword>cat</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>dog</keyword>
+    <keyword>human-relations</keyword>
+    <keyword>experimental-film</keyword>
+    <keyword>loneliness</keyword>
+    <keyword>silence</keyword>
+    <keyword>bird</keyword>
+    <keyword>room</keyword>
+  </keywords>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Finland">31 January 1967</releasedate>
+    <releasedate country="Italy">4 September 1965</releasedate>
+    <releasedate country="USA">8 January 1966</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">20</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Schneider, Alan (I)</director>
+  </directors>
+  <writers>
+    <writer>Beckett, Samuel</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Harrison, Nell</actor>
+      <role>Passerby</role>
+    </credit>
+    <credit>
+      <actor>Karen, James</actor>
+      <role>Passerby</role>
+    </credit>
+    <credit>
+      <actor>Keaton, Buster</actor>
+      <role>The Man</role>
+    </credit>
+  </cast>
+<plot>A twenty-minute, almost totally silent film (no dialogue or music one 'shhh!') in which Buster Keaton attempts to evade observation by an all-seeing eye. But, as the film is based around Bishop Berkeley's principle 'esse est percipi' (to be is to be perceived), Keaton's very existence conspires against his efforts</plot><url>http://localhost:8983/solr/movie.html?194200</url></doc>

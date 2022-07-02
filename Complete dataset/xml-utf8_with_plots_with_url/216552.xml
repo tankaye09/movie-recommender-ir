@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="216552">
+  <docid>216552</docid>
+  <title>Gizmo!</title>
+  <year>1977</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Manning, Terry (I)</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>independent-film</keyword>
+    <keyword>machine</keyword>
+    <keyword>invention</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Finland">S</certificate>
+    <certificate country="USA">G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Canada">17 September 1977</releasedate>
+    <releasedate country="Finland">22 January 1982</releasedate>
+    <releasedate country="USA">18 January 1980</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">77</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Smith, Howard (II)</director>
+  </directors>
+  <producers>
+    <producer>Berger, Alain (I)</producer>
+    <producer>Smith, Howard (II)</producer>
+  </producers>
+  <writers>
+    <writer>Cox, Kathleen</writer>
+    <writer>Hollander, Nicholas</writer>
+    <writer>Whelton, Clark</writer>
+  </writers>
+  <composers>
+    <composer>Lavsky, Richard</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Moss, Milt</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>A documentary about some of the thousands of inventions that did things we never thought needed doing, or in ways we never considered doing them. A respectful, yet humorous tribute to the inventors whose vision, however far-reaching, was just a little off the mark.</plot><url>http://localhost:8983/solr/movie.html?216552</url></doc>

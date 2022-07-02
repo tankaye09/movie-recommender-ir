@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="082418">
+  <docid>082418</docid>
+  <title>Breakout</title>
+  <year>1978</year>
+  <type>VideoGame</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <keywords>
+    <keyword>video-game</keyword>
+  </keywords>
+  <countries>
+    <country>USA</country>
+  </countries>
+<plot>You must use a horizontally-sliding paddle to bounce a ball against colorful bars at the top of the screen. Each segment of the bars touched by the ball disappears. The object is to keep the ball ricocheting between your paddle and the bars above until the bars are completely gone and you "break out". You get points for each bar segment you get rid of. If the ball drops below your paddle, you lose a life.</plot><url>http://localhost:8983/solr/movie.html?082418</url></doc>

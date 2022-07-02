@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="214547">
+  <docid>214547</docid>
+  <title>Giallo</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Thriller</genre>
+  </genres>
+  <languages>
+    <language>French</language>
+    <language>Arabic</language>
+  </languages>
+  <countries>
+    <country>Lebanon</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Lebanon">28 August 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Lebanon">25</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Waked, Antoine</director>
+  </directors>
+  <writers>
+    <writer>Waked, Antoine</writer>
+  </writers>
+  <composers>
+    <composer>El Assaad, Nijad</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Badrane, Salim</actor>
+      <role>Tony</role>
+    </credit>
+    <credit>
+      <actor>El Assaad, Nijad</actor>
+      <role>Halim Salem</role>
+    </credit>
+    <credit>
+      <actor>Haidar, Raia</actor>
+      <role>Daria</role>
+    </credit>
+    <credit>
+      <actor>Jamo, Serge</actor>
+      <role>Marc Dalmas</role>
+    </credit>
+  </cast>
+<plot>After living many years in Paris, Marc Dalmas comes back to Lebanon to visit his sister As soon as he arrives, he finds her murdered. That same night, Marc witnesses another murder while being drunk. Due to the incompetence of the police, Marc decides to find the killer alone.</plot><url>http://localhost:8983/solr/movie.html?214547</url></doc>

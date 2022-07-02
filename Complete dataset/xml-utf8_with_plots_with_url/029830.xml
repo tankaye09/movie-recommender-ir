@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="029830">
+  <docid>029830</docid>
+  <title>Alice</title>
+  <year>2003</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Houlahan, Michael (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Australia</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">MA</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">18</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Davis, Garth</director>
+  </directors>
+  <writers>
+    <writer>Bodie, Jane</writer>
+  </writers>
+  <composers>
+    <composer>Lester, Nicola (II)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Hayes, Anthony (I)</actor>
+      <role>Ben</role>
+    </credit>
+    <credit>
+      <actor>Keddie, Asher</actor>
+      <role>Amanda</role>
+    </credit>
+    <credit>
+      <actor>Nikolakopoulos, Tony</actor>
+      <role>Computer Service Man</role>
+    </credit>
+  </cast>
+<plot>Alice tells the story of a young couple who are expecting their first baby. We see Amanda's anxiety and trepidation at the impending change in her life and what it will mean to her. After tragedy strikes we see the couple's crushed dreams and grief at their loss and how they eventually move towards an acceptance of what has happened in their lives and of each other.</plot><url>http://localhost:8983/solr/movie.html?029830</url></doc>

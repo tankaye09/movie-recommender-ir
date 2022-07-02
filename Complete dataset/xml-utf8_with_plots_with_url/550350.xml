@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="550350">
+  <docid>550350</docid>
+  <title>The Cotton Club</title>
+  <year>1984</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lovett, Robert Q.</editor>
+    <editor>Malkin, Barry (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Music</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>new-york-city</keyword>
+    <keyword>film-in-film</keyword>
+    <keyword>mafia</keyword>
+    <keyword>dance</keyword>
+    <keyword>biracial</keyword>
+    <keyword>jazz</keyword>
+    <keyword>gangster</keyword>
+    <keyword>tap-dancing</keyword>
+    <keyword>independent-film</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>cultural-assimilation</keyword>
+    <keyword>african-american</keyword>
+    <keyword>stabbing</keyword>
+    <keyword>dead-boy</keyword>
+    <keyword>controversial</keyword>
+    <keyword>beautiful-woman</keyword>
+    <keyword>drive-by-shooting</keyword>
+    <keyword>irish-american</keyword>
+    <keyword>harlem</keyword>
+    <keyword>violence</keyword>
+    <keyword>1920s</keyword>
+    <keyword>box-office-flop</keyword>
+    <keyword>new-york</keyword>
+    <keyword>double-child-murder</keyword>
+    <keyword>dead-children</keyword>
+    <keyword>racism</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>70 mm 6-Track</soundmix>
+    <soundmix>Dolby</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Argentina">18</certificate>
+    <certificate country="West Germany">16</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Chile">18</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Hungary">16</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Norway">16</certificate>
+    <certificate country="Finland">K-16</certificate>
+    <certificate country="USA">R</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">1 March 1985</releasedate>
+    <releasedate country="Czechoslovakia">1 October 1986</releasedate>
+    <releasedate country="West Germany">22 February 1985</releasedate>
+    <releasedate country="Netherlands">15 May 1985</releasedate>
+    <releasedate country="Japan">23 March 1985</releasedate>
+    <releasedate country="France">2 January 1985</releasedate>
+    <releasedate country="Hong Kong">5 September 1985</releasedate>
+    <releasedate country="East Germany">30 January 1987</releasedate>
+    <releasedate country="Australia">3 January 1985</releasedate>
+    <releasedate country="Finland">19 April 1985</releasedate>
+    <releasedate country="USA">14 December 1984</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Germany">123</runningtime>
+    <runningtime country="default">127</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Coppola, Francis Ford</director>
+  </directors>
+  <producers>
+    <producer>Prophet, Melissa</producer>
+    <producer>Roos, Fred</producer>
+    <producer>Tabet, Sylvio</producer>
+    <producer>Lovell, Dyson</producer>
+    <producer>Cusumano, Joseph</producer>
+    <producer>Osborne, Barrie M.</producer>
+    <producer>Evans, Robert (I)</producer>
+  </producers>
+  <writers>
+    <writer>Haskins, Jim</writer>
+    <writer>Coppola, Francis Ford</writer>
+    <writer>Kennedy, William (II)</writer>
+    <writer>Puzo, Mario</writer>
+  </writers>
+  <composers>
+    <composer>Barry, John (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abarca, Lydia</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Allen, Dayton</actor>
+      <role>Solly</role>
+    </credit>
+    <credit>
+      <actor>Allen, Sarita</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Oscar</actor>
+      <role>Spanish Henry</role>
+    </credit>
+    <credit>
+      <actor>Baskerville, Priscilla</actor>
+      <role>'Creole Love Call' sung by</role>
+    </credit>
+    <credit>
+      <actor>Bass, Tracey</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Beall, Sandra</actor>
+      <role>Myrtle Fay</role>
+    </credit>
+    <credit>
+      <actor>Beatty, Ethel</actor>
+      <role>Bandana Babies Lead Vocal/Dancer</role>
+    </credit>
+    <credit>
+      <actor>Beck, Julian</actor>
+      <role>Sol Weinstein</role>
+    </credit>
+    <credit>
+      <actor>Bird, Jacquelyn</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Black-Brown, Shirley</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Breedlove, Jhoe</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Brown, James 'Buster'</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Brown, Ralph (III)</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Cafiso, John</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Cafiso, Steve</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Cage, Nicolas</actor>
+      <role>Vincent Dwyer</role>
+    </credit>
+    <credit>
+      <actor>Caldwell, Leslie</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Caldwell, Melanie</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Cantero, George</actor>
+      <role>Vince Hood</role>
+    </credit>
+    <credit>
+      <actor>Carpenter, Thelma</actor>
+      <role>Norma Williams</role>
+    </credit>
+    <credit>
+      <actor>Chan, Kim (I)</actor>
+      <role>Ling</role>
+    </credit>
+    <credit>
+      <actor>Clanton, Rony</actor>
+      <role>Caspar Holstein</role>
+    </credit>
+    <credit>
+      <actor>Clorey, Benny</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Cobbs, Bill</actor>
+      <role>Big Joe Ison</role>
+    </credit>
+    <credit>
+      <actor>Coles, Charles 'Honi'</actor>
+      <role>Suger Coates</role>
+    </credit>
+    <credit>
+      <actor>Coppola, Marc</actor>
+      <role>Ted Husing</role>
+    </credit>
+    <credit>
+      <actor>Coppola, Sofia</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Coutoupis, George</actor>
+      <role>Gangster</role>
+    </credit>
+    <credit>
+      <actor>Cowart, Sheri</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Cromer, Harold</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Cunningham, Skip</actor>
+      <role>Tip, Tap &amp; Toe</role>
+    </credit>
+    <credit>
+      <actor>Dallesandro, Joe</actor>
+      <role>Charles 'Lucky' Luciano</role>
+    </credit>
+    <credit>
+      <actor>Darden, Norma Jean</actor>
+      <role>Elda Webb</role>
+    </credit>
+    <credit>
+      <actor>DiBianco, Karen</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Digiorgio, Ninon</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Dorsey, Kimberly</actor>
+      <role>Joan Blondell</role>
+    </credit>
+    <credit>
+      <actor>Downs Jr., Frederick (I)</actor>
+      <role>Sullen Man</role>
+    </credit>
+    <credit>
+      <actor>Drayton, Cisco</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Duquesnay, Ann</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Earle, Carla</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Edmead, Wendy</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Esposito, Giancarlo</actor>
+      <role>Bumpy Hood</role>
+    </credit>
+    <credit>
+      <actor>Fishburne, Laurence</actor>
+      <role>Bumpy Rhodes</role>
+    </credit>
+    <credit>
+      <actor>Fitts, Debbie</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Fontaine, Luther</actor>
+      <role>Tip, Tap &amp; Toe</role>
+    </credit>
+    <credit>
+      <actor>Gaines, Bubba</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Garfield, Allen</actor>
+      <role>Abbadabba Berman</role>
+    </credit>
+    <credit>
+      <actor>Garner, Ruddy L.</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Gere, Richard</actor>
+      <role>Dixie Dwyer</role>
+    </credit>
+    <credit>
+      <actor>Giangiulio, Nicholas J.</actor>
+      <role>Screen Test Thug</role>
+    </credit>
+    <credit>
+      <actor>Gillen, Linda</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Goldsmith, Sydney</actor>
+      <role>Barbecue Bess sung by</role>
+    </credit>
+    <credit>
+      <actor>Graham, Bill (I)</actor>
+      <role>J.W.</role>
+    </credit>
+    <credit>
+      <actor>Graves, Ruthanna</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Grey, Jennifer</actor>
+      <role>Patsy Dwyer</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Terri</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Gwynne, Fred</actor>
+      <role>Frenchy Demange</role>
+    </credit>
+    <credit>
+      <actor>Harmon, Robin</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Harris, Rosalind</actor>
+      <role>Fanny Brice</role>
+    </credit>
+    <credit>
+      <actor>Harry, Jackée</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Hensley, Sonya (I)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Herman, Paul (I)</actor>
+      <role>Policeman #1</role>
+    </credit>
+    <credit>
+      <actor>Hillman, George</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Hines, Daria</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Hines, Gregory</actor>
+      <role>Sandman Williams</role>
+    </credit>
+    <credit>
+      <actor>Hines, Maurice</actor>
+      <role>Clay Williams</role>
+    </credit>
+    <credit>
+      <actor>Hoskins, Bob (I)</actor>
+      <role>Owney Madden</role>
+    </credit>
+    <credit>
+      <actor>Hubbard, Bruce</actor>
+      <role>Bumpy Hood</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Dave (I)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Jarrett, Bella</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Jerosa, Vincent</actor>
+      <role>James Cagney</role>
+    </credit>
+    <credit>
+      <actor>Jones, Robert Earl</actor>
+      <role>Stage Door Joe</role>
+    </credit>
+    <credit>
+      <actor>Kaaren, Suzanne</actor>
+      <role>The Duchess of Park Avenue</role>
+    </credit>
+    <credit>
+      <actor>Karabatsos, Ron</actor>
+      <role>Mike Best</role>
+    </credit>
+    <credit>
+      <actor>Kendricks, Gail</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Kimball, Christina Kumi</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Kurdock, Mary Beth</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Lane, Diane (I)</actor>
+      <role>Vera Cicero</role>
+    </credit>
+    <credit>
+      <actor>LeTang, Henry</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>LeTang, Patricia</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Leake, Damien</actor>
+      <role>Bub Jewett</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Alde</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Christopher (II)</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Joe (I)</actor>
+      <role>Marcial Flores</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Paula</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>MacVittie, Bruce</actor>
+      <role>Vince Hood</role>
+    </credit>
+    <credit>
+      <actor>Manners, Bernard</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Margolis, Mark (I)</actor>
+      <role>Charlie Workman</role>
+    </credit>
+    <credit>
+      <actor>Mark, Zane</actor>
+      <role>Duke Ellington</role>
+    </credit>
+    <credit>
+      <actor>Marsh, Bernard</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Larry (I)</actor>
+      <role>Cab Calloway</role>
+    </credit>
+    <credit>
+      <actor>McHarris, David</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>McHarris, Delores</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>McKee, Lonette</actor>
+      <role>Lila Rose Oliver</role>
+    </credit>
+    <credit>
+      <actor>Mechsner, Susan</actor>
+      <role>Gypsie</role>
+    </credit>
+    <credit>
+      <actor>Mell, Randle</actor>
+      <role>Policeman #2</role>
+    </credit>
+    <credit>
+      <actor>Mickens, Jan</actor>
+      <role>Tip, Tap &amp; Toe</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Naylon (II)</actor>
+      <role>Busboy</role>
+    </credit>
+    <credit>
+      <actor>O'Ross, Ed</actor>
+      <role>Monk</role>
+    </credit>
+    <credit>
+      <actor>Papalardo, Jason</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Pena, Demetrius</actor>
+      <role>Child in Street</role>
+    </credit>
+    <credit>
+      <actor>Remar, James</actor>
+      <role>Dutch Schultz</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Henry Phace</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Rowan, Ed (I)</actor>
+      <role>Messiah</role>
+    </credit>
+    <credit>
+      <actor>Rozakis, Gregory</actor>
+      <role>Charlie Chaplin</role>
+    </credit>
+    <credit>
+      <actor>Russo, James (I)</actor>
+      <role>Vince Hood</role>
+    </credit>
+    <credit>
+      <actor>Ryan, John P.</actor>
+      <role>Joe Flynn</role>
+    </credit>
+    <credit>
+      <actor>Signorelli, Tom</actor>
+      <role>Butch Murdock</role>
+    </credit>
+    <credit>
+      <actor>Sims, Howard 'Sandman'</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Slyde, Jimmy</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Smallwood, Tucker</actor>
+      <role>Kid Griffin</role>
+    </credit>
+    <credit>
+      <actor>Strode, Woody</actor>
+      <role>Holmes</role>
+    </credit>
+    <credit>
+      <actor>Tarantina, Brian</actor>
+      <role>Vince Hood</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Kirk</actor>
+      <role>Cotton Club Waiter</role>
+    </credit>
+    <credit>
+      <actor>Termo, Leonard</actor>
+      <role>Danny</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Gary (I)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Tracy, Stan</actor>
+      <role>Legs Diamond's Bodyguard</role>
+    </credit>
+    <credit>
+      <actor>Van Peebles, Mario</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Vignari, Steve</actor>
+      <role>Trigger Mike Coppola</role>
+    </credit>
+    <credit>
+      <actor>Waits, Tom</actor>
+      <role>Irving Stark</role>
+    </credit>
+    <credit>
+      <actor>Washburn, Rick</actor>
+      <role>Hitman</role>
+    </credit>
+    <credit>
+      <actor>Wheeler, Ivery</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Williams, Donald (I)</actor>
+      <role>Dancer</role>
+    </credit>
+    <credit>
+      <actor>Withrow, Glenn</actor>
+      <role>Ed Popke</role>
+    </credit>
+    <credit>
+      <actor>Young, Charles (I)</actor>
+      <role>Hoofer</role>
+    </credit>
+    <credit>
+      <actor>Zang, Ed</actor>
+      <role>Hotel Clerk</role>
+    </credit>
+  </cast>
+<plot>The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.</plot><url>http://localhost:8983/solr/movie.html?550350</url></doc>

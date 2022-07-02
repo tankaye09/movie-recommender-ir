@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="433441">
+  <docid>433441</docid>
+  <title>Pinky and the Brain</title>
+  <year>1995</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Breitenbach, Al</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>megalomaniac</keyword>
+    <keyword>orson-welles</keyword>
+    <keyword>world-domination</keyword>
+    <keyword>cult-cartoon</keyword>
+    <keyword>acme-brand</keyword>
+    <keyword>educational-film</keyword>
+    <keyword>cage</keyword>
+    <keyword>shrinking</keyword>
+    <keyword>talking-animal</keyword>
+    <keyword>villain</keyword>
+    <keyword>miniaturization</keyword>
+    <keyword>mouse</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>mind-control</keyword>
+    <keyword>laboratory</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Brazil">Livre</certificate>
+    <certificate country="USA">TV-Y</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">25 April 1998</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Calabrese, Russell</director>
+    <director>Caldwell, Barry</director>
+    <director>Holzman, Liz</director>
+    <director>McClenahan, Jon</director>
+    <director>Mills, Rusty</director>
+    <director>Milo, Mike</director>
+    <director>Paden, Audu</director>
+    <director>Recinos, Nelson</director>
+    <director>Tingblad, Kirk</director>
+    <director>Visser, Charles</director>
+    <director>Zegler, Al</director>
+  </directors>
+  <producers>
+    <producer>Gerard, Barbra J.</producer>
+    <producer>Spielberg, Steven</producer>
+    <producer>Hampton, Elin</producer>
+    <producer>Hastings, Peter</producer>
+    <producer>Holzman, Liz</producer>
+    <producer>Howell IV, Charles M.</producer>
+    <producer>Mills, Rusty</producer>
+    <producer>Ruegger, Tom</producer>
+    <producer>Mills, Rusty</producer>
+  </producers>
+  <writers>
+    <writer>Almos, Eva</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Ehrlich, Erin</writer>
+    <writer>Finkel, Dave</writer>
+    <writer>Fury, David (I)</writer>
+    <writer>Hampton, Elin</writer>
+    <writer>Hastings, Peter</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>Kress, Earl</writer>
+    <writer>Laufenberg, Gene</writer>
+    <writer>Ludin, John</writer>
+    <writer>Minton, Tom</writer>
+    <writer>Morris, Wendell</writer>
+    <writer>Sheppard, Tom (I)</writer>
+    <writer>Spingarn, Jed</writer>
+    <writer>Stoner, Sherri</writer>
+    <writer>Swenlin, Brian</writer>
+    <writer>Verrone, Patric</writer>
+    <writer>Braunstein, Bill</writer>
+    <writer>Bressack, Gordon</writer>
+    <writer>Holzman, Liz</writer>
+    <writer>Howell IV, Charles M.</writer>
+    <writer>McLaughlin, Shaun</writer>
+    <writer>Morris, Wendell</writer>
+    <writer>Ruegger, Tom</writer>
+    <writer>Sheppard, Tom (I)</writer>
+  </writers>
+  <composers>
+    <composer>Bernstein, Julie (I)</composer>
+    <composer>Bernstein, Steven (II)</composer>
+    <composer>Johnson, Carl (I)</composer>
+    <composer>Kelly, Tim (II)</composer>
+    <composer>Ruegger, Tom</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Allen, Steve (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Astin, John</actor>
+      <role>Grover Whalen</role>
+    </credit>
+    <credit>
+      <actor>Belushi, James</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Belushi, James</actor>
+      <role>Jack Maguire</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Allan Fontain Bisque</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Baloney</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Baloney/Arnold Schwarzenegger/Jerry Seinfeld</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Castro-type</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Chris</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Dr. Mordough</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Game Announcer</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Hippie</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Irving Thyroid</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Jagger/Christopher</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Jakob</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Jim/Castro type</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Kale Mumphausen</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Kilmer</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Leonard Shelton</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Locke</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Sampson</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Scientist #2</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Squeege</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Tom Caljones</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Wensleydale</role>
+    </credit>
+    <credit>
+      <actor>Bennett, Jeff (I)</actor>
+      <role>Zalgar</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Julie (I)</actor>
+      <role>Female Singer</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Steven (II)</actor>
+      <role>Singer #2</role>
+    </credit>
+    <credit>
+      <actor>Bodett, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Boen, Earl</actor>
+      <role>Earth/Moon</role>
+    </credit>
+    <credit>
+      <actor>Bojangles</actor>
+      <role>Dorian Harewood</role>
+    </credit>
+    <credit>
+      <actor>Borgnine, Ernest</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Brothers, Joyce</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brown, Julie (I)</actor>
+      <role>Minerva Mink</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Cushing</role>
+    </credit>
+    <credit>
+      <actor>Burton, Corey (I)</actor>
+      <role>Strawboater</role>
+    </credit>
+    <credit>
+      <actor>Cartwright, Nancy (I)</actor>
+      <role>Mindy</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Fedora</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Jacques</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Johannes Gutenberg</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Major</role>
+    </credit>
+    <credit>
+      <actor>Cedar, Larry</actor>
+      <role>Rags</role>
+    </credit>
+    <credit>
+      <actor>Clark, Dick (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Bobby Bob Yokel</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Bobby Bob yokel</role>
+    </credit>
+    <credit>
+      <actor>Coleman, Townsend</actor>
+      <role>Hal Slug</role>
+    </credit>
+    <credit>
+      <actor>Coulier, Dave</actor>
+      <role>Tom Hanks</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Chuck</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Fred Floppel</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Innkeeper</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Orson Welles</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Punk</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>Saran</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>The Mist</role>
+    </credit>
+    <credit>
+      <actor>Cummings, Jim (I)</actor>
+      <role>V/O #1</role>
+    </credit>
+    <credit>
+      <actor>Douthette, Dani</actor>
+      <role>Agnes</role>
+    </credit>
+    <credit>
+      <actor>Doyle, Richard (I)</actor>
+      <role>Phineas Fogg</role>
+    </credit>
+    <credit>
+      <actor>Duffy, Julia</actor>
+      <role>Delilah</role>
+    </credit>
+    <credit>
+      <actor>Dunn, Nora</actor>
+      <role>Precious</role>
+    </credit>
+    <credit>
+      <actor>Elwes, Cary</actor>
+      <role>Director</role>
+    </credit>
+    <credit>
+      <actor>Elwes, Cary</actor>
+      <role>Hamlet</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Critic</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Drake</role>
+    </credit>
+    <credit>
+      <actor>George, Brian (I)</actor>
+      <role>Sir Niles</role>
+    </credit>
+    <credit>
+      <actor>Grier, David Alan</actor>
+      <role>Marlon</role>
+    </credit>
+    <credit>
+      <actor>Grier, Pam</actor>
+      <role>Julie Auburn</role>
+    </credit>
+    <credit>
+      <actor>Hale, Jennifer (I)</actor>
+      <role>Winny</role>
+    </credit>
+    <credit>
+      <actor>Hamill, Mark (I)</actor>
+      <role>Jimmy Joe Jr.</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Alien Singer</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Fred Spinatra</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Tourist</role>
+    </credit>
+    <credit>
+      <actor>Harnell, Jess</actor>
+      <role>Wakk Skylicker/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Hayden, Pamela (I)</actor>
+      <role>Trudy</role>
+    </credit>
+    <credit>
+      <actor>Howerton, Charles</actor>
+      <role>Cribbage</role>
+    </credit>
+    <credit>
+      <actor>Hussey, Olivia</actor>
+      <role>Queen</role>
+    </credit>
+    <credit>
+      <actor>Idle, Eric</actor>
+      <role>Pinky's Mom/Pinky's Dad</role>
+    </credit>
+    <credit>
+      <actor>Jason, Peter</actor>
+      <role>Bobby Nacht</role>
+    </credit>
+    <credit>
+      <actor>Jay, Tony (I)</actor>
+      <role>Egyptian Priest</role>
+    </credit>
+    <credit>
+      <actor>Karron, Richard</actor>
+      <role>Sweaty Pete</role>
+    </credit>
+    <credit>
+      <actor>Keymáh, T'Keyah Crystal</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Brain-2-Me-2/Squit/Rick Blaine/Alien/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>Chief of Staff Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain/Al Gore</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain/Baby Romy</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain/Queen Roach's Aid</role>
+    </credit>
+    <credit>
+      <actor>LaMarche, Maurice</actor>
+      <role>The Brain/Rhennish Brother</role>
+    </credit>
+    <credit>
+      <actor>Lala, Joe</actor>
+      <role>Francois</role>
+    </credit>
+    <credit>
+      <actor>Libertini, Richard</actor>
+      <role>Talleyrand</role>
+    </credit>
+    <credit>
+      <actor>MacLeod, Gavin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Baby</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Bernie</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Brie</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cheerleader</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Cher</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Female Rock Star</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>First Lady</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>First Lady/Yoko Ono type</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Genevieve</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Girl</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Greta</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Hooda Hepper</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Janet</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Janine</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Japanese Girl</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Katie Couric</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Madame De Jambone</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Marna Strutt</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Mother</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Mousealope Calf</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Mrs. Applebee</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Mrs. Perfect</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Nicky O'Time</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Old Woman</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Passerby</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Phyllis</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Princess Dot/Hello Nurse/Barbra Streisand/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Queen Roach/First Lady/Time Machine Computer</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Rikki Lake</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Rue McClanahy</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Sammy</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Sarah</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Sully</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Thelma</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Wench</role>
+    </credit>
+    <credit>
+      <actor>MacNeille, Tress</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Mariano, John</actor>
+      <role>Bobby</role>
+    </credit>
+    <credit>
+      <actor>Mariano, John</actor>
+      <role>Head Gendarm</role>
+    </credit>
+    <credit>
+      <actor>Mariano, John</actor>
+      <role>Robert</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Garry</actor>
+      <role>Mr. Itch - The Devil</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Gina</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Kathie Glee</role>
+    </credit>
+    <credit>
+      <actor>Matthius, Gail</actor>
+      <role>Wendy</role>
+    </credit>
+    <credit>
+      <actor>McDowall, Roddy</actor>
+      <role>Snowball</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Steve</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>McKean, Michael (I)</actor>
+      <role>Herbert Schniederlander</role>
+    </credit>
+    <credit>
+      <actor>McKean, Michael (I)</actor>
+      <role>Mel Aroma</role>
+    </credit>
+    <credit>
+      <actor>McKean, Michael (I)</actor>
+      <role>Ponytail</role>
+    </credit>
+    <credit>
+      <actor>McKean, Michael (I)</actor>
+      <role>Toll Collector</role>
+    </credit>
+    <credit>
+      <actor>McMahon, Ed (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Shawn</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Tax man #1</role>
+    </credit>
+    <credit>
+      <actor>McMurray, Sam</actor>
+      <role>Video Teacher</role>
+    </credit>
+    <credit>
+      <actor>Meskimen, Jim</actor>
+      <role>Bob Dole</role>
+    </credit>
+    <credit>
+      <actor>Meskimen, Jim</actor>
+      <role>Del Monte</role>
+    </credit>
+    <credit>
+      <actor>Michelle, Diane</actor>
+      <role>Mousey Galore</role>
+    </credit>
+    <credit>
+      <actor>Moschitta Jr., John</actor>
+      <role>Mr. Sackett</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>3-Pinky-O/Yakk Soho/Dr. Otto Scratchensniff/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Pinky</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Pinky</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>Pinky/Adult Romy</role>
+    </credit>
+    <credit>
+      <actor>Paulsen, Rob</actor>
+      <role>President Pinky</role>
+    </credit>
+    <credit>
+      <actor>Rabson, Jan</actor>
+      <role>Farmer</role>
+    </credit>
+    <credit>
+      <actor>Rabson, Jan</actor>
+      <role>Referee</role>
+    </credit>
+    <credit>
+      <actor>Revill, Clive</actor>
+      <role>King</role>
+    </credit>
+    <credit>
+      <actor>Rhys-Davies, John</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Bernard Shaw</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Jelly-Head</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Bumper</actor>
+      <role>Tyrone Spellbinder</role>
+    </credit>
+    <credit>
+      <actor>Rocco, Alex</actor>
+      <role>Floyd Nesbit</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>David Letterman</role>
+    </credit>
+    <credit>
+      <actor>Rose, Roger (I)</actor>
+      <role>Man #1</role>
+    </credit>
+    <credit>
+      <actor>Ross, Neil (I)</actor>
+      <role>Marvin Martian/Announcer</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, John</actor>
+      <role>Gummy Gibberish</role>
+    </credit>
+    <credit>
+      <actor>Ruegger, Nathan</actor>
+      <role>Skippoda</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Dr. Belvadere</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Mr. Director</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Sultana 'Barry' Sultana</role>
+    </credit>
+    <credit>
+      <actor>Rugg, Paul</actor>
+      <role>Sultana Sultana</role>
+    </credit>
+    <credit>
+      <actor>Scolari, Peter</actor>
+      <role>Mr. Perfect</role>
+    </credit>
+    <credit>
+      <actor>Scolari, Peter</actor>
+      <role>Weird Guy</role>
+    </credit>
+    <credit>
+      <actor>Stein, Ben (I)</actor>
+      <role>Francis 'Pip' Pumphandle</role>
+    </credit>
+    <credit>
+      <actor>Tambor, Jeffrey</actor>
+      <role>Beetle Fiero</role>
+    </credit>
+    <credit>
+      <actor>Tesh, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tubert, Marcelo</actor>
+      <role>Hector Papdopolis</role>
+    </credit>
+    <credit>
+      <actor>Vennera, Chick</actor>
+      <role>Pesto</role>
+    </credit>
+    <credit>
+      <actor>Vernon, John (I)</actor>
+      <role>Admiral</role>
+    </credit>
+    <credit>
+      <actor>Villani, Michael</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Beaver</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Board Member</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Commander</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Fred Floppel</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Girth Plotz/Chewbooboo/Ralph the Guard/Flabby the Butt/Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Gollyzilla/Scientist #2/Man in Street? Soldier #1</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Grandfather</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Maurice/Monster Vegetables</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Mr. President/Frizzy</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Napoleon</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Odin</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Ross Perot</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>Steven S.</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The President</role>
+    </credit>
+    <credit>
+      <actor>Welker, Frank</actor>
+      <role>The President</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Dean</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Earl Wendell</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Indian Man</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Larry</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Marv Albert</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Receptionist</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Regis/Harry</role>
+    </credit>
+    <credit>
+      <actor>West, Billy (II)</actor>
+      <role>Roger Ebert</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Thomas F.</actor>
+      <role>Larry Bruhn</role>
+    </credit>
+  </cast>
+<plot>A genetically engineered mouse (who sounds like Orson Welles) and his insane cohort make nightly attempts to take over the world.</plot><url>http://localhost:8983/solr/movie.html?433441</url></doc>

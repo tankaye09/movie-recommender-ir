@@ -1,0 +1,5227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="374054">
+  <docid>374054</docid>
+  <title>Modern Marvels</title>
+  <year>1994</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Andrew, Mark S.</editor>
+    <editor>Andrews, Michael W.</editor>
+    <editor>Bailey, Andrea</editor>
+    <editor>Bininger, John</editor>
+    <editor>Browne, Kevin</editor>
+    <editor>Cardeiro, Michael</editor>
+    <editor>Ching, Lipo</editor>
+    <editor>Clausen, Greg</editor>
+    <editor>Corwin, Andrew</editor>
+    <editor>Cruickshank, Teki</editor>
+    <editor>Dash, Sean</editor>
+    <editor>De Tora, Joanne</editor>
+    <editor>Decker, Jerry</editor>
+    <editor>Derby, Brian (I)</editor>
+    <editor>Fisher, Avi</editor>
+    <editor>Foster, Jack (I)</editor>
+    <editor>Frank, Larry (II)</editor>
+    <editor>Freed, Art</editor>
+    <editor>Gomez, Julian (I)</editor>
+    <editor>Green, Brandon (V)</editor>
+    <editor>Hafner, Chris</editor>
+    <editor>Hope, Arek</editor>
+    <editor>Hutchinson, Ian (VI)</editor>
+    <editor>Jacobs, Laurence (I)</editor>
+    <editor>Johnson, Brian (VIII)</editor>
+    <editor>Johnson, Gareth (IV)</editor>
+    <editor>Kelly, Scot J.</editor>
+    <editor>LaProcido, Lou</editor>
+    <editor>Lattanzio, Robert</editor>
+    <editor>Madla, Manny</editor>
+    <editor>Malouf, Pamela</editor>
+    <editor>McCord, Jane</editor>
+    <editor>Mellon, Steve</editor>
+    <editor>Moore, Margaret (II)</editor>
+    <editor>Moore, Rick (VII)</editor>
+    <editor>Morning, Gretchen</editor>
+    <editor>Moss, Bernard</editor>
+    <editor>Mudgett, Brad</editor>
+    <editor>Nilsson, Sven (II)</editor>
+    <editor>Paramor, Robbie</editor>
+    <editor>Perry, Nickolas</editor>
+    <editor>Pomerantz, Steve</editor>
+    <editor>Potter, Bob (I)</editor>
+    <editor>Potter, Robert (I)</editor>
+    <editor>Reid, Gary (I)</editor>
+    <editor>Reilly, Ryan (I)</editor>
+    <editor>Robinson, Barney</editor>
+    <editor>Robinson, Skip (I)</editor>
+    <editor>Ross, Brian (III)</editor>
+    <editor>Rubinow, Alexander B.</editor>
+    <editor>Segal, Karen (II)</editor>
+    <editor>Serling, Craig</editor>
+    <editor>Shontell, R.L.</editor>
+    <editor>Shukat, Chaz</editor>
+    <editor>Smith, Katherine (VI)</editor>
+    <editor>Smith, Katie (I)</editor>
+    <editor>Springer, Arthur (II)</editor>
+    <editor>Steinberg, Jason (II)</editor>
+    <editor>Stevenson, Matt (I)</editor>
+    <editor>Stocking, Shelly</editor>
+    <editor>Sullivan, Patricia (V)</editor>
+    <editor>Swanson, Janet</editor>
+    <editor>Takakjian, Glenn</editor>
+    <editor>Thomas, Andrew (IV)</editor>
+    <editor>Tudahl, Duane</editor>
+    <editor>Vaillancourt, André</editor>
+    <editor>Vinger, Florence</editor>
+    <editor>Wakabayashi, Motoshi</editor>
+    <editor>Whittle, Dave</editor>
+    <editor>Yaskin, Kyle</editor>
+  </editors>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>History</genre>
+  </genres>
+  <keywords>
+    <keyword>medical-research</keyword>
+    <keyword>nuclear-accident</keyword>
+    <keyword>coal</keyword>
+    <keyword>breakfast</keyword>
+    <keyword>new-york-city</keyword>
+    <keyword>medicine</keyword>
+    <keyword>inventor</keyword>
+    <keyword>elevator</keyword>
+    <keyword>nuclear-submarine</keyword>
+    <keyword>mast</keyword>
+    <keyword>disaster</keyword>
+    <keyword>sewage</keyword>
+    <keyword>atomic-bomb</keyword>
+    <keyword>pretzel</keyword>
+    <keyword>eiffel-tower-paris</keyword>
+    <keyword>san-francisco-california</keyword>
+    <keyword>explosion</keyword>
+    <keyword>experimental-aircraft</keyword>
+    <keyword>apple-macintosh-computer</keyword>
+    <keyword>apollo-13</keyword>
+    <keyword>ibm</keyword>
+    <keyword>blackout</keyword>
+    <keyword>mainframe-computer</keyword>
+    <keyword>building</keyword>
+    <keyword>ice-cream</keyword>
+    <keyword>high-speed-train</keyword>
+    <keyword>steel-worker</keyword>
+    <keyword>fungi</keyword>
+    <keyword>air-conditioner</keyword>
+    <keyword>cremation</keyword>
+    <keyword>riot</keyword>
+    <keyword>architect</keyword>
+    <keyword>potato-chip</keyword>
+    <keyword>glacier</keyword>
+    <keyword>harry-s-truman</keyword>
+    <keyword>wwii</keyword>
+    <keyword>stainless-steel</keyword>
+    <keyword>orange-juice</keyword>
+    <keyword>1950s</keyword>
+    <keyword>air-base</keyword>
+    <keyword>road-construction</keyword>
+    <keyword>vaccine</keyword>
+    <keyword>political</keyword>
+    <keyword>fried-bacon</keyword>
+    <keyword>fuel</keyword>
+    <keyword>test-flight</keyword>
+    <keyword>machine-gun</keyword>
+    <keyword>oregon</keyword>
+    <keyword>los-alamos</keyword>
+    <keyword>petroleum</keyword>
+    <keyword>zeppelin</keyword>
+    <keyword>agriculture</keyword>
+    <keyword>flying-wing</keyword>
+    <keyword>architectural-competition</keyword>
+    <keyword>scientist</keyword>
+    <keyword>franklin-d.-roosevelt</keyword>
+    <keyword>crush-depth</keyword>
+    <keyword>skyscraper</keyword>
+    <keyword>pig-breeder</keyword>
+    <keyword>tram</keyword>
+    <keyword>polio</keyword>
+    <keyword>educational</keyword>
+    <keyword>chernobyl-ukraine</keyword>
+    <keyword>dry-lake</keyword>
+    <keyword>hydrogen-bomb</keyword>
+    <keyword>construction</keyword>
+    <keyword>cotton-field</keyword>
+    <keyword>titanic</keyword>
+    <keyword>st.-louis-gateway-arch</keyword>
+    <keyword>california-coast</keyword>
+    <keyword>pig</keyword>
+    <keyword>airship</keyword>
+    <keyword>gadgetry</keyword>
+    <keyword>meat</keyword>
+    <keyword>archive-footage</keyword>
+    <keyword>train</keyword>
+    <keyword>test-pilot</keyword>
+    <keyword>landslide</keyword>
+    <keyword>empire-state-building-new-york-city</keyword>
+    <keyword>march-of-dimes</keyword>
+    <keyword>building-construction</keyword>
+    <keyword>arch</keyword>
+    <keyword>building-collapse</keyword>
+    <keyword>road-construction-machinery</keyword>
+    <keyword>military</keyword>
+    <keyword>challenger</keyword>
+    <keyword>saddam-hussein</keyword>
+    <keyword>golden-gate-bridge</keyword>
+    <keyword>bomber</keyword>
+    <keyword>enigma-machine</keyword>
+    <keyword>dam-collapse</keyword>
+    <keyword>nazi-germany</keyword>
+    <keyword>diamond</keyword>
+    <keyword>nuclear-proliferation</keyword>
+    <keyword>heat</keyword>
+    <keyword>great-depression</keyword>
+    <keyword>mohawk</keyword>
+    <keyword>california</keyword>
+    <keyword>1930s</keyword>
+    <keyword>crane</keyword>
+    <keyword>stealth</keyword>
+    <keyword>nikola-tesla</keyword>
+    <keyword>visionary</keyword>
+    <keyword>hindenburg</keyword>
+    <keyword>breakfast-cereal</keyword>
+    <keyword>female-underwear</keyword>
+    <keyword>manhattan-project</keyword>
+    <keyword>underwear</keyword>
+    <keyword>doomsday</keyword>
+    <keyword>trinity-bomb-test</keyword>
+    <keyword>transportation</keyword>
+    <keyword>ship-sinking</keyword>
+    <keyword>nuclear-physics</keyword>
+    <keyword>candy-bar</keyword>
+    <keyword>plane-crash</keyword>
+    <keyword>hailstorm</keyword>
+    <keyword>futuristic-train</keyword>
+    <keyword>space-shuttle-crash</keyword>
+    <keyword>transistor</keyword>
+    <keyword>oil</keyword>
+    <keyword>crop-duster</keyword>
+    <keyword>aircraft-carrier</keyword>
+    <keyword>nuclear-weapon</keyword>
+    <keyword>public-health</keyword>
+    <keyword>rocket</keyword>
+    <keyword>cia</keyword>
+    <keyword>zamboni</keyword>
+    <keyword>golden-gate</keyword>
+    <keyword>james-bond</keyword>
+    <keyword>chrysler-building-new-york-city</keyword>
+    <keyword>virus</keyword>
+    <keyword>leaning-tower-of-pisa</keyword>
+    <keyword>collision</keyword>
+    <keyword>1920s</keyword>
+    <keyword>broadcast-energy</keyword>
+    <keyword>technology</keyword>
+    <keyword>computer</keyword>
+    <keyword>robert-oppenheimer</keyword>
+    <keyword>physicist</keyword>
+    <keyword>highway</keyword>
+    <keyword>midnight</keyword>
+    <keyword>miniaturization</keyword>
+    <keyword>aviation</keyword>
+    <keyword>manure</keyword>
+    <keyword>fertilizer</keyword>
+    <keyword>bridge</keyword>
+    <keyword>art-deco</keyword>
+    <keyword>clock</keyword>
+    <keyword>scenic-route</keyword>
+    <keyword>pig-farmer</keyword>
+    <keyword>engineering</keyword>
+    <keyword>eggs</keyword>
+    <keyword>warm-springs-georgia</keyword>
+    <keyword>sound-barrier</keyword>
+    <keyword>mud</keyword>
+    <keyword>plastic-industry</keyword>
+    <keyword>personal-computer</keyword>
+    <keyword>alternating-current</keyword>
+    <keyword>hangar</keyword>
+    <keyword>wwi</keyword>
+    <keyword>bullet-train</keyword>
+    <keyword>snack-food</keyword>
+    <keyword>space-shuttle</keyword>
+    <keyword>computer-technology</keyword>
+    <keyword>interstate</keyword>
+    <keyword>ice</keyword>
+    <keyword>one-word-title</keyword>
+    <keyword>tv-special</keyword>
+    <keyword>arms-race</keyword>
+    <keyword>graphite</keyword>
+    <keyword>socks</keyword>
+    <keyword>foundation</keyword>
+    <keyword>epidemic</keyword>
+    <keyword>cotton-gin</keyword>
+    <keyword>hubble-space-telescope</keyword>
+    <keyword>st.-louis-missouri</keyword>
+    <keyword>bridge-collapse</keyword>
+    <keyword>volcano</keyword>
+    <keyword>metal-fatigue</keyword>
+    <keyword>carbon</keyword>
+    <keyword>male-underwear</keyword>
+    <keyword>oak-ridge-tennessee</keyword>
+    <keyword>desert</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Germany">4 September 2002</releasedate>
+    <releasedate country="USA">12 April 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">100</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Barratt, Colin</director>
+    <director>Benjamin, Chris</director>
+    <director>Conroy, Jeff</director>
+    <director>Debonne, Yann (I)</director>
+    <director>Downing, Taylor</director>
+    <director>Georgalis, Savas</director>
+    <director>Grajeda, Wayne</director>
+    <director>Harty, Chris</director>
+    <director>Jennings, Tom (II)</director>
+    <director>Kirk, Robert (I)</director>
+    <director>Lacques, Anthony</director>
+    <director>Lihani, Rob</director>
+    <director>Lindsay, Jim</director>
+    <director>Logsdon, John</director>
+    <director>Lusitana, Donna E.</director>
+    <director>Madeja, Geoffrey</director>
+    <director>Nelson, Paul (IX)</director>
+    <director>Paddor, Scott</director>
+    <director>Papadopoulos, Andy</director>
+    <director>Pyle, Rod (I)</director>
+    <director>Rehr, Darryl</director>
+    <director>Scheftel, Jeff</director>
+    <director>Smiley, Susan</director>
+    <director>Thomas, Andrew (IV)</director>
+    <director>Verklan, Laura</director>
+    <director>Wise, Bob (I)</director>
+    <director>de Vries, David (I)</director>
+  </directors>
+  <producers>
+    <producer>Pinto, Chandra</producer>
+    <producer>Anderson, Andrea (II)</producer>
+    <producer>Baer, Ellie</producer>
+    <producer>Bell, Ansley</producer>
+    <producer>Benavides, Rick</producer>
+    <producer>Benjamin, Mary (II)</producer>
+    <producer>Boon, Allison</producer>
+    <producer>Bradstreet, David</producer>
+    <producer>Caldwell-Evans, David</producer>
+    <producer>Cambou, Don</producer>
+    <producer>Chhabra, Sapna</producer>
+    <producer>Cloutier, Philip R.</producer>
+    <producer>Conroy, Jeff</producer>
+    <producer>Cook, Jared (III)</producer>
+    <producer>Courtney, Mary (III)</producer>
+    <producer>Dasari, Sridhar</producer>
+    <producer>De Luca, Doug</producer>
+    <producer>DeHart, Greg</producer>
+    <producer>DeLuca, Doug (II)</producer>
+    <producer>Djokic, Kristina</producer>
+    <producer>Douglass, Liza</producer>
+    <producer>Eggert, Kaylan</producer>
+    <producer>Ellis, Luke (II)</producer>
+    <producer>Elwin, Christie</producer>
+    <producer>Fuller, Andrew (I)</producer>
+    <producer>Fuller, Melissa (I)</producer>
+    <producer>Furstenberg, Allon</producer>
+    <producer>Genin, Beata</producer>
+    <producer>Georgalis, Savas</producer>
+    <producer>Gibbons, Dan</producer>
+    <producer>Gilreath, Suzanne</producer>
+    <producer>Goldie, W. Scott</producer>
+    <producer>Hackett, Ann</producer>
+    <producer>Heckman, Sean</producer>
+    <producer>Hickey, Matthew P.</producer>
+    <producer>Hood, Tracy</producer>
+    <producer>Johnson, Valerie (III)</producer>
+    <producer>Kaufman, Corrie</producer>
+    <producer>Kleinman, Matt</producer>
+    <producer>Koster, Bo</producer>
+    <producer>Lacques, Anthony</producer>
+    <producer>Lau, Emily</producer>
+    <producer>Levy, Avital</producer>
+    <producer>Lindstrom, Eric (I)</producer>
+    <producer>Loveless, Jessica</producer>
+    <producer>Martin, J.V.</producer>
+    <producer>Mercer, Jeff (I)</producer>
+    <producer>Morris, Gloria (II)</producer>
+    <producer>Morris, Gloria (III)</producer>
+    <producer>Murdoch, Holly A.</producer>
+    <producer>Nededog, Jethro</producer>
+    <producer>Nelson, Paul (IX)</producer>
+    <producer>Nguyen, Mai-Ly</producer>
+    <producer>Nock, Andrew</producer>
+    <producer>Oey, Nancy</producer>
+    <producer>Pacheco, Carolina</producer>
+    <producer>Parsons, Danielle</producer>
+    <producer>Petrella, Bob</producer>
+    <producer>Pettit, Susan</producer>
+    <producer>Phillips, Tamara (II)</producer>
+    <producer>Pollack, Aliza</producer>
+    <producer>Rafford, Melissa</producer>
+    <producer>Ritter, Christof</producer>
+    <producer>Roehrig, Caleb</producer>
+    <producer>Rohlin, Jeni</producer>
+    <producer>Rosales, Robert</producer>
+    <producer>Sardarian, Erica</producer>
+    <producer>Schipper, Henry</producer>
+    <producer>Senter, Ryan</producer>
+    <producer>Shaffer-Kirk, Lisa</producer>
+    <producer>Smith, Erika (III)</producer>
+    <producer>Smith, Steven D. (I)</producer>
+    <producer>Sotomayor, Edgar</producer>
+    <producer>Tabor, Lara (II)</producer>
+    <producer>Wai, Diane</producer>
+    <producer>Westmoreland, LaMonte</producer>
+    <producer>Yarovskaya, Marianna</producer>
+    <producer>Ziel, Robert E.</producer>
+    <producer>Shaefer, Christen Harty</producer>
+    <producer>Ellis, Luke (II)</producer>
+    <producer>Lau, Emily</producer>
+    <producer>Morris, Gloria (II)</producer>
+    <producer>Murdoch, Holly A.</producer>
+    <producer>Oey, Nancy</producer>
+    <producer>Petrella, Bob</producer>
+    <producer>Scheftel, Jeff</producer>
+    <producer>Sloan, Martha</producer>
+    <producer>Vincenti, Mike</producer>
+    <producer>Hitzig, Karen</producer>
+    <producer>Jenest, Craig</producer>
+    <producer>Nelson, Ron (III)</producer>
+    <producer>Schipper, Henry</producer>
+    <producer>Beemer, Robert</producer>
+    <producer>Busa, Tim</producer>
+    <producer>Kuperman, Vicky</producer>
+    <producer>Tarantino, Louis</producer>
+    <producer>Twilley, Robert</producer>
+    <producer>Abrams, Gerald W.</producer>
+    <producer>Apel, Paul</producer>
+    <producer>Baral, Alan</producer>
+    <producer>Bishop, Mel A.</producer>
+    <producer>Cambou, Don</producer>
+    <producer>Dietrich, Beth</producer>
+    <producer>Grossman, Gary H.</producer>
+    <producer>Haffner, Craig</producer>
+    <producer>Harty, Chris</producer>
+    <producer>Jaffe, Bob (I)</producer>
+    <producer>Kirk, Robert (I)</producer>
+    <producer>Land, Stephen</producer>
+    <producer>Lange, Steve</producer>
+    <producer>Lihani, Rob</producer>
+    <producer>Lusitana, Donna E.</producer>
+    <producer>Maday, Charlie</producer>
+    <producer>Meadows, Michael</producer>
+    <producer>Proud, Geoffrey</producer>
+    <producer>Rose, Michael L.</producer>
+    <producer>Weller, Robb</producer>
+    <producer>Yaroschuk, Tom</producer>
+    <producer>Maday, Charlie</producer>
+    <producer>Dietrich, Beth</producer>
+    <producer>Aiello, Angela</producer>
+    <producer>Jablon, Andrew</producer>
+    <producer>Miller, Douglas (X)</producer>
+    <producer>Selby, Chip</producer>
+    <producer>Dzilvelis, Paul</producer>
+    <producer>O'Connor, Tim (VIII)</producer>
+    <producer>Berkson, Scott</producer>
+    <producer>Knauff, Tim</producer>
+    <producer>Rogan, Tom</producer>
+    <producer>Beemer, Rob</producer>
+    <producer>Beemer, Robert</producer>
+    <producer>Benjamin, Chris</producer>
+    <producer>Blum, Deborah (I)</producer>
+    <producer>Boon, Allison</producer>
+    <producer>Bourgoujian, Lisa</producer>
+    <producer>Busa, Tim</producer>
+    <producer>Cambou, Don</producer>
+    <producer>Cannon, Phyllis</producer>
+    <producer>Christy, Kathryn</producer>
+    <producer>Christy, Michael B.</producer>
+    <producer>Cirigliano, Jim</producer>
+    <producer>Cohen, Douglas (II)</producer>
+    <producer>Cole, Jeff (V)</producer>
+    <producer>Conroy, Jeff</producer>
+    <producer>Constantine, Craig</producer>
+    <producer>Cook, Jared (III)</producer>
+    <producer>Corry, John</producer>
+    <producer>Crompton, Cynthia</producer>
+    <producer>Crowley, Jon M.</producer>
+    <producer>Dash, Sean</producer>
+    <producer>DeCosta, Lou</producer>
+    <producer>DeHart, Greg</producer>
+    <producer>Debonne, Yann (I)</producer>
+    <producer>Decoeur, Larayne</producer>
+    <producer>Djokic, Kristina</producer>
+    <producer>Downing, Taylor</producer>
+    <producer>Dratch, Howard</producer>
+    <producer>Durgin, Steve</producer>
+    <producer>Eggert, Kaylan</producer>
+    <producer>Ellis, Luke (II)</producer>
+    <producer>Evans, Tim (IV)</producer>
+    <producer>Fish, Joanne</producer>
+    <producer>Fitzpatrick, Terry (I)</producer>
+    <producer>Fuller, Melissa (I)</producer>
+    <producer>Gambardella, Silvia</producer>
+    <producer>Garrison, Dave (I)</producer>
+    <producer>Genin, Beata</producer>
+    <producer>Gillam, Martin</producer>
+    <producer>Goldie, W. Scott</producer>
+    <producer>Goldman, Greg (I)</producer>
+    <producer>Grajeda, Wayne</producer>
+    <producer>Grodner, Allison</producer>
+    <producer>Haddad, Margaret</producer>
+    <producer>Hellman, Jaime</producer>
+    <producer>Hense, James</producer>
+    <producer>Hense, Jim</producer>
+    <producer>Hickey, Matthew P.</producer>
+    <producer>Hill, Barry D.</producer>
+    <producer>Hughes, Robert (II)</producer>
+    <producer>Jennings, Tom (II)</producer>
+    <producer>Johnston, Andrew (III)</producer>
+    <producer>Jones, Richard (XXXVIII)</producer>
+    <producer>Kass, Aaron (I)</producer>
+    <producer>Katibah, Hildie</producer>
+    <producer>Kaufman, Corrie</producer>
+    <producer>Kent, Martin</producer>
+    <producer>Kirk, Robert (I)</producer>
+    <producer>Kirschbaum, Glenn</producer>
+    <producer>Kruener, Phil</producer>
+    <producer>Lacques, Anthony</producer>
+    <producer>Lau, Emily</producer>
+    <producer>Lawrence, Shelley Ann</producer>
+    <producer>Levine, Lauren (I)</producer>
+    <producer>Lihani, Rob</producer>
+    <producer>Long, Tony (I)</producer>
+    <producer>Lowell, Harry Jason</producer>
+    <producer>Maher, Adrian (II)</producer>
+    <producer>Martin, J.V.</producer>
+    <producer>Massar, David</producer>
+    <producer>Mathis, Mike (I)</producer>
+    <producer>Mercer, Jeff (I)</producer>
+    <producer>Millikin, Dana</producer>
+    <producer>Mohr, Mark</producer>
+    <producer>Montgomery, Mark (III)</producer>
+    <producer>Moore, Pam (II)</producer>
+    <producer>Morowitz, Noah</producer>
+    <producer>Morris, Gloria (II)</producer>
+    <producer>Morris, Gloria (III)</producer>
+    <producer>Mortensen, Chris</producer>
+    <producer>Mulligan, Ellen</producer>
+    <producer>Murdoch, Holly A.</producer>
+    <producer>Mustacich, Suzanne</producer>
+    <producer>Nash, Bruce</producer>
+    <producer>Nelson, Ron (III)</producer>
+    <producer>Niemack, Bob</producer>
+    <producer>Oey, Nancy</producer>
+    <producer>Paddor, Scott</producer>
+    <producer>Papadopoulos, Andy</producer>
+    <producer>Peabody, Fred</producer>
+    <producer>Petrella, Bob</producer>
+    <producer>Prest, Jude Gerard</producer>
+    <producer>Rajter, David</producer>
+    <producer>Rehr, Darryl</producer>
+    <producer>Robinson, Cindy (IV)</producer>
+    <producer>Rowland, Mark (II)</producer>
+    <producer>Scheftel, Jeff</producer>
+    <producer>Schipper, Henry</producer>
+    <producer>Schneider, Lee</producer>
+    <producer>Sellers, Donald (II)</producer>
+    <producer>Smiley, Susan</producer>
+    <producer>Sobel, Laura</producer>
+    <producer>Steen, Peter (II)</producer>
+    <producer>Stone, Rob (VIII)</producer>
+    <producer>Talley, Steven</producer>
+    <producer>Tarpinian, Gary</producer>
+    <producer>Thomas, Andrew (IV)</producer>
+    <producer>Toler, Ann</producer>
+    <producer>Trinkl, Alison</producer>
+    <producer>Ullberg, Lars</producer>
+    <producer>Vallas, Dean</producer>
+    <producer>Varchol, Douglas</producer>
+    <producer>Wallace, Mary (II)</producer>
+    <producer>Westmoreland, LaMonte</producer>
+    <producer>Willerth, Jeffrey</producer>
+    <producer>Wise, Bob (I)</producer>
+    <producer>Ziel, Beata</producer>
+    <producer>Ziel, Robert E.</producer>
+    <producer>De Capua, Fernanda</producer>
+    <producer>Dzilvelis, Paul</producer>
+    <producer>Furstenberg, Allon</producer>
+    <producer>Aiello, Angela</producer>
+    <producer>Omiecinski, Walt</producer>
+    <producer>Peabody, Fred</producer>
+    <producer>Busa, Tim</producer>
+    <producer>Kirk, Robert (I)</producer>
+    <producer>Scheftel, Jeff</producer>
+    <producer>Beemer, Robert</producer>
+    <producer>Bridgers, Raymond</producer>
+    <producer>Brummel, Bill</producer>
+    <producer>Cambou, Don</producer>
+    <producer>Dietrich, Beth</producer>
+    <producer>Drimmer, John</producer>
+    <producer>Finnegan, Marc</producer>
+    <producer>Gavin, Dolores</producer>
+    <producer>Gimbrone, Nancy</producer>
+    <producer>Kirschbaum, Glenn</producer>
+    <producer>Lihani, Rob</producer>
+    <producer>Miranda, Elyse</producer>
+    <producer>Nelson, Ron (III)</producer>
+    <producer>Sackett, Michael</producer>
+    <producer>Schipper, Henry</producer>
+    <producer>Tarantino, Louis</producer>
+    <producer>Thomas, Rhys (II)</producer>
+  </producers>
+  <writers>
+    <writer>Fuller, Melissa (I)</writer>
+    <writer>Amirault, Paul</writer>
+    <writer>Barratt, Colin</writer>
+    <writer>Beemer, Rob</writer>
+    <writer>Beemer, Robert</writer>
+    <writer>Blum, Deborah (I)</writer>
+    <writer>Bourgoujian, Lisa</writer>
+    <writer>Cannon, Phyllis</writer>
+    <writer>Christy, Kathryn</writer>
+    <writer>Christy, Michael B.</writer>
+    <writer>Cirigliano, Jim</writer>
+    <writer>Cohen, Douglas (II)</writer>
+    <writer>Conroy, Jeff</writer>
+    <writer>Constantine, Craig</writer>
+    <writer>Crompton, Cynthia</writer>
+    <writer>Crowley, Jon M.</writer>
+    <writer>Dash, Sean</writer>
+    <writer>DeCosta, Lou</writer>
+    <writer>DeHart, Greg</writer>
+    <writer>Debonne, Yann (I)</writer>
+    <writer>Decker, Jerry</writer>
+    <writer>Decoeur, Larayne</writer>
+    <writer>Djokic, Kristina</writer>
+    <writer>Downing, Taylor</writer>
+    <writer>Dratch, Howard</writer>
+    <writer>Eggert, Kaylan</writer>
+    <writer>Ellis, Luke (II)</writer>
+    <writer>Fish, Joanne</writer>
+    <writer>Fitzpatrick, Terry (I)</writer>
+    <writer>Fulkerson, Lee (I)</writer>
+    <writer>Fuller, Melissa (I)</writer>
+    <writer>Gambardella, Silvia</writer>
+    <writer>Genin, Beata</writer>
+    <writer>Georgalis, Savas</writer>
+    <writer>Gillam, Martin</writer>
+    <writer>Goldie, W. Scott</writer>
+    <writer>Grodner, Allison</writer>
+    <writer>Hense, Jim</writer>
+    <writer>Hickey, Matthew P.</writer>
+    <writer>Hill, Barry D.</writer>
+    <writer>Jefferson, Jon</writer>
+    <writer>Jennings, Tom (II)</writer>
+    <writer>Kass, Aaron (I)</writer>
+    <writer>Katibah, Hildie</writer>
+    <writer>Kaufman, Corrie</writer>
+    <writer>Kent, Martin</writer>
+    <writer>Kirk, Robert (I)</writer>
+    <writer>Kruener, Phil</writer>
+    <writer>Lacques, Anthony</writer>
+    <writer>Lau, Emily</writer>
+    <writer>Lawrence, Shelley Ann</writer>
+    <writer>Lihani, Rob</writer>
+    <writer>Long, Tony (I)</writer>
+    <writer>Maher, Adrian (II)</writer>
+    <writer>Martin, J.V.</writer>
+    <writer>Martin, Jeff (I)</writer>
+    <writer>Massar, David</writer>
+    <writer>Mathis, Mike (I)</writer>
+    <writer>Mercer, Jeff (I)</writer>
+    <writer>Mohr, Mark</writer>
+    <writer>Moore, Pam (II)</writer>
+    <writer>Morning, Gretchen</writer>
+    <writer>Morowitz, Noah</writer>
+    <writer>Morris, Gloria (II)</writer>
+    <writer>Morris, Gloria (III)</writer>
+    <writer>Mortensen, Chris</writer>
+    <writer>Mulligan, Ellen</writer>
+    <writer>Murdoch, Holly A.</writer>
+    <writer>Mustacich, Suzanne</writer>
+    <writer>Nash, Bruce</writer>
+    <writer>Oey, Nancy</writer>
+    <writer>Paddor, Scott</writer>
+    <writer>Papadopoulos, Andy</writer>
+    <writer>Peabody, Fred</writer>
+    <writer>Petrella, Bob</writer>
+    <writer>Prest, Jude Gerard</writer>
+    <writer>Rehr, Darryl</writer>
+    <writer>Ritter, Christof</writer>
+    <writer>Robinson, Cindy (IV)</writer>
+    <writer>Rowland, Mark (III)</writer>
+    <writer>Scheftel, Jeff</writer>
+    <writer>Schipper, Henry</writer>
+    <writer>Schneider, Lee</writer>
+    <writer>Sellers, Donald (II)</writer>
+    <writer>Smiley, Susan</writer>
+    <writer>Sobel, Laura</writer>
+    <writer>Stone, Rob (VIII)</writer>
+    <writer>Talley, Steven</writer>
+    <writer>Tarpinian, Gary</writer>
+    <writer>Thomas, Andrew (IV)</writer>
+    <writer>Toler, Ann</writer>
+    <writer>Trinkl, Alison</writer>
+    <writer>Ullberg, Lars</writer>
+    <writer>Vallas, Dean</writer>
+    <writer>Varchol, Douglas</writer>
+    <writer>Wallace, Mary (II)</writer>
+    <writer>Westmoreland, LaMonte</writer>
+    <writer>Yaroschuk, Tom</writer>
+    <writer>Ziel, Beata</writer>
+    <writer>Ziel, Robert E.</writer>
+    <writer>Nash, Bruce</writer>
+    <writer>Schneider, Lee</writer>
+  </writers>
+  <composers>
+    <composer>Band, Richard</composer>
+    <composer>Chakmakian, Armen</composer>
+    <composer>Cloud, Kevin (II)</composer>
+    <composer>Erickson, Todd (I)</composer>
+    <composer>Ett, Alan</composer>
+    <composer>Jackson, Marc</composer>
+    <composer>Jones, Randy (VII)</composer>
+    <composer>Luff, Derek (I)</composer>
+    <composer>Lynn, Ian</composer>
+    <composer>Marasovich, Zeljko</composer>
+    <composer>Morrell, Steve (I)</composer>
+    <composer>Newhouse, Benjamin</composer>
+    <composer>Page-Pagter, Scott</composer>
+    <composer>Rose, Earl (I)</composer>
+    <composer>Stone, Christopher L.</composer>
+    <composer>Taylor, Alison (VI)</composer>
+    <composer>Thomas, Guy (VII)</composer>
+    <composer>Valentino, John (I)</composer>
+    <composer>Wait, Robert</composer>
+    <composer>Whalen, Michael (II)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Abbate, Janet</actor>
+      <role>Herself - Author, "Inventing the Internet"</role>
+    </credit>
+    <credit>
+      <actor>Abbott, Donald R.</actor>
+      <role>President - Texas Tower Association</role>
+    </credit>
+    <credit>
+      <actor>Acevado, Giselle</actor>
+      <role>Ramp Operations, LAX</role>
+    </credit>
+    <credit>
+      <actor>Acott, Mike</actor>
+      <role>President, National Asphalt Pavement Association</role>
+    </credit>
+    <credit>
+      <actor>Adair, 'Red'</actor>
+      <role>Oil Fire Fighter</role>
+    </credit>
+    <credit>
+      <actor>Addy, Don</actor>
+      <role>Himself - Senior Vice President, Caswell International</role>
+    </credit>
+    <credit>
+      <actor>Aimone-Martin, Cathy</actor>
+      <role>Associate Professor of Mining Engineering, New Mexico Tech</role>
+    </credit>
+    <credit>
+      <actor>Al-Sayyad, Nezar</actor>
+      <role>Himself - Chairman, Middle Eastern Studies, U.C. Berkeley</role>
+    </credit>
+    <credit>
+      <actor>Alban, Joseph</actor>
+      <role>Founder, Kona Joe Coffee, LLC</role>
+    </credit>
+    <credit>
+      <actor>Aldrin, Buzz</actor>
+      <role>Lunar Module Pilot, Apollo 11</role>
+    </credit>
+    <credit>
+      <actor>Alford, Rob (II)</actor>
+      <role>Himself - Air Force Pilot</role>
+    </credit>
+    <credit>
+      <actor>Alibek, Ken</actor>
+      <role>Himself, Former Scientist, Soviet Biological Weapons Program</role>
+    </credit>
+    <credit>
+      <actor>Alizo, Maria</actor>
+      <role>Herself - Production Supervisor, Cargill Salt</role>
+    </credit>
+    <credit>
+      <actor>Allason-Jones, Lindsay</actor>
+      <role>Herself - Museum of Antiquities, Newcastle</role>
+    </credit>
+    <credit>
+      <actor>Allcorn, William</actor>
+      <role>Fortifications Historian</role>
+    </credit>
+    <credit>
+      <actor>Allcorn, William</actor>
+      <role>Himself - Fortification Historian</role>
+    </credit>
+    <credit>
+      <actor>Allen, Stewart Lee</actor>
+      <role>Author, 'The Devil's Cup'</role>
+    </credit>
+    <credit>
+      <actor>Allen, Stewart Lee</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Allen, Tim (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Altuna, Patrick</actor>
+      <role>Himself - Exec. VP, Associated Air Center</role>
+    </credit>
+    <credit>
+      <actor>Ambrose, Stephen</actor>
+      <role>Himself, Founder, D-Day Museum</role>
+    </credit>
+    <credit>
+      <actor>Amorello, Matthew J.</actor>
+      <role>Chairman, massachusetts Turnpike Authority</role>
+    </credit>
+    <credit>
+      <actor>Amster, Cory</actor>
+      <role>Himself - Vice President for Collections, Mercer Museum</role>
+    </credit>
+    <credit>
+      <actor>Andersen, Lars (VI)</actor>
+      <role>Himself - 777 Project Manager</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Graham (V)</actor>
+      <role>Himself - Chief Editor, "Construction News"</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Harold (III)</actor>
+      <role>Himself - Wells Fargo Historian</role>
+    </credit>
+    <credit>
+      <actor>Anderson, Robert (XXVI)</actor>
+      <role>Research Scientist, JPL/NASA</role>
+    </credit>
+    <credit>
+      <actor>Andersson, Thomas (IV)</actor>
+      <role>Himself - Executive VP Marketing, Volvo</role>
+    </credit>
+    <credit>
+      <actor>Andrews, Mark (XI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Arnold, David (XVI)</actor>
+      <role>Wood Craftsman, New Albany, Indiana</role>
+    </credit>
+    <credit>
+      <actor>Ary, Max L.</actor>
+      <role>President, Kansas Cosmosphere &amp; Space Center</role>
+    </credit>
+    <credit>
+      <actor>Astor, Gerald</actor>
+      <role>Himself - Author, 'The Mighty Eighth'</role>
+    </credit>
+    <credit>
+      <actor>Atkinson, Nehemiah</actor>
+      <role>97th Regiment</role>
+    </credit>
+    <credit>
+      <actor>Atwater, William</actor>
+      <role>Director, U.S. Army Ordnance Museum</role>
+    </credit>
+    <credit>
+      <actor>Atwater, William</actor>
+      <role>Himself - Curator, U.S. Army Ordnance Museum</role>
+    </credit>
+    <credit>
+      <actor>Atwater, William</actor>
+      <role>Himself - Director, U.S. Army Ordinance Museum</role>
+    </credit>
+    <credit>
+      <actor>Atwater, William</actor>
+      <role>Himself - Director, U.S. Army Ordnance Museum</role>
+    </credit>
+    <credit>
+      <actor>Auble, Denby</actor>
+      <role>Himself - Senior Vice President, Western Geophysical</role>
+    </credit>
+    <credit>
+      <actor>Ayoub, Dennis</actor>
+      <role>Himself - Tunnel Rat, 3 Field Troop Royal Australian Eng.</role>
+    </credit>
+    <credit>
+      <actor>Bacon, Oscar</actor>
+      <role>Himself - Hiedrick Agricultural History Center</role>
+    </credit>
+    <credit>
+      <actor>Baden, Charlie</actor>
+      <role>Senior Blend Master</role>
+    </credit>
+    <credit>
+      <actor>Bakstansky, Peter</actor>
+      <role>Himself - Peter Bakstansky</role>
+    </credit>
+    <credit>
+      <actor>Balause, Jacques</actor>
+      <role>Himself, Consultant, High Speed Rail</role>
+    </credit>
+    <credit>
+      <actor>Bale, Jeffery M.</actor>
+      <role>Himself - Center for Nonproliferation Studies</role>
+    </credit>
+    <credit>
+      <actor>Bales, Stephen</actor>
+      <role>Guidance Officer, Apollo 11</role>
+    </credit>
+    <credit>
+      <actor>Ballard, Ted</actor>
+      <role>Himself - U.S. Army Center of Military History</role>
+    </credit>
+    <credit>
+      <actor>Ballard, W.D.</actor>
+      <role>DeLorean Owner</role>
+    </credit>
+    <credit>
+      <actor>Banks, Larry E.</actor>
+      <role>Himself - Chief of Water Management, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Bardeen, John</actor>
+      <role>Himself - co-inventor of the transistor</role>
+    </credit>
+    <credit>
+      <actor>Barklow, Donald D.</actor>
+      <role>Himself - Galena Police Department</role>
+    </credit>
+    <credit>
+      <actor>Barnett, Ned</actor>
+      <role>Himself - Military Historian</role>
+    </credit>
+    <credit>
+      <actor>Barry, Jim (V)</actor>
+      <role>Himself - Media Spokesman, Consumer Electronics Assoc.</role>
+    </credit>
+    <credit>
+      <actor>Barwick, Kent</actor>
+      <role>Himself - President, Municipal Art Society of New York</role>
+    </credit>
+    <credit>
+      <actor>Bascomb, Neal</actor>
+      <role>Author, 'Higher: Epic 1920s Skyscraper Race'</role>
+    </credit>
+    <credit>
+      <actor>Battison, Ed</actor>
+      <role>Himself - Founder, American Precision Museum</role>
+    </credit>
+    <credit>
+      <actor>Bauer, Eugene</actor>
+      <role>Himself - Author, "Boeing: The First 100 Years"</role>
+    </credit>
+    <credit>
+      <actor>Beck, Bill (IV)</actor>
+      <role>Himself - Ford Motor Company</role>
+    </credit>
+    <credit>
+      <actor>Beck, Robert (VII)</actor>
+      <role>Himself - General Motors Company</role>
+    </credit>
+    <credit>
+      <actor>Beckman, John (III)</actor>
+      <role>Himself - Field Artillery Expert, Ft. Sill Museum</role>
+    </credit>
+    <credit>
+      <actor>Bedewi, Paul</actor>
+      <role>Himself - National Crash Analysis Center</role>
+    </credit>
+    <credit>
+      <actor>Beebe, David (II)</actor>
+      <role>Himself - President, Camillus Canal Society</role>
+    </credit>
+    <credit>
+      <actor>Beeler Sr., Ed E.</actor>
+      <role>Himself - Aeronautical Research Scientist</role>
+    </credit>
+    <credit>
+      <actor>Belden, Curtis</actor>
+      <role>Himself - Manager, Operations Support, Powder River Coal Co.</role>
+    </credit>
+    <credit>
+      <actor>Bell, Alexander Graham</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bell, William (VIII)</actor>
+      <role>F-14 Aircraft Inventory Manager</role>
+    </credit>
+    <credit>
+      <actor>Bencke, Matthew</actor>
+      <role>Author - 'The Politics of Space'</role>
+    </credit>
+    <credit>
+      <actor>Benedetto, George</actor>
+      <role>Himself - Engineer, Higgins Boat Society</role>
+    </credit>
+    <credit>
+      <actor>Benz, Carl</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Benz, Harley</actor>
+      <role>Himself - Scientist-In-Charge, NEIC</role>
+    </credit>
+    <credit>
+      <actor>Bergerud, Eric</actor>
+      <role>Himself - Author, 'Red Thunder/Tropic Lightning'</role>
+    </credit>
+    <credit>
+      <actor>Bergman, Steve (II)</actor>
+      <role>Operations Manager, Alta Dena Dairy</role>
+    </credit>
+    <credit>
+      <actor>Bernstein, Kenny (II)</actor>
+      <role>Himself, Driver</role>
+    </credit>
+    <credit>
+      <actor>Bessemer, Henry</actor>
+      <role>Himself - Inventor, Bessemer process</role>
+    </credit>
+    <credit>
+      <actor>Bhatti, Mohinder S.</actor>
+      <role>Himself - Senior Staff Research Eng., Delphi Auto. Systems</role>
+    </credit>
+    <credit>
+      <actor>Bigelow, David (II)</actor>
+      <role>Owner, Bigelow Tea</role>
+    </credit>
+    <credit>
+      <actor>Biggs, Robert (II)</actor>
+      <role>F-1 Engineer, Rocketdyne</role>
+    </credit>
+    <credit>
+      <actor>Billingslea, Beau</actor>
+      <role>Himself - Narrator</role>
+    </credit>
+    <credit>
+      <actor>Billingslea, Beau</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Bird, Mark (II)</actor>
+      <role>Himself - National High Magnetic Field Laboratory</role>
+    </credit>
+    <credit>
+      <actor>Birley, Robin</actor>
+      <role>Himself - Archaeologist, Director, Vindolanda Trust</role>
+    </credit>
+    <credit>
+      <actor>Bissell, Bob</actor>
+      <role>Himself - FEMA</role>
+    </credit>
+    <credit>
+      <actor>Blackwelder, Dan</actor>
+      <role>Himself - USAF Fighter Pilot</role>
+    </credit>
+    <credit>
+      <actor>Blaisdell, Jack</actor>
+      <role>Himself - World Port Program Manager, UPS</role>
+    </credit>
+    <credit>
+      <actor>Blanch, Kevin</actor>
+      <role>Himself - Chief Mechanic, Panther Racing</role>
+    </credit>
+    <credit>
+      <actor>Bland, Larry I.</actor>
+      <role>Himself - Editor, George C. Marshall Papers</role>
+    </credit>
+    <credit>
+      <actor>Blethen, Walter</actor>
+      <role>Himself, Test Director, Aberdeen Test Center</role>
+    </credit>
+    <credit>
+      <actor>Bligh, Roger (II)</actor>
+      <role>Himself - Texas Transportation Institute</role>
+    </credit>
+    <credit>
+      <actor>Block, Seymour</actor>
+      <role>Himself, Author: Benjamin Franklin: His Wit, Wisdom &amp; Women</role>
+    </credit>
+    <credit>
+      <actor>Bloodgood, Tom</actor>
+      <role>Manager, Jonas Supply Company</role>
+    </credit>
+    <credit>
+      <actor>Bloschock, Mark</actor>
+      <role>Himself - Texas Department of Transportation</role>
+    </credit>
+    <credit>
+      <actor>Boen, Earl</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Boone, Randy (II)</actor>
+      <role>Pitcher, University of Texas</role>
+    </credit>
+    <credit>
+      <actor>Booth, Bill (V)</actor>
+      <role>Himself - President, Hammacher Schlemmer</role>
+    </credit>
+    <credit>
+      <actor>Bopp, Ron (II)</actor>
+      <role>Nebraska Farmer</role>
+    </credit>
+    <credit>
+      <actor>Bottleson, Jay</actor>
+      <role>Himself - Deputy Director, Joint Non-Lethal Weapons Directorate</role>
+    </credit>
+    <credit>
+      <actor>Bowers, Al</actor>
+      <role>Himself - Chief of Aerodynamics, NASA DFRC</role>
+    </credit>
+    <credit>
+      <actor>Bowles, Jim (II)</actor>
+      <role>Himself - Phillips Petroleum Company</role>
+    </credit>
+    <credit>
+      <actor>Bowman, C.W.</actor>
+      <role>Himself - Tunnel Rat, 25th Infantry Div.</role>
+    </credit>
+    <credit>
+      <actor>Bowman, Dick (II)</actor>
+      <role>Himself - Ball Turret Gunner, 96th Bomb Group</role>
+    </credit>
+    <credit>
+      <actor>Bowmaster, Wylie</actor>
+      <role>Himself - Retired TVA Engineer</role>
+    </credit>
+    <credit>
+      <actor>Bowser, Dick</actor>
+      <role>Himself - Arch Tram Designer</role>
+    </credit>
+    <credit>
+      <actor>Boyd, David (VII)</actor>
+      <role>Himself, National Institute of Justice</role>
+    </credit>
+    <credit>
+      <actor>Boyd, Michael (IX)</actor>
+      <role>Himself - Marysville, CA Police</role>
+    </credit>
+    <credit>
+      <actor>Boyer, Stirling</actor>
+      <role>Himself - Ice Road Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Boyne, Walter</actor>
+      <role>Himself - Author &amp; Historian</role>
+    </credit>
+    <credit>
+      <actor>Boyne, Walter</actor>
+      <role>Himself, Aviation Historian</role>
+    </credit>
+    <credit>
+      <actor>Bradbury, Ellen</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brady, Gary (II)</actor>
+      <role>Himself - Leonard Nelson Racing Services</role>
+    </credit>
+    <credit>
+      <actor>Bragg, William Lawrence</actor>
+      <role>Himself - Physicist</role>
+    </credit>
+    <credit>
+      <actor>Brain, Marshall</actor>
+      <role>Founder, 'How Stuff Works'</role>
+    </credit>
+    <credit>
+      <actor>Brain, Marshall</actor>
+      <role>Himself, Founder, How Stuff Works</role>
+    </credit>
+    <credit>
+      <actor>Brandon, Craig</actor>
+      <role>Himself - Author, "Electric Chair"</role>
+    </credit>
+    <credit>
+      <actor>Brattain, Walter</actor>
+      <role>Himself - co-inventor of the transistor</role>
+    </credit>
+    <credit>
+      <actor>Bray, Donald H.</actor>
+      <role>Himself - Cog Railway Historian</role>
+    </credit>
+    <credit>
+      <actor>Brenes, Johnny</actor>
+      <role>Baseball Sewer, Rawlings, Costa Rica</role>
+    </credit>
+    <credit>
+      <actor>Bridgeman, Percy</actor>
+      <role>Himself - Physicist</role>
+    </credit>
+    <credit>
+      <actor>Brod, Terry</actor>
+      <role>Himself - Siemens Dematic-Logistics Automation</role>
+    </credit>
+    <credit>
+      <actor>Broeske, Pat</actor>
+      <role>Herself - Hughes Biographer</role>
+    </credit>
+    <credit>
+      <actor>Brooks, James (VIII)</actor>
+      <role>Himself - Physics' Professor, Florida State University</role>
+    </credit>
+    <credit>
+      <actor>Brookshire, James K.</actor>
+      <role>Himself - Executive Director, CBBT District</role>
+    </credit>
+    <credit>
+      <actor>Brothers, Eric</actor>
+      <role>Himself - Editor, 'Buoyant Flight'</role>
+    </credit>
+    <credit>
+      <actor>Brown Jr., Prentiss M.</actor>
+      <role>Himself - Son of Prentiss M. Brown</role>
+    </credit>
+    <credit>
+      <actor>Brown, Charlie (XIII)</actor>
+      <role>F-14 Test Pilot, Grumman Corporation</role>
+    </credit>
+    <credit>
+      <actor>Brown, Larry (XIII)</actor>
+      <role>Mechanic, Titan Systems</role>
+    </credit>
+    <credit>
+      <actor>Browning, Robert (V)</actor>
+      <role>Himself - Chief Historian, USCG</role>
+    </credit>
+    <credit>
+      <actor>Brucato, Robert</actor>
+      <role>Himself - Assistant Director, Palomar Observatory</role>
+    </credit>
+    <credit>
+      <actor>Bryan, William Jennings</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Buck, J. Alan</actor>
+      <role>Himself - Prison Architect</role>
+    </credit>
+    <credit>
+      <actor>Buckles, Jim</actor>
+      <role>Himself - Air Traffic Manager, San Diego International Airport</role>
+    </credit>
+    <credit>
+      <actor>Buell, Erik</actor>
+      <role>Himself - Founder, Buell Motorcycle Company</role>
+    </credit>
+    <credit>
+      <actor>Bugas, Fritz</actor>
+      <role>Bunker Director, Greenbrier Bunker</role>
+    </credit>
+    <credit>
+      <actor>Bullard, Lance</actor>
+      <role>Himself - Texas Transportation Institute</role>
+    </credit>
+    <credit>
+      <actor>Bumpers, Dale</actor>
+      <role>Himself - US Senator</role>
+    </credit>
+    <credit>
+      <actor>Bundy, Francis P.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bunker, Kevin</actor>
+      <role>Himself, California State Museum</role>
+    </credit>
+    <credit>
+      <actor>Burgos, Luis (II)</actor>
+      <role>Designer, WET Design</role>
+    </credit>
+    <credit>
+      <actor>Burke, Barbara (II)</actor>
+      <role>Chemistry, Cal Poly Pomona</role>
+    </credit>
+    <credit>
+      <actor>Burkhart, Tom</actor>
+      <role>Himself - Six Flags Magic Mountain</role>
+    </credit>
+    <credit>
+      <actor>Burrows, Chris (IV)</actor>
+      <role>Himself - Astronomer</role>
+    </credit>
+    <credit>
+      <actor>Bush, George (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bussey, Charles</actor>
+      <role>Himself - Tuskegee Airman</role>
+    </credit>
+    <credit>
+      <actor>Butcher, Tim (I)</actor>
+      <role>Himself - Sergeant Major, U.S. Army</role>
+    </credit>
+    <credit>
+      <actor>Butler, Coit</actor>
+      <role>CIC Officer</role>
+    </credit>
+    <credit>
+      <actor>Butler, Dion</actor>
+      <role>Drector of Manufacturing, Dresser Wayne</role>
+    </credit>
+    <credit>
+      <actor>Butler, Frank (II)</actor>
+      <role>Himself - President &amp; Founder, Catalina Yachts</role>
+    </credit>
+    <credit>
+      <actor>Butler, Steve (IX)</actor>
+      <role>Himself - Director of Engineering, Eglin AFB</role>
+    </credit>
+    <credit>
+      <actor>Butman, Michael</actor>
+      <role>Himself - Director of Technology, Henry Ford Museum</role>
+    </credit>
+    <credit>
+      <actor>Buttenwieser, Ann L.</actor>
+      <role>Herself - Author, "Manhattan Water Bound"</role>
+    </credit>
+    <credit>
+      <actor>Cagney, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Call, Mitch</actor>
+      <role>Plant Manager, T-REX</role>
+    </credit>
+    <credit>
+      <actor>Callahan, Raymond</actor>
+      <role>Himself - Professor of History, University of Delaware</role>
+    </credit>
+    <credit>
+      <actor>Campbell, Pat (IV)</actor>
+      <role>President, Wild Well Control</role>
+    </credit>
+    <credit>
+      <actor>Canfield, Bob</actor>
+      <role>Himself - Emergency Preparedness Division, City of L.A.</role>
+    </credit>
+    <credit>
+      <actor>Canfield, Jim</actor>
+      <role>Himself - President, The Laughing Liquidator</role>
+    </credit>
+    <credit>
+      <actor>Canright, Stephen</actor>
+      <role>Himself - S.F. Maritime National Historical Park</role>
+    </credit>
+    <credit>
+      <actor>Capps, Ron (II)</actor>
+      <role>Himself, Driver</role>
+    </credit>
+    <credit>
+      <actor>Carmouche, Michael</actor>
+      <role>Himself - CBP Officer, Port of Los Angeles/Long Beach</role>
+    </credit>
+    <credit>
+      <actor>Carnegie, Andrew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carr, Colin (II)</actor>
+      <role>Himself - Regional Sales Director, Royal Mail</role>
+    </credit>
+    <credit>
+      <actor>Carson, Richard Burns</actor>
+      <role>Himself - Author, 'The Olympian Cars'</role>
+    </credit>
+    <credit>
+      <actor>Carter, Jimmy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carter, Rosalynn</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carver, George Washington</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Casey, Bob (I)</actor>
+      <role>Himself - Transportation Curator, Henry Ford Museum</role>
+    </credit>
+    <credit>
+      <actor>Casillas, Rick</actor>
+      <role>Himself - Structural Supervisor, J.A. Jones Construction</role>
+    </credit>
+    <credit>
+      <actor>Castro, Fidel (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Chaikin, Andrew (II)</actor>
+      <role>Author, 'A Man on the Moon'</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Dan</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Marilyn</actor>
+      <role>Herself - Co-Owner, Bigfoot 4x4, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Chandler, Robert (II)</actor>
+      <role>Himself - Historian, Wells Fargo</role>
+    </credit>
+    <credit>
+      <actor>Chao, Miguel</actor>
+      <role>Himself - Chevron Products Company</role>
+    </credit>
+    <credit>
+      <actor>Chapelle, Frank</actor>
+      <role>Hydrologist/Author, 'Wellsprings'</role>
+    </credit>
+    <credit>
+      <actor>Chase, Sheree</actor>
+      <role>Curator, Kona Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Chatterjee, Piya</actor>
+      <role>Women's Studies, UC Riverside</role>
+    </credit>
+    <credit>
+      <actor>Cheetham, John (II)</actor>
+      <role>Tea Master, Lipton Royal Estates</role>
+    </credit>
+    <credit>
+      <actor>Cheever, Eddie</actor>
+      <role>Himself - Driver</role>
+    </credit>
+    <credit>
+      <actor>Chong, Anna</actor>
+      <role>President, Engineered Demolition, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Christianson, Scott (I)</actor>
+      <role>Himself - Author, "Condemned"</role>
+    </credit>
+    <credit>
+      <actor>Christopher, Gary (II)</actor>
+      <role>Himself - Senior Manager, American Honda Motor Co.</role>
+    </credit>
+    <credit>
+      <actor>Christy, Robert</actor>
+      <role>Himself - Physicist</role>
+    </credit>
+    <credit>
+      <actor>Clagett, Terry K.</actor>
+      <role>Himself - President &amp; CEO, Web Magnetics, Inc</role>
+    </credit>
+    <credit>
+      <actor>Clancy, Rick</actor>
+      <role>Senior Vice President, Sony Electronics</role>
+    </credit>
+    <credit>
+      <actor>Clancy, Tom (I)</actor>
+      <role>Himself - Author, "The Hunt for Red October"</role>
+    </credit>
+    <credit>
+      <actor>Clements, John (VI)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clingan, Bruce</actor>
+      <role>Himself - Dep. Dir. for Operations, USCENTCOM</role>
+    </credit>
+    <credit>
+      <actor>Clinton, Bill (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clutterbuck, Don</actor>
+      <role>Himself - Former President, AFG Energy</role>
+    </credit>
+    <credit>
+      <actor>Cole, Leonard</actor>
+      <role>Himself - Author, "The Eleventh Plague"</role>
+    </credit>
+    <credit>
+      <actor>Cole, Terrence</actor>
+      <role>Professor of History, University of Alaska-Fairbanks</role>
+    </credit>
+    <credit>
+      <actor>Colley, David P.</actor>
+      <role>Himself - Author, 'The Road to Victory'</role>
+    </credit>
+    <credit>
+      <actor>Colmer, Les</actor>
+      <role>Himself - Tunnel Rat, 3 Field Troop Royal Australian Eng.</role>
+    </credit>
+    <credit>
+      <actor>Conetta, Carl</actor>
+      <role>Himself - Director, Project on Defense Alternatives</role>
+    </credit>
+    <credit>
+      <actor>Conkling, John</actor>
+      <role>Himself - American Pyrotechnics Association</role>
+    </credit>
+    <credit>
+      <actor>Connor, Billy</actor>
+      <role>Research Manager, Alaska Department of Transportation</role>
+    </credit>
+    <credit>
+      <actor>Conrad, Pamela</actor>
+      <role>Astrobiologist, JPL/NASA</role>
+    </credit>
+    <credit>
+      <actor>Conte, Robert S.</actor>
+      <role>Historian, Greenbrier Bunker</role>
+    </credit>
+    <credit>
+      <actor>Conzett, David</actor>
+      <role>Himself - Curator, Cincinnati Museum Center</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Belton</actor>
+      <role>Himself - 3rd Armored Division, WWII</role>
+    </credit>
+    <credit>
+      <actor>Cooper, Justin (IV)</actor>
+      <role>Himself - Air Boss, USS Nimitz</role>
+    </credit>
+    <credit>
+      <actor>Corley, Ralph</actor>
+      <role>Sonarman</role>
+    </credit>
+    <credit>
+      <actor>Cory, Carl Kenneth</actor>
+      <role>Himself - Tunnel Rat, 25th Infantry Div.</role>
+    </credit>
+    <credit>
+      <actor>Cotter, Alejandro</actor>
+      <role>General Manager, Rawlings, Costa Rica</role>
+    </credit>
+    <credit>
+      <actor>Cotter, John (III)</actor>
+      <role>Himself - Tunnel Rat, 3 Field Troop Royal Australian Eng.</role>
+    </credit>
+    <credit>
+      <actor>Coughlin, Natalie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Covert, Norman</actor>
+      <role>Himself - U.S. Army Historian</role>
+    </credit>
+    <credit>
+      <actor>Cowan, Ruth Schwartz</actor>
+      <role>Herself - Professor of History, State University of N.Y.</role>
+    </credit>
+    <credit>
+      <actor>Creque, Stuart</actor>
+      <role>Himself - Author, "Killing With Kindness"</role>
+    </credit>
+    <credit>
+      <actor>Cressman, Robert J.</actor>
+      <role>Naval Historian</role>
+    </credit>
+    <credit>
+      <actor>Crizer, Scott</actor>
+      <role>Himself - Product Manager, Soldier Systems</role>
+    </credit>
+    <credit>
+      <actor>Croci, Giorgio (II)</actor>
+      <role>Himself - University of Rome</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Ernest</actor>
+      <role>Civil Engineering, University of Texas at Arlington</role>
+    </credit>
+    <credit>
+      <actor>Crow, Jack</actor>
+      <role>Himself - Director, Nationall High Magnetic Field Laboratory</role>
+    </credit>
+    <credit>
+      <actor>Crow, James</actor>
+      <role>Himself, Director of Excavation for The National Trust</role>
+    </credit>
+    <credit>
+      <actor>Cuban, Mark (I)</actor>
+      <role>Himself - Owner, Dallas Mavericks</role>
+    </credit>
+    <credit>
+      <actor>Cuister, Dan</actor>
+      <role>Himself - Weapons Trainer, H&amp;K</role>
+    </credit>
+    <credit>
+      <actor>Culver, Bruce</actor>
+      <role>Himself - Author</role>
+    </credit>
+    <credit>
+      <actor>Cunningham, Shawn (II)</actor>
+      <role>Himself - Director, Baltimore Civil War Museum</role>
+    </credit>
+    <credit>
+      <actor>Curcio, Vincent</actor>
+      <role>Author, 'Chrysler'</role>
+    </credit>
+    <credit>
+      <actor>Cusiter, Dan</actor>
+      <role>Himself - Consultant, Heckler &amp; Koch</role>
+    </credit>
+    <credit>
+      <actor>Cutler, Robert</actor>
+      <role>Texas Tower 4 Commander, U.S. Air Force</role>
+    </credit>
+    <credit>
+      <actor>Daimler, Gottlieb</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dalton, Pam</actor>
+      <role>Herself - Research Psychologist, Monell Chemical Senses Center</role>
+    </credit>
+    <credit>
+      <actor>Damadian, Raymond</actor>
+      <role>Himself - President, FONAR</role>
+    </credit>
+    <credit>
+      <actor>Dang, Tran Bach</actor>
+      <role>Himself - Commander, 9th Viet Cong Div.</role>
+    </credit>
+    <credit>
+      <actor>Darguzis, Nina</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Daugherty, Bob</actor>
+      <role>Himself - Senior Engineer, NASA Langley Research Center</role>
+    </credit>
+    <credit>
+      <actor>Davant, Doug</actor>
+      <role>Himself - Naval Historian</role>
+    </credit>
+    <credit>
+      <actor>Davidson, Donald (I)</actor>
+      <role>Himself - Historian, Indianapolis Motor Speedway</role>
+    </credit>
+    <credit>
+      <actor>Davies, Ron (VI)</actor>
+      <role>Himself - Curator, National Air &amp; Space Museum</role>
+    </credit>
+    <credit>
+      <actor>Davis, Gene (VI)</actor>
+      <role>Himself - Curator, Coast Guard Museum, Northwest</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jeremy (III)</actor>
+      <role>Himself - Crew Chief, C-17, Charleston Air Force Base</role>
+    </credit>
+    <credit>
+      <actor>Davis, Nancy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Davis, Wade (V)</actor>
+      <role>Ethnobotanist and Explorer, NGS</role>
+    </credit>
+    <credit>
+      <actor>Davis, William (X)</actor>
+      <role>Former Chief, Small Arms Branch</role>
+    </credit>
+    <credit>
+      <actor>Day, Dwayne A.</actor>
+      <role>Himself - Policy Analyst, Space Policy Institute</role>
+    </credit>
+    <credit>
+      <actor>De Ardo, Tony</actor>
+      <role>Himself - University of Pittsburgh</role>
+    </credit>
+    <credit>
+      <actor>DeSanti, Frederick</actor>
+      <role>Himself - Vice President, PSE&amp;G</role>
+    </credit>
+    <credit>
+      <actor>DeTorfino, Nicholas R.</actor>
+      <role>Himself - President, Torfino, Inc.</role>
+    </credit>
+    <credit>
+      <actor>DeVries, Jon</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Dean, Bashford</actor>
+      <role>Himself - Armor Expert</role>
+    </credit>
+    <credit>
+      <actor>Decker Jr., Alonozo</actor>
+      <role>Himself - Former CEO, Black and Decker</role>
+    </credit>
+    <credit>
+      <actor>Del Villano, Dan</actor>
+      <role>Himself - Director of Communications, Pacific Region Public Works Canada</role>
+    </credit>
+    <credit>
+      <actor>Delgado, James P.</actor>
+      <role>Himself - Executive Director: Vancouver Maritime Museum</role>
+    </credit>
+    <credit>
+      <actor>Denison, John B.</actor>
+      <role>Himself - Pioneer Ice Road Builder</role>
+    </credit>
+    <credit>
+      <actor>Denison, Richard</actor>
+      <role>Himself - Son of John Denison</role>
+    </credit>
+    <credit>
+      <actor>Denney, Paul</actor>
+      <role>Himself, Historian</role>
+    </credit>
+    <credit>
+      <actor>Deseyne, Alex</actor>
+      <role>Himself - Curator, Atlantic Wall Museum</role>
+    </credit>
+    <credit>
+      <actor>DiGiovanni, Nike</actor>
+      <role>Himself - Marketing Director, Hummer</role>
+    </credit>
+    <credit>
+      <actor>Dibble, Harold</actor>
+      <role>Himself - Archaeologist, University of Pennsylvania</role>
+    </credit>
+    <credit>
+      <actor>Dickey, Keith</actor>
+      <role>Himself - Production Miner, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Diehl, Phillip N.</actor>
+      <role>Himself - Former Director, United States Mint</role>
+    </credit>
+    <credit>
+      <actor>Dillinger, John (I)</actor>
+      <role>Himself - Bank Robber</role>
+    </credit>
+    <credit>
+      <actor>Dirkmaat, Peter</actor>
+      <role>Director, Idaho Nuclear Technology and Engineering Center</role>
+    </credit>
+    <credit>
+      <actor>Dizdar, Petra</actor>
+      <role>Tennis Player, University of Texas</role>
+    </credit>
+    <credit>
+      <actor>Dobson, Brian (II)</actor>
+      <role>Himself, Co-Author, "Hadrian's Wall"</role>
+    </credit>
+    <credit>
+      <actor>Donoghue, Jay</actor>
+      <role>Himself - Editor in Chief, "Air Transport World"</role>
+    </credit>
+    <credit>
+      <actor>Dorn, Michael (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dorsett, Wendell</actor>
+      <role>Agricultural Engineer, Valmont Industries</role>
+    </credit>
+    <credit>
+      <actor>Dosch, Greg</actor>
+      <role>Engineering Staff Tech, Callaway Golf</role>
+    </credit>
+    <credit>
+      <actor>Dougherty, Mark (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Douglass, Julie</actor>
+      <role>Herself - Archeologist, Artefacts.uk.com</role>
+    </credit>
+    <credit>
+      <actor>Dover, Bob (II)</actor>
+      <role>Himself - Chairman &amp; CEO, Land Rover</role>
+    </credit>
+    <credit>
+      <actor>Dow, Charles</actor>
+      <role>Himself, co-founder, Dow Jones &amp; Company</role>
+    </credit>
+    <credit>
+      <actor>Dowdy, Dusty</actor>
+      <role>General Manager, Camp Holly Springs</role>
+    </credit>
+    <credit>
+      <actor>Dowty, Bob</actor>
+      <role>Himself - Chief Locomotive Engineer, Golden Spike National Historical Site</role>
+    </credit>
+    <credit>
+      <actor>Dray, Philip</actor>
+      <role>Himself - Author Stealing God's Thunder</role>
+    </credit>
+    <credit>
+      <actor>Droz, Robert V.</actor>
+      <role>Himself - Highway Designer, Volkert &amp; Associates, Inc</role>
+    </credit>
+    <credit>
+      <actor>Dubay, Dave</actor>
+      <role>Himself - Director of Marketing, Defense Technology/Federal Labs</role>
+    </credit>
+    <credit>
+      <actor>Duffy, John (XIX)</actor>
+      <role>Caltrans Senior Engineering Geologist</role>
+    </credit>
+    <credit>
+      <actor>Duke, Charles (I)</actor>
+      <role>Landing CapCom, Apollo 11</role>
+    </credit>
+    <credit>
+      <actor>Dunn, James (XI)</actor>
+      <role>Himself - Historian, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Dunne, Dick (II)</actor>
+      <role>Himself - Former Director of Public Affairs, Grumman</role>
+    </credit>
+    <credit>
+      <actor>Dunningan, James K.</actor>
+      <role>Author, 'The Dirty Little Secrets of the Vietnam War'</role>
+    </credit>
+    <credit>
+      <actor>Dykstra, Joe</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dzenitis, John</actor>
+      <role>Himself - Project Leader, APDS</role>
+    </credit>
+    <credit>
+      <actor>Earl, Harley</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eastwood, Clint</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ebersole, Roy</actor>
+      <role>Himself - Training Instructor, Fort Gordon</role>
+    </credit>
+    <credit>
+      <actor>Ecker, James H.</actor>
+      <role>Himself - Chief Engineer, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Edison, Thomas A.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Edward, Christopher</actor>
+      <role>Himself - S.F. Maritime National Historical Park</role>
+    </credit>
+    <credit>
+      <actor>Eisenhower, Dwight D.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eisenhower, John S.D.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eisner, Michael (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Eitnier, Daniel</actor>
+      <role>Himself - Director of Surveillance, Venetian Hotel</role>
+    </credit>
+    <credit>
+      <actor>Eliason, Kay</actor>
+      <role>Himself - Manager, Pipeline Construction 1974-1977</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Tim (VII)</actor>
+      <role>Performance Engineer, Bruce Power</role>
+    </credit>
+    <credit>
+      <actor>Elsener, Carl</actor>
+      <role>Himself - Musician</role>
+    </credit>
+    <credit>
+      <actor>Elsener, Charles</actor>
+      <role>Himself - President, Victorinox</role>
+    </credit>
+    <credit>
+      <actor>Emanuel, Peter</actor>
+      <role>Himself - Biodefense Team Leader, ECBC</role>
+    </credit>
+    <credit>
+      <actor>Engel, John (II)</actor>
+      <role>Himself - Engel Ballistic Research</role>
+    </credit>
+    <credit>
+      <actor>Engler, Paul</actor>
+      <role>Himself - CEO, Cactus Feeders</role>
+    </credit>
+    <credit>
+      <actor>Engstrand, Iris</actor>
+      <role>Herself - Professor of History, University of San Diego</role>
+    </credit>
+    <credit>
+      <actor>Espey, James</actor>
+      <role>Himself - Vice President, DeLorean Motor Company</role>
+    </credit>
+    <credit>
+      <actor>Evans, Dwight (II)</actor>
+      <role>Himself - Executive Vice President, Southern Company</role>
+    </credit>
+    <credit>
+      <actor>Everton, Eldon</actor>
+      <role>Oregon Department of Transportation Ret.</role>
+    </credit>
+    <credit>
+      <actor>Every, Tom</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ewen, Professor Charles</actor>
+      <role>Historian &amp; Author, 'X Marks The Spot'</role>
+    </credit>
+    <credit>
+      <actor>Fabergé, Peter Carl</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Farber, William O.</actor>
+      <role>Himself, University of South Dakota</role>
+    </credit>
+    <credit>
+      <actor>Farnsworth, Philo T.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Faust, Paul</actor>
+      <role>Himself - C.E.O. Caswell International</role>
+    </credit>
+    <credit>
+      <actor>Feist, Dennis</actor>
+      <role>Himself - Shell Westhollow Technology Center</role>
+    </credit>
+    <credit>
+      <actor>Fendick-McCain, Patty</actor>
+      <role>Women's Tennis Coach, University of Texas</role>
+    </credit>
+    <credit>
+      <actor>Fenichell, Stephen</actor>
+      <role>Himself - Author, "Plastic-A Synthetic Century"</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Tom (IV)</actor>
+      <role>Himself - Director, Bureau of Engraving and Printing</role>
+    </credit>
+    <credit>
+      <actor>Fermi, Rachel</actor>
+      <role>Herself - Photographer</role>
+    </credit>
+    <credit>
+      <actor>Ferrari, Enzo (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fey, Marshall</actor>
+      <role>Himself - Author, "Slot Machines"</role>
+    </credit>
+    <credit>
+      <actor>Figg, Linda</actor>
+      <role>Herself - President, Figg Engineering Group</role>
+    </credit>
+    <credit>
+      <actor>Filowitz, Mark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fipke, Chuck</actor>
+      <role>Himself - President, BHP Diamonds Inc.</role>
+    </credit>
+    <credit>
+      <actor>Fitch, Jack (II)</actor>
+      <role>Gunnery Officer</role>
+    </credit>
+    <credit>
+      <actor>Fitzgerald, Larry (II)</actor>
+      <role>Himself, Texas Department of Criminal Justice</role>
+    </credit>
+    <credit>
+      <actor>Flannery, Jim</actor>
+      <role>Himself - Production Manager, Mack Trucks, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Fleming, Alexander</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Florence, Ronald</actor>
+      <role>Himself - Author, "The Perfect Machine"</role>
+    </credit>
+    <credit>
+      <actor>Flowers, Robert B.</actor>
+      <role>Himself - Chief of Engineers, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Foley, Jim (III)</actor>
+      <role>Himself - Project Manager, Cargill Salt</role>
+    </credit>
+    <credit>
+      <actor>Fong, Roy</actor>
+      <role>Owner, Imperial Tea Court</role>
+    </credit>
+    <credit>
+      <actor>Ford, Ben (II)</actor>
+      <role>Himself - Raytheon Business Development Manager</role>
+    </credit>
+    <credit>
+      <actor>Ford, Henry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Foreman, Mike</actor>
+      <role>Boots &amp; Coots International Well Control</role>
+    </credit>
+    <credit>
+      <actor>Forgeng, Jeffrey</actor>
+      <role>Himself - Curator, Higgins Armory Museum</role>
+    </credit>
+    <credit>
+      <actor>Forster, Ray</actor>
+      <role>Himself - Tunnel Rat, 3 Field Troop Royal Australian Eng.</role>
+    </credit>
+    <credit>
+      <actor>Frady, Jackie</actor>
+      <role>Himself - Executive Director, National Automobile Museum</role>
+    </credit>
+    <credit>
+      <actor>France, John (III)</actor>
+      <role>Himself - Medieval Historian, University of Wales-Swansea</role>
+    </credit>
+    <credit>
+      <actor>France, John (III)</actor>
+      <role>Himself - Professor of History, University of Wales</role>
+    </credit>
+    <credit>
+      <actor>Frankish, Don</actor>
+      <role>Himself - Owner, Jurassic Attack</role>
+    </credit>
+    <credit>
+      <actor>Frankl, Daniel (II)</actor>
+      <role>Kinesiology Professor, Cal State Los Angeles</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Jerry F.</actor>
+      <role>Himself - Professor, University of Washington</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Mark (IV)</actor>
+      <role>Training Coordinator, NLB Corporation</role>
+    </credit>
+    <credit>
+      <actor>Franz, Laurence F.</actor>
+      <role>Himself - Paladin Deputy Director, U.S. Army</role>
+    </credit>
+    <credit>
+      <actor>Frazier, Corrie</actor>
+      <role>Herself - Air Trans. Specialist, Charleston Air Force Base</role>
+    </credit>
+    <credit>
+      <actor>Freas, Roy</actor>
+      <role>Himself - Siemens Dematic-Logistics Automation</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Dan</actor>
+      <role>Caltrans Chief of Construction</role>
+    </credit>
+    <credit>
+      <actor>Freer, Steve</actor>
+      <role>Himself - Tennessee Valley Railroad Museum</role>
+    </credit>
+    <credit>
+      <actor>Frei, Mark</actor>
+      <role>Himself - Manager, U.S. Department of Energy</role>
+    </credit>
+    <credit>
+      <actor>Frelat, Bernard</actor>
+      <role>Himself - President &amp; CEO, Rail Europe</role>
+    </credit>
+    <credit>
+      <actor>Friedman, Donald</actor>
+      <role>Director of Preservation, LZA Technology</role>
+    </credit>
+    <credit>
+      <actor>Friedman, Norman (II)</actor>
+      <role>Himself - Military Historian</role>
+    </credit>
+    <credit>
+      <actor>Fuller, Mark (II)</actor>
+      <role>C.E.O., WET Design</role>
+    </credit>
+    <credit>
+      <actor>Funk, Shawn</actor>
+      <role>Himself - System Manager, CUGR</role>
+    </credit>
+    <credit>
+      <actor>Furrh, Tony</actor>
+      <role>Himself - Chief Engineer</role>
+    </credit>
+    <credit>
+      <actor>Futrell, Dr. Alison</actor>
+      <role>Herself, Author, "Blood in the Arena"</role>
+    </credit>
+    <credit>
+      <actor>Gailar, Joanne</actor>
+      <role>Herself - Author</role>
+    </credit>
+    <credit>
+      <actor>Galarza, David</actor>
+      <role>Caltrans Structure Representative</role>
+    </credit>
+    <credit>
+      <actor>Gallo, Michael C.</actor>
+      <role>Himself - President, Kelly Space &amp; Technology, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Gamboa, Rocio</actor>
+      <role>Baseball Sewer, Rawlings, Costa Rica</role>
+    </credit>
+    <credit>
+      <actor>Garchow, David</actor>
+      <role>Himself - VP Technical Support, PSE&amp;G Nuclear</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Al (IV)</actor>
+      <role>Himself - Curator, Hays Antique Trucks Museum</role>
+    </credit>
+    <credit>
+      <actor>Gargini, Paolo</actor>
+      <role>Director, Technology Strategy, Intel</role>
+    </credit>
+    <credit>
+      <actor>Garland, John (IV)</actor>
+      <role>Himself - Oregon State University</role>
+    </credit>
+    <credit>
+      <actor>Garlasco, Marc</actor>
+      <role>Himself - Senior Military Analyst, Human Rights Watch</role>
+    </credit>
+    <credit>
+      <actor>Garlicki, Alexsander</actor>
+      <role>Himself - Professor, Academy of Mining and Metallurgy</role>
+    </credit>
+    <credit>
+      <actor>Garlock, Jack</actor>
+      <role>Himself - President, Porter Cable</role>
+    </credit>
+    <credit>
+      <actor>Gause, Charles</actor>
+      <role>Himself - Vice President of Marketing, John Deere Co.</role>
+    </credit>
+    <credit>
+      <actor>Gebhardt, Freddy</actor>
+      <role>Vice President, Wild Well Control</role>
+    </credit>
+    <credit>
+      <actor>Geiger, Jason (III)</actor>
+      <role>F-14 Radar Intercept Officer</role>
+    </credit>
+    <credit>
+      <actor>Geneen, Harold</actor>
+      <role>Himself - Former Chairman, ITT</role>
+    </credit>
+    <credit>
+      <actor>George, John F.</actor>
+      <role>Himself - Hydraulic Engineer Chief, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>George, Tony (II)</actor>
+      <role>Himself - President, Indianapolis Motor Speedway</role>
+    </credit>
+    <credit>
+      <actor>Giannini, Amadeo</actor>
+      <role>Himself - Founder, Bank of America</role>
+    </credit>
+    <credit>
+      <actor>Gibert, Pam</actor>
+      <role>Herself - Vice President, Retail U.S. Postal Service</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Keith (II)</actor>
+      <role>Himself - Exec. Dir., Virginia Mil. Inst. Museum</role>
+    </credit>
+    <credit>
+      <actor>Giese, Doug</actor>
+      <role>Himself - Regional Sales Director Raytheon Aircraft</role>
+    </credit>
+    <credit>
+      <actor>Gilens, Alvin</actor>
+      <role>Himself - Photographer &amp; Author</role>
+    </credit>
+    <credit>
+      <actor>Gill, Chris (VI)</actor>
+      <role>Himself - Surface Superintendent, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Gillespie, Paul (II)</actor>
+      <role>Himself - USAF Historian</role>
+    </credit>
+    <credit>
+      <actor>Gilman, Robert (II)</actor>
+      <role>Himself - Commanding Officer, USS Nimitz</role>
+    </credit>
+    <credit>
+      <actor>Gilmore, Gary (III)</actor>
+      <role>Himself - Criminal</role>
+    </credit>
+    <credit>
+      <actor>Gilroy, William (II)</actor>
+      <role>Himself - Area Manager, Yale Materials Handling Corporation</role>
+    </credit>
+    <credit>
+      <actor>Gimbl, Chris</actor>
+      <role>Public Relations Manager, Starbucks Coffee Co.</role>
+    </credit>
+    <credit>
+      <actor>Ginger, Andy</actor>
+      <role>Vice President, Sears, Roebuck &amp; Co.</role>
+    </credit>
+    <credit>
+      <actor>Girdler, Allan</actor>
+      <role>Himself - Author, "The Harley Davidson and Indian Wars"</role>
+    </credit>
+    <credit>
+      <actor>Girgis, Michael</actor>
+      <role>Vice President of Sales, Rosito Bisani Imports</role>
+    </credit>
+    <credit>
+      <actor>Giuliani, Rudolph W.</actor>
+      <role>Himself - Former Mayor, New York City</role>
+    </credit>
+    <credit>
+      <actor>Givens, Russ</actor>
+      <role>Himself - Senior Mine Engineer, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Glavin, Robert J.</actor>
+      <role>President &amp; CEO, United Recycling Industries, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Gleason, Mike</actor>
+      <role>Himself - Ironworker, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Glenn, John (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Glenn, Russell W.</actor>
+      <role>Himself - Urban Warfare Analyst, RAND</role>
+    </credit>
+    <credit>
+      <actor>Glick, Louis</actor>
+      <role>Himself - De Beers Siteholder, New York</role>
+    </credit>
+    <credit>
+      <actor>Glickman, Dan</actor>
+      <role>Himself - US Secretary of Agriculture</role>
+    </credit>
+    <credit>
+      <actor>Gnoske, Thomas</actor>
+      <role>The Field Museum, Bird Division</role>
+    </credit>
+    <credit>
+      <actor>Goddard, Robert H.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goff, Buford</actor>
+      <role>Himself - Prison Technology Expert</role>
+    </credit>
+    <credit>
+      <actor>Goggi, Peter</actor>
+      <role>President - Lipton Royal Estates</role>
+    </credit>
+    <credit>
+      <actor>Gognazzini, Craig</actor>
+      <role>Assistant Plant Manager, Alta Dena Dairy</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Bill (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goldberg, Rube</actor>
+      <role>Himself - Cartoonist</role>
+    </credit>
+    <credit>
+      <actor>Golden, Ray (II)</actor>
+      <role>Himself - Spokesman, Southern California Edison</role>
+    </credit>
+    <credit>
+      <actor>Goodall, John</actor>
+      <role>Himself, Castle Historian</role>
+    </credit>
+    <credit>
+      <actor>Goodell, Rick</actor>
+      <role>Himself - Manager, Chassis Division, FWD</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Bill (II)</actor>
+      <role>Himself - Plant Manager Georgia-Pacific West, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Roy E.</actor>
+      <role>Himself, Curator, American Philosophical Society</role>
+    </credit>
+    <credit>
+      <actor>Goodwin, Bruce</actor>
+      <role>Himself - Livermore Nuclear Weapons Program Head</role>
+    </credit>
+    <credit>
+      <actor>Goodyear, Scott</actor>
+      <role>Himself, Driver</role>
+    </credit>
+    <credit>
+      <actor>Gorn, Michael</actor>
+      <role>Himself - Chief Historian, NASA DFRC</role>
+    </credit>
+    <credit>
+      <actor>Goucher, Mike</actor>
+      <role>Himself - Driver, Red Racer</role>
+    </credit>
+    <credit>
+      <actor>Gould, Jay (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gould, Jay (II)</actor>
+      <role>Himself - Financier</role>
+    </credit>
+    <credit>
+      <actor>Grainger, Shirley</actor>
+      <role>Herself - Director, American Precision Museum</role>
+    </credit>
+    <credit>
+      <actor>Grantham, Eddie</actor>
+      <role>Himself - Head Guide, Lincoln Castle</role>
+    </credit>
+    <credit>
+      <actor>Grantz, Walter</actor>
+      <role>Himself - Chief Engineer, CBBT District</role>
+    </credit>
+    <credit>
+      <actor>Grasso, Thomas X.</actor>
+      <role>Himself - Canal Society of New York State</role>
+    </credit>
+    <credit>
+      <actor>Graves, Matt</actor>
+      <role>Himself - General Manager, Georgia Marble Company</role>
+    </credit>
+    <credit>
+      <actor>Gray III, Walter P.</actor>
+      <role>Himself - Railroad Historian, California State Archives</role>
+    </credit>
+    <credit>
+      <actor>Gray, Bruce (VIII)</actor>
+      <role>Himself - Gray Guns Consulting Company</role>
+    </credit>
+    <credit>
+      <actor>Gray, Christopher (XI)</actor>
+      <role>Contributing Editor, 'The Chrysler Building'</role>
+    </credit>
+    <credit>
+      <actor>Gray, Kellie (II)</actor>
+      <role>Vice President, Great Western Corporation</role>
+    </credit>
+    <credit>
+      <actor>Gray, Walter (III)</actor>
+      <role>Himself - Director, California State Railroad Museum</role>
+    </credit>
+    <credit>
+      <actor>Green, Bruce (XII)</actor>
+      <role>Himself - Historian</role>
+    </credit>
+    <credit>
+      <actor>Green, James (X)</actor>
+      <role>Himself - Librarian, Library Company of Philadelphia</role>
+    </credit>
+    <credit>
+      <actor>Green, Stuart A.</actor>
+      <role>Himself - Clinical Professor, University of California Irvine</role>
+    </credit>
+    <credit>
+      <actor>Greene, Heddy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Greuber, John</actor>
+      <role>Himself - Mine General Foreman, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Greuther, Marc</actor>
+      <role>Himself, Curator, Henry Ford Museum</role>
+    </credit>
+    <credit>
+      <actor>Griffin, Darrell (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Griggs, William (II)</actor>
+      <role>97th Regiment</role>
+    </credit>
+    <credit>
+      <actor>Groenwold, Rod</actor>
+      <role>Himself - Director, Antique Gas &amp; Steam Engine Museum</role>
+    </credit>
+    <credit>
+      <actor>Grondine, Wilfred</actor>
+      <role>341st Regiment</role>
+    </credit>
+    <credit>
+      <actor>Guyamier, Frank P.</actor>
+      <role>Himself - Structures &amp; Facilities Engineer, Florida D.O.T.</role>
+    </credit>
+    <credit>
+      <actor>Gzowski, Wayne</actor>
+      <role>Himself - Operations Manager: Arctic Divers Ltd.</role>
+    </credit>
+    <credit>
+      <actor>Haas, Paul (II)</actor>
+      <role>F-14 Pilot</role>
+    </credit>
+    <credit>
+      <actor>Hablowetz, Horst</actor>
+      <role>Himself - Chief of Police, Highway Patrol, Holzkirchen</role>
+    </credit>
+    <credit>
+      <actor>Hackworth, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Haddock, Keith</actor>
+      <role>Himself - Author, "Giant Earthmovers"</role>
+    </credit>
+    <credit>
+      <actor>Haddock, Keith</actor>
+      <role>Himself - Author, 'Extreme Mining Machines'</role>
+    </credit>
+    <credit>
+      <actor>Hadlow, Robert W.</actor>
+      <role>Senior Historian, Oregon, Department of Transportation</role>
+    </credit>
+    <credit>
+      <actor>Haise, Fred</actor>
+      <role>Apollo 13 Lunar Module Pilot</role>
+    </credit>
+    <credit>
+      <actor>Halbouty, Michael T.</actor>
+      <role>Himself - Halbouty Energy Company</role>
+    </credit>
+    <credit>
+      <actor>Haldemann, Albert</actor>
+      <role>Himself - Mars Scientist, JPL/NASA</role>
+    </credit>
+    <credit>
+      <actor>Hall, Jerry (VII)</actor>
+      <role>Plant Supervisor, Wilson Football Factory</role>
+    </credit>
+    <credit>
+      <actor>Hall, Rod (II)</actor>
+      <role>Himself - President, Rod Hall International</role>
+    </credit>
+    <credit>
+      <actor>Hall, Tracy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hall, William Barkley</actor>
+      <role>Partner. Charleston Tea Plantation</role>
+    </credit>
+    <credit>
+      <actor>Hallion, Richard P.</actor>
+      <role>Himself - Aviation Historian</role>
+    </credit>
+    <credit>
+      <actor>Hallion, Richard P.</actor>
+      <role>Himself - United States Air Force Historian</role>
+    </credit>
+    <credit>
+      <actor>Hamerman, Ozie</actor>
+      <role>Himself - President, EZ Software</role>
+    </credit>
+    <credit>
+      <actor>Hammarberg, Eric</actor>
+      <role>Associate Director of Preservation, LZA Technology</role>
+    </credit>
+    <credit>
+      <actor>Hammond, Jay (III)</actor>
+      <role>Himself, Governor of Alaska</role>
+    </credit>
+    <credit>
+      <actor>Hankey, John P.</actor>
+      <role>Himself - Historian</role>
+    </credit>
+    <credit>
+      <actor>Hanneman, Richard L.</actor>
+      <role>Himself - President, Salt Institute</role>
+    </credit>
+    <credit>
+      <actor>Hansen, 'Boots'</actor>
+      <role>Oil Fire Fighter</role>
+    </credit>
+    <credit>
+      <actor>Harbaugh, Jim</actor>
+      <role>Former NFL Quarterback</role>
+    </credit>
+    <credit>
+      <actor>Harden, Tommy (I)</actor>
+      <role>Himself, Loomis, Fargo &amp; Co.</role>
+    </credit>
+    <credit>
+      <actor>Harder, Ilfried</actor>
+      <role>Himself - German Infantryman</role>
+    </credit>
+    <credit>
+      <actor>Hardy, Hugh (II)</actor>
+      <role>Architect, Hardy, Holzman, Pfieffer Association</role>
+    </credit>
+    <credit>
+      <actor>Harper, Gary (IV)</actor>
+      <role>Black Powder Specialist</role>
+    </credit>
+    <credit>
+      <actor>Harper, Keith (I)</actor>
+      <role>Himself - Transport Editor, "The Guardian"</role>
+    </credit>
+    <credit>
+      <actor>Hart, Rich</actor>
+      <role>Himself - Commander, Yorkville Police Dept.</role>
+    </credit>
+    <credit>
+      <actor>Hawkins III, John L.</actor>
+      <role>Himself - VP Heavy Duty Sales, Miller Industries</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Willis M.</actor>
+      <role>Himself - Former President, Lockheed California</role>
+    </credit>
+    <credit>
+      <actor>Hay, Willard</actor>
+      <role>Senior Vice President, Starbucks Coffee Co.</role>
+    </credit>
+    <credit>
+      <actor>Haycocks, Christopher</actor>
+      <role>Himself - Professor of Mining Engineering, Virginia Tech</role>
+    </credit>
+    <credit>
+      <actor>Hayes, Blake</actor>
+      <role>Himself - Henry Ford Museum</role>
+    </credit>
+    <credit>
+      <actor>Hazelton, Ron</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Hazen, Robert</actor>
+      <role>Himself - Author, "The Diamand Makers"</role>
+    </credit>
+    <credit>
+      <actor>Head, Robert E.</actor>
+      <role>Himself - Boeing Engineering Fellow Ret.</role>
+    </credit>
+    <credit>
+      <actor>Headley, James</actor>
+      <role>Himself - Director, Crane Institute of America, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Heal, Sid</actor>
+      <role>Himself - Los Angeles County Sheriff's Department</role>
+    </credit>
+    <credit>
+      <actor>Hearst, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hearst, William Randolph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Heasley, Ed</actor>
+      <role>Himself - Curator, U.S. Army Ordinance Museum</role>
+    </credit>
+    <credit>
+      <actor>Hedgecock, Jeff</actor>
+      <role>Himself - Armorer, Historic Enterprises</role>
+    </credit>
+    <credit>
+      <actor>Heenan Jr., William M.</actor>
+      <role>Himself - President, Steel Recycling Institute</role>
+    </credit>
+    <credit>
+      <actor>Heeter, Gary</actor>
+      <role>Himself - Tunnel Rat, 25th Infantry Div.</role>
+    </credit>
+    <credit>
+      <actor>Hegemier, Gil</actor>
+      <role>Himself - Professor, University of California, San Diego</role>
+    </credit>
+    <credit>
+      <actor>Henneman, Greg</actor>
+      <role>Himself - Air Force Historian</role>
+    </credit>
+    <credit>
+      <actor>Henry, Raymond (II)</actor>
+      <role>Boots &amp; Coots International Well Control</role>
+    </credit>
+    <credit>
+      <actor>Herald, Randy</actor>
+      <role>Himself - Production Manager, Fort Gordon</role>
+    </credit>
+    <credit>
+      <actor>Herkin, Gregg</actor>
+      <role>Himself - Historian/Author</role>
+    </credit>
+    <credit>
+      <actor>Hermance, Dave</actor>
+      <role>Himself - Executive Engineer, Toyota Technical Center</role>
+    </credit>
+    <credit>
+      <actor>Herr, Ernest</actor>
+      <role>Radioman</role>
+    </credit>
+    <credit>
+      <actor>Herrmann, Edward</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Hershberger, Al</actor>
+      <role>Himself - National Sales Manager, Custer Products Ltd.</role>
+    </credit>
+    <credit>
+      <actor>Hickey, Brian (II)</actor>
+      <role>Quality/Manufacturing Director, Ebonite International</role>
+    </credit>
+    <credit>
+      <actor>Hickland, Ronald</actor>
+      <role>Ball Design Engineer, Ebonite International</role>
+    </credit>
+    <credit>
+      <actor>Higdon, Dave</actor>
+      <role>Himself, Aviation Historian</role>
+    </credit>
+    <credit>
+      <actor>High, Howard (II)</actor>
+      <role>Strategic Communications Manager, Intel</role>
+    </credit>
+    <credit>
+      <actor>Hillen, John</actor>
+      <role>Himself, Defense &amp; Intelligence Consultant, AMS</role>
+    </credit>
+    <credit>
+      <actor>Hillier, Sheldon</actor>
+      <role>Himself - Ice Road Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Hines, Jay</actor>
+      <role>Himself, USCENTCOM Historian</role>
+    </credit>
+    <credit>
+      <actor>Hitler, Adolf</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hoffman, Todd A.</actor>
+      <role>Himself - Port Director, Los Angeles/Long Beach</role>
+    </credit>
+    <credit>
+      <actor>Hollerith, Herman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hollinger, Ted</actor>
+      <role>Himself - Owner, Master House Movers</role>
+    </credit>
+    <credit>
+      <actor>Hooper, Craig</actor>
+      <role>Himself - Center for Nonproliferation Studies</role>
+    </credit>
+    <credit>
+      <actor>Hoover, Herbert (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hopler, Robert B.</actor>
+      <role>President, Powderman Consulting, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Horrigan, Brian</actor>
+      <role>Himself - Author, "Yesterday's Tomorrows"</role>
+    </credit>
+    <credit>
+      <actor>Hortop, Neville</actor>
+      <role>Himself, Chief Guide, Conwy Castle</role>
+    </credit>
+    <credit>
+      <actor>Hosokawa, Bill</actor>
+      <role>Himself - Author 'Old Man Thunder: Father of the Bullet Train'</role>
+    </credit>
+    <credit>
+      <actor>Houghton, Peter (V)</actor>
+      <role>Himself - Jarvik Artificial Heart Recipient</role>
+    </credit>
+    <credit>
+      <actor>House, Ken (II)</actor>
+      <role>Himself - Marshall Space Flight Center</role>
+    </credit>
+    <credit>
+      <actor>Howitt, Bill</actor>
+      <role>Himself - Unit Leader 1974-1977</role>
+    </credit>
+    <credit>
+      <actor>Hubbard, Jay</actor>
+      <role>Himself - National Automobile Museum</role>
+    </credit>
+    <credit>
+      <actor>Huckel, Jack</actor>
+      <role>Director, National Soccer Hall of Fame</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Howard (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hull, McAllister</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hulser, Kathlene</actor>
+      <role>Herself - Public Historian, New-York Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Hurd, John</actor>
+      <role>Himself - Ball Turret Gunner, 401st Bomb Group</role>
+    </credit>
+    <credit>
+      <actor>Hussein, Saddam</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Iglauer, Edith</actor>
+      <role>Herself - Author, 'Denison's Ice Road'</role>
+    </credit>
+    <credit>
+      <actor>Ireland, Glenn</actor>
+      <role>Dawson Creek Resident</role>
+    </credit>
+    <credit>
+      <actor>Isaacson, Walter</actor>
+      <role>Himself - Author Benjamin Franklin: An American Life</role>
+    </credit>
+    <credit>
+      <actor>Jackson, Jim Bob</actor>
+      <role>Himself (Trace Oil and Gas)</role>
+    </credit>
+    <credit>
+      <actor>Jaffe, Amy M.</actor>
+      <role>Herself, Baker Institute, Rice University</role>
+    </credit>
+    <credit>
+      <actor>James, Garry (I)</actor>
+      <role>Himself - Firearms Historian</role>
+    </credit>
+    <credit>
+      <actor>James, Jesse (VII)</actor>
+      <role>Himself, President, West Coast Choppers</role>
+    </credit>
+    <credit>
+      <actor>Janelli, John</actor>
+      <role>National Taxidermists Association</role>
+    </credit>
+    <credit>
+      <actor>Janiesch, Hank</actor>
+      <role>Vice President, F-14 Program, Northrup Grumman</role>
+    </credit>
+    <credit>
+      <actor>Jaroslovsky, Rich</actor>
+      <role>Herself - Editorial Director, Dow Jones Interactive Pub.</role>
+    </credit>
+    <credit>
+      <actor>Jarrell, Jerry</actor>
+      <role>Himself - Director, National Hurricane Center</role>
+    </credit>
+    <credit>
+      <actor>Jarvik, Dr. Robert</actor>
+      <role>President, Jarvik Heart, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Jess, Michael</actor>
+      <role>Water Resources Engineer</role>
+    </credit>
+    <credit>
+      <actor>Jinks, Roy</actor>
+      <role>Himself - Historian, Smith &amp; Wesson</role>
+    </credit>
+    <credit>
+      <actor>Jobs, Steve</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Lyndon (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Johnston, Hank (II)</actor>
+      <role>Himself - Author and Historian</role>
+    </credit>
+    <credit>
+      <actor>Jokilehto, Jukka</actor>
+      <role>Himself - International Council on Monuments and Sites</role>
+    </credit>
+    <credit>
+      <actor>Jolly, Dax</actor>
+      <role>Himself - Deputy Facility Manager, JASPER</role>
+    </credit>
+    <credit>
+      <actor>Jonas, Jack (II)</actor>
+      <role>Taxidermy Animal Appraiser</role>
+    </credit>
+    <credit>
+      <actor>Jones, Edward (IV)</actor>
+      <role>Himself - Co-founder, Dow Jones &amp; Company</role>
+    </credit>
+    <credit>
+      <actor>Jones, Lee (VIII)</actor>
+      <role>Himself - Blade Historian</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Bill (V)</actor>
+      <role>Himself - CEO &amp; Founder, Jordan Outdoor Enterprises</role>
+    </credit>
+    <credit>
+      <actor>Jordan, Michele Anna</actor>
+      <role>Herself - Author, 'Salt &amp; Pepper'</role>
+    </credit>
+    <credit>
+      <actor>Joseph, Jeff (III)</actor>
+      <role>Himself - VP Consumer Electronics Assoc.</role>
+    </credit>
+    <credit>
+      <actor>Joy, Robert J.T.</actor>
+      <role>Himself - Health Sciences, Uniformed Services University</role>
+    </credit>
+    <credit>
+      <actor>Joynt, Katie</actor>
+      <role>Herself - First Pilot, C-17, Charleston Air Force Base</role>
+    </credit>
+    <credit>
+      <actor>Kacena, Neil</actor>
+      <role>Himself - Lockheed Martin Aeronautics</role>
+    </credit>
+    <credit>
+      <actor>Kalis, Keith</actor>
+      <role>Supervisor, WET Labs</role>
+    </credit>
+    <credit>
+      <actor>Kalk, Richard E.</actor>
+      <role>Himself - Founder, L.A. Police Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Kaneko, Edwin T.</actor>
+      <role>Kona Coffee Grower</role>
+    </credit>
+    <credit>
+      <actor>Karbinska, Patrycja</actor>
+      <role>Herself - Wieliczka Salt Mine Guide</role>
+    </credit>
+    <credit>
+      <actor>Karcher, David P.</actor>
+      <role>Himself - Director, Joint Non-Lethal Weapons Directorate</role>
+    </credit>
+    <credit>
+      <actor>Karcheski Jr., Walter J.</actor>
+      <role>Himself - Senior Curator, Higgins Armory Museum</role>
+    </credit>
+    <credit>
+      <actor>Karlmann, Becky</actor>
+      <role>Herself, Shell Oil Productions U.S.</role>
+    </credit>
+    <credit>
+      <actor>Karzai, Hamid</actor>
+      <role>Himself - Interim President, Afhganistan</role>
+    </credit>
+    <credit>
+      <actor>Kavanagh, Lawrence (III)</actor>
+      <role>Himself - VP, American Iron &amp; Steel Institute</role>
+    </credit>
+    <credit>
+      <actor>Kazmarek, Stan</actor>
+      <role>Himself - Restoration Specialist, B&amp;O Railroad Museum</role>
+    </credit>
+    <credit>
+      <actor>Kean, Herbert</actor>
+      <role>Himself - Author, Restoring Antique Tools</role>
+    </credit>
+    <credit>
+      <actor>Keller, Doug (I)</actor>
+      <role>Himself - General Manager, Billy Bob's Texas</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Eric (V)</actor>
+      <role>Vice President, Engineered Demolition, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Jim (XIV)</actor>
+      <role>Nuclear Operator, Bruce Power</role>
+    </credit>
+    <credit>
+      <actor>Kelly, T. Ross</actor>
+      <role>Himself - Boston College</role>
+    </credit>
+    <credit>
+      <actor>Kempster, Michael</actor>
+      <role>Executive Vice President, Weber-Stephens Products Company</role>
+    </credit>
+    <credit>
+      <actor>Kennedy Sr., Joseph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Hew</actor>
+      <role>Himself - Military Historian</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, John F.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kerik, Bernard</actor>
+      <role>Himself, Former Police Commissioner, New York City</role>
+    </credit>
+    <credit>
+      <actor>Kerr, Austin</actor>
+      <role>Himself - History Professor</role>
+    </credit>
+    <credit>
+      <actor>Ketcham, Michael</actor>
+      <role>Himself - G.M. Brea Distribution Center, Albertsons</role>
+    </credit>
+    <credit>
+      <actor>Khoroushi, Fred</actor>
+      <role>Himself - President, Alpine Armoring</role>
+    </credit>
+    <credit>
+      <actor>Khrushchev, Nikita</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Killblane, Richard E.</actor>
+      <role>Himself - Cmd. Historian, U.S. Army Trans. School</role>
+    </credit>
+    <credit>
+      <actor>Killinger, Alan</actor>
+      <role>Vietnam Veteran</role>
+    </credit>
+    <credit>
+      <actor>Kimball, Trent</actor>
+      <role>Himself, President, Texas Armoring Corp.</role>
+    </credit>
+    <credit>
+      <actor>King, Don (I)</actor>
+      <role>Himself, Boxing Promoter</role>
+    </credit>
+    <credit>
+      <actor>King, Jack (XI)</actor>
+      <role>Himself - NASA Countdown Commentator, Apollo 11</role>
+    </credit>
+    <credit>
+      <actor>Kirchner, Paul</actor>
+      <role>Himself - Author, "Forgotten Fads and Fabulous Flops"</role>
+    </credit>
+    <credit>
+      <actor>Kirkhart, Mike</actor>
+      <role>Fiberglass Reproductionist</role>
+    </credit>
+    <credit>
+      <actor>Kirkwood, John (I)</actor>
+      <role>Himself - President, Rail Ventures, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Kise, Kent</actor>
+      <role>Vice President Quality and Technical Services, DS Waters</role>
+    </credit>
+    <credit>
+      <actor>Kithlinger, Jeff</actor>
+      <role>Direector, Metropolitan Water District</role>
+    </credit>
+    <credit>
+      <actor>Klimesch, Thomas</actor>
+      <role>Himself - Vice President, Serodino, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Klinzing, Guy</actor>
+      <role>Mars Candy Spokesperson</role>
+    </credit>
+    <credit>
+      <actor>Klofkorn, Warren</actor>
+      <role>Himself, Historian</role>
+    </credit>
+    <credit>
+      <actor>Knapik, Don</actor>
+      <role>Himself, Vice President, Acela Product Line</role>
+    </credit>
+    <credit>
+      <actor>Knoble, Joyce Kinley</actor>
+      <role>Daughter of Myron Kinley</role>
+    </credit>
+    <credit>
+      <actor>Knott, Sarah</actor>
+      <role>Curator, Pirate Soul Museum</role>
+    </credit>
+    <credit>
+      <actor>Knutsson, Kurt</actor>
+      <role>Himself, The 'Cyber Guy'</role>
+    </credit>
+    <credit>
+      <actor>Kobayakawa, Takaharu</actor>
+      <role>Himself - Consultant, Mazda Motor Company</role>
+    </credit>
+    <credit>
+      <actor>Koch, Edward I.</actor>
+      <role>Himself, former NYC mayor</role>
+    </credit>
+    <credit>
+      <actor>Koffman, Henry</actor>
+      <role>Himself - Professor, University of Southern California</role>
+    </credit>
+    <credit>
+      <actor>Kolkmeier, Ken</actor>
+      <role>Himself - Project Manager, Pittsburgh-Des Moines Steel</role>
+    </credit>
+    <credit>
+      <actor>Kozushko, Phil</actor>
+      <role>Former Miner, New Mexico bureau of Mine Inspection</role>
+    </credit>
+    <credit>
+      <actor>Krajick, Kevin</actor>
+      <role>Himself - Author, "Barren Lands"</role>
+    </credit>
+    <credit>
+      <actor>Kranz, Gene</actor>
+      <role>Apollo 13 Flight Director</role>
+    </credit>
+    <credit>
+      <actor>Kranz, Gene</actor>
+      <role>Flight Director, Apollo 11</role>
+    </credit>
+    <credit>
+      <actor>Kraus, John (II)</actor>
+      <role>Tall Ship First Mate, Ocean Institute</role>
+    </credit>
+    <credit>
+      <actor>Kress, Bob</actor>
+      <role>Himself - Engineering Manager, F-14 Program, Grumman Corporation</role>
+    </credit>
+    <credit>
+      <actor>Krider, E. Philip</actor>
+      <role>Himself - Atmospheric Sciences, University of Arizona</role>
+    </credit>
+    <credit>
+      <actor>Krier, Bill</actor>
+      <role>Himself - Wood Magazine</role>
+    </credit>
+    <credit>
+      <actor>Krinsky, Carol H.</actor>
+      <role>Professor of Fine Arts, New York University</role>
+    </credit>
+    <credit>
+      <actor>Kuczmar, Andrew</actor>
+      <role>National Training Director, Echo Incorporated</role>
+    </credit>
+    <credit>
+      <actor>Kulis, Joe</actor>
+      <role>Taxidermist/Hunter, Kulis Freeze Dry</role>
+    </credit>
+    <credit>
+      <actor>Kurtz, Lt. Col. Russ</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>LaGrone, Jim</actor>
+      <role>Boots &amp; Coots International Well Control</role>
+    </credit>
+    <credit>
+      <actor>LaRue, Jake</actor>
+      <role>Agricultural Engineer, Valmont Industries</role>
+    </credit>
+    <credit>
+      <actor>Lacy, Clay</actor>
+      <role>Himself - President, Clay Lacy Aviation</role>
+    </credit>
+    <credit>
+      <actor>Ladika, Mike</actor>
+      <role>Himself, Southwest Research Institute</role>
+    </credit>
+    <credit>
+      <actor>Lam, Chau</actor>
+      <role>Himself - Artillery Officer, 9th Viet Cong Div.</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Robert J.</actor>
+      <role>Himself - GM, The Causeway Commission, (GNOEC)</role>
+    </credit>
+    <credit>
+      <actor>Lamprecht, Egon</actor>
+      <role>Firefighter - Atomic Energy Commission</role>
+    </credit>
+    <credit>
+      <actor>Landis, Dave</actor>
+      <role>Founder, 'Ultimate-80s' Internet Radio</role>
+    </credit>
+    <credit>
+      <actor>Langer, William H.</actor>
+      <role>Himself - Research Geologist, U.S. Geological Survey</role>
+    </credit>
+    <credit>
+      <actor>Lanouette, William</actor>
+      <role>Himself - Author</role>
+    </credit>
+    <credit>
+      <actor>Lappin, Pat</actor>
+      <role>Himself, Historian</role>
+    </credit>
+    <credit>
+      <actor>Larsen, Dennis (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lasalle Jr., Shelby P.</actor>
+      <role>Himself - CEO, Krebs, Lasalle, LeMieux Consultants, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Lashof, Daniel</actor>
+      <role>Herself - Science Director, Natural Resources Defense Council</role>
+    </credit>
+    <credit>
+      <actor>Lauder, John (II)</actor>
+      <role>Himself - Nonproliferation Director, CIA</role>
+    </credit>
+    <credit>
+      <actor>Launius, Roger</actor>
+      <role>Himself - NASA Chief Historian</role>
+    </credit>
+    <credit>
+      <actor>Lawler, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Emmitt</actor>
+      <role>Ball Turner, Wilson Football Factory</role>
+    </credit>
+    <credit>
+      <actor>Laws, David (II)</actor>
+      <role>Silicon Valley Historian</role>
+    </credit>
+    <credit>
+      <actor>Lazzara, Dick</actor>
+      <role>Himself - President, Lazzara Yachts</role>
+    </credit>
+    <credit>
+      <actor>Le Fort, Janick</actor>
+      <role>Himself - Historical Director, Lorient Submarine Bunker</role>
+    </credit>
+    <credit>
+      <actor>LeMieux, Henry</actor>
+      <role>Himself - Engineer, Lake Pontchartrain Causeway</role>
+    </credit>
+    <credit>
+      <actor>LeVier, Marc</actor>
+      <role>Himself - Manager, Newmont Mining Corporation</role>
+    </credit>
+    <credit>
+      <actor>Leary, William M.</actor>
+      <role>Himself - Author, "Aerial Pioneers: U.S. Air Mail Service"</role>
+    </credit>
+    <credit>
+      <actor>Lee, Griff</actor>
+      <role>Himself - Offshore Oil Pioneer</role>
+    </credit>
+    <credit>
+      <actor>Lee, James Kyson</actor>
+      <role>Tobu Yamamoto</role>
+    </credit>
+    <credit>
+      <actor>Leishman, Leslie</actor>
+      <role>Himself - Registered Nurse</role>
+    </credit>
+    <credit>
+      <actor>Leno, Jay</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Leonard, Peter G.</actor>
+      <role>Himself, President, Sutro Tunnel Co.</role>
+    </credit>
+    <credit>
+      <actor>Levin, Stephen</actor>
+      <role>Himself, Mt. Sinai I.L. Selikoff Occupational Clinical Ctr.</role>
+    </credit>
+    <credit>
+      <actor>Levy, Jo Ann</actor>
+      <role>Herself - Author, "They Saw The Elephant"</role>
+    </credit>
+    <credit>
+      <actor>Levy, Matthys</actor>
+      <role>Author - Why Buildings Fall Down</role>
+    </credit>
+    <credit>
+      <actor>Lewin, Gene</actor>
+      <role>Owner, Vintage Arcade Superstore</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Buford</actor>
+      <role>Himself - Exxon Mobil Corporation</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Tom (VI)</actor>
+      <role>Author, 'Divided Highways'</role>
+    </credit>
+    <credit>
+      <actor>Li, Victor C.</actor>
+      <role>Himself - University of Michigan</role>
+    </credit>
+    <credit>
+      <actor>Lieb, Hans</actor>
+      <role>Himself - Master Mechanic, Ruf Automotive, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Liebergot, Sy</actor>
+      <role>Apollo 13 EECOM Flight Controller</role>
+    </credit>
+    <credit>
+      <actor>Lightfine, Mary</actor>
+      <role>Herself - Nurse, Doctors Without Borders</role>
+    </credit>
+    <credit>
+      <actor>Lingle, Ted</actor>
+      <role>CEO, Specialty Coffee Association</role>
+    </credit>
+    <credit>
+      <actor>Lingle, Ted</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Linton, Ray</actor>
+      <role>Himself - Crane &amp; Rigging Supervisor, Jettboat LLC</role>
+    </credit>
+    <credit>
+      <actor>Livingston, James D.</actor>
+      <role>Himself - Author, 'Driving Force'</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Blake</actor>
+      <role>Trucking Coordinator, NCAT</role>
+    </credit>
+    <credit>
+      <actor>Lockwood, Russ</actor>
+      <role>Himself - Military Historian, MagWeb.com</role>
+    </credit>
+    <credit>
+      <actor>Longstreet, Michele</actor>
+      <role>Taxidermist, Kulis Freeze Dry</role>
+    </credit>
+    <credit>
+      <actor>Lonnquest, John</actor>
+      <role>Himself - Historian, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Loomis, Marion</actor>
+      <role>Himself - Executive Director, Wyoming Mining Association</role>
+    </credit>
+    <credit>
+      <actor>Lord, Ken</actor>
+      <role>Himself - Deputy Director, Canadian Space Agency</role>
+    </credit>
+    <credit>
+      <actor>Losasso, Rocky</actor>
+      <role>Owner, Jonas Supply Company</role>
+    </credit>
+    <credit>
+      <actor>Lotti, Frank</actor>
+      <role>Caltrans Structure Representative</role>
+    </credit>
+    <credit>
+      <actor>Lovell, Bob</actor>
+      <role>Port of Astoria Commission</role>
+    </credit>
+    <credit>
+      <actor>Lovell, Jim (I)</actor>
+      <role>Apollo 13 Commander</role>
+    </credit>
+    <credit>
+      <actor>Lowery, Kevin G.</actor>
+      <role>Himself - Corporate Communications, Alcoa</role>
+    </credit>
+    <credit>
+      <actor>Lowood, Henry</actor>
+      <role>Science &amp; Technology Curator, Stanford University</role>
+    </credit>
+    <credit>
+      <actor>Luciano, Lou</actor>
+      <role>Himself - USMC, Infantry Instructor</role>
+    </credit>
+    <credit>
+      <actor>Luck, Charles</actor>
+      <role>Himself - President, CEP, Luck Stone</role>
+    </credit>
+    <credit>
+      <actor>Luedke, Bret</actor>
+      <role>Himself - Test Pilot</role>
+    </credit>
+    <credit>
+      <actor>Lumpkin, Mike</actor>
+      <role>Himself - Program Director, Pigeon Key Foundation</role>
+    </credit>
+    <credit>
+      <actor>Lund, Adrian</actor>
+      <role>Himself - COO, Insurance Institute for Highway Safety</role>
+    </credit>
+    <credit>
+      <actor>Lyle, Katie Letcher</actor>
+      <role>Herself - Author, 'Scalded To Death By Steam'</role>
+    </credit>
+    <credit>
+      <actor>Lyman, Will</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Garrett</actor>
+      <role>Gunner</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Michael (XV)</actor>
+      <role>Himself - Oil Historian</role>
+    </credit>
+    <credit>
+      <actor>MacAyeal, Doug</actor>
+      <role>Himself - Commanding Officer, USCGC Healy</role>
+    </credit>
+    <credit>
+      <actor>MacGregor, Sandy</actor>
+      <role>Himself - Author, 'No Need for Heroes'</role>
+    </credit>
+    <credit>
+      <actor>MacNab, Craig</actor>
+      <role>Himself - Director, Public Relations, AM General Corp.</role>
+    </credit>
+    <credit>
+      <actor>MacNeil, Hermon Atkins</actor>
+      <role>Himself - coin designer</role>
+    </credit>
+    <credit>
+      <actor>Macarus, Dave</actor>
+      <role>Technical Director, Sears, Roebuck &amp; Co.</role>
+    </credit>
+    <credit>
+      <actor>Macklyn, Steve</actor>
+      <role>Himself - Owner and Driver, NitroFish</role>
+    </credit>
+    <credit>
+      <actor>Madia, William</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Malamatos, Harry</actor>
+      <role>Himself - Director, Sales &amp; Marketing, Dynamic Manufacturing</role>
+    </credit>
+    <credit>
+      <actor>Malcom, Corey</actor>
+      <role>Mel Fisher Maritime Museum</role>
+    </credit>
+    <credit>
+      <actor>Mallett, Leonard</actor>
+      <role>Himself - Texas Eastern Products Pipeline Co.</role>
+    </credit>
+    <credit>
+      <actor>Malloy, Bill</actor>
+      <role>Himself - Ball Turret Gunner, 95th Bomb Group</role>
+    </credit>
+    <credit>
+      <actor>Malone, Bob</actor>
+      <role>Himself, President &amp; CEO, Alyeska Pipeline</role>
+    </credit>
+    <credit>
+      <actor>Manbeck, John</actor>
+      <role>Himself - Brooklyn Historian</role>
+    </credit>
+    <credit>
+      <actor>Mantello, Carmella</actor>
+      <role>Herself - Director, New York State Canal Corporation</role>
+    </credit>
+    <credit>
+      <actor>Marchand, Scott</actor>
+      <role>Himself - Director, Pima Air &amp; Space Museum</role>
+    </credit>
+    <credit>
+      <actor>Marconi, Guglielmo</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mardigian, David</actor>
+      <role>Himself - Chief Executive Officer, MCM Management</role>
+    </credit>
+    <credit>
+      <actor>Markowitz, Harry</actor>
+      <role>Himself - Economist</role>
+    </credit>
+    <credit>
+      <actor>Marrero, Jose (II)</actor>
+      <role>Himself - President, Pepperball Technologies, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Marrett, George</actor>
+      <role>Himself - Author, 'Howard Hughes: Aviator'</role>
+    </credit>
+    <credit>
+      <actor>Marshall, George C.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Pamela</actor>
+      <role>Herself - Archaeologist</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Penny (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Martel, William C.</actor>
+      <role>U.S. Naval War College</role>
+    </credit>
+    <credit>
+      <actor>Martin, Derrel</actor>
+      <role>Water Resources, University of Nebraska</role>
+    </credit>
+    <credit>
+      <actor>Martin, Jim (XIII)</actor>
+      <role>Caltrans Engineer Ret.</role>
+    </credit>
+    <credit>
+      <actor>Martin, Paul (XLV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mason, Greg (VI)</actor>
+      <role>Marketing Director, HEAD/Penn Racquet Sports</role>
+    </credit>
+    <credit>
+      <actor>Masters, Phil</actor>
+      <role>President - Intersal, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Matranga, Victoria</actor>
+      <role>Herself - Author, "America at Home"</role>
+    </credit>
+    <credit>
+      <actor>Matsuyama, Jeffrey</actor>
+      <role>Intrepreter, Kona Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Matthews, 'Coots'</actor>
+      <role>Oil Fire Fighter</role>
+    </credit>
+    <credit>
+      <actor>Matthews, James K.</actor>
+      <role>Himself - Cmd. Historian, U.S. Trans. Command</role>
+    </credit>
+    <credit>
+      <actor>Mattingly, Kenneth</actor>
+      <role>Command Module Pilot</role>
+    </credit>
+    <credit>
+      <actor>Mayr, Christian</actor>
+      <role>Himself - Supervisor, Traffic Control Ctr. of South Bavaria</role>
+    </credit>
+    <credit>
+      <actor>McBride, Dennis (III)</actor>
+      <role>Himself - Author, "Building Hoover Dam"</role>
+    </credit>
+    <credit>
+      <actor>McCaffery, Robert L.</actor>
+      <role>Himself - Howard Hughes Historian</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Dr. Roger</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Dr. Roger</actor>
+      <role>Himself - Disaster Analysis Expert, Exponent, Inc</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Dr. Roger</actor>
+      <role>Himself - Failure Expert, Exponent Inc.</role>
+    </credit>
+    <credit>
+      <actor>McCloskey, Gary W.</actor>
+      <role>Himself - General Manager, TOCDF</role>
+    </credit>
+    <credit>
+      <actor>McCollough, W. Alan</actor>
+      <role>Himself, President &amp; CEO, Circuit City Stores, Inc.</role>
+    </credit>
+    <credit>
+      <actor>McCoy, Bob (II)</actor>
+      <role>Himself - Author, "Quack! Tales of Medical Fraud"</role>
+    </credit>
+    <credit>
+      <actor>McCracken, Harry (II)</actor>
+      <role>Editor-In-Chief, PC World</role>
+    </credit>
+    <credit>
+      <actor>McDade, Kip</actor>
+      <role>Himself - Bolter Operator, Cargill</role>
+    </credit>
+    <credit>
+      <actor>McDevitt, John</actor>
+      <role>Himself - VP Air Operations, UPS</role>
+    </credit>
+    <credit>
+      <actor>McGhee, Stuart</actor>
+      <role>Himself - Professor of History, West Virginia State College</role>
+    </credit>
+    <credit>
+      <actor>McGuire, James Terrence</actor>
+      <role>Director of Applied Technology, Flowserve</role>
+    </credit>
+    <credit>
+      <actor>McKeon, Matt</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McKinley, Gareth</actor>
+      <role>Himself - Hatsopoulos Microfluids Lab, MIT</role>
+    </credit>
+    <credit>
+      <actor>McManus, Richard (I)</actor>
+      <role>Himself - Project Director, The Haskell Company</role>
+    </credit>
+    <credit>
+      <actor>McMillion, Randy</actor>
+      <role>Himself - President, Riverton Coal Production</role>
+    </credit>
+    <credit>
+      <actor>McNally, Mike (V)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>McNew, Rick</actor>
+      <role>Himself - Project Engineer, Misener Marine Construction, Inc.</role>
+    </credit>
+    <credit>
+      <actor>McNichol, Dan</actor>
+      <role>Author, 'The Roads That Built America'</role>
+    </credit>
+    <credit>
+      <actor>McNichol, Dan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McVoy, Steve</actor>
+      <role>Himself - Founder, Early Television Museum</role>
+    </credit>
+    <credit>
+      <actor>Meade, Roger</actor>
+      <role>Himself - Historian, Los Alamos National Laboratory</role>
+    </credit>
+    <credit>
+      <actor>Meade, Roger</actor>
+      <role>Himself - Laboratory Archivist</role>
+    </credit>
+    <credit>
+      <actor>Meinzer, Frederick C.</actor>
+      <role>Himself - Forest Ecologist, United States Forest Service</role>
+    </credit>
+    <credit>
+      <actor>Meis, Dan</actor>
+      <role>Himself, Architect</role>
+    </credit>
+    <credit>
+      <actor>Melcher, Robert</actor>
+      <role>Himself - Third Generation Logger</role>
+    </credit>
+    <credit>
+      <actor>Melcher, Scott</actor>
+      <role>Himself - Third Generation Logger</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Bill</actor>
+      <role>Gunner</role>
+    </credit>
+    <credit>
+      <actor>Merrill, Charles E.</actor>
+      <role>Himself - founder, founder, Merrill Lynch &amp; Company</role>
+    </credit>
+    <credit>
+      <actor>Meyer III, Louis 'Butch'</actor>
+      <role>Himself - Race Engine Mechanic, Team Menard</role>
+    </credit>
+    <credit>
+      <actor>Meyer Jr., Louis 'Sonny'</actor>
+      <role>Himself - Race Engine Mechanic, Blueprint Racing</role>
+    </credit>
+    <credit>
+      <actor>Michalk, Brian</actor>
+      <role>Systems Analyst, Texas Department of Transporrtation</role>
+    </credit>
+    <credit>
+      <actor>Michel, James N.</actor>
+      <role>Himself - National Rail Principal, Jacobs Engineering Group</role>
+    </credit>
+    <credit>
+      <actor>Milius, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Miller, Ron (XIII)</actor>
+      <role>Chesley Bonestell Biographer</role>
+    </credit>
+    <credit>
+      <actor>Milletto, Bruce</actor>
+      <role>President, Bellissimo Coffee InfoGroup</role>
+    </credit>
+    <credit>
+      <actor>Millwood, Jim</actor>
+      <role>Himself - Lookout Mountain Funicular Railway</role>
+    </credit>
+    <credit>
+      <actor>Minick, Billy</actor>
+      <role>Himself - CEO, Billy Bob's Texas</role>
+    </credit>
+    <credit>
+      <actor>Misterly, John</actor>
+      <role>Himself - USAF B-29 Lead Navigator</role>
+    </credit>
+    <credit>
+      <actor>Moltz, Clay</actor>
+      <role>Himself - Center for Nonproliferation Studies</role>
+    </credit>
+    <credit>
+      <actor>Monaco, Kelly</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Moncarz, Piotr</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Monroe, Marilyn</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Don</actor>
+      <role>Himself - Author, 'Hot Rod Memories'</role>
+    </credit>
+    <credit>
+      <actor>Monti, Medio</actor>
+      <role>Himself - Dep. Dir. for Comm., USCENTCOM</role>
+    </credit>
+    <credit>
+      <actor>Moorad, Judith</actor>
+      <role>Herself, Shell Oil Products US</role>
+    </credit>
+    <credit>
+      <actor>Moore, David (XXVII)</actor>
+      <role>Nautical Archeologist</role>
+    </credit>
+    <credit>
+      <actor>Moore, Roddy</actor>
+      <role>Himself - Director, Blue Ridge Institute, Ferrum College</role>
+    </credit>
+    <credit>
+      <actor>Morgan, J.P. (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Martin K.A.</actor>
+      <role>Himself - Research Historian, National D-Day Museum</role>
+    </credit>
+    <credit>
+      <actor>Morones, Edward J.</actor>
+      <role>Himself - CBP Officer, Port of Los Angeles/Long Beach</role>
+    </credit>
+    <credit>
+      <actor>Morrison, Philip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Moses, James (II)</actor>
+      <role>Facility Manager, LAX Fuel</role>
+    </credit>
+    <credit>
+      <actor>Moskowitz, Joel (II)</actor>
+      <role>Himself - CEO, Ceradyne, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Muir Jr., Malcolm</actor>
+      <role>Himself - Prof. History, Virginia Mil. Inst.</role>
+    </credit>
+    <credit>
+      <actor>Muldrow, Christopher</actor>
+      <role>Expert Bowler</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Bill (XV)</actor>
+      <role>Projhect Manager, T-REX</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Jim (XIII)</actor>
+      <role>Superintendent, Operations Control Center</role>
+    </credit>
+    <credit>
+      <actor>Musgrave, Story</actor>
+      <role>Himself - Astronaut</role>
+    </credit>
+    <credit>
+      <actor>Musgrave, Story</actor>
+      <role>Himself - Space Shuttle Astronaut</role>
+    </credit>
+    <credit>
+      <actor>Nader, Ralph (I)</actor>
+      <role>Himself - Author &amp; Consumer Advocate</role>
+    </credit>
+    <credit>
+      <actor>Nagengast, Bernard</actor>
+      <role>Himself - Technical Historian, ASHRAE</role>
+    </credit>
+    <credit>
+      <actor>Nagyszalanczy, Sandor</actor>
+      <role>Himself - Author, Restoring Antique Tools</role>
+    </credit>
+    <credit>
+      <actor>Nanji, Anil</actor>
+      <role>Himself - President, Magnet Sales &amp; Manufacturing Co.</role>
+    </credit>
+    <credit>
+      <actor>Narozny, Ted</actor>
+      <role>Plant Manager, Lipton Tea</role>
+    </credit>
+    <credit>
+      <actor>Nash, Don</actor>
+      <role>Plant Manager, Metropolitan Water District</role>
+    </credit>
+    <credit>
+      <actor>Nasser, Gamal Abdel</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nasstrom, John</actor>
+      <role>Himself - Associate Program Leader, NARAC</role>
+    </credit>
+    <credit>
+      <actor>Nateman, David</actor>
+      <role>Director, North Carolina Maritime Museum</role>
+    </credit>
+    <credit>
+      <actor>Naylor, Chauncey</actor>
+      <role>Lead Firefighter, Williams Fire &amp; Hazard Control</role>
+    </credit>
+    <credit>
+      <actor>Nealon, John</actor>
+      <role>Golf Ball research Director, Callaway Golf</role>
+    </credit>
+    <credit>
+      <actor>Negley, Scott</actor>
+      <role>Director of Product Management, Dresser Wayne</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Baby Face</actor>
+      <role>Himself - Bank Robber</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Frank (VI)</actor>
+      <role>Bridge Preservation Engineer</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Scott Mitchell</actor>
+      <role>Cereal Man</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Scott Mitchell</actor>
+      <role>Ghost</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Scott Mitchell</actor>
+      <role>Hero</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Scott Mitchell</actor>
+      <role>Patron</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Walter (III)</actor>
+      <role>Himself - Military Historian</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Willie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ness, Arlen</actor>
+      <role>Himself - President, Arlen Ness Enterprises, Inc</role>
+    </credit>
+    <credit>
+      <actor>Neu, John (I)</actor>
+      <role>Himself - VX-90 Project Manager, Volvo</role>
+    </credit>
+    <credit>
+      <actor>Neufeld, Michael</actor>
+      <role>Himself - Curator, National Air and Space Museum</role>
+    </credit>
+    <credit>
+      <actor>Newcomb, David</actor>
+      <role>Vice President, National Asphalt Pavement Association</role>
+    </credit>
+    <credit>
+      <actor>Newton, Wayne</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nichols, C. Howard</actor>
+      <role>Himself - Historian, S. Louisiana University</role>
+    </credit>
+    <credit>
+      <actor>Nicodemus, Charles</actor>
+      <role>Reporter, Chicago Sun-Times</role>
+    </credit>
+    <credit>
+      <actor>Nixon, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Noble, Dennis L.</actor>
+      <role>Himself, Historian</role>
+    </credit>
+    <credit>
+      <actor>Noelke, Doug</actor>
+      <role>Himself - Owner and Driver, Big Dawg</role>
+    </credit>
+    <credit>
+      <actor>Norris, Robert (V)</actor>
+      <role>Himself - Historian/Author</role>
+    </credit>
+    <credit>
+      <actor>Norton, Joshua A.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nottage, James</actor>
+      <role>Himself - Chief Curator, Autry Museum of Western Heritage</role>
+    </credit>
+    <credit>
+      <actor>Nuss, Jim</actor>
+      <role>Himself - President, Hermann Associates, Inc.</role>
+    </credit>
+    <credit>
+      <actor>O'Neal, Shaquille</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Neill, John (XIV)</actor>
+      <role>Gunner</role>
+    </credit>
+    <credit>
+      <actor>Olien, Roger</actor>
+      <role>Himself - Oil Historian</role>
+    </credit>
+    <credit>
+      <actor>Olson, Doug (III)</actor>
+      <role>Himself - Siemens Dematic-Logistics Automation</role>
+    </credit>
+    <credit>
+      <actor>Olson, Randy (II)</actor>
+      <role>Himself - VP Marketing, Miller Industries</role>
+    </credit>
+    <credit>
+      <actor>Oppenheimer, Ernest</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Osman, Hassan</actor>
+      <role>Himself - Secretary, Aswan High Damn</role>
+    </credit>
+    <credit>
+      <actor>Overholser, Denys</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Page, James (IV)</actor>
+      <role>Himself - County of Los Angeles Fire Museum Association</role>
+    </credit>
+    <credit>
+      <actor>Palmback, Bob</actor>
+      <role>Himself - Vogel Electric</role>
+    </credit>
+    <credit>
+      <actor>Palmer, Arnold</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Paquette, Steven</actor>
+      <role>Himself - Anthropology Coordinator, Soldier Systems</role>
+    </credit>
+    <credit>
+      <actor>Parachini, John</actor>
+      <role>Himself - Policy Analyst, RAND Corp.</role>
+    </credit>
+    <credit>
+      <actor>Parks, Wally (III)</actor>
+      <role>Himself - Founder NHRA</role>
+    </credit>
+    <credit>
+      <actor>Pataki, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Paternie, Patrick C.</actor>
+      <role>Himself - Automotive Author</role>
+    </credit>
+    <credit>
+      <actor>Patrick III, William C.</actor>
+      <role>Himself - Biological Warfare Consultant</role>
+    </credit>
+    <credit>
+      <actor>Pattarozzi, Rich</actor>
+      <role>Himself - CEO, Shell Deepwater Development Inc.</role>
+    </credit>
+    <credit>
+      <actor>Pavlik, Bob</actor>
+      <role>Caltrans Historian</role>
+    </credit>
+    <credit>
+      <actor>Paxton, Bill</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Pedrick, Gregory</actor>
+      <role>Himself - President, Aerocrane USA, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Peege, Michael</actor>
+      <role>Himself - Traffic Officer, Highway Patrol, Holzkirchen</role>
+    </credit>
+    <credit>
+      <actor>Pelehach, Michael</actor>
+      <role>Himself - F-14 Development, Grumman Corporation</role>
+    </credit>
+    <credit>
+      <actor>Peragine, Robert</actor>
+      <role>Owner, Wilderness Fur Dressing, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Perkins, Jack (III)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Perrow, Charles</actor>
+      <role>Himself, Author, Normal Accidents</role>
+    </credit>
+    <credit>
+      <actor>Petersen, John (VI)</actor>
+      <role>Vice president Technical Services, Viking Pump</role>
+    </credit>
+    <credit>
+      <actor>Peterson, Matt (IV)</actor>
+      <role>Himself - Facilities Operator, TOCDF</role>
+    </credit>
+    <credit>
+      <actor>Peterson, Randy (IV)</actor>
+      <role>Fitting &amp; Instruction Director, Callaway Golf</role>
+    </credit>
+    <credit>
+      <actor>Petrini, Arthur D.</actor>
+      <role>Department of Public Utilities, Henrico County</role>
+    </credit>
+    <credit>
+      <actor>Petroski, Dr. Henry</actor>
+      <role>Himself - Professor of Civil Engineering, Duke University</role>
+    </credit>
+    <credit>
+      <actor>Pettigrew, Steve</actor>
+      <role>Himself - President, Demolition Dynamics</role>
+    </credit>
+    <credit>
+      <actor>Petzal, David E.</actor>
+      <role>Himself - 'Field &amp; Stream' Magazine</role>
+    </credit>
+    <credit>
+      <actor>Phillips, Don (III)</actor>
+      <role>Himself - Transportation Reporter, Washington Post</role>
+    </credit>
+    <credit>
+      <actor>Pickett, Tyrone</actor>
+      <role>Junior Tradesman, Titan Systems</role>
+    </credit>
+    <credit>
+      <actor>Pietrantoni, Paul</actor>
+      <role>Himself - Special Weapons Team, LASD</role>
+    </credit>
+    <credit>
+      <actor>Piirto, Douglas D.</actor>
+      <role>Himself - Cal Poly-San Luis Obispo</role>
+    </credit>
+    <credit>
+      <actor>Pinter, Steve S.</actor>
+      <role>Himself - Product Manager, Soldier Systems</role>
+    </credit>
+    <credit>
+      <actor>Pinto, Thom</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Pitts, Derrick</actor>
+      <role>Himself - Chief Astronomer, Franklin Institute</role>
+    </credit>
+    <credit>
+      <actor>Plimpton, George (I)</actor>
+      <role>Himself, Author, Fireworks: A History &amp; Celebration</role>
+    </credit>
+    <credit>
+      <actor>Pokrefke, Tom</actor>
+      <role>Himself - Coastal &amp; Hydraulics Lab, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Popovich, James</actor>
+      <role>Himself - Archivist, National Park Service</role>
+    </credit>
+    <credit>
+      <actor>Potter, William (II)</actor>
+      <role>Himself - Center for Nonproliferation Studies</role>
+    </credit>
+    <credit>
+      <actor>Powell, Buzz</actor>
+      <role>Test Track Manager, NCAT</role>
+    </credit>
+    <credit>
+      <actor>Poyer, Jamie</actor>
+      <role>Himself - Production Miner, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Praed, Michael</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Pratt, James Norwood</actor>
+      <role>Author, 'New Tea Lover's Treasury'</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Joe</actor>
+      <role>Himself - Offshore Oil Industry Historian</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Joe</actor>
+      <role>Oil Historian, University of Houston</role>
+    </credit>
+    <credit>
+      <actor>Pratt, Joseph A.</actor>
+      <role>Himself - Historian, University of Houston</role>
+    </credit>
+    <credit>
+      <actor>Presley, Elvis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Prestbo, John</actor>
+      <role>Himself - Markets Editor, Wall Street Journal</role>
+    </credit>
+    <credit>
+      <actor>Pretzer, William S.</actor>
+      <role>Himself, Curator, Henry Ford Museum</role>
+    </credit>
+    <credit>
+      <actor>Pritchard, Ed</actor>
+      <role>Himself - Tackle Historian</role>
+    </credit>
+    <credit>
+      <actor>Prodracky, John</actor>
+      <role>Himself - Curator, NYPD Museum</role>
+    </credit>
+    <credit>
+      <actor>Provan, John</actor>
+      <role>Himself - Airship Historian</role>
+    </credit>
+    <credit>
+      <actor>Prudhomme, Don</actor>
+      <role>Himself - Driver</role>
+    </credit>
+    <credit>
+      <actor>Puckett, Allen</actor>
+      <role>Himself - Chairman &amp; CEO, Hughes Electronics 1976-1987</role>
+    </credit>
+    <credit>
+      <actor>Pullen Jr., Tom</actor>
+      <role>Himself - Ecologist, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Purdy, John M.</actor>
+      <role>Himself - Director, Patton Museum</role>
+    </credit>
+    <credit>
+      <actor>Quarstein, John V.</actor>
+      <role>Himself - Director, Virginia War Museum</role>
+    </credit>
+    <credit>
+      <actor>Raney, Bill</actor>
+      <role>Himself - President, West Virginia Coal Association</role>
+    </credit>
+    <credit>
+      <actor>Raphael, Max</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Raphael, Max</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Raphael, Max</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Rask, Mark</actor>
+      <role>Himself - Author, 'American Autobahn'</role>
+    </credit>
+    <credit>
+      <actor>Ratner, Bill</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Reagan, Ronald (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Reck, Dick</actor>
+      <role>Himself - Arbon Equipment Corporation</role>
+    </credit>
+    <credit>
+      <actor>Reed, Dr. John C.</actor>
+      <role>CEO, Burnham Institute for Medical Research</role>
+    </credit>
+    <credit>
+      <actor>Reed, Phil (II)</actor>
+      <role>Director, Cabinet War Rooms Museum</role>
+    </credit>
+    <credit>
+      <actor>Reed, Robert C.</actor>
+      <role>Himself - Author, 'Train Wrecks'</role>
+    </credit>
+    <credit>
+      <actor>Reilly, Tom (IX)</actor>
+      <role>Himself - F-14 Program, Northrop Grumman</role>
+    </credit>
+    <credit>
+      <actor>Reis, Ed</actor>
+      <role>Himself - Executive Director, Westinghouse Museum</role>
+    </credit>
+    <credit>
+      <actor>Reno, Ted</actor>
+      <role>Vietnam Veteran</role>
+    </credit>
+    <credit>
+      <actor>Reuss, Martin</actor>
+      <role>Himself - Historian, U.S. Army Corps of Engineers</role>
+    </credit>
+    <credit>
+      <actor>Reutter, Mark</actor>
+      <role>Himself - Author, Sparrows Point: Making Steel</role>
+    </credit>
+    <credit>
+      <actor>Reyburn, Wallace</actor>
+      <role>Himself - Author, "The Story of Thomas Crapper"</role>
+    </credit>
+    <credit>
+      <actor>Rhoades, John</actor>
+      <role>Himself - Director, Bradbury Science Museum</role>
+    </credit>
+    <credit>
+      <actor>Rhodes Jr., Frank B.</actor>
+      <role>Great-Grandson of Walter P. Chrysler</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Cecil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rhodes, Richard (II)</actor>
+      <role>Himself - Author</role>
+    </credit>
+    <credit>
+      <actor>Richards, Jason (IX)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Richards, Paul (XIII)</actor>
+      <role>Himself - Editor, Commercial Carrier Journal</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Kevin Michael</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Richardson, Wilbur</actor>
+      <role>Himself - Ball Turret Gunner, 94th Bomb Group</role>
+    </credit>
+    <credit>
+      <actor>Ricks, Kenny</actor>
+      <role>Maintenance Superintendent, Mosaic</role>
+    </credit>
+    <credit>
+      <actor>Rigdon, Eddie</actor>
+      <role>Operations, Metropolitan Water District</role>
+    </credit>
+    <credit>
+      <actor>Riley, Robert (IV)</actor>
+      <role>Himself - President, Riley &amp; Scott</role>
+    </credit>
+    <credit>
+      <actor>Rivera, Joseph</actor>
+      <role>Science Director, Specialty Coffee Association</role>
+    </credit>
+    <credit>
+      <actor>Robb, David (I)</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Robinson, Marvin</actor>
+      <role>Himself - President: RTL Robinson Enterprises</role>
+    </credit>
+    <credit>
+      <actor>Roche, Kevin (II)</actor>
+      <role>Himself - Engineer and Architect</role>
+    </credit>
+    <credit>
+      <actor>Roche, Winston</actor>
+      <role>Himself - WWI Veteran</role>
+    </credit>
+    <credit>
+      <actor>Rockefeller, John D.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rodengen, Jeffrey</actor>
+      <role>Himself - Author, "The Legend of Gulfstream"</role>
+    </credit>
+    <credit>
+      <actor>Rodengen, Jeffrey</actor>
+      <role>Himself - Maritime Expert</role>
+    </credit>
+    <credit>
+      <actor>Roebling, Kristian</actor>
+      <role>Himself - Washington Roebling Descendant</role>
+    </credit>
+    <credit>
+      <actor>Rohrer, Kevin</actor>
+      <role>Himself - Spokesman, Nevada Test Site</role>
+    </credit>
+    <credit>
+      <actor>Rolf, Rudi</actor>
+      <role>Himself - Author, "The Atlantic Wall"</role>
+    </credit>
+    <credit>
+      <actor>Romano, Dennis</actor>
+      <role>Himself - F-14 Aircrewman, Grumman Corporation</role>
+    </credit>
+    <credit>
+      <actor>Romero, Van</actor>
+      <role>Professor of Physics, New Mexico Tech</role>
+    </credit>
+    <credit>
+      <actor>Rommel, Manfred</actor>
+      <role>Himself, Historian</role>
+    </credit>
+    <credit>
+      <actor>Ronay, J. Christopher</actor>
+      <role>President, institute of Makers of Explosives</role>
+    </credit>
+    <credit>
+      <actor>Ronney, Paul D.</actor>
+      <role>Himself - University of Southern California</role>
+    </credit>
+    <credit>
+      <actor>Rooney, Andrew</actor>
+      <role>Himself - Reporter, 'Stars and Stripes'</role>
+    </credit>
+    <credit>
+      <actor>Roosevelt, Franklin Delano</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Roosevelt, Theodore</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rosen, Harold</actor>
+      <role>Himself - Satellite Inventor, Hughes Electronics</role>
+    </credit>
+    <credit>
+      <actor>Rosenberg, Julius</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rosenbusch, Brandt</actor>
+      <role>Himself - Administrator, Walter P. Chrysler Museum</role>
+    </credit>
+    <credit>
+      <actor>Rosley, Albert</actor>
+      <role>Torpedoman</role>
+    </credit>
+    <credit>
+      <actor>Ross, Dave (VI)</actor>
+      <role>Pacement segment Manager, T-REX</role>
+    </credit>
+    <credit>
+      <actor>Roth, Matthew (II)</actor>
+      <role>Historian, Auto Club of Southern California</role>
+    </credit>
+    <credit>
+      <actor>Rotundo, Louis</actor>
+      <role>Himself - Author, 'Into The Unknown: The X-1 Story'</role>
+    </credit>
+    <credit>
+      <actor>Rubin, Lawrence A.</actor>
+      <role>Himself - Executive Secretary, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>Carbon-based lifeform</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>Guy Eating Hostess Cupcake</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>Guy eating mushroom</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>Guy using remote control at couch</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Rubinow, Alexander B.</actor>
+      <role>kid in archival Superman photo</role>
+    </credit>
+    <credit>
+      <actor>Ruf, Alois</actor>
+      <role>Himself - President, Ruf Automotive, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Runte, Dan</actor>
+      <role>Himself - Driver, Bigfoot</role>
+    </credit>
+    <credit>
+      <actor>Runyon, Marvin</actor>
+      <role>Himself - Postmaster General, U.S. Postal Service</role>
+    </credit>
+    <credit>
+      <actor>Russell, Chester</actor>
+      <role>35th Regiment</role>
+    </credit>
+    <credit>
+      <actor>Russell, James (XII)</actor>
+      <role>Himself - University of British Columbia</role>
+    </credit>
+    <credit>
+      <actor>Russell, Tony (V)</actor>
+      <role>Himself - O'Gara-Hess &amp; Eisenhardt</role>
+    </credit>
+    <credit>
+      <actor>Rutherford, Johnny (I)</actor>
+      <role>Himself, Driver</role>
+    </credit>
+    <credit>
+      <actor>Ryba, Ted</actor>
+      <role>Himself - Site Project Manager, TOCDF</role>
+    </credit>
+    <credit>
+      <actor>Sabbah, Mohamed Ahmed</actor>
+      <role>Himself - Director of Desert Development, Cairo</role>
+    </credit>
+    <credit>
+      <actor>Salama, Sammy</actor>
+      <role>Himself - Center for Nonproliferation Studies</role>
+    </credit>
+    <credit>
+      <actor>Salata Jr., Joseph</actor>
+      <role>Himself - Air Force Pilot</role>
+    </credit>
+    <credit>
+      <actor>Saleen, Steve</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Salk, Jonas</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sami, Yahya Rahmat</actor>
+      <role>Himself - Chairman, University of California, Los Angeles</role>
+    </credit>
+    <credit>
+      <actor>Sanchez, Reuben (I)</actor>
+      <role>Senior Technician, Dresser Wayne</role>
+    </credit>
+    <credit>
+      <actor>Sanchis, Frank</actor>
+      <role>Executive Director, Municipal Art Society of New York</role>
+    </credit>
+    <credit>
+      <actor>Sanderson, Douglas (I)</actor>
+      <role>Himself - Tunnel Rat, 3 Field Troop Royal Austrailian Eng.</role>
+    </credit>
+    <credit>
+      <actor>Santoro, Daniel</actor>
+      <role>Himself - University of Pittsburgh</role>
+    </credit>
+    <credit>
+      <actor>Saperstein, Harlan</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Saperstein, Harlan</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Schaffenburg, Karl</actor>
+      <role>Himself - Ranger, Independence National Historical Park</role>
+    </credit>
+    <credit>
+      <actor>Scharf, Heino</actor>
+      <role>Director of Product Assurance, Volvo Truck</role>
+    </credit>
+    <credit>
+      <actor>Schatz, Arthur</actor>
+      <role>Himself - Metal Storm, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Scheftel, Jeff</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schermerhorn, William (I)</actor>
+      <role>Himself - Coordinator, Hoover Dam Guide Services</role>
+    </credit>
+    <credit>
+      <actor>Schettini, Frank (II)</actor>
+      <role>Himself - Owner and Driver, Monster Jerky</role>
+    </credit>
+    <credit>
+      <actor>Schieppati, Frank J.</actor>
+      <role>Himself - Archaeologist</role>
+    </credit>
+    <credit>
+      <actor>Schingo, Gianluca</actor>
+      <role>Himself - Archaeologist</role>
+    </credit>
+    <credit>
+      <actor>Schmaltz, Mark</actor>
+      <role>Himself - President, Spirit Aviation</role>
+    </credit>
+    <credit>
+      <actor>Schmidt, Martin (VII)</actor>
+      <role>Himself - Massachusetts Institute of Technology</role>
+    </credit>
+    <credit>
+      <actor>Schoneberger, Bill</actor>
+      <role>Himself - Aviation Historian/Writer</role>
+    </credit>
+    <credit>
+      <actor>Schooler, Gerry (III)</actor>
+      <role>Himself - Tunnel Rat, 25th Infantry Div.</role>
+    </credit>
+    <credit>
+      <actor>Schreier, Philip</actor>
+      <role>Himself - Curator, National Firearms Museum</role>
+    </credit>
+    <credit>
+      <actor>Schreier, Philip</actor>
+      <role>Himself - National Firearms Museum</role>
+    </credit>
+    <credit>
+      <actor>Schultz, Howard (IV)</actor>
+      <role>Himself - Chairman, Starbucks Coffee Co.</role>
+    </credit>
+    <credit>
+      <actor>Schuman, Stuart</actor>
+      <role>Himself - Coal Miner, Beckley Exhibition Coal Mine</role>
+    </credit>
+    <credit>
+      <actor>Schwartzkopf, Donald</actor>
+      <role>Himself/Team Leader/Yorkville Police Dept.</role>
+    </credit>
+    <credit>
+      <actor>Schwarzenegger, Arnold</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schwarzkopf, Norman</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Scott, Dan (V)</actor>
+      <role>Himself - Dep. Dir. of Intelligence, US Air Force</role>
+    </credit>
+    <credit>
+      <actor>Seeds, Nathaniel</actor>
+      <role>Himself - Director, Terminal Operations, APL Limited</role>
+    </credit>
+    <credit>
+      <actor>Seibt, Wolfgang</actor>
+      <role>Himself - German Alpine Infantryman</role>
+    </credit>
+    <credit>
+      <actor>Sexton, Ted (II)</actor>
+      <role>Himself - Director of Operations, San Diego International Airport</role>
+    </credit>
+    <credit>
+      <actor>Seymour, Kyle</actor>
+      <role>Himself - President, Cincinnati Machine</role>
+    </credit>
+    <credit>
+      <actor>Shaff, Howard</actor>
+      <role>Himself - Co-Author, "Six Wars at a Time"</role>
+    </credit>
+    <credit>
+      <actor>Shallot, Todd</actor>
+      <role>Himself - Author, 'Structures in the Stream'</role>
+    </credit>
+    <credit>
+      <actor>Sharkey, Marty</actor>
+      <role>Marketing Manager, Nescafe</role>
+    </credit>
+    <credit>
+      <actor>Sharp, Clay</actor>
+      <role>Himself - Assistant Manager, The Causeway Commission (GNOEC)</role>
+    </credit>
+    <credit>
+      <actor>Sharpe, Jim (I)</actor>
+      <role>Himself - Chief of Media, U.S. Transportation Cmd.</role>
+    </credit>
+    <credit>
+      <actor>Shaver, Paul (II)</actor>
+      <role>Himself - Architect, Illinois Institute of Technology</role>
+    </credit>
+    <credit>
+      <actor>Shaw, Jonathan (II)</actor>
+      <role>Himself - Communications Director, Carrier Corp.</role>
+    </credit>
+    <credit>
+      <actor>Shelby, Carroll</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sheldrake, Mike</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sheldrake, Mike</actor>
+      <role>Roastmaster, Polly's Gourmet Coffee</role>
+    </credit>
+    <credit>
+      <actor>Shellman, Mike</actor>
+      <role>Oil Industry Historian</role>
+    </credit>
+    <credit>
+      <actor>Sherman, Greg (III)</actor>
+      <role>Himself - Marketing Director, European Gem Lab</role>
+    </credit>
+    <credit>
+      <actor>Shieber, Tom</actor>
+      <role>Curator, National Baseball Hall of Fame</role>
+    </credit>
+    <credit>
+      <actor>Shock, James R.</actor>
+      <role>Himself - Author, 'American Airship Bases &amp; Facilities'</role>
+    </credit>
+    <credit>
+      <actor>Shockley, William (III)</actor>
+      <role>Himself - co-inventor of the transistor</role>
+    </credit>
+    <credit>
+      <actor>Sieminski, Adam</actor>
+      <role>Himself - Oil Analyst</role>
+    </credit>
+    <credit>
+      <actor>Sigloch, Matt</actor>
+      <role>Staff Sergeant Matt Sigloch</role>
+    </credit>
+    <credit>
+      <actor>Sikorsky, Igor</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Simanaitis, Dennis</actor>
+      <role>Himself - 'Road &amp; Track' Magazine</role>
+    </credit>
+    <credit>
+      <actor>Simanaitis, Dennis</actor>
+      <role>Himself - Engineering Editor, Road &amp; Track Magazine</role>
+    </credit>
+    <credit>
+      <actor>Simonds, Vince</actor>
+      <role>Director of Engineering, Callaway Golf</role>
+    </credit>
+    <credit>
+      <actor>Skinner, Lynn</actor>
+      <role>Himself - Chief of Devices, Fort Gordon</role>
+    </credit>
+    <credit>
+      <actor>Sloan, Alfred P.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sloan, Charles L.</actor>
+      <role>Himself - Engineer, Lake Pontchartrain Causeway</role>
+    </credit>
+    <credit>
+      <actor>Smalley, Terry</actor>
+      <role>Himself - Manager, Crane Section, Port of Oakland</role>
+    </credit>
+    <credit>
+      <actor>Smart, Jeffery K.</actor>
+      <role>Himself - U.S. Army Command Historian, ECBC</role>
+    </credit>
+    <credit>
+      <actor>Smead, Stuart</actor>
+      <role>Himself - Dir. of Operations, US Army</role>
+    </credit>
+    <credit>
+      <actor>Smith, Gavin (IX)</actor>
+      <role>Himself - Ice Road Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>Smith, James (XVIII)</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Smith, James (XVIII)</actor>
+      <role>Patron</role>
+    </credit>
+    <credit>
+      <actor>Smith, Kevin (XXXVIII)</actor>
+      <role>Motor Trend Magazine Editor-In-Chief</role>
+    </credit>
+    <credit>
+      <actor>Smith, Merritt Roe</actor>
+      <role>Himself - Massachusetts Institute of Technology</role>
+    </credit>
+    <credit>
+      <actor>Soffa, W.A.</actor>
+      <role>Himself - University of Pittsburgh</role>
+    </credit>
+    <credit>
+      <actor>Souza, Jim</actor>
+      <role>Himself - President, Pyro Spectaculars</role>
+    </credit>
+    <credit>
+      <actor>Spicer, Dag</actor>
+      <role>Himself - Senior Curator, Computer History Museum</role>
+    </credit>
+    <credit>
+      <actor>Spotswood, Ken</actor>
+      <role>Freelance Writer</role>
+    </credit>
+    <credit>
+      <actor>Springer, Bob</actor>
+      <role>Himself - Loader Operator, Cargill</role>
+    </credit>
+    <credit>
+      <actor>Standiford, Les</actor>
+      <role>Himself - Author, 'Last Train to Paradise'</role>
+    </credit>
+    <credit>
+      <actor>Stanley, Bill (IV)</actor>
+      <role>The Field museum, Mammals Division</role>
+    </credit>
+    <credit>
+      <actor>Stanley, Howard (II)</actor>
+      <role>Himself - Warehouse Superintendent, Albertsons</role>
+    </credit>
+    <credit>
+      <actor>Starr, Douglas (II)</actor>
+      <role>Sonarman</role>
+    </credit>
+    <credit>
+      <actor>Staten, Vince</actor>
+      <role>Author, 'Did Monkeys Invent the Monkey Wrench?'</role>
+    </credit>
+    <credit>
+      <actor>Staten, Vince</actor>
+      <role>Himself - Author, "Did Monkeys Invent the Monkey Wrench?"</role>
+    </credit>
+    <credit>
+      <actor>Staten, Vince</actor>
+      <role>Himself - Author, Did Monkeys Invent The Monkey Wrench?</role>
+    </credit>
+    <credit>
+      <actor>Stebner, Greg</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Stechman, Carl</actor>
+      <role>Himself - Chief Scientist, Kaiser-Marquardt</role>
+    </credit>
+    <credit>
+      <actor>Steele, James B.</actor>
+      <role>Himself - Co-author, 'Howard Hughes, His Life and Madness'</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Art</actor>
+      <role>Chairman - Failure Investigation Board</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Parks</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stephenson, Parks</actor>
+      <role>Himself, Military Communications Historian</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Ivan 'Ironman'</actor>
+      <role>Himself - Toyota Motorsports</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Richard W.</actor>
+      <role>Himself - U.S. Army Center of Military History</role>
+    </credit>
+    <credit>
+      <actor>Stilwell, J.C.</actor>
+      <role>Himself - Ironworker, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Stone, Edward (I)</actor>
+      <role>Director - Jet Propulsion Laboratory</role>
+    </credit>
+    <credit>
+      <actor>Stoner, Eugene</actor>
+      <role>Designer, M-16 Rifle</role>
+    </credit>
+    <credit>
+      <actor>Storer, Richard</actor>
+      <role>Himself - Infrastructure Mgr., Eurotunnel, UK Terminal</role>
+    </credit>
+    <credit>
+      <actor>Strahan, Jerry</actor>
+      <role>Himself - Author, 'Andrew Higgins &amp; the Boats That Won WWII'</role>
+    </credit>
+    <credit>
+      <actor>Stratemeier, Carl</actor>
+      <role>Himself - President, Airosol Co., Inc.</role>
+    </credit>
+    <credit>
+      <actor>Stratton Jr., Frederick P.</actor>
+      <role>CEO, Briggs &amp; Stratton Corporation</role>
+    </credit>
+    <credit>
+      <actor>Stravitz, David</actor>
+      <role>Author, 'The Chrysler Building'</role>
+    </credit>
+    <credit>
+      <actor>Striano, Bob</actor>
+      <role>Himself, President &amp; CEO, Konica Photo Imaging</role>
+    </credit>
+    <credit>
+      <actor>Strong, Herbert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Strong, Steven (II)</actor>
+      <role>Himself - President, Solar Design Associates</role>
+    </credit>
+    <credit>
+      <actor>Sulzberger, Arthur</actor>
+      <role>Himself - Chairman, New York Times Company</role>
+    </credit>
+    <credit>
+      <actor>Summerlot, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sumrall, Robert</actor>
+      <role>Himself - Curator of Ship Models, U.S. Naval Academy</role>
+    </credit>
+    <credit>
+      <actor>Sutro, Adolph</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Swan, James A.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Swanson, Rick</actor>
+      <role>Himself - Owner and Driver, Obsession</role>
+    </credit>
+    <credit>
+      <actor>Swantek, John</actor>
+      <role>Himself - Director, Watervliet Arsenal Museum</role>
+    </credit>
+    <credit>
+      <actor>Sweeney, James (V)</actor>
+      <role>Himself - Ironworker, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Sweeney, Robert J.</actor>
+      <role>Himself - Executive Secretary, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Swinford, Roger</actor>
+      <role>Himself - Senior Analyst, High Value Target</role>
+    </credit>
+    <credit>
+      <actor>Takeda, Hiroshi (III)</actor>
+      <role>Himself - Hiroshima Survivor</role>
+    </credit>
+    <credit>
+      <actor>Talbert Jr., Roy</actor>
+      <role>Himself - Historian, Coastal Carolina University</role>
+    </credit>
+    <credit>
+      <actor>Tallman, Edward L.</actor>
+      <role>Himself - Ironworker, Mackinac Bridge</role>
+    </credit>
+    <credit>
+      <actor>Teitloff, Randy</actor>
+      <role>Vice President of Research &amp; Development, Ebonite International</role>
+    </credit>
+    <credit>
+      <actor>Tejada, Art</actor>
+      <role>Himself - Tunnel Rat, 25th Infantry Div.</role>
+    </credit>
+    <credit>
+      <actor>Teller, Edward</actor>
+      <role>Himself - Physicist</role>
+    </credit>
+    <credit>
+      <actor>Tellock, Glen</actor>
+      <role>Himself - President &amp; General Manager, Manitowoc Crane Group</role>
+    </credit>
+    <credit>
+      <actor>Tesla, Nikola</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Then, Günther</actor>
+      <role>Himself - Traffic Officer, Highway Patrol, Holzkirchen</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Frank (XI)</actor>
+      <role>Himself - International Towing &amp; Recovery Museum</role>
+    </credit>
+    <credit>
+      <actor>Thordarson, Siggi</actor>
+      <role>Quality Manager, Iceland Spring, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Tibbets, Paul</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tikalsky, Paul (I)</actor>
+      <role>Himself - Pennsylvania State University</role>
+    </credit>
+    <credit>
+      <actor>Tiller, Michael</actor>
+      <role>Himself - Continuous Miner Operator, Camp Creek Mine</role>
+    </credit>
+    <credit>
+      <actor>Timm, David (II)</actor>
+      <role>Civil Engineering, Auburn University</role>
+    </credit>
+    <credit>
+      <actor>Toms, Ron</actor>
+      <role>Himself - Founder &amp; CEO, Trebuchet.com</role>
+    </credit>
+    <credit>
+      <actor>Trade, Bruce</actor>
+      <role>Himself - President, Madcon Corporation</role>
+    </credit>
+    <credit>
+      <actor>Tricker, Mike</actor>
+      <role>Himself - Training &amp; Relations Manager, Pepperball Technologies, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Truman, Harry S.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tuppen, James</actor>
+      <role>Boots &amp; Coots International Well Control</role>
+    </credit>
+    <credit>
+      <actor>Twain, Mark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Uccellini, Louis</actor>
+      <role>Himself - Director, National Centers for Environmental Protection</role>
+    </credit>
+    <credit>
+      <actor>Ukra, Mark</actor>
+      <role>Owner, Tea Garden and Herbal Emporium</role>
+    </credit>
+    <credit>
+      <actor>Ulanski, Stan</actor>
+      <role>Himself - Professor of Geology, James Madison University</role>
+    </credit>
+    <credit>
+      <actor>Unser Jr., Al</actor>
+      <role>Himself - Driver</role>
+    </credit>
+    <credit>
+      <actor>Ussery, Gene</actor>
+      <role>Himself - Plant Manager, Georgia Power</role>
+    </credit>
+    <credit>
+      <actor>Vaeth, J. Gordon</actor>
+      <role>Himself - NOAA, Ret., Satellite Op. Director</role>
+    </credit>
+    <credit>
+      <actor>Van Arsdell, Brent</actor>
+      <role>Himself - President, American Stirling Company</role>
+    </credit>
+    <credit>
+      <actor>Van Damme, Richard</actor>
+      <role>Logger</role>
+    </credit>
+    <credit>
+      <actor>Van Laak, Jim</actor>
+      <role>Himself - International Space Station Program</role>
+    </credit>
+    <credit>
+      <actor>Van Quang, Le</actor>
+      <role>Himself - Dean of History, HCMC College of Social Sciences</role>
+    </credit>
+    <credit>
+      <actor>Venz, David</actor>
+      <role>Himself - Airbus Industrie</role>
+    </credit>
+    <credit>
+      <actor>Vickery, Thurston</actor>
+      <role>Himself - Manager, United States Alliance</role>
+    </credit>
+    <credit>
+      <actor>Vila, Bob (I)</actor>
+      <role>Himself - Host, Bob Vila's Home Again</role>
+    </credit>
+    <credit>
+      <actor>Vogel, Michael N.</actor>
+      <role>Himself - Buffalo Historian</role>
+    </credit>
+    <credit>
+      <actor>Von Wiesenberger, Arthur</actor>
+      <role>Bottled Water Expert</role>
+    </credit>
+    <credit>
+      <actor>Vuchic, Vukan R.</actor>
+      <role>Himself, Professor, University of Pennsylvania</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Jens-Christian</actor>
+      <role>Himself - Director, Millelbau-Dora Memorial and Museum Nordhausen</role>
+    </credit>
+    <credit>
+      <actor>Walker, James (XIV)</actor>
+      <role>Himself, Principal Scientist, SwRI</role>
+    </credit>
+    <credit>
+      <actor>Walters, Mark (III)</actor>
+      <role>Himself - Senior Designer, Daimler Chrysler</role>
+    </credit>
+    <credit>
+      <actor>Warby, Ken</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wargo, Sean</actor>
+      <role>Himself - Sr. Analyst, Consumer Electronics Assoc.</role>
+    </credit>
+    <credit>
+      <actor>Warner, Larry (III)</actor>
+      <role>Project Director, T-REX</role>
+    </credit>
+    <credit>
+      <actor>Warwick, Kevin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Watkins, T.H.</actor>
+      <role>Himself, The Wilderness Society</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Beau</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Weber, Jack (II)</actor>
+      <role>Himself - Winter Road Safety Supervisor</role>
+    </credit>
+    <credit>
+      <actor>Wehan, James</actor>
+      <role>Tall Ship Captain, Ocean Institute</role>
+    </credit>
+    <credit>
+      <actor>Weidner, Bill</actor>
+      <role>Himself - President, Las Vegas Sands, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Weiler, Edward</actor>
+      <role>Himself - Hubble Space Telescope Chief Specialist</role>
+    </credit>
+    <credit>
+      <actor>Weinberg, Alvin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Weiner, David (IV)</actor>
+      <role>Himself - Plumbing-Heating-Cooling Information Bureau</role>
+    </credit>
+    <credit>
+      <actor>Weinstein, Mel</actor>
+      <role>Himself - Former Employee, J&amp;L Steel/LTV Steel</role>
+    </credit>
+    <credit>
+      <actor>Welser III, Bill</actor>
+      <role>Himself - Director of Operations and Logistics (J-3/4)</role>
+    </credit>
+    <credit>
+      <actor>Wenk, Dan</actor>
+      <role>Himself, Superintendent, Mount Rushmore</role>
+    </credit>
+    <credit>
+      <actor>Wentorf, Robert</actor>
+      <role>Himself - Chemist</role>
+    </credit>
+    <credit>
+      <actor>West, Jonathan (I)</actor>
+      <role>Himself - Director of Photography, 'Charmed'</role>
+    </credit>
+    <credit>
+      <actor>Westrick, Aaron J.</actor>
+      <role>Himself, Second Chance Body Armor</role>
+    </credit>
+    <credit>
+      <actor>Wheeler, Humpy</actor>
+      <role>Himself - President, Speedway Motor Sports</role>
+    </credit>
+    <credit>
+      <actor>Wheeler, Winslow</actor>
+      <role>Himself - Senior Fellow, Center for Defense Info.</role>
+    </credit>
+    <credit>
+      <actor>Whitney, Richard (IV)</actor>
+      <role>Himself - President of the NYSE</role>
+    </credit>
+    <credit>
+      <actor>Wicklund, Doug</actor>
+      <role>Himself - National Firearms Museum</role>
+    </credit>
+    <credit>
+      <actor>Wiesner, William</actor>
+      <role>Himself - Test Engineer, Aberdeen Test Center</role>
+    </credit>
+    <credit>
+      <actor>Wilber, Bob (II)</actor>
+      <role>Himself - Historian, Moffett Field Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Wilcox, William J.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wilkinson, Jerry</actor>
+      <role>Himself - President, Historical Preservation Society, Upper Keys</role>
+    </credit>
+    <credit>
+      <actor>Williams, Dwight (VIII)</actor>
+      <role>President, Williams Fire &amp; Hazard Control</role>
+    </credit>
+    <credit>
+      <actor>Williams, Jay (XV)</actor>
+      <role>Quality Manager, HEAD/Penn Racquet Sports</role>
+    </credit>
+    <credit>
+      <actor>Willing, Glenn</actor>
+      <role>Director of Sales, MTD Products</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Courtney B.</actor>
+      <role>Himself - Executive Director, B&amp;O Railroad Museum</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Daniel H.</actor>
+      <role>Himself - Roboticist</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Woodrow (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wiltison, Richard L.</actor>
+      <role>Himself - Historian, ECBC</role>
+    </credit>
+    <credit>
+      <actor>Wines, Roger</actor>
+      <role>Himself - Professor of Modern German History, Fordham University</role>
+    </credit>
+    <credit>
+      <actor>Wolf, Paul (II)</actor>
+      <role>Himself - Engineer Manager, PETCO Park</role>
+    </credit>
+    <credit>
+      <actor>Wolfe, Chris (II)</actor>
+      <role>Manager, Granite Construction, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Wolfe, Frank</actor>
+      <role>Himself - President, Rube Goldberg, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Wood, Byron</actor>
+      <role>Vice President and General Manager, Rocketdyne</role>
+    </credit>
+    <credit>
+      <actor>Woodruff, Bob</actor>
+      <role>Host</role>
+    </credit>
+    <credit>
+      <actor>Wooten, Les</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Wozniak, Steve</actor>
+      <role>Apple Computer Co-Founder</role>
+    </credit>
+    <credit>
+      <actor>Wozniak, Steve</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wright Jr., Robert K.</actor>
+      <role>Himself - U.S. Army Center of Military History</role>
+    </credit>
+    <credit>
+      <actor>Yager, Thomas J.</actor>
+      <role>Himself - Senior Engineer, NASA Langley Research Center</role>
+    </credit>
+    <credit>
+      <actor>Yagley, Mike</actor>
+      <role>Vice President, Golf Ball Management, Callaway Golf</role>
+    </credit>
+    <credit>
+      <actor>Yang, David (III)</actor>
+      <role>Himself - Public Relations Manager, Sony Electronics</role>
+    </credit>
+    <credit>
+      <actor>Yegul, Fikret</actor>
+      <role>Himself - University of California, Santa Barbara</role>
+    </credit>
+    <credit>
+      <actor>Yordy, Stephen W.</actor>
+      <role>Himself - Senior Project Manager, Sverdrup Civil, Inc</role>
+    </credit>
+    <credit>
+      <actor>Young, James D. (II)</actor>
+      <role>Himself - Chief Historian, Edwards Air Force Base Flight Test Center</role>
+    </credit>
+    <credit>
+      <actor>Young, Randy (V)</actor>
+      <role>Los Angeles Coastal Historian</role>
+    </credit>
+    <credit>
+      <actor>Zambelli Sr., George</actor>
+      <role>Himself - President, Zambelli Fireworks</role>
+    </credit>
+    <credit>
+      <actor>Zarfoss, Adam</actor>
+      <role>Himself - Paladin Program Director, United Defense</role>
+    </credit>
+    <credit>
+      <actor>Zaytchuk, Russ</actor>
+      <role>Himself - Medical Research &amp; Material Command, U.S. Army</role>
+    </credit>
+    <credit>
+      <actor>Ziegert, David</actor>
+      <role>Plant Manager, Celestial Seasonings</role>
+    </credit>
+    <credit>
+      <actor>Zimmaro, Charles</actor>
+      <role>Author and Historian</role>
+    </credit>
+    <credit>
+      <actor>Zink, Russell</actor>
+      <role>Himself - Metal Storm, Inc.</role>
+    </credit>
+    <credit>
+      <actor>Zitarosa, Rick</actor>
+      <role>Himself - President Navy Lakehurst Historical Society</role>
+    </credit>
+    <credit>
+      <actor>Zollo, Ronald F.</actor>
+      <role>Himself - Engineering Professor, University of Miami</role>
+    </credit>
+    <credit>
+      <actor>Zuby, David</actor>
+      <role>Himself - Insurance Institute for Highway Safety</role>
+    </credit>
+    <credit>
+      <actor>Zukowsky, John</actor>
+      <role>Himself - Art Institute of Chicago</role>
+    </credit>
+    <credit>
+      <actor>de Lewandowicz, Martin</actor>
+      <role>Himself - Archaeologist</role>
+    </credit>
+    <credit>
+      <actor>de la Bédoyère, Guy</actor>
+      <role>Himself - Author, "The Golden Age of Roman Britain"</role>
+    </credit>
+    <credit>
+      <actor>von Hagens, Gunther</actor>
+      <role>Plastinator, Body Worlds Exhibit</role>
+    </credit>
+    <credit>
+      <actor>von der Perton, Edward</actor>
+      <role>Himself, Historian</role>
+    </credit>
+  </cast>
+<plot>Over 300 episodes of Modern Marvels have been produced. Fast-paced, fun and informative, Modern Marvels is The History Channel's signature series focusing on historical technology. The series has focused (among other things) on wonders of construction (Erie Canal, the Pentagon, the Chesapeake Bay Bridge, the Big Dig), the machinery of war (nuclear submarines, tanks) as well as technology linked to the everyday (power tools, home tech, garbage).</plot><url>http://localhost:8983/solr/movie.html?374054</url></doc>

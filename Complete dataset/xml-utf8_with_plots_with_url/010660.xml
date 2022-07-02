@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="010660">
+  <docid>010660</docid>
+  <title>A Friendly Game</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Kadie, Ben</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>kids</keyword>
+    <keyword>tennis</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">21 July 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">2</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Kadie, Ben</director>
+  </directors>
+  <writers>
+    <writer>Kadie, Ben</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Forbes, Dylan</actor>
+      <role>Brother #1</role>
+    </credit>
+    <credit>
+      <actor>Kadie, Ben</actor>
+      <role>Brother #2</role>
+    </credit>
+    <credit>
+      <actor>Kadie, Carl</actor>
+      <role>Ball Target</role>
+    </credit>
+  </cast>
+<plot>What happens when two brothers escalate a one-point tennis match beyond "a friendly game"? With humor and Matrix-inspired special effects the filmmakers (age 12 and 13) answer this question.</plot><url>http://localhost:8983/solr/movie.html?010660</url></doc>

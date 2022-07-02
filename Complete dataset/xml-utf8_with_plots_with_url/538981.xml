@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="538981">
+  <docid>538981</docid>
+  <title>The Addams Family</title>
+  <year>1964</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Faris, Jim</editor>
+    <editor>Harrison, Joseph (I)</editor>
+    <editor>Hines, Douglas (I)</editor>
+    <editor>Shepard, Gerald</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Comedy</genre>
+    <genre>Horror</genre>
+  </genres>
+  <keywords>
+    <keyword>servant</keyword>
+    <keyword>father-son-relationship</keyword>
+    <keyword>horror-for-kids</keyword>
+    <keyword>election</keyword>
+    <keyword>uncle-nephew-relationship</keyword>
+    <keyword>mailbox</keyword>
+    <keyword>addams-family</keyword>
+    <keyword>con-man</keyword>
+    <keyword>card-playing</keyword>
+    <keyword>school-children</keyword>
+    <keyword>dragon</keyword>
+    <keyword>eviction</keyword>
+    <keyword>gorilla</keyword>
+    <keyword>politician</keyword>
+    <keyword>truant-officer</keyword>
+    <keyword>light-bulb</keyword>
+    <keyword>macabre</keyword>
+    <keyword>uncle-niece-relationship</keyword>
+    <keyword>cult-favorite</keyword>
+    <keyword>occult</keyword>
+    <keyword>mailman</keyword>
+    <keyword>noose</keyword>
+    <keyword>boy</keyword>
+    <keyword>jealousy</keyword>
+    <keyword>black-comedy</keyword>
+    <keyword>marriage</keyword>
+    <keyword>brother-sister-relationship</keyword>
+    <keyword>fairy-tale</keyword>
+    <keyword>father-daughter-relationship</keyword>
+    <keyword>mother-daughter-relationship</keyword>
+    <keyword>demolition</keyword>
+    <keyword>torture-device</keyword>
+    <keyword>badminton</keyword>
+    <keyword>cult-tv</keyword>
+    <keyword>uncle-fester</keyword>
+    <keyword>goth</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>butler</keyword>
+    <keyword>wealthy-family</keyword>
+    <keyword>family-relationships</keyword>
+    <keyword>husband-wife-relationship</keyword>
+    <keyword>dysfunctional-family</keyword>
+    <keyword>beatnik</keyword>
+    <keyword>haunted-house</keyword>
+    <keyword>disembodied-hand</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>sitcom</keyword>
+    <keyword>famous-opening-theme</keyword>
+    <keyword>school-principal</keyword>
+    <keyword>pending-eviction</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Singapore">G</certificate>
+    <certificate country="Australia">G</certificate>
+    <certificate country="Finland">K-7</certificate>
+    <certificate country="New Zealand">G</certificate>
+    <certificate country="USA">TV-G</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">29 November 1976</releasedate>
+    <releasedate country="UK">1 October 1965</releasedate>
+    <releasedate country="France">19 September 1987</releasedate>
+    <releasedate country="Italy">9 April 1965</releasedate>
+    <releasedate country="USA">20 November 1964</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cherry, Stanley Z.</director>
+    <director>Hiller, Arthur</director>
+    <director>Hopper, Jerry</director>
+    <director>Lanfield, Sidney</director>
+    <director>Lubin, Arthur</director>
+    <director>Miller, Sidney (I)</director>
+    <director>Perrin, Nat</director>
+    <director>Salkow, Sidney</director>
+    <director>Yarbrough, Jean</director>
+  </directors>
+  <producers>
+    <producer>Browar, Herbert W.</producer>
+  </producers>
+  <writers>
+    <writer>Beard, Cecil</writer>
+    <writer>Bradford, John (II)</writer>
+    <writer>Brewer, Jameson</writer>
+    <writer>Coons, Hannibal</writer>
+    <writer>Freedman, Bill</writer>
+    <writer>Gershman, Ben (I)</writer>
+    <writer>Gottler, Jerry</writer>
+    <writer>Haas, Charles F.</writer>
+    <writer>Henning, Carol</writer>
+    <writer>Jacobs, Seaman</writer>
+    <writer>James, Ed (II)</writer>
+    <writer>Kaplan, Marvin (II)</writer>
+    <writer>Leslie, Phil</writer>
+    <writer>Lutz, Bill (I)</writer>
+    <writer>Marion, Charles R.</writer>
+    <writer>Nibley, Sloan</writer>
+    <writer>Persons, Mitch</writer>
+    <writer>Quinn, Don (II)</writer>
+    <writer>Richards, Rick (IV)</writer>
+    <writer>Rifkin, Leo</writer>
+    <writer>Ring, Ed</writer>
+    <writer>Salkin, Leo</writer>
+    <writer>Schwartz, Elroy</writer>
+    <writer>Sharp, Henry (III)</writer>
+    <writer>Thompson, Gene (II)</writer>
+    <writer>Tuckahoe, Paul</writer>
+    <writer>Vogel, Joseph (I)</writer>
+    <writer>Winkler, Harry (I)</writer>
+    <writer>Wood, Preston (I)</writer>
+  </writers>
+  <composers>
+    <composer>Mizzy, Vic</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adams, Stanley (I)</actor>
+      <role>Ila Klarpe</role>
+    </credit>
+    <credit>
+      <actor>Allman, Elvia</actor>
+      <role>Princess Millicent von Schlepp</role>
+    </credit>
+    <credit>
+      <actor>Ames, Jimmy</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Anders, Merry</actor>
+      <role>Miss Carver</role>
+    </credit>
+    <credit>
+      <actor>Andre, Jill</actor>
+      <role>Isobel Dunbar</role>
+    </credit>
+    <credit>
+      <actor>Arroyo, Roger</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Arroyo, Roger</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Arvan, Jan</actor>
+      <role>Drashi Dumo</role>
+    </credit>
+    <credit>
+      <actor>Astin, John</actor>
+      <role>Gomez Addams</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Mayor Arthur J. Henson</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Mayor Arthur J. Henson</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Mayor Arthur J. Henson</role>
+    </credit>
+    <credit>
+      <actor>Baldwin, Bill (II)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Baldwin, Bill (II)</actor>
+      <role>TV Announcer</role>
+    </credit>
+    <credit>
+      <actor>Baldwin, Bill (II)</actor>
+      <role>Track Announcer</role>
+    </credit>
+    <credit>
+      <actor>Barrows, George</actor>
+      <role>Gorgo the Gorilla</role>
+    </credit>
+    <credit>
+      <actor>Barrows, George</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Barry, Jack (I)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Baylor, Hal</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Bergere, Lee</actor>
+      <role>Dr. Francis Chalon</role>
+    </credit>
+    <credit>
+      <actor>Blake, Madge</actor>
+      <role>Miss Comstock</role>
+    </credit>
+    <credit>
+      <actor>Blake, Marie</actor>
+      <role>Grandmama Addams</role>
+    </credit>
+    <credit>
+      <actor>Blake, Marie</actor>
+      <role>Grandmama Addams</role>
+    </credit>
+    <credit>
+      <actor>Blake, Marie</actor>
+      <role>Grandmama Addams</role>
+    </credit>
+    <credit>
+      <actor>Blake, Marie</actor>
+      <role>Grandmama Addams</role>
+    </credit>
+    <credit>
+      <actor>Blake, Marie</actor>
+      <role>Grandmama Addams</role>
+    </credit>
+    <credit>
+      <actor>Bliss, Lela</actor>
+      <role>Mrs. Arlene Saunders</role>
+    </credit>
+    <credit>
+      <actor>Bonerz, Peter</actor>
+      <role>Mr. Boswell</role>
+    </credit>
+    <credit>
+      <actor>Bonney, Gail</actor>
+      <role>Police Woman</role>
+    </credit>
+    <credit>
+      <actor>Bremen, Leonard</actor>
+      <role>1st Moving Man</role>
+    </credit>
+    <credit>
+      <actor>Bremen, Leonard</actor>
+      <role>1st Workman</role>
+    </credit>
+    <credit>
+      <actor>Bremen, Leonard</actor>
+      <role>Cab Driver</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Barry (I)</actor>
+      <role>Mr. Benson</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Peter (I)</actor>
+      <role>Hubert Peterson</role>
+    </credit>
+    <credit>
+      <actor>Brown, Pat (I)</actor>
+      <role>Mrs. Bennett</role>
+    </credit>
+    <credit>
+      <actor>Bruck, Bella</actor>
+      <role>Maria The Duenna</role>
+    </credit>
+    <credit>
+      <actor>Byron, Carol</actor>
+      <role>Hilliard's Secretary</role>
+    </credit>
+    <credit>
+      <actor>Cabot, Ceil</actor>
+      <role>2nd Woman</role>
+    </credit>
+    <credit>
+      <actor>Carson, Robert (I)</actor>
+      <role>Mr. Glenville</role>
+    </credit>
+    <credit>
+      <actor>Caruso, Anthony (I)</actor>
+      <role>Don Xavier</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch / Thing</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch/Thing</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch/Thing</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch/Thing</role>
+    </credit>
+    <credit>
+      <actor>Cassidy, Ted</actor>
+      <role>Lurch/Thing</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Pattie</actor>
+      <role>Mildred</role>
+    </credit>
+    <credit>
+      <actor>Cisar, George</actor>
+      <role>Montrose</role>
+    </credit>
+    <credit>
+      <actor>Clark, Fred (I)</actor>
+      <role>Mr. Henry Courtney</role>
+    </credit>
+    <credit>
+      <actor>Collins, Jack (IV)</actor>
+      <role>Dr. Bird</role>
+    </credit>
+    <credit>
+      <actor>Coogan, Jackie</actor>
+      <role>Uncle Fester Frump</role>
+    </credit>
+    <credit>
+      <actor>Coogan, Jackie</actor>
+      <role>Uncle Fester Frump</role>
+    </credit>
+    <credit>
+      <actor>Coogan, Jackie</actor>
+      <role>Uncle Fester Frump</role>
+    </credit>
+    <credit>
+      <actor>Corby, Ellen</actor>
+      <role>Mother Lurch</role>
+    </credit>
+    <credit>
+      <actor>Cowl, Richard</actor>
+      <role>Insurance Salesman</role>
+    </credit>
+    <credit>
+      <actor>Cross, Jimmy (I)</actor>
+      <role>Bennie</role>
+    </credit>
+    <credit>
+      <actor>Cross, Jimmy (I)</actor>
+      <role>Fred Walters</role>
+    </credit>
+    <credit>
+      <actor>Cross, Jimmy (I)</actor>
+      <role>Mr. Gilbert</role>
+    </credit>
+    <credit>
+      <actor>D'Andrea, Tom</actor>
+      <role>Driving Examiner</role>
+    </credit>
+    <credit>
+      <actor>Darro, Frankie</actor>
+      <role>Delivery Boy</role>
+    </credit>
+    <credit>
+      <actor>Deacon, Richard (I)</actor>
+      <role>Mortimer Phelps</role>
+    </credit>
+    <credit>
+      <actor>Dix, Joanna</actor>
+      <role>Susie</role>
+    </credit>
+    <credit>
+      <actor>Donnell, Jeff</actor>
+      <role>Eleanor Digby</role>
+    </credit>
+    <credit>
+      <actor>Downs, Frederic</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Evans, Douglas</actor>
+      <role>Sam Derrick</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Tommy</actor>
+      <role>Sam Diamond</role>
+    </credit>
+    <credit>
+      <actor>Flavin, James</actor>
+      <role>Lt. James Poston</role>
+    </credit>
+    <credit>
+      <actor>Foster, Donald (I)</actor>
+      <role>Mr. Clayton</role>
+    </credit>
+    <credit>
+      <actor>Foulger, Byron</actor>
+      <role>Mr. Oscar Belmont</role>
+    </credit>
+    <credit>
+      <actor>Fox, John J. (I)</actor>
+      <role>Man at Drink Stand</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Elisabeth</actor>
+      <role>Madelyn Smith</role>
+    </credit>
+    <credit>
+      <actor>Frome, Milton</actor>
+      <role>Mr. Blooker, Stockbroker</role>
+    </credit>
+    <credit>
+      <actor>Galvin, Ray</actor>
+      <role>2nd Moving Man</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Lauren (I)</actor>
+      <role>Dr. Milford</role>
+    </credit>
+    <credit>
+      <actor>Goodman, Lee (I)</actor>
+      <role>Charles P. Harvey</role>
+    </credit>
+    <credit>
+      <actor>Greene, Bart</actor>
+      <role>2nd Workman</role>
+    </credit>
+    <credit>
+      <actor>Gregg, Virginia</actor>
+      <role>Mrs. Courtney</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Margaret</actor>
+      <role>Granny Hester Frump</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Margaret</actor>
+      <role>Granny Hester Frump</role>
+    </credit>
+    <credit>
+      <actor>Hart, John (I)</actor>
+      <role>Scotty</role>
+    </credit>
+    <credit>
+      <actor>Henry, Thomas Browne</actor>
+      <role>Mr. Jennings</role>
+    </credit>
+    <credit>
+      <actor>Herbert, Tim (I)</actor>
+      <role>Benny the Bookie</role>
+    </credit>
+    <credit>
+      <actor>Herbert, Tim (I)</actor>
+      <role>Mr. Hinckley</role>
+    </credit>
+    <credit>
+      <actor>Hole, Jonathan</actor>
+      <role>Prof. Simms</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Marty</role>
+    </credit>
+    <credit>
+      <actor>Ingels, Marty (I)</actor>
+      <role>Dr. Marvin P. Gunderson</role>
+    </credit>
+    <credit>
+      <actor>Jellison, Bob</actor>
+      <role>Henry Sandhurst</role>
+    </credit>
+    <credit>
+      <actor>Jergens, Diane</actor>
+      <role>Trivia</role>
+    </credit>
+    <credit>
+      <actor>Jones, Carolyn (I)</actor>
+      <role>Morticia Frump Addams</role>
+    </credit>
+    <credit>
+      <actor>Jones, Carolyn (I)</actor>
+      <role>Morticia Frump Addams/Lady Fingers</role>
+    </credit>
+    <credit>
+      <actor>Jones, Carolyn (I)</actor>
+      <role>Morticia Frump Addams/Ophelia Addams</role>
+    </credit>
+    <credit>
+      <actor>Jones, Carolyn (I)</actor>
+      <role>Morticia Frump Addams/Ophelia Frump</role>
+    </credit>
+    <credit>
+      <actor>Joslyn, Allyn</actor>
+      <role>Sam L. Hilliard</role>
+    </credit>
+    <credit>
+      <actor>Joslyn, Allyn</actor>
+      <role>Sam L. Hilliard</role>
+    </credit>
+    <credit>
+      <actor>Keene, William</actor>
+      <role>Dr. Motley</role>
+    </credit>
+    <credit>
+      <actor>Kelley, Barry (I)</actor>
+      <role>James Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Kelley, Barry (I)</actor>
+      <role>Rockland Cartwright II</role>
+    </credit>
+    <credit>
+      <actor>Kellogg, Ray (II)</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Kellogg, Ray (II)</actor>
+      <role>Officer Johnson</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Bebe</actor>
+      <role>Secretary</role>
+    </credit>
+    <credit>
+      <actor>LaLanne, Jack</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, John (I)</actor>
+      <role>Jason - Truck Driver</role>
+    </credit>
+    <credit>
+      <actor>LeMond, Bob</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>LeMond, Bob</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Leavitt, Norman</actor>
+      <role>Mr. Conkey, Plumber</role>
+    </credit>
+    <credit>
+      <actor>Leeds, Peter</actor>
+      <role>Oscar Webber</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lisa</actor>
+      <role>Wednesday Addams</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lisa</actor>
+      <role>Wednesday Addams</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lisa</actor>
+      <role>Wednesday Addams</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lisa</actor>
+      <role>Wednesday Addams</role>
+    </credit>
+    <credit>
+      <actor>Loring, Lisa</actor>
+      <role>Wednesday Addams</role>
+    </credit>
+    <credit>
+      <actor>Lowell, Tom (I)</actor>
+      <role>Rockland 'Rocky' Cartwright III</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Loyal T.</actor>
+      <role>Hunter</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Loyal T.</actor>
+      <role>Jungle Doctor</role>
+    </credit>
+    <credit>
+      <actor>Lucas, Loyal T.</actor>
+      <role>Motel Proprietor</role>
+    </credit>
+    <credit>
+      <actor>Magro, Anthony</actor>
+      <role>Voice of Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Marr, Eddie</actor>
+      <role>Mr. Wentworth</role>
+    </credit>
+    <credit>
+      <actor>Martell, Gregg</actor>
+      <role>Mission Santa Claus</role>
+    </credit>
+    <credit>
+      <actor>Masters, Natalie</actor>
+      <role>Phoebe Henson</role>
+    </credit>
+    <credit>
+      <actor>Masters, Natalie</actor>
+      <role>Phoebe Henson</role>
+    </credit>
+    <credit>
+      <actor>Mayer, Ken (I)</actor>
+      <role>Sgt. Rogers</role>
+    </credit>
+    <credit>
+      <actor>McMyler, Pamela</actor>
+      <role>Claire</role>
+    </credit>
+    <credit>
+      <actor>Mcart, Don</actor>
+      <role>Cousin Cackle</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Laurie</actor>
+      <role>Gladys</role>
+    </credit>
+    <credit>
+      <actor>Mondo, Peggy</actor>
+      <role>Yvette</role>
+    </credit>
+    <credit>
+      <actor>Montgomery, Ralph</actor>
+      <role>Strife Photographer</role>
+    </credit>
+    <credit>
+      <actor>Moore, Del</actor>
+      <role>Lionel Barker</role>
+    </credit>
+    <credit>
+      <actor>Moore, Patrick (XVI)</actor>
+      <role>Tommy</role>
+    </credit>
+    <credit>
+      <actor>Neise, George N.</actor>
+      <role>Mr. Hollister</role>
+    </credit>
+    <credit>
+      <actor>Nelson, Frank (II)</actor>
+      <role>Cecil B. Pomeroy</role>
+    </credit>
+    <credit>
+      <actor>Nichols, Robert (I)</actor>
+      <role>Horatio Bartholomew</role>
+    </credit>
+    <credit>
+      <actor>Nunn, Robert</actor>
+      <role>Boy</role>
+    </credit>
+    <credit>
+      <actor>Nunn, Robert</actor>
+      <role>Newspaper Boy</role>
+    </credit>
+    <credit>
+      <actor>Paiva, Nestor</actor>
+      <role>Capt. Grimby</role>
+    </credit>
+    <credit>
+      <actor>Peary, Harold</actor>
+      <role>Dr. Brown</role>
+    </credit>
+    <credit>
+      <actor>Petrie, George</actor>
+      <role>Dr. Harold Black</role>
+    </credit>
+    <credit>
+      <actor>Petrie, George</actor>
+      <role>Dr. Jonley</role>
+    </credit>
+    <credit>
+      <actor>Quillan, Eddie</actor>
+      <role>Clyde Arbogast</role>
+    </credit>
+    <credit>
+      <actor>Quillan, Eddie</actor>
+      <role>George Bass</role>
+    </credit>
+    <credit>
+      <actor>Quillan, Eddie</actor>
+      <role>Horace Beesley</role>
+    </credit>
+    <credit>
+      <actor>Quillan, Eddie</actor>
+      <role>Joe Digby</role>
+    </credit>
+    <credit>
+      <actor>Quillan, Eddie</actor>
+      <role>Mr. Joe Digby</role>
+    </credit>
+    <credit>
+      <actor>Reed, Alan (I)</actor>
+      <role>Park Commissioner Fiske</role>
+    </credit>
+    <credit>
+      <actor>Reeves, Richard (I)</actor>
+      <role>Mike</role>
+    </credit>
+    <credit>
+      <actor>Reeves, Richard (I)</actor>
+      <role>Mr. Brack</role>
+    </credit>
+    <credit>
+      <actor>Rickles, Don</actor>
+      <role>Claude</role>
+    </credit>
+    <credit>
+      <actor>Rivas, Carlos (I)</actor>
+      <role>Senior Cardona</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Roy (I)</actor>
+      <role>Thaddeus Logan</role>
+    </credit>
+    <credit>
+      <actor>Robot, Robby the</actor>
+      <role>Smiley</role>
+    </credit>
+    <credit>
+      <actor>Rose, Ralph J.</actor>
+      <role>Signor Bellini</role>
+    </credit>
+    <credit>
+      <actor>Ruman, Sig</actor>
+      <role>Erich von Bissell</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Hugh (I)</actor>
+      <role>Bosley Swain</role>
+    </credit>
+    <credit>
+      <actor>Schaaf, Edward</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Scotti, Vito</actor>
+      <role>Miri Haan</role>
+    </credit>
+    <credit>
+      <actor>Scotti, Vito</actor>
+      <role>Professor Altshuler</role>
+    </credit>
+    <credit>
+      <actor>Scotti, Vito</actor>
+      <role>Sam Picasso</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Mr. Briggs, Postman</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Mr. Briggs, Postman</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Mr. Briggs, Postman</role>
+    </credit>
+    <credit>
+      <actor>Sedan, Rolfe</actor>
+      <role>Mr. Briggs, Postman</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Silla, Felix</actor>
+      <role>Cousin Itt</role>
+    </credit>
+    <credit>
+      <actor>Smith, Hal</actor>
+      <role>Judge Harvey Saunders</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>Harwood Widdy</role>
+    </credit>
+    <credit>
+      <actor>Styles, Herkie</actor>
+      <role>Mizzy Bickle</role>
+    </credit>
+    <credit>
+      <actor>Tate, Kevin</actor>
+      <role>Robespierre Courtney</role>
+    </credit>
+    <credit>
+      <actor>Tyler, Kim (I)</actor>
+      <role>Harold Pomeroy</role>
+    </credit>
+    <credit>
+      <actor>Voglin, Jack</actor>
+      <role>Thing</role>
+    </credit>
+    <credit>
+      <actor>Wagenheim, Charles</actor>
+      <role>Mr. Boswell</role>
+    </credit>
+    <credit>
+      <actor>Walker, Ray (I)</actor>
+      <role>Bailiff</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>Weatherwax, Ken (I)</actor>
+      <role>Pugsley Addams</role>
+    </credit>
+    <credit>
+      <actor>White Jr., Bill</actor>
+      <role>Officer Martin</role>
+    </credit>
+    <credit>
+      <actor>White, Jesse (I)</actor>
+      <role>Sgt. Haley</role>
+    </credit>
+    <credit>
+      <actor>Wilcox, Frank</actor>
+      <role>Sam Harris</role>
+    </credit>
+    <credit>
+      <actor>Winters, Roland</actor>
+      <role>Ralph J. Hulen</role>
+    </credit>
+    <credit>
+      <actor>Wright, Ben (I)</actor>
+      <role>Mr. Rudolpho</role>
+    </credit>
+  </cast>
+<plot>The Addams Family is not your typical family: they take delight in most of the things that "normal" people would be terrified of. Gomez Adams is an extremely wealthy man, and is able to indulge his wife Morticia's every desire: be it cultivation of poisonous plants, or a candlelit dinner in a graveyard. People visiting the Addams Family just don't seem to appreciate the 7 foot tall butler "Lurch" or the helping hand (which is just a disembodied hand named "Thing").</plot><url>http://localhost:8983/solr/movie.html?538981</url></doc>

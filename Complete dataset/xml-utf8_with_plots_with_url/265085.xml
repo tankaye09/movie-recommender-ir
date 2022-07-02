@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="265085">
+  <docid>265085</docid>
+  <title>Inheritance</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Cuoco, Paul</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">8 April 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cuoco, Paul</director>
+  </directors>
+  <writers>
+    <writer>Cuoco, Paul</writer>
+  </writers>
+  <composers>
+    <composer>Swihart, John</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Meese, Richard (I)</actor>
+      <role>Father</role>
+    </credit>
+    <credit>
+      <actor>Olufs, Robert</actor>
+      <role>Daniel</role>
+    </credit>
+    <credit>
+      <actor>Young, Harrison (I)</actor>
+      <role>Grandfather</role>
+    </credit>
+  </cast>
+<plot>In an impassioned message from the grave, one concentration camp Liberator forces us to remember the horror humanity is capable of. Utilizing actual photos from the Buchenwald concentration camp, and a soulful performance by Harrison Young, Inheritance is a gut-wrenching experience that not only informs, but puts the burden of defending humanity squarely on the viewer.</plot><url>http://localhost:8983/solr/movie.html?265085</url></doc>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="235185">
+  <docid>235185</docid>
+  <title>Hello?</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Lim, Gavin</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>Mandarin</language>
+  </languages>
+  <countries>
+    <country>Singapore</country>
+  </countries>
+  <certificates>
+    <certificate country="Singapore">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Singapore">21 April 2006</releasedate>
+    <releasedate country="France">26 January 2007</releasedate>
+    <releasedate country="Spain">October 2006</releasedate>
+    <releasedate country="USA">17 January 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Singapore">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Lim, Gavin</director>
+  </directors>
+  <producers>
+    <producer>Lim, Gavin</producer>
+    <producer>Moh, Emily</producer>
+  </producers>
+  <writers>
+    <writer>Lim, Gavin</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>May, Angela (IV)</actor>
+      <role>Naomi Wong</role>
+    </credit>
+    <credit>
+      <actor>Nga, Timothy</actor>
+      <role>Jap Leong</role>
+    </credit>
+  </cast>
+<plot>Naomi Wong works as a telephone cleaning lady in 1970's Singapore-a common occupation at the time. Moving from office to office, home to home, she gets to meet many people-people like Jap Leong. Here is a tale of ill-fated love that based on BBC's 'Science of Love' theories.</plot><url>http://localhost:8983/solr/movie.html?235185</url></doc>

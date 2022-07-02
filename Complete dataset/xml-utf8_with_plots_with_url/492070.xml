@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="492070">
+  <docid>492070</docid>
+  <title>Shema</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>father-son-relationship</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Pycher, Michael</director>
+  </directors>
+  <producers>
+    <producer>Miller, Jessica (VIII)</producer>
+  </producers>
+  <writers>
+    <writer>Pycher, Michael</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Collins, Bill (XIX)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pycher, Michael</actor>
+      <role>Eli</role>
+    </credit>
+  </cast>
+<plot>Inspired by a true event, Shema tells the story of sacrifice, and a bond shared between a feeble father, Simon, and his headstrong son, Eli, fleeing from a concentration camp in wartime Poland. En route to a transport to make their escape, their plight is interrupted when Nazi SS begin closing in on their location. Simon and Eli must take action.</plot><url>http://localhost:8983/solr/movie.html?492070</url></doc>

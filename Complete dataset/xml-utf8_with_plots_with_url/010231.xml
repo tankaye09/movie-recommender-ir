@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="010231">
+  <docid>010231</docid>
+  <title>A Fellow of Enterprise</title>
+  <year>2006</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Dickson, Kit</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Drama</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="India">9 December 2006</releasedate>
+    <releasedate country="UK">June 2006</releasedate>
+    <releasedate country="USA">September 2006</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">58</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Hedgecock, Adrian</director>
+  </directors>
+  <producers>
+    <producer>Hedgecock, Adrian</producer>
+  </producers>
+  <writers>
+    <writer>Hedgecock, Adrian</writer>
+  </writers>
+  <composers>
+    <composer>Bennett, Alexis</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Galas, Robert</actor>
+      <role>Theo</role>
+    </credit>
+    <credit>
+      <actor>Lansley, Oliver</actor>
+      <role>Clive</role>
+    </credit>
+    <credit>
+      <actor>Topp, Gerry</actor>
+      <role>Old Clive</role>
+    </credit>
+  </cast>
+<plot>She was wonderful, perfect in every way. She listened to him, didn't judge him, loved him. So what went wrong? As Clive searches back through his recent past he filters his memories from his fantasies and re-lives a love easily found, and just as easily lost.</plot><url>http://localhost:8983/solr/movie.html?010231</url></doc>

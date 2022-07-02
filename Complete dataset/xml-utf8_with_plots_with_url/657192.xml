@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="657192">
+  <docid>657192</docid>
+  <title>Wildfire</title>
+  <year>2005</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Gorman, Bruce (I)</editor>
+    <editor>Hagar, David W.</editor>
+    <editor>Sgriccia, Philip</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Family</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>horse</keyword>
+    <keyword>jockey</keyword>
+    <keyword>friendship</keyword>
+    <keyword>juvenile-hall</keyword>
+    <keyword>love</keyword>
+    <keyword>character-name-in-title</keyword>
+    <keyword>horseback-riding</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">TV-PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">26 October 2008</releasedate>
+    <releasedate country="Belgium">24 March 2007</releasedate>
+    <releasedate country="France">10 October 2006</releasedate>
+    <releasedate country="Hungary">23 April 2009</releasedate>
+    <releasedate country="Estonia">12 June 2008</releasedate>
+    <releasedate country="Italy">22 September 2008</releasedate>
+    <releasedate country="USA">12 March 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Dale, Holly</director>
+    <director>Greenwald, Maggie</director>
+    <director>Hagar, David W.</director>
+    <director>Kanner, Ellie</director>
+    <director>Marck, Nick</director>
+    <director>May, Bradford</director>
+    <director>Miner, Steve (I)</director>
+    <director>Perl, Frank</director>
+    <director>Piller, Shawn</director>
+    <director>Read, James (II)</director>
+    <director>Schwartz, Douglas (I)</director>
+    <director>Talalay, Rachel</director>
+    <director>Thompson, Rob (VII)</director>
+  </directors>
+  <producers>
+    <producer>D'Orazio, Dee</producer>
+    <producer>Fratto, Adam</producer>
+    <producer>Stillwell, Eric A.</producer>
+    <producer>Whitman, Garfield</producer>
+    <producer>Isaac, Sandy</producer>
+    <producer>Piller, Shawn</producer>
+    <producer>Hawley, Jordan</producer>
+    <producer>Whitman, Garfield</producer>
+    <producer>Dickey, Matthew</producer>
+    <producer>Aubuchon, Remi</producer>
+    <producer>David, Marjorie</producer>
+    <producer>Piller, Michael</producer>
+    <producer>Segan, Lloyd</producer>
+    <producer>D'Orazio, Dee</producer>
+    <producer>Berman, Lester</producer>
+    <producer>Fischer, Preston (I)</producer>
+    <producer>Hawley, Jordan</producer>
+    <producer>Murphy, Dennis Stuart</producer>
+    <producer>Hawley, Jordan</producer>
+    <producer>May, Bradford</producer>
+    <producer>McGibney, Linda</producer>
+  </producers>
+  <writers>
+    <writer>Abrahams, Jonathan</writer>
+    <writer>David, Marjorie</writer>
+    <writer>Gieseke, Winston</writer>
+    <writer>Hawley, Jordan</writer>
+    <writer>Isaac, Sandy</writer>
+    <writer>Lynch, Christina (I)</writer>
+    <writer>McGibney, Linda</writer>
+    <writer>Piller, Michael</writer>
+    <writer>Reaser, Andy</writer>
+    <writer>Ripps, Stephanie</writer>
+    <writer>Segan, Loren</writer>
+    <writer>Teague, Christopher</writer>
+    <writer>Piller, Michael</writer>
+    <writer>Piller, Shawn</writer>
+    <writer>Teague, Christopher</writer>
+  </writers>
+  <composers>
+    <composer>Caird, Patric</composer>
+    <composer>Gruska, Jay</composer>
+    <composer>Pierce, Shawn (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alberti, Micah</actor>
+      <role>Matt Ritter</role>
+    </credit>
+    <credit>
+      <actor>Alberti, Micah</actor>
+      <role>Matt Ritter</role>
+    </credit>
+    <credit>
+      <actor>Alberti, Micah</actor>
+      <role>Matt Ritter</role>
+    </credit>
+    <credit>
+      <actor>Alexander, Rio</actor>
+      <role>Rider</role>
+    </credit>
+    <credit>
+      <actor>Allen, William Lawrence</actor>
+      <role>Clerk</role>
+    </credit>
+    <credit>
+      <actor>Andres, Ricardo</actor>
+      <role>Horse Handler/Ranch Hand</role>
+    </credit>
+    <credit>
+      <actor>Andres, Ricardo</actor>
+      <role>Horse Handler/Spectator</role>
+    </credit>
+    <credit>
+      <actor>Andres, Ricardo</actor>
+      <role>Ranch Hand</role>
+    </credit>
+    <credit>
+      <actor>Andres, Ricardo</actor>
+      <role>Ritter Ranch Hand/Horse Handler</role>
+    </credit>
+    <credit>
+      <actor>Andres, Ricardo</actor>
+      <role>Track Spectator/Horse Owner/Horse Handler</role>
+    </credit>
+    <credit>
+      <actor>Arciuleta, Filimon</actor>
+      <role>Nerd #4</role>
+    </credit>
+    <credit>
+      <actor>Bailey, Beth (I)</actor>
+      <role>Camp counselor</role>
+    </credit>
+    <credit>
+      <actor>Ballas, Nicholas (I)</actor>
+      <role>Ray</role>
+    </credit>
+    <credit>
+      <actor>Barela, Lute</actor>
+      <role>Nerd #1</role>
+    </credit>
+    <credit>
+      <actor>Barela, Richard</actor>
+      <role>Bidder</role>
+    </credit>
+    <credit>
+      <actor>Beauvais, Marya</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Berry, Josh (I)</actor>
+      <role>Officer Bart Blitzer</role>
+    </credit>
+    <credit>
+      <actor>Berry, Josh (I)</actor>
+      <role>Sheriff Blitzer</role>
+    </credit>
+    <credit>
+      <actor>Bitsui, Jeremiah</actor>
+      <role>Ocky</role>
+    </credit>
+    <credit>
+      <actor>Blacksmith, Steven</actor>
+      <role>Mover</role>
+    </credit>
+    <credit>
+      <actor>Blott, Paul</actor>
+      <role>Mitchell Harrison</role>
+    </credit>
+    <credit>
+      <actor>Bond, Frank (II)</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Bond, Frank (II)</actor>
+      <role>Concierge</role>
+    </credit>
+    <credit>
+      <actor>Bond, Frank (II)</actor>
+      <role>Counter/Cabinet Guy</role>
+    </credit>
+    <credit>
+      <actor>Brodin, Gerald (I)</actor>
+      <role>Fred Hamilton</role>
+    </credit>
+    <credit>
+      <actor>Brown, Charlie (III)</actor>
+      <role>Delivery Boy #2</role>
+    </credit>
+    <credit>
+      <actor>Browning, Chris (I)</actor>
+      <role>Ely</role>
+    </credit>
+    <credit>
+      <actor>Browning, Chris (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brummett, Chad</actor>
+      <role>Greg</role>
+    </credit>
+    <credit>
+      <actor>Bruno, Chris (I)</actor>
+      <role>Dr. Elliot</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Joshua</actor>
+      <role>Dr. Ronald</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Joshua</actor>
+      <role>Dr. Ronald</role>
+    </credit>
+    <credit>
+      <actor>Cain, Burly</actor>
+      <role>Groomsman</role>
+    </credit>
+    <credit>
+      <actor>Carter, Alex (I)</actor>
+      <role>Tim</role>
+    </credit>
+    <credit>
+      <actor>Cash, Todd Thatcher</actor>
+      <role>Dad</role>
+    </credit>
+    <credit>
+      <actor>Chapman, Bryan (I)</actor>
+      <role>Groomsman</role>
+    </credit>
+    <credit>
+      <actor>Chase, Gregory</actor>
+      <role>Investor #1</role>
+    </credit>
+    <credit>
+      <actor>Collins, Shanna</actor>
+      <role>Amber</role>
+    </credit>
+    <credit>
+      <actor>Colon, Dave</actor>
+      <role>Wine Festival patron</role>
+    </credit>
+    <credit>
+      <actor>Connor, Mercedes</actor>
+      <role>Sasha</role>
+    </credit>
+    <credit>
+      <actor>Cortese, Genevieve</actor>
+      <role>Kris Furillo</role>
+    </credit>
+    <credit>
+      <actor>Cortese, Genevieve</actor>
+      <role>Kris Furillo</role>
+    </credit>
+    <credit>
+      <actor>Danielle, Tyra</actor>
+      <role>Riley Adams</role>
+    </credit>
+    <credit>
+      <actor>Danielson, Richard (I)</actor>
+      <role>Regular #1</role>
+    </credit>
+    <credit>
+      <actor>Dempsey, Christopher</actor>
+      <role>Race Official</role>
+    </credit>
+    <credit>
+      <actor>Doss, Frederic (II)</actor>
+      <role>Airman Groom</role>
+    </credit>
+    <credit>
+      <actor>East, Sean</actor>
+      <role>Waiter</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Bonnie</actor>
+      <role>Amy - Hot Blonde</role>
+    </credit>
+    <credit>
+      <actor>Farentino, Debrah</actor>
+      <role>Isabelle Matia-Paris</role>
+    </credit>
+    <credit>
+      <actor>Fleming, Carrie (II)</actor>
+      <role>Inmate #2</role>
+    </credit>
+    <credit>
+      <actor>Fletcher, Tait</actor>
+      <role>Tatooed Guy</role>
+    </credit>
+    <credit>
+      <actor>Forrest, Tone</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Freihofer, Chris</actor>
+      <role>Smith</role>
+    </credit>
+    <credit>
+      <actor>Fyre, Forrest</actor>
+      <role>Andrew Roys</role>
+    </credit>
+    <credit>
+      <actor>Fyre, Forrest</actor>
+      <role>Lenox Pauling</role>
+    </credit>
+    <credit>
+      <actor>Gamble, Brian Keith</actor>
+      <role>Dr. Kramer</role>
+    </credit>
+    <credit>
+      <actor>Garber, Dennis E.</actor>
+      <role>Jeffrey</role>
+    </credit>
+    <credit>
+      <actor>Garfield, J.D.</actor>
+      <role>Mr. Kalata</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Beau</actor>
+      <role>Lynnet</role>
+    </credit>
+    <credit>
+      <actor>Geiger, Esodie</actor>
+      <role>Officer Barcley</role>
+    </credit>
+    <credit>
+      <actor>Gerrity, Dan</actor>
+      <role>Track Announcer</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, DeAnn</actor>
+      <role>Restaurant Patron</role>
+    </credit>
+    <credit>
+      <actor>Graves, Cynthia (II)</actor>
+      <role>Extra</role>
+    </credit>
+    <credit>
+      <actor>Grimes, Hailey</actor>
+      <role>Kowalski</role>
+    </credit>
+    <credit>
+      <actor>Gross, Arye</actor>
+      <role>Charlie Hewitt</role>
+    </credit>
+    <credit>
+      <actor>Grundy, Chaz</actor>
+      <role>Party Guest</role>
+    </credit>
+    <credit>
+      <actor>Gwin, Kit</actor>
+      <role>Judge</role>
+    </credit>
+    <credit>
+      <actor>Hahn, Tara (I)</actor>
+      <role>Night Club Scene</role>
+    </credit>
+    <credit>
+      <actor>Haiduk, Stacy</actor>
+      <role>Barb Furillo</role>
+    </credit>
+    <credit>
+      <actor>Hall, Price</actor>
+      <role>Zack Wright</role>
+    </credit>
+    <credit>
+      <actor>Hank, Hector</actor>
+      <role>Rusty</role>
+    </credit>
+    <credit>
+      <actor>Hargrave, Doris</actor>
+      <role>Phyllis Esposito</role>
+    </credit>
+    <credit>
+      <actor>Hawken, Aidan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, J.D.</actor>
+      <role>Leon Garvey</role>
+    </credit>
+    <credit>
+      <actor>Haynes, Loren</actor>
+      <role>D.J. Tim</role>
+    </credit>
+    <credit>
+      <actor>Haynes, Loren</actor>
+      <role>DJ Tim</role>
+    </credit>
+    <credit>
+      <actor>Hector, Johnnie</actor>
+      <role>Mikey</role>
+    </credit>
+    <credit>
+      <actor>Hennigan, Sean</actor>
+      <role>Mr. Fielding</role>
+    </credit>
+    <credit>
+      <actor>Hensel, Allison</actor>
+      <role>Horse Owner</role>
+    </credit>
+    <credit>
+      <actor>Hensel, Allison</actor>
+      <role>Restraunt Patron</role>
+    </credit>
+    <credit>
+      <actor>Hensel, Allison</actor>
+      <role>Winefest Patron</role>
+    </credit>
+    <credit>
+      <actor>Herrera, Judy</actor>
+      <role>Leanne Diaz</role>
+    </credit>
+    <credit>
+      <actor>Hess, Bob</actor>
+      <role>Espn reporter</role>
+    </credit>
+    <credit>
+      <actor>Hill, Jason E.</actor>
+      <role>Raintree Worker</role>
+    </credit>
+    <credit>
+      <actor>Hoeft, Andrew</actor>
+      <role>Todd Ritter</role>
+    </credit>
+    <credit>
+      <actor>Hoeft, Andrew</actor>
+      <role>Todd Ritter</role>
+    </credit>
+    <credit>
+      <actor>Hoeft, Andrew</actor>
+      <role>Todd Ritter</role>
+    </credit>
+    <credit>
+      <actor>Hoeft, Andrew</actor>
+      <role>Todd Ritter</role>
+    </credit>
+    <credit>
+      <actor>House, David (I)</actor>
+      <role>Cop #1</role>
+    </credit>
+    <credit>
+      <actor>House, David (I)</actor>
+      <role>Drill Instructor</role>
+    </credit>
+    <credit>
+      <actor>Howell, Erin</actor>
+      <role>Prison Inmate</role>
+    </credit>
+    <credit>
+      <actor>Hruschka, Cynthia Ruybal</actor>
+      <role>Ken Davis' Girlfriend</role>
+    </credit>
+    <credit>
+      <actor>Hutchison, Kieren</actor>
+      <role>Kerry Connelly</role>
+    </credit>
+    <credit>
+      <actor>Hutchison, Kieren</actor>
+      <role>Kerry Connelly</role>
+    </credit>
+    <credit>
+      <actor>Janis, Tim (II)</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Jesser, Bob</actor>
+      <role>Freddy</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Amy Jo</actor>
+      <role>Tina Sharp</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Ross (II)</actor>
+      <role>Wayne</role>
+    </credit>
+    <credit>
+      <actor>Kilburn, Mark (I)</actor>
+      <role>Darren Aimes</role>
+    </credit>
+    <credit>
+      <actor>Kirkpatrick, Kent</actor>
+      <role>Race Official</role>
+    </credit>
+    <credit>
+      <actor>Krizman, Alexandra</actor>
+      <role>Race Horse Owner</role>
+    </credit>
+    <credit>
+      <actor>Krizman, Alexandra</actor>
+      <role>Ranch Guest</role>
+    </credit>
+    <credit>
+      <actor>Labyorteaux, Patrick</actor>
+      <role>Derek Polk</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Brent (II)</actor>
+      <role>Bar Patron</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Brent (II)</actor>
+      <role>Catering Bartender</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Brent (II)</actor>
+      <role>Club Dancer</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Brent (II)</actor>
+      <role>Club Patron</role>
+    </credit>
+    <credit>
+      <actor>Lambert, Brent (II)</actor>
+      <role>Journalist</role>
+    </credit>
+    <credit>
+      <actor>Lando, Joe</actor>
+      <role>Pete Ritter</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Kip (IV)</actor>
+      <role>Lance</role>
+    </credit>
+    <credit>
+      <actor>Lipari, Joanna</actor>
+      <role>Rosie the waitress</role>
+    </credit>
+    <credit>
+      <actor>London, Jason (I)</actor>
+      <role>Bobby</role>
+    </credit>
+    <credit>
+      <actor>Lopez, Fredrick</actor>
+      <role>Carlos Sanchez</role>
+    </credit>
+    <credit>
+      <actor>Lupo, Kyle</actor>
+      <role>Win Acosta</role>
+    </credit>
+    <credit>
+      <actor>Lynch, Rhett</actor>
+      <role>Jockey</role>
+    </credit>
+    <credit>
+      <actor>Lyon, Marina</actor>
+      <role>Buckle Bunny</role>
+    </credit>
+    <credit>
+      <actor>Malley, Dale</actor>
+      <role>Fisherman</role>
+    </credit>
+    <credit>
+      <actor>Mansini, Debrianna</actor>
+      <role>Anna Rodriguez</role>
+    </credit>
+    <credit>
+      <actor>Marco-Taylor, Tenzin</actor>
+      <role>Kid</role>
+    </credit>
+    <credit>
+      <actor>Marcus, Vincent</actor>
+      <role>Joe Bob</role>
+    </credit>
+    <credit>
+      <actor>Marinson, Shane</actor>
+      <role>Miller</role>
+    </credit>
+    <credit>
+      <actor>Marquez, Jose J.</actor>
+      <role>Wine Festival Participant/Investor</role>
+    </credit>
+    <credit>
+      <actor>McAlister, Scarlett</actor>
+      <role>Wendy Levy</role>
+    </credit>
+    <credit>
+      <actor>McCullough, Jeffrey</actor>
+      <role>Stable Hand</role>
+    </credit>
+    <credit>
+      <actor>McIntosh, Bruce</actor>
+      <role>Walter</role>
+    </credit>
+    <credit>
+      <actor>Michaela, Genia</actor>
+      <role>Bickering Bride</role>
+    </credit>
+    <credit>
+      <actor>Michaela, Genia</actor>
+      <role>Bickering Woman</role>
+    </credit>
+    <credit>
+      <actor>Michaela, Genia</actor>
+      <role>Waitress</role>
+    </credit>
+    <credit>
+      <actor>Midthunder, Angelique</actor>
+      <role>Ricki</role>
+    </credit>
+    <credit>
+      <actor>Miles, Mark</actor>
+      <role>Farmer</role>
+    </credit>
+    <credit>
+      <actor>Miller, Mike (XIII)</actor>
+      <role>Sour Face Journalist</role>
+    </credit>
+    <credit>
+      <actor>Mocho, Jeff</actor>
+      <role>Murph</role>
+    </credit>
+    <credit>
+      <actor>Moore, Charles (XII)</actor>
+      <role>Deputy Sheriff</role>
+    </credit>
+    <credit>
+      <actor>Moseley, Dan</actor>
+      <role>Delivery Man</role>
+    </credit>
+    <credit>
+      <actor>Moseley, Dan</actor>
+      <role>Driver</role>
+    </credit>
+    <credit>
+      <actor>Mouchet, Marc</actor>
+      <role>Racing Official</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Jonathan (I)</actor>
+      <role>Calvin Handley</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Jonathan (I)</actor>
+      <role>Calvin Handley</role>
+    </credit>
+    <credit>
+      <actor>Murphy, Jonathan (I)</actor>
+      <role>Calvin Handley</role>
+    </credit>
+    <credit>
+      <actor>Nance, Richard (I)</actor>
+      <role>Rodeo Clown</role>
+    </credit>
+    <credit>
+      <actor>Nichols, Arty</actor>
+      <role>Gate Guard</role>
+    </credit>
+    <credit>
+      <actor>Nolen, Timothy</actor>
+      <role>Roy</role>
+    </credit>
+    <credit>
+      <actor>Peracchio, Joe (I)</actor>
+      <role>Camera Guy</role>
+    </credit>
+    <credit>
+      <actor>Peracchio, Joe (I)</actor>
+      <role>Kel</role>
+    </credit>
+    <credit>
+      <actor>Perez, Hugo (I)</actor>
+      <role>Stefan</role>
+    </credit>
+    <credit>
+      <actor>Perez, Hugo (I)</actor>
+      <role>Stefan Sartino/Jockey</role>
+    </credit>
+    <credit>
+      <actor>Quezada, Steven Michael</actor>
+      <role>Ernie Kent</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, David (I)</actor>
+      <role>Dr. Noah Gleason</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, David (I)</actor>
+      <role>Dr. Noah Gleason</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, David (I)</actor>
+      <role>Dr. Noah Gleason</role>
+    </credit>
+    <credit>
+      <actor>Ramsey, David (I)</actor>
+      <role>Dr. Noah Gleason</role>
+    </credit>
+    <credit>
+      <actor>Ranney, Chris (I)</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Rasti, Maurizio</actor>
+      <role>Sheik Omar Al Sayed</role>
+    </credit>
+    <credit>
+      <actor>Rasti, Maurizio</actor>
+      <role>Sheik Omar Al Sayed</role>
+    </credit>
+    <credit>
+      <actor>Rasti, Maurizio</actor>
+      <role>Sheik Omar Al Sayed</role>
+    </credit>
+    <credit>
+      <actor>Rasti, Maurizio</actor>
+      <role>Sheik Omar Al Sayed</role>
+    </credit>
+    <credit>
+      <actor>Ray, Dorsey</actor>
+      <role>Minister</role>
+    </credit>
+    <credit>
+      <actor>Read, James (II)</actor>
+      <role>Ken Davis</role>
+    </credit>
+    <credit>
+      <actor>Read, James (II)</actor>
+      <role>Ken Davis</role>
+    </credit>
+    <credit>
+      <actor>Romero, Chance</actor>
+      <role>Bartender</role>
+    </credit>
+    <credit>
+      <actor>Ruggles, Lucas</actor>
+      <role>Ranch Hand</role>
+    </credit>
+    <credit>
+      <actor>Russ, William (I)</actor>
+      <role>Congressman Dean Nichols</role>
+    </credit>
+    <credit>
+      <actor>Russ, William (I)</actor>
+      <role>Congressman Dean Nichols</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Charles (I)</actor>
+      <role>Joe Fortay</role>
+    </credit>
+    <credit>
+      <actor>Schwendimann, Pab</actor>
+      <role>Glen</role>
+    </credit>
+    <credit>
+      <actor>Schwendimann, Pab</actor>
+      <role>Glen</role>
+    </credit>
+    <credit>
+      <actor>Sellers, Richard</actor>
+      <role>Ray</role>
+    </credit>
+    <credit>
+      <actor>Serano, Greg</actor>
+      <role>Pablo Betart</role>
+    </credit>
+    <credit>
+      <actor>Serano, Greg</actor>
+      <role>Pablo Betart</role>
+    </credit>
+    <credit>
+      <actor>Serricchio, Ignacio</actor>
+      <role>Jace Furillo</role>
+    </credit>
+    <credit>
+      <actor>Sheets, Michael</actor>
+      <role>The Actor</role>
+    </credit>
+    <credit>
+      <actor>Shiver, Arron</actor>
+      <role>Lenny Kellman</role>
+    </credit>
+    <credit>
+      <actor>Short, Brian T</actor>
+      <role>Fire Chief</role>
+    </credit>
+    <credit>
+      <actor>Simmons, J. Nathan</actor>
+      <role>Lighting Technician</role>
+    </credit>
+    <credit>
+      <actor>Simmons, J. Nathan</actor>
+      <role>Rodeo Attendee</role>
+    </credit>
+    <credit>
+      <actor>Simmons, J. Nathan</actor>
+      <role>Rodeo Fan</role>
+    </credit>
+    <credit>
+      <actor>Simmons, J. Nathan</actor>
+      <role>Worker In Truck</role>
+    </credit>
+    <credit>
+      <actor>Sivertsen, Mark</actor>
+      <role>Commercial Director</role>
+    </credit>
+    <credit>
+      <actor>Southerland, Boots</actor>
+      <role>Jake Smith</role>
+    </credit>
+    <credit>
+      <actor>Sterchi, William</actor>
+      <role>Auction Guard</role>
+    </credit>
+    <credit>
+      <actor>Sterchi, William</actor>
+      <role>Mr. Happy</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Gary (III)</actor>
+      <role>Augie French</role>
+    </credit>
+    <credit>
+      <actor>Strakal, Dan</actor>
+      <role>Affluent CEO</role>
+    </credit>
+    <credit>
+      <actor>Strakal, Dan</actor>
+      <role>Upscale Party Guest</role>
+    </credit>
+    <credit>
+      <actor>Strakal, Dan</actor>
+      <role>Videographer</role>
+    </credit>
+    <credit>
+      <actor>Sypek, Ryan</actor>
+      <role>Junior Davis</role>
+    </credit>
+    <credit>
+      <actor>Sypek, Ryan</actor>
+      <role>Junior Davis</role>
+    </credit>
+    <credit>
+      <actor>Sypek, Ryan</actor>
+      <role>Junior Davis</role>
+    </credit>
+    <credit>
+      <actor>Sypek, Ryan</actor>
+      <role>Junior Davis</role>
+    </credit>
+    <credit>
+      <actor>Talley, Chris</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Taylor, Adam (I)</actor>
+      <role>Ranch Hand</role>
+    </credit>
+    <credit>
+      <actor>Terry, John (I)</actor>
+      <role>Uncle Jesse</role>
+    </credit>
+    <credit>
+      <actor>Terry, John (I)</actor>
+      <role>Uncle Jesse</role>
+    </credit>
+    <credit>
+      <actor>Terry, John (I)</actor>
+      <role>Uncle Jesse</role>
+    </credit>
+    <credit>
+      <actor>Vigil, Johnny D.</actor>
+      <role>Gangster</role>
+    </credit>
+    <credit>
+      <actor>Walker, Jake (I)</actor>
+      <role>Roofer</role>
+    </credit>
+    <credit>
+      <actor>Wanco, Michael</actor>
+      <role>Ranch Hand</role>
+    </credit>
+    <credit>
+      <actor>Washington, Robert Douglas</actor>
+      <role>Evan Garvey</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Brandon</actor>
+      <role>Bellhop</role>
+    </credit>
+    <credit>
+      <actor>Weaver, Dennis (I)</actor>
+      <role>Henry</role>
+    </credit>
+    <credit>
+      <actor>Whitney, Sewell</actor>
+      <role>Rick DuMont</role>
+    </credit>
+    <credit>
+      <actor>Wickham, Lewie</actor>
+      <role>Investor</role>
+    </credit>
+    <credit>
+      <actor>Winter, Eric</actor>
+      <role>R.J. Blake</role>
+    </credit>
+    <credit>
+      <actor>Winters, Scott William</actor>
+      <role>Hal Berney</role>
+    </credit>
+  </cast>
+<plot>Wildfire is the story of what happens when Kris Furillo, willful daughter of a lousy mother, who took a bad start in life landing her in jail, gets parole because Pablo Betart, an excellent foreman who also had a juvenile record, gets her a job on the horse ranch of the Ritter family, where she proves her worth working with horses, especially Wildfire, but still wrestles with her past and upsets the social dynamics there, not in the least because of her appeal on the owners' teenage boys, Jean Ritter's son Matt and Ken Davis' son Kenny 'Junior' Davis.</plot><url>http://localhost:8983/solr/movie.html?657192</url></doc>

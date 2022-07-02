@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="657849">
+  <docid>657849</docid>
+  <title>Windkracht 10</title>
+  <year>1997</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Action</genre>
+  </genres>
+  <languages>
+    <language>Dutch</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Belgium</country>
+    <country>Netherlands</country>
+  </countries>
+  <certificates>
+    <certificate country="Belgium">KT</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Belgium">1997</releasedate>
+  </releasedates>
+  <directors>
+    <director>Coghe, Luc</director>
+    <director>Coppens, Freddy</director>
+    <director>Corthout, Dirk</director>
+    <director>De Geest, Mark</director>
+    <director>Rondou, Peter</director>
+    <director>Taelman, Eric</director>
+    <director>Van Looy, Erik</director>
+    <director>Vervaet, Christian</director>
+  </directors>
+  <producers>
+    <producer>Provoost, Erwin</producer>
+    <producer>Stabel, Pol</producer>
+    <producer>Van De Vijver, Herman</producer>
+  </producers>
+  <writers>
+    <writer>Bernaert, Guy</writer>
+    <writer>De Clercq, Pierre</writer>
+    <writer>Joos, Carl</writer>
+    <writer>Thé, Steven R.</writer>
+  </writers>
+  <composers>
+    <composer>Wulf, Fonny De</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Aerts, Nicky</actor>
+      <role>Moeder op tram</role>
+    </credit>
+    <credit>
+      <actor>Arrendell, George</actor>
+      <role>Steve (1997)</role>
+    </credit>
+    <credit>
+      <actor>Baert, Norman</actor>
+      <role>Berger 2</role>
+    </credit>
+    <credit>
+      <actor>Bellemans, Patrick</actor>
+      <role>Jongen Zeevalk</role>
+    </credit>
+    <credit>
+      <actor>Bernaert, Steve</actor>
+      <role>M.P. 2</role>
+    </credit>
+    <credit>
+      <actor>Bervoets, Frank</actor>
+      <role>Stagiair dokter</role>
+    </credit>
+    <credit>
+      <actor>Bervoets, Gene</actor>
+      <role>Peter Segers (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Beukelaers, François</actor>
+      <role>Generaal Cassiman</role>
+    </credit>
+    <credit>
+      <actor>Bober, Marc</actor>
+      <role>Rijkswachter 1</role>
+    </credit>
+    <credit>
+      <actor>Boets, Herman</actor>
+      <role>Vader op zeiljacht</role>
+    </credit>
+    <credit>
+      <actor>Borgmans, Warre</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Borgmans, Warre</actor>
+      <role>Jean Louis Hubert De Jonghe (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Bos, Freerk</actor>
+      <role>Frank</role>
+    </credit>
+    <credit>
+      <actor>Boyle, John (I)</actor>
+      <role>Pilot Instructor</role>
+    </credit>
+    <credit>
+      <actor>Branckaerts, Sjarel</actor>
+      <role>Oude visser</role>
+    </credit>
+    <credit>
+      <actor>Broeckaert, Simon</actor>
+      <role>Karel Leysen (1997)</role>
+    </credit>
+    <credit>
+      <actor>Bruyne, Jan de</actor>
+      <role>Rapoon</role>
+    </credit>
+    <credit>
+      <actor>Busschots, Ludo</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Busschots, Ludo</actor>
+      <role>Patrick Adams (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Buyl, Nand</actor>
+      <role>Max</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Otto</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carpentier, Willem</actor>
+      <role>Verbelen</role>
+    </credit>
+    <credit>
+      <actor>Ceurvels, Ann</actor>
+      <role>Claudine 'Claudia' Castel (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Ceurvels, Ann</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Champagne, Bert</actor>
+      <role>Burgemeester</role>
+    </credit>
+    <credit>
+      <actor>Cleiren, Robbie</actor>
+      <role>Nico</role>
+    </credit>
+    <credit>
+      <actor>Cosemans, Bert</actor>
+      <role>Luitenant-ter-zee Lejeune</role>
+    </credit>
+    <credit>
+      <actor>Costerus, Mike</actor>
+      <role>Noor 2</role>
+    </credit>
+    <credit>
+      <actor>Costerus, Robert</actor>
+      <role>Noor 3</role>
+    </credit>
+    <credit>
+      <actor>Couzin, Lea</actor>
+      <role>Mevrouw Vandevoorde</role>
+    </credit>
+    <credit>
+      <actor>Croonenberghs, Andrea</actor>
+      <role>Anne Brenneman-Linders (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Croonenberghs, Andrea</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>D'Heu, Luk</actor>
+      <role>Franse stuurman</role>
+    </credit>
+    <credit>
+      <actor>Daeseleire, Axel</actor>
+      <role>Robby</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Hugo</actor>
+      <role>Meneer Vandevoorde</role>
+    </credit>
+    <credit>
+      <actor>Danckaert, Wim</actor>
+      <role>Luc</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Luitenant SIE</role>
+    </credit>
+    <credit>
+      <actor>De Bouw, Koen</actor>
+      <role>Mark Van Houte (1998)</role>
+    </credit>
+    <credit>
+      <actor>De Clercq, Johan</actor>
+      <role>Sportvisser 2</role>
+    </credit>
+    <credit>
+      <actor>De Coninck, Marc</actor>
+      <role>Matroos RMT</role>
+    </credit>
+    <credit>
+      <actor>De Man, Brigitte</actor>
+      <role>Moeder van Tom (1998)</role>
+    </credit>
+    <credit>
+      <actor>De Ryckere, Lou</actor>
+      <role>Rijkswachter 2</role>
+    </credit>
+    <credit>
+      <actor>De Vos, Ingrid</actor>
+      <role>Korporaal Van Brussel</role>
+    </credit>
+    <credit>
+      <actor>Declercq, Aza</actor>
+      <role>Hostess catamaran</role>
+    </credit>
+    <credit>
+      <actor>Deferme, Eva</actor>
+      <role>Meisje</role>
+    </credit>
+    <credit>
+      <actor>Defrancq, Kurt</actor>
+      <role>Bert (1997)</role>
+    </credit>
+    <credit>
+      <actor>Delhem, Rudi</actor>
+      <role>Dokter</role>
+    </credit>
+    <credit>
+      <actor>Deltomber, Elliot</actor>
+      <role>Jongen op tram</role>
+    </credit>
+    <credit>
+      <actor>Demedts, Jef</actor>
+      <role>Jean</role>
+    </credit>
+    <credit>
+      <actor>Dewilde, Sofie</actor>
+      <role>Kitty</role>
+    </credit>
+    <credit>
+      <actor>Diamond, Max</actor>
+      <role>Islander</role>
+    </credit>
+    <credit>
+      <actor>Dierens, Frank</actor>
+      <role>Matroos Zeevalk</role>
+    </credit>
+    <credit>
+      <actor>Dobbelaere, Veerle</actor>
+      <role>Inez (1997)</role>
+    </credit>
+    <credit>
+      <actor>Doorn, Margot van</actor>
+      <role>Luitenant Oosthoek</role>
+    </credit>
+    <credit>
+      <actor>Faber, Peter (I)</actor>
+      <role>Willem</role>
+    </credit>
+    <credit>
+      <actor>Flaam, Hélène</actor>
+      <role>Katrien</role>
+    </credit>
+    <credit>
+      <actor>Fleerackers, Ianka</actor>
+      <role>Els</role>
+    </credit>
+    <credit>
+      <actor>Florus, Vicky</actor>
+      <role>Veerle</role>
+    </credit>
+    <credit>
+      <actor>Gelder, Peter de</actor>
+      <role>Luitenant Pronk</role>
+    </credit>
+    <credit>
+      <actor>Gerris, Lara</actor>
+      <role>Kristine</role>
+    </credit>
+    <credit>
+      <actor>Glaubitz, Johann</actor>
+      <role>Kolonel Jan Bergen</role>
+    </credit>
+    <credit>
+      <actor>Goossen, Pol</actor>
+      <role>Krijgsauditeur</role>
+    </credit>
+    <credit>
+      <actor>Goossen, Pol</actor>
+      <role>de Ribeaucourt</role>
+    </credit>
+    <credit>
+      <actor>Heijnen, Hilde</actor>
+      <role>Samantha Leysen-Liekens (1997)</role>
+    </credit>
+    <credit>
+      <actor>Hellings, Guy</actor>
+      <role>Jos (1997)</role>
+    </credit>
+    <credit>
+      <actor>Hoes, Isa</actor>
+      <role>Lydia De Laet (1997)</role>
+    </credit>
+    <credit>
+      <actor>Hoes, Isa</actor>
+      <role>Verpleegster</role>
+    </credit>
+    <credit>
+      <actor>Hofkens, Marijke</actor>
+      <role>Janine</role>
+    </credit>
+    <credit>
+      <actor>Hofmans, Frank</actor>
+      <role>Jonge matroos</role>
+    </credit>
+    <credit>
+      <actor>Hoogewijs, Carla</actor>
+      <role>Myriam</role>
+    </credit>
+    <credit>
+      <actor>Hoogmartens, Ludo</actor>
+      <role>Chauffeur van verhuiswagen</role>
+    </credit>
+    <credit>
+      <actor>Hugaert, Daan</actor>
+      <role>Agent</role>
+    </credit>
+    <credit>
+      <actor>Israel, Michel</actor>
+      <role>Kok Nova Cura</role>
+    </credit>
+    <credit>
+      <actor>Janssen, Marc</actor>
+      <role>Pol</role>
+    </credit>
+    <credit>
+      <actor>Juchtmans, Suzanne</actor>
+      <role>Wandelende vrouw</role>
+    </credit>
+    <credit>
+      <actor>Kennis, Jos</actor>
+      <role>Vrachtwagenchauffeur</role>
+    </credit>
+    <credit>
+      <actor>Kerkhofs, Eddy</actor>
+      <role>Rusty (1997)</role>
+    </credit>
+    <credit>
+      <actor>Kortekaas, Luca</actor>
+      <role>Sandra (1997)</role>
+    </credit>
+    <credit>
+      <actor>La Haye, Robert De</actor>
+      <role>Matroos Hervé</role>
+    </credit>
+    <credit>
+      <actor>Lahousse, Gert</actor>
+      <role>Mark (1997)</role>
+    </credit>
+    <credit>
+      <actor>Lambrecht, Yves</actor>
+      <role>Toren Brogel 1 (1997)</role>
+    </credit>
+    <credit>
+      <actor>Larsen, Iben</actor>
+      <role>Motorrijdster 2</role>
+    </credit>
+    <credit>
+      <actor>Launspach, Rik</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Launspach, Rik</actor>
+      <role>Ronald Brenneman (1998)</role>
+    </credit>
+    <credit>
+      <actor>Leemans, Emmy</actor>
+      <role>Moeder van Walter</role>
+    </credit>
+    <credit>
+      <actor>Lesage, Gunther</actor>
+      <role>Para Jos</role>
+    </credit>
+    <credit>
+      <actor>Leue, Dimitri</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Leue, Dimitri</actor>
+      <role>Thomas 'Tom' Denys (1998)</role>
+    </credit>
+    <credit>
+      <actor>Lippens, Martine</actor>
+      <role>Laurence de Ribeaucourt</role>
+    </credit>
+    <credit>
+      <actor>Maiorano, Raffaele</actor>
+      <role>Beau</role>
+    </credit>
+    <credit>
+      <actor>Marteau, Karel</actor>
+      <role>Radio Para</role>
+    </credit>
+    <credit>
+      <actor>Matheve, Ruben</actor>
+      <role>Jongen</role>
+    </credit>
+    <credit>
+      <actor>Mermans, Marilou</actor>
+      <role>Buurvrouw Anne</role>
+    </credit>
+    <credit>
+      <actor>Meulders, Mies</actor>
+      <role>Cynthia</role>
+    </credit>
+    <credit>
+      <actor>Michel, Peter (I)</actor>
+      <role>Matroos Bart</role>
+    </credit>
+    <credit>
+      <actor>Michiels, Pascale</actor>
+      <role>Motorrijdster 1</role>
+    </credit>
+    <credit>
+      <actor>Milsdochter, Simone</actor>
+      <role>Iris</role>
+    </credit>
+    <credit>
+      <actor>Milsdochter, Simone</actor>
+      <role>Seaking</role>
+    </credit>
+    <credit>
+      <actor>Morren, Rudy</actor>
+      <role>Nederlands jurylid</role>
+    </credit>
+    <credit>
+      <actor>Munter, Hans de</actor>
+      <role>Kolonel meersman</role>
+    </credit>
+    <credit>
+      <actor>Muës, Jan</actor>
+      <role>Toren Brogel 2</role>
+    </credit>
+    <credit>
+      <actor>Opbrouck, Wim</actor>
+      <role>Nick Bouvry (1997)</role>
+    </credit>
+    <credit>
+      <actor>Pauwels, Jan</actor>
+      <role>Tecfhnicus Bruggen &amp; Wegen</role>
+    </credit>
+    <credit>
+      <actor>Pauwels, Pol</actor>
+      <role>Van Herbrugge</role>
+    </credit>
+    <credit>
+      <actor>Peeters, Marc</actor>
+      <role>Brandweerman</role>
+    </credit>
+    <credit>
+      <actor>Philips, Benny</actor>
+      <role>Patient</role>
+    </credit>
+    <credit>
+      <actor>Quartier, Walter</actor>
+      <role>Hoteleigenaar</role>
+    </credit>
+    <credit>
+      <actor>Ragas, Roef</actor>
+      <role>Harry</role>
+    </credit>
+    <credit>
+      <actor>Rietman, Mark</actor>
+      <role>Ruud</role>
+    </credit>
+    <credit>
+      <actor>Rouffaer, Peter</actor>
+      <role>Landmachtmajoor</role>
+    </credit>
+    <credit>
+      <actor>Royaards, Hans</actor>
+      <role>Zeiler</role>
+    </credit>
+    <credit>
+      <actor>Schillemans, Marc</actor>
+      <role>Verzele</role>
+    </credit>
+    <credit>
+      <actor>Schollaert, Michel</actor>
+      <role>Schokke (1997)</role>
+    </credit>
+    <credit>
+      <actor>Semay, Arthur</actor>
+      <role>Rijkswachter</role>
+    </credit>
+    <credit>
+      <actor>Simmons, Ted (II)</actor>
+      <role>Matroos cargo</role>
+    </credit>
+    <credit>
+      <actor>Spieler, Falk</actor>
+      <role>Berger 1</role>
+    </credit>
+    <credit>
+      <actor>Spruyt, Eddy</actor>
+      <role>Para Adjudant</role>
+    </credit>
+    <credit>
+      <actor>Stapel, Huub</actor>
+      <role>Dirk De Groot (1997)</role>
+    </credit>
+    <credit>
+      <actor>Steemans, Mark</actor>
+      <role>Kapitein Nova Cura</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Wim</actor>
+      <role>Daniël 'Dany' Nuyts (1998)</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Wim</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Wim</actor>
+      <role>Sportvisser 1</role>
+    </credit>
+    <credit>
+      <actor>Swiggers, Koen</actor>
+      <role>Partizaan</role>
+    </credit>
+    <credit>
+      <actor>Uffelen, Rik van</actor>
+      <role>Schipper</role>
+    </credit>
+    <credit>
+      <actor>Van Assche, Jaak</actor>
+      <role>Padre</role>
+    </credit>
+    <credit>
+      <actor>Van Bauwel, Tom</actor>
+      <role>Stef Van Looy (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>Van Daele, André</actor>
+      <role>Man met hond</role>
+    </credit>
+    <credit>
+      <actor>Van Der Aa, Frans</actor>
+      <role>Tramconducteur</role>
+    </credit>
+    <credit>
+      <actor>Van Dijck, Beja</actor>
+      <role>Zeilster</role>
+    </credit>
+    <credit>
+      <actor>Van Eeghem, Mark</actor>
+      <role>Kurt Leysen (1997)</role>
+    </credit>
+    <credit>
+      <actor>Van Goethem, Alain</actor>
+      <role>Geert, F16-pilot</role>
+    </credit>
+    <credit>
+      <actor>Van Herreweghe, Eric</actor>
+      <role>Bernard</role>
+    </credit>
+    <credit>
+      <actor>Van Kuyk, Fred</actor>
+      <role>Schipper</role>
+    </credit>
+    <credit>
+      <actor>Van Landuyt, Tom</actor>
+      <role>Jef De Laet (1997)</role>
+    </credit>
+    <credit>
+      <actor>Van Lierde, Johan</actor>
+      <role>Brandweercommandant Luchtmachtbasis Kleine Brogel</role>
+    </credit>
+    <credit>
+      <actor>Van Looveren, Jan</actor>
+      <role>Wim (1997)</role>
+    </credit>
+    <credit>
+      <actor>Van Nieuwenhuyse, Bert</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Van Rampelberg, Geert</actor>
+      <role>Drukker</role>
+    </credit>
+    <credit>
+      <actor>Van Tichelen, Bert</actor>
+      <role>Para Sergeant</role>
+    </credit>
+    <credit>
+      <actor>Van Zundert, Martin</actor>
+      <role>Vader van Walter</role>
+    </credit>
+    <credit>
+      <actor>Van den Begin, Peter</actor>
+      <role>Kapitein Sie</role>
+    </credit>
+    <credit>
+      <actor>Van den Hoof, Adriaan</actor>
+      <role>Soldaat van wacht</role>
+    </credit>
+    <credit>
+      <actor>Vermeulen, Benjamin</actor>
+      <role>Kapitein cargo</role>
+    </credit>
+    <credit>
+      <actor>Vos, Bert</actor>
+      <role>Lucas</role>
+    </credit>
+    <credit>
+      <actor>Willems, Jeroen</actor>
+      <role>Hans</role>
+    </credit>
+    <credit>
+      <actor>Willems, Mark</actor>
+      <role>Frans</role>
+    </credit>
+    <credit>
+      <actor>de Boeck, Antje</actor>
+      <role>Yvonne</role>
+    </credit>
+    <credit>
+      <actor>de Boeck, Antje</actor>
+      <role>Yvonne Blaauboer (1998)</role>
+    </credit>
+    <credit>
+      <actor>de Gruyter, Leslie</actor>
+      <role>Borremans</role>
+    </credit>
+    <credit>
+      <actor>de Wachter, Vic</actor>
+      <role>Bob Govaerts (1997-1998)</role>
+    </credit>
+    <credit>
+      <actor>van Asbroeck, Peter</actor>
+      <role>M.P. 1</role>
+    </credit>
+    <credit>
+      <actor>van Dodemont, Howard</actor>
+      <role>Loods</role>
+    </credit>
+    <credit>
+      <actor>van Looy, Nando</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>van den Dool, Bert</actor>
+      <role>Loods</role>
+    </credit>
+    <credit>
+      <actor>van den Dool, Bert</actor>
+      <role>Piloot Eggink</role>
+    </credit>
+    <credit>
+      <actor>van den Eijnde, Lucas</actor>
+      <role>Claude</role>
+    </credit>
+    <credit>
+      <actor>van den Eijnde, Lucas</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>van den Eijnde, Lucas</actor>
+      <role>Walter Heirbaut (1998)</role>
+    </credit>
+    <credit>
+      <actor>van der Streeck, Stef</actor>
+      <role>Mecanicien</role>
+    </credit>
+  </cast>
+<plot>This drama series is about a small helicopter unit of the Belgian Air Force based at Koksijde, on the North Sea coast, which specializes in patrolling and rescue operations at sea. The interactions of the various staff (crew, maintenance, command, logistics, communications, administration...) on the base and some of their personal lives, even elsewhere, also provide various story lines.</plot><url>http://localhost:8983/solr/movie.html?657849</url></doc>

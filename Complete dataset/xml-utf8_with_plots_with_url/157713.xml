@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="157713">
+  <docid>157713</docid>
+  <title>Double or Nothing</title>
+  <year>1952</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Family</genre>
+    <genre>Game-Show</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <writers>
+    <writer>Kane, Joseph Nathan</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>O'Keefe, Walter</actor>
+      <role>Host (1952)</role>
+    </credit>
+    <credit>
+      <actor>Parks, Bert</actor>
+      <role>Host</role>
+    </credit>
+  </cast>
+<plot>Contestants won $10, $20 and $40, then went "double or nothing" on their accumulated $70 for a total of $140. Win or lose, they went on to the "red and white sweepstakes" round - the colors were those of Campbell soups.</plot><url>http://localhost:8983/solr/movie.html?157713</url></doc>

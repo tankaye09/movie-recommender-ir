@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="091310">
+  <docid>091310</docid>
+  <title>Calling Home</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Documentary</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>Arabic</language>
+    <language>Lithuanian</language>
+    <language>Portuguese</language>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">6 November 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="UK">12</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Andrade, Maria Eduarda</director>
+    <director>Starobinas, Marcelo</director>
+  </directors>
+  <producers>
+    <producer>Andrade, Maria Eduarda</producer>
+    <producer>Starobinas, Marcelo</producer>
+  </producers>
+  <composers>
+    <composer>Kny, Julia</composer>
+  </composers>
+<plot>For most Londoners, home is here but also somewhere else, at the other end of a phone line. This short documentary, entirely shot inside phone booths in cheap international call centers, is a gripping, emotional portrait of long distance relationships between immigrants and their families in Asia, Africa, Eastern Europe and South America.</plot><url>http://localhost:8983/solr/movie.html?091310</url></doc>

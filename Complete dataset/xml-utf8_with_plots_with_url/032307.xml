@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="032307">
+  <docid>032307</docid>
+  <title>Almost Famous</title>
+  <year>2008</year>
+  <type>TelevisionMovie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">1 January 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <producers>
+    <producer>Carroll, Liam</producer>
+    <producer>Fishwick, Lisa</producer>
+    <producer>Fishwick, Lisa</producer>
+    <producer>Wright, Caroline (I)</producer>
+    <producer>Tumbridge, Helen</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Zane, Alex</actor>
+      <role>Voiceover</role>
+    </credit>
+  </cast>
+<plot>Alex Zane introduces clips of some of the early embarrassing moments in many a celebrity's fledgling career, including Simon Cowell, Pete Doherty, the Spice Girls, Ant and Dec, Britney Spears, Russell Brand, Dannii Minogue, Peter Kay and many more.</plot><url>http://localhost:8983/solr/movie.html?032307</url></doc>

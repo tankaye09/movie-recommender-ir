@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="557622">
+  <docid>557622</docid>
+  <title>The Film Fan</title>
+  <year>1939</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Brown, Treg</editor>
+  </editors>
+  <genres>
+    <genre>Family</genre>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>newsreel-spoof</keyword>
+    <keyword>porky-pig</keyword>
+    <keyword>surrealism</keyword>
+    <keyword>looney-tunes</keyword>
+    <keyword>william-tell-overture</keyword>
+    <keyword>slingshot</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">16 December 1939</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Clampett, Robert</director>
+  </directors>
+  <producers>
+    <producer>Schlesinger, Leon</producer>
+  </producers>
+  <composers>
+    <composer>Stalling, Carl W.</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Blanc, Mel</actor>
+      <role>Porky Pig/Theater Usher/Cold Promise/Professor Widebottom/Sterling</role>
+    </credit>
+    <credit>
+      <actor>Bletcher, Billy</actor>
+      <role>Narrator/Masked Marvel</role>
+    </credit>
+    <credit>
+      <actor>Bruce, Robert C. (II)</actor>
+      <role>Coming Attractions Narrator</role>
+    </credit>
+  </cast>
+<plot>Porky Pig is on his way to the store to pick up some groceries for his mother when he walks by a sign saying that the local movie theater is having a "kids admitted free" day. The excited Porky rushes in and views a series of spoofs of newsreels, movie trailers, feature films, and even the Lone Ranger!</plot><url>http://localhost:8983/solr/movie.html?557622</url></doc>

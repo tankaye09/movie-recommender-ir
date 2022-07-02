@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="400489">
+  <docid>400489</docid>
+  <title>Norteado</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Sverdfinger, Miguel</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <languages>
+    <language>Spanish</language>
+  </languages>
+  <countries>
+    <country>Spain</country>
+    <country>Mexico</country>
+  </countries>
+  <releasedates>
+    <releasedate country="France">May 2009</releasedate>
+    <releasedate country="Spain">September 2009</releasedate>
+    <releasedate country="Canada">12 September 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">95</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Pérezcano, Rigoberto</director>
+  </directors>
+  <producers>
+    <producer>Castro, Sergio (VII)</producer>
+    <producer>Hernandez-Pons, Hector</producer>
+    <producer>Martinez-Gallardo, Alejandro</producer>
+    <producer>Juan, Edgar San</producer>
+  </producers>
+  <writers>
+    <writer>Juan, Edgar San</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Couoh, Sonia</actor>
+      <role>Cata</role>
+    </credit>
+    <credit>
+      <actor>Cárdenas, Luis (II)</actor>
+      <role>Asensio</role>
+    </credit>
+    <credit>
+      <actor>Laguna, Alicia (I)</actor>
+      <role>Ela</role>
+    </credit>
+    <credit>
+      <actor>Torres, Harold</actor>
+      <role>Andrés</role>
+    </credit>
+  </cast>
+<plot>Andres reaches the Mexican border to cross into the United Sates. There between each attempt, he discovers that Tijuana is a troubled city. As he waits there, Andres is not only confronted with his feelings and what he left behind, but also with those he meets.</plot><url>http://localhost:8983/solr/movie.html?400489</url></doc>

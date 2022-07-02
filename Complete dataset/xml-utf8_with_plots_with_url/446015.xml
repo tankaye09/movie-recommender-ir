@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="446015">
+  <docid>446015</docid>
+  <title>Project U.F.O.</title>
+  <year>1978</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Berman, Michael (I)</editor>
+    <editor>Brandon, Rick</editor>
+    <editor>Gilbert, Lee (I)</editor>
+    <editor>Greer, Richard</editor>
+    <editor>Johnson, Peter C.</editor>
+    <editor>McClelland, Chuck (I)</editor>
+    <editor>Scarpitta, Guy (I)</editor>
+    <editor>Wilson, Albert P.</editor>
+  </editors>
+  <genres>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>cargo-plane</keyword>
+    <keyword>photograph</keyword>
+    <keyword>doctor</keyword>
+    <keyword>acronym-in-title</keyword>
+    <keyword>virginia</keyword>
+    <keyword>mother-superior</keyword>
+    <keyword>south-dakota</keyword>
+    <keyword>laser</keyword>
+    <keyword>government</keyword>
+    <keyword>ocean-liner</keyword>
+    <keyword>hiking</keyword>
+    <keyword>south-pacific</keyword>
+    <keyword>washington-d.c.</keyword>
+    <keyword>student</keyword>
+    <keyword>atlantic-ocean</keyword>
+    <keyword>number-in-title</keyword>
+    <keyword>mental-illness</keyword>
+    <keyword>radiation-burn</keyword>
+    <keyword>vietnam-vet</keyword>
+    <keyword>garage</keyword>
+    <keyword>mine</keyword>
+    <keyword>air-traffic-controller</keyword>
+    <keyword>apartment-building</keyword>
+    <keyword>yukon</keyword>
+    <keyword>threat</keyword>
+    <keyword>forest</keyword>
+    <keyword>crash</keyword>
+    <keyword>flight-school</keyword>
+    <keyword>convent</keyword>
+    <keyword>beach</keyword>
+    <keyword>boy-scout</keyword>
+    <keyword>scoutmaster</keyword>
+    <keyword>magnesium</keyword>
+    <keyword>docudrama</keyword>
+    <keyword>gypsy</keyword>
+    <keyword>nevada</keyword>
+    <keyword>pilot</keyword>
+    <keyword>nun</keyword>
+    <keyword>student-pilot</keyword>
+    <keyword>u.s.-air-force</keyword>
+    <keyword>child</keyword>
+    <keyword>extraterrestrial</keyword>
+    <keyword>pollution</keyword>
+    <keyword>college-professor</keyword>
+    <keyword>home-movie</keyword>
+    <keyword>south-sea-island</keyword>
+    <keyword>message</keyword>
+    <keyword>boyfriend-girlfriend-relationship</keyword>
+    <keyword>duck-hunter</keyword>
+    <keyword>businessman</keyword>
+    <keyword>operation-blue-book</keyword>
+    <keyword>desert</keyword>
+    <keyword>witness</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">17 May 1979</releasedate>
+    <releasedate country="Belgium">20 June 1979</releasedate>
+    <releasedate country="USA">5 July 1979</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Dobkin, Lawrence</director>
+    <director>Donnelly, Dennis</director>
+    <director>Greer, Richard</director>
+    <director>Leeds, Robert M.</director>
+    <director>Moder, Dick</director>
+    <director>Neufeld Jr., Sigmund</director>
+    <director>Patterson, John (III)</director>
+    <director>Quine, Richard (I)</director>
+    <director>Webb, Jack (I)</director>
+  </directors>
+  <producers>
+    <producer>Friedman, Michael (I)</producer>
+    <producer>Leeds, Robert M.</producer>
+    <producer>Levitt, Gene</producer>
+    <producer>Webb, Jack (I)</producer>
+    <producer>Blees, Robert</producer>
+    <producer>Coleman, William (III)</producer>
+    <producer>Coleman, William T. (I)</producer>
+  </producers>
+  <writers>
+    <writer>Alexander, Larry (I)</writer>
+    <writer>Aley, Albert</writer>
+    <writer>Baine, Sean</writer>
+    <writer>Berke, Lester Wm.</writer>
+    <writer>Blees, Robert</writer>
+    <writer>Bloom, Harold Jack</writer>
+    <writer>Burke, Andrew (IV)</writer>
+    <writer>Cook, T.S.</writer>
+    <writer>Dennis, Robert C.</writer>
+    <writer>Donovan, Michael (V)</writer>
+    <writer>Gold, Donald L.</writer>
+    <writer>Hefferman, Greg</writer>
+    <writer>Houghton, Buck</writer>
+    <writer>Moser, James E.</writer>
+    <writer>Rubin, Mann</writer>
+    <writer>Slavin, George F.</writer>
+    <writer>Summers, Dirk Wayne</writer>
+    <writer>Webb, Jack (I)</writer>
+  </writers>
+  <composers>
+    <composer>Brandt, Carl (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Ackerman, Leslie</actor>
+      <role>Laurie Pawling</role>
+    </credit>
+    <credit>
+      <actor>Alan, Lloyd</actor>
+      <role>Jonathan Ames</role>
+    </credit>
+    <credit>
+      <actor>Albee, Josh</actor>
+      <role>Charlie</role>
+    </credit>
+    <credit>
+      <actor>Aletter, Frank</actor>
+      <role>Milton Short</role>
+    </credit>
+    <credit>
+      <actor>Amsterdam, Morey</actor>
+      <role>Ollie Hayes</role>
+    </credit>
+    <credit>
+      <actor>Anderson, John (I)</actor>
+      <role>Captain Bergstad</role>
+    </credit>
+    <credit>
+      <actor>Anderson, S. Newton</actor>
+      <role>Jim Croft</role>
+    </credit>
+    <credit>
+      <actor>Aubuchon, Jacques</actor>
+      <role>Marchand</role>
+    </credit>
+    <credit>
+      <actor>Backes, Alice</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Baer, Parley</actor>
+      <role>Tom Fairly</role>
+    </credit>
+    <credit>
+      <actor>Baker, Wayne (I)</actor>
+      <role>Diver</role>
+    </credit>
+    <credit>
+      <actor>Balinger, Art</actor>
+      <role>Frank Walters</role>
+    </credit>
+    <credit>
+      <actor>Beauchamp, Wayne</actor>
+      <role>Ron</role>
+    </credit>
+    <credit>
+      <actor>Bell, John Terry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bellini, Cal</actor>
+      <role>Peter Ucki</role>
+    </credit>
+    <credit>
+      <actor>Bissell, Whit</actor>
+      <role>Harper</role>
+    </credit>
+    <credit>
+      <actor>Blake, Larry J.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Blake, Michael F.</actor>
+      <role>Clay Munson</role>
+    </credit>
+    <credit>
+      <actor>Bogert, William</actor>
+      <role>Timothy Hooper</role>
+    </credit>
+    <credit>
+      <actor>Bonney, Gail</actor>
+      <role>Passenger</role>
+    </credit>
+    <credit>
+      <actor>Braeden, Eric</actor>
+      <role>Paul Gerard</role>
+    </credit>
+    <credit>
+      <actor>Brandt, Hank</actor>
+      <role>Co. Fox</role>
+    </credit>
+    <credit>
+      <actor>Brinegar, Paul</actor>
+      <role>Arley McCoy</role>
+    </credit>
+    <credit>
+      <actor>Brothers, Joyce</actor>
+      <role>Dr. Paulson</role>
+    </credit>
+    <credit>
+      <actor>Brothers, Joyce</actor>
+      <role>Dr. Siginaw</role>
+    </credit>
+    <credit>
+      <actor>Brown, Lew (II)</actor>
+      <role>Air Controller</role>
+    </credit>
+    <credit>
+      <actor>Brown, Lew (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Brown, Peter (I)</actor>
+      <role>Steve Rollins</role>
+    </credit>
+    <credit>
+      <actor>Burton, Norman</actor>
+      <role>Dr. Phil Greiner</role>
+    </credit>
+    <credit>
+      <actor>Cahill, Barry (I)</actor>
+      <role>Don Barry</role>
+    </credit>
+    <credit>
+      <actor>Cahill, Barry (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Rod</actor>
+      <role>Chief Gaffrey</role>
+    </credit>
+    <credit>
+      <actor>Case, Allen</actor>
+      <role>Commander Bell</role>
+    </credit>
+    <credit>
+      <actor>Chandler, James (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Chester, Colby</actor>
+      <role>Jim</role>
+    </credit>
+    <credit>
+      <actor>Christian, Nat</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coleman, James (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Colton, John (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Corbett, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Gary (I)</actor>
+      <role>Ed Norwood</role>
+    </credit>
+    <credit>
+      <actor>Crosby, Gary (I)</actor>
+      <role>Maynard Timmons</role>
+    </credit>
+    <credit>
+      <actor>Culver, Howard (I)</actor>
+      <role>Dr. Bensinger</role>
+    </credit>
+    <credit>
+      <actor>Culver, Howard (I)</actor>
+      <role>Dr. Vogel</role>
+    </credit>
+    <credit>
+      <actor>Davis, Jim (I)</actor>
+      <role>Earl Clay</role>
+    </credit>
+    <credit>
+      <actor>Deemer, Ed</actor>
+      <role>Radio Operator</role>
+    </credit>
+    <credit>
+      <actor>Delegall, Bob</actor>
+      <role>Captain Harlan</role>
+    </credit>
+    <credit>
+      <actor>Dennis, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Derr, Richard</actor>
+      <role>Darryl Cochran</role>
+    </credit>
+    <credit>
+      <actor>Devry, Elaine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Devry, Elaine</actor>
+      <role>Mrs. Robinson</role>
+    </credit>
+    <credit>
+      <actor>Dexter, Brad</actor>
+      <role>Lew Perrino</role>
+    </credit>
+    <credit>
+      <actor>Donnelly, Deborah</actor>
+      <role>Ellie Hammond</role>
+    </credit>
+    <credit>
+      <actor>Donnelly, Tim (I)</actor>
+      <role>Flight Controller</role>
+    </credit>
+    <credit>
+      <actor>Donnelly, Tim (I)</actor>
+      <role>Stu Hadley</role>
+    </credit>
+    <credit>
+      <actor>Doran, Ann</actor>
+      <role>Annie Butler</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donna (I)</actor>
+      <role>Mrs. Ferrell</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Donna (I)</actor>
+      <role>Wendy</role>
+    </credit>
+    <credit>
+      <actor>Drake, Tom (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dubbins, Don</actor>
+      <role>Charles Hamlin</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Andrew (I)</actor>
+      <role>Dr. O'Neill</role>
+    </credit>
+    <credit>
+      <actor>Duralia, Darlene</actor>
+      <role>Cindy Carroll</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Sam (I)</actor>
+      <role>Herb</role>
+    </credit>
+    <credit>
+      <actor>Eilbacher, Cindy</actor>
+      <role>Marcy Corning</role>
+    </credit>
+    <credit>
+      <actor>Eisley, Anthony</actor>
+      <role>Charles Lundman</role>
+    </credit>
+    <credit>
+      <actor>Erickson, Leif</actor>
+      <role>Frederick Carlson</role>
+    </credit>
+    <credit>
+      <actor>Ferdin, Pamelyn</actor>
+      <role>Cindy Harper</role>
+    </credit>
+    <credit>
+      <actor>Findlater, John (I)</actor>
+      <role>Lt. Gary McNair</role>
+    </credit>
+    <credit>
+      <actor>Firestone, Eddie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Foster, Linda (I)</actor>
+      <role>Janet Ryerson</role>
+    </credit>
+    <credit>
+      <actor>Foster, Linda (I)</actor>
+      <role>Kristie Shields</role>
+    </credit>
+    <credit>
+      <actor>Franklin, Pamela</actor>
+      <role>Sister Lucy Ryker</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Joan (I)</actor>
+      <role>Peggy Williams</role>
+    </credit>
+    <credit>
+      <actor>Frizzell, Lou</actor>
+      <role>Alex Marshall</role>
+    </credit>
+    <credit>
+      <actor>Frizzell, Lou</actor>
+      <role>Luke Primrose</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Scott (I)</actor>
+      <role>Andy</role>
+    </credit>
+    <credit>
+      <actor>Geary, Anthony</actor>
+      <role>Darryl Biggs</role>
+    </credit>
+    <credit>
+      <actor>Ging, Jack</actor>
+      <role>Captain Roy Gordon</role>
+    </credit>
+    <credit>
+      <actor>Ginty, Robert</actor>
+      <role>Jeff Peters</role>
+    </credit>
+    <credit>
+      <actor>Green, Bradley</actor>
+      <role>Terry Robinson</role>
+    </credit>
+    <credit>
+      <actor>Gregg, Virginia</actor>
+      <role>Greta Marshall</role>
+    </credit>
+    <credit>
+      <actor>Gregg, Virginia</actor>
+      <role>Sister Superior</role>
+    </credit>
+    <credit>
+      <actor>Grimm, Maria (I)</actor>
+      <role>Michelle Tanner</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Kim</actor>
+      <role>Diane Armstrong</role>
+    </credit>
+    <credit>
+      <actor>Hedison, David</actor>
+      <role>Frederick Flanagan</role>
+    </credit>
+    <credit>
+      <actor>Hogan, Jack (I)</actor>
+      <role>Max Stacey</role>
+    </credit>
+    <credit>
+      <actor>Holland, Bert</actor>
+      <role>Al Henshaw</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Fred (I)</actor>
+      <role>Captain Moran</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Fred (I)</actor>
+      <role>Chuck Ryerson</role>
+    </credit>
+    <credit>
+      <actor>Holliday, Fred (I)</actor>
+      <role>Co-Pilot</role>
+    </credit>
+    <credit>
+      <actor>Homeier, Skip</actor>
+      <role>Lt. Ed Coogan</role>
+    </credit>
+    <credit>
+      <actor>Horton, Winter</actor>
+      <role>Paul Radcliffe</role>
+    </credit>
+    <credit>
+      <actor>House, Daina</actor>
+      <role>Francine Roth</role>
+    </credit>
+    <credit>
+      <actor>Howat, Clark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Howell, Hoke</actor>
+      <role>Burke</role>
+    </credit>
+    <credit>
+      <actor>Hudis, Stephen R.</actor>
+      <role>Jerry Daniels</role>
+    </credit>
+    <credit>
+      <actor>Hunter, Kim (I)</actor>
+      <role>Samantha</role>
+    </credit>
+    <credit>
+      <actor>Hylands, Scott</actor>
+      <role>Lt. Paul Staley</role>
+    </credit>
+    <credit>
+      <actor>Jameson, Joyce</actor>
+      <role>Ella Primrose</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Claude (I)</actor>
+      <role>Martin Carlson</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Melodie</actor>
+      <role>Aileen Jenkins</role>
+    </credit>
+    <credit>
+      <actor>Jones, Henry (I)</actor>
+      <role>Harold Moon</role>
+    </credit>
+    <credit>
+      <actor>Jordan, William (I)</actor>
+      <role>Major Jake Gatlin</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Elaine (I)</actor>
+      <role>Theresa Ball</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (II)</actor>
+      <role>Clara</role>
+    </credit>
+    <credit>
+      <actor>Keach, Stacy</actor>
+      <role>Mr. Mathis</role>
+    </credit>
+    <credit>
+      <actor>Keen, Noah</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Sean (II)</actor>
+      <role>Mark</role>
+    </credit>
+    <credit>
+      <actor>King, Aldine</actor>
+      <role>Libby Virdon</role>
+    </credit>
+    <credit>
+      <actor>King, Aldine</actor>
+      <role>Libby Virdon</role>
+    </credit>
+    <credit>
+      <actor>King, Aldine</actor>
+      <role>Libby Virdon</role>
+    </credit>
+    <credit>
+      <actor>King, Maggie (II)</actor>
+      <role>Jeannie Carlson</role>
+    </credit>
+    <credit>
+      <actor>Kjellin, Alf</actor>
+      <role>Carl Youngstrom</role>
+    </credit>
+    <credit>
+      <actor>Kristen, Marta</actor>
+      <role>Anita</role>
+    </credit>
+    <credit>
+      <actor>Larson, Darrell</actor>
+      <role>Danny Peterson</role>
+    </credit>
+    <credit>
+      <actor>Larussa, Adrienne</actor>
+      <role>Cynthia Staley</role>
+    </credit>
+    <credit>
+      <actor>Leek, Tiiu</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lockhart, Anne (I)</actor>
+      <role>Ann Booth</role>
+    </credit>
+    <credit>
+      <actor>Luna, Barbara (I)</actor>
+      <role>Helen Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Mantooth, Randolph</actor>
+      <role>Tim Jenkins</role>
+    </credit>
+    <credit>
+      <actor>Mars, Kenneth</actor>
+      <role>Gus Shaftner</role>
+    </credit>
+    <credit>
+      <actor>Martin, Jared (I)</actor>
+      <role>Dr. Jon Robinson</role>
+    </credit>
+    <credit>
+      <actor>Mason, Marlyn</actor>
+      <role>Donna Sanders</role>
+    </credit>
+    <credit>
+      <actor>May, Donald</actor>
+      <role>Richard McLane</role>
+    </credit>
+    <credit>
+      <actor>Mayo, Raymond</actor>
+      <role>Helmsman</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Lin</actor>
+      <role>Flight Control Officer</role>
+    </credit>
+    <credit>
+      <actor>McLean, Bill</actor>
+      <role>Lew</role>
+    </credit>
+    <credit>
+      <actor>McWilliams, Caroline</actor>
+      <role>Eve Summers</role>
+    </credit>
+    <credit>
+      <actor>Meadows, Jayne</actor>
+      <role>Marlene Baker</role>
+    </credit>
+    <credit>
+      <actor>Miller, Allan (I)</actor>
+      <role>Bill Gillette</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Cameron (I)</actor>
+      <role>Donald Worth</role>
+    </credit>
+    <credit>
+      <actor>Morick, Dave</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mulhern, Scott</actor>
+      <role>Sgt. Eddie Larkin</role>
+    </credit>
+    <credit>
+      <actor>Niven, Kip</actor>
+      <role>John Tanner</role>
+    </credit>
+    <credit>
+      <actor>Norris, Buckley (I)</actor>
+      <role>Dave Chapman</role>
+    </credit>
+    <credit>
+      <actor>O'Brien, Richard (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Olson, James</actor>
+      <role>Dr. Ted Sanders</role>
+    </credit>
+    <credit>
+      <actor>Overton, Bill</actor>
+      <role>Capt. Ray Graham</role>
+    </credit>
+    <credit>
+      <actor>Part, Brian</actor>
+      <role>Sam Robbins</role>
+    </credit>
+    <credit>
+      <actor>Patrick, Steve (III)</actor>
+      <role>Chris Sherwood</role>
+    </credit>
+    <credit>
+      <actor>Patten, Robert (I)</actor>
+      <role>Captain Selvidge</role>
+    </credit>
+    <credit>
+      <actor>Patten, Robert (I)</actor>
+      <role>Colonel Davis</role>
+    </credit>
+    <credit>
+      <actor>Patten, Robert (I)</actor>
+      <role>Felix Webster</role>
+    </credit>
+    <credit>
+      <actor>Pera, Radames</actor>
+      <role>Eddie</role>
+    </credit>
+    <credit>
+      <actor>Perrin, Vic</actor>
+      <role>Pete</role>
+    </credit>
+    <credit>
+      <actor>Perrin, Vic</actor>
+      <role>Rashoon</role>
+    </credit>
+    <credit>
+      <actor>Perry, Rod (I)</actor>
+      <role>Robert Lee Armstrong</role>
+    </credit>
+    <credit>
+      <actor>Picerni, Paul</actor>
+      <role>Ed Mason</role>
+    </credit>
+    <credit>
+      <actor>Pierce, Robert (II)</actor>
+      <role>French cop</role>
+    </credit>
+    <credit>
+      <actor>Renard, Ken</actor>
+      <role>Manuku</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, William (I)</actor>
+      <role>Roger Forman</role>
+    </credit>
+    <credit>
+      <actor>Richards, Lou (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Robot, Robby the</actor>
+      <role>Robot</role>
+    </credit>
+    <credit>
+      <actor>Ross, Don (I)</actor>
+      <role>Frank Marco</role>
+    </credit>
+    <credit>
+      <actor>Rudley, Herbert</actor>
+      <role>Marsden</role>
+    </credit>
+    <credit>
+      <actor>Ruiz, Isaac</actor>
+      <role>Capt. Calvin Harlan</role>
+    </credit>
+    <credit>
+      <actor>Ruskin, Joseph</actor>
+      <role>Gist</role>
+    </credit>
+    <credit>
+      <actor>Santiago, Michael</actor>
+      <role>Hotel Clerk</role>
+    </credit>
+    <credit>
+      <actor>Scrimm, Angus</actor>
+      <role>Malan</role>
+    </credit>
+    <credit>
+      <actor>Shearer, Miles</actor>
+      <role>Lt. Col. Hutton</role>
+    </credit>
+    <credit>
+      <actor>Sheldon, Jack (I)</actor>
+      <role>Mike Kirby</role>
+    </credit>
+    <credit>
+      <actor>Sinutko, Shane</actor>
+      <role>Timmy Delaney</role>
+    </credit>
+    <credit>
+      <actor>Slade, Mark (I)</actor>
+      <role>Roy Layton</role>
+    </credit>
+    <credit>
+      <actor>Smith, Jim B.</actor>
+      <role>Chief Morton</role>
+    </credit>
+    <credit>
+      <actor>Smith, Jim B.</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>Emerson Keyes</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>George La Tourette</role>
+    </credit>
+    <credit>
+      <actor>Soule, Olan</actor>
+      <role>Prof. Diedler</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Craig (I)</actor>
+      <role>Colonel Delaney</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Thomas A.</actor>
+      <role>Roland Highbie</role>
+    </credit>
+    <credit>
+      <actor>Stohl, Hank</actor>
+      <role>Pilot</role>
+    </credit>
+    <credit>
+      <actor>Stone, Ezra</actor>
+      <role>Prof. Hollander</role>
+    </credit>
+    <credit>
+      <actor>Stratton, W.K.</actor>
+      <role>Doug Deweller</role>
+    </credit>
+    <credit>
+      <actor>Strong, Michael (I)</actor>
+      <role>Charles Robinson</role>
+    </credit>
+    <credit>
+      <actor>Swaim, Caskey</actor>
+      <role>Staff Sergeant Harry Fitz</role>
+    </credit>
+    <credit>
+      <actor>Tampjoya, Sam</actor>
+      <role>Timi</role>
+    </credit>
+    <credit>
+      <actor>Thomas, Scott (I)</actor>
+      <role>Paul Marshall</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Dr. Forrest</role>
+    </credit>
+    <credit>
+      <actor>Throne, Malachi</actor>
+      <role>Prof. Lazlo</role>
+    </credit>
+    <credit>
+      <actor>Tigar, Kenneth</actor>
+      <role>Ron Denby</role>
+    </credit>
+    <credit>
+      <actor>Tuerpe, Paul</actor>
+      <role>Sam Carver</role>
+    </credit>
+    <credit>
+      <actor>Watson, David (I)</actor>
+      <role>Monsignor Killian</role>
+    </credit>
+    <credit>
+      <actor>Watson, Mills</actor>
+      <role>Barney Tomlinson</role>
+    </credit>
+    <credit>
+      <actor>Wayland, Len</actor>
+      <role>Operations Director</role>
+    </credit>
+    <credit>
+      <actor>Webb, Jack (I)</actor>
+      <role>Announcer</role>
+    </credit>
+    <credit>
+      <actor>Wellman Jr., William</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wiggins, Russell</actor>
+      <role>Andy McMurtry</role>
+    </credit>
+    <credit>
+      <actor>Winter, Edward</actor>
+      <role>Brad Everett</role>
+    </credit>
+    <credit>
+      <actor>Winter, Edward</actor>
+      <role>Captain Ben Ryan</role>
+    </credit>
+    <credit>
+      <actor>Woods, Christopher (I)</actor>
+      <role>Capt. William Coleman</role>
+    </credit>
+    <credit>
+      <actor>Woods, Christopher (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Woods, Christopher (I)</actor>
+      <role>Lt. Carmichael</role>
+    </credit>
+    <credit>
+      <actor>Woods, Christopher (I)</actor>
+      <role>Tom Pederson</role>
+    </credit>
+    <credit>
+      <actor>Woodward, Morgan</actor>
+      <role>Carlton Tanner</role>
+    </credit>
+    <credit>
+      <actor>Workman, C. Lindsay</actor>
+      <role>Benjamin Talbot, M.D.</role>
+    </credit>
+    <credit>
+      <actor>Yanez, David</actor>
+      <role>Pauley Ramirez</role>
+    </credit>
+    <credit>
+      <actor>Young, Buck (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Young, Buck (I)</actor>
+      <role>Major Birnham</role>
+    </credit>
+    <credit>
+      <actor>de Vargas, Valentin</actor>
+      <role>Sheriff Daiz</role>
+    </credit>
+  </cast>
+<plot>In the style of Jack Webb (Executive Producer), stories were taken from the USAF's "Project Bluebook" files and dramatized. The producer of the program, Col. William T. Coleman, USAF (Ret.) was the former head of "Project Bluebook".</plot><url>http://localhost:8983/solr/movie.html?446015</url></doc>

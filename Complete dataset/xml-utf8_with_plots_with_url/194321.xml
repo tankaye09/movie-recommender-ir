@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="194321">
+  <docid>194321</docid>
+  <title>Film(lode)</title>
+  <year>2000</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>dawson, deco</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <countries>
+    <country>Canada</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Canada">13 September 2000</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">13</runningtime>
+  </runningtimes>
+  <directors>
+    <director>dawson, deco</director>
+  </directors>
+  <producers>
+    <producer>dawson, deco</producer>
+  </producers>
+  <writers>
+    <writer>dawson, deco</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Nattrass, Carson</actor>
+      <role>Miner Seven</role>
+    </credit>
+    <credit>
+      <actor>Neale, Brent</actor>
+      <role>Miner Six</role>
+    </credit>
+  </cast>
+<plot>An isolated and abandoned mine. Deep below the barren surface, two men agitate the infinitely satisfied bellows of the earth. Confined to a daily life of eat, sleep and labour the workers seek to escape their persistent and remarkably similar visions.</plot><url>http://localhost:8983/solr/movie.html?194321</url></doc>

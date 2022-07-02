@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="432713">
+  <docid>432713</docid>
+  <title>Pikovaya dama</title>
+  <year>1910</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+    <genre>Fantasy</genre>
+  </genres>
+  <languages>
+    <language>Russian</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Russia</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Russia">30 November 1910</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">15</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Chardynin, Pyotr</director>
+  </directors>
+  <producers>
+    <producer>Khanzhonkov, Aleksandr</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Biryukov, Pavel (I)</actor>
+      <role>Germann</role>
+    </credit>
+    <credit>
+      <actor>Goncharova, Aleksandra</actor>
+      <role>Liza</role>
+    </credit>
+    <credit>
+      <actor>Gromov, Andrej</actor>
+      <role>Tomskiy</role>
+    </credit>
+  </cast>
+<plot>Based on Pushkin's short story: When his friends play faro, German always enjoys watching, but he never gambles himself. One day, as he is watching their game, he learns that an elderly countess staying nearby is said to possess a secret for winning a fortune at the game. German is determined to learn this secret from her, and he initiates a romance with her grand-daughter Liza, in order to improve his chances.</plot><url>http://localhost:8983/solr/movie.html?432713</url></doc>

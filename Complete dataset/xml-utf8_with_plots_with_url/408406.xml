@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="408406">
+  <docid>408406</docid>
+  <title>Oh, My Operation</title>
+  <year>1932</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">16 January 1932</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">10</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cozine, Ray</director>
+  </directors>
+  <writers>
+    <writer>Burns, George</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Allen, Gracie</actor>
+      <role>Nurse Allen</role>
+    </credit>
+    <credit>
+      <actor>Burns, George</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Clute, Chester</actor>
+      <role>Dr. Cookingham</role>
+    </credit>
+  </cast>
+<plot>George is taken to the hospital in mistake for an accident victim. After his needless operation, he meets Nurse Gracie, who adds insanity to injury.</plot><url>http://localhost:8983/solr/movie.html?408406</url></doc>

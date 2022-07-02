@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="238315">
+  <docid>238315</docid>
+  <title>Hi, Grandma!</title>
+  <year>1958</year>
+  <type>TelevisionMovie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Horror</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">7 May 1958</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Oboler, Arch</director>
+  </directors>
+  <producers>
+    <producer>Fairbanks, Jerry</producer>
+    <producer>Oboler, Arch</producer>
+  </producers>
+  <writers>
+    <writer>Oboler, Arch</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Oboler, Arch</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>A young mechanical genius invents a recording device that can play back the voices of the dead. Here, the voice is that of the genius's evil-dead grandmother. A woman whose malign influence scarred her own children for life and corrupted the innocence of her grandchildren.</plot><url>http://localhost:8983/solr/movie.html?238315</url></doc>

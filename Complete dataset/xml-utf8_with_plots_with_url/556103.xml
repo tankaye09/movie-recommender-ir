@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="556103">
+  <docid>556103</docid>
+  <title>The Express</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>McKinley, Padraic</editor>
+    <editor>Steinkamp, William (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Sport</genre>
+    <genre>Biography</genre>
+  </genres>
+  <keywords>
+    <keyword>nonlinear-timeline</keyword>
+    <keyword>1960s</keyword>
+    <keyword>1950s</keyword>
+    <keyword>african-american</keyword>
+    <keyword>syracuse-university</keyword>
+    <keyword>1940s</keyword>
+    <keyword>coach</keyword>
+    <keyword>student-athlete</keyword>
+    <keyword>american-football</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Germany</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Australia">PG</certificate>
+    <certificate country="New Zealand">PG</certificate>
+    <certificate country="USA">PG</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Argentina">3 June 2009</releasedate>
+    <releasedate country="Brazil">1 April 2009</releasedate>
+    <releasedate country="UK">5 December 2008</releasedate>
+    <releasedate country="Iceland">15 October 2009</releasedate>
+    <releasedate country="USA">10 October 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">130</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fleder, Gary</director>
+  </directors>
+  <producers>
+    <producer>Dauchy, Derek</producer>
+    <producer>Saccani, Damien</producer>
+    <producer>Swerdlow, Ezra</producer>
+    <producer>Davis, John (I)</producer>
+  </producers>
+  <writers>
+    <writer>Gallagher, Robert (II)</writer>
+    <writer>Leavitt, Charles (I)</writer>
+  </writers>
+  <composers>
+    <composer>Isham, Mark</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adloff, Nathan</actor>
+      <role>Student</role>
+    </credit>
+    <credit>
+      <actor>Anderson, John (XLIX)</actor>
+      <role>Cotton Bowl Referee</role>
+    </credit>
+    <credit>
+      <actor>Aparo, Carlo</actor>
+      <role>Sideline Spectator</role>
+    </credit>
+    <credit>
+      <actor>Atchison, Billy</actor>
+      <role>Syracuse Football Player #25</role>
+    </credit>
+    <credit>
+      <actor>Baker, Lance (II)</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Beck, Laurel</actor>
+      <role>Nurse</role>
+    </credit>
+    <credit>
+      <actor>Beharie, Nicole</actor>
+      <role>Sarah Ward</role>
+    </credit>
+    <credit>
+      <actor>Bell, Christopher Scott</actor>
+      <role>Syracuse Football Player</role>
+    </credit>
+    <credit>
+      <actor>Bicicchi, Joey</actor>
+      <role>Syracuse Football player</role>
+    </credit>
+    <credit>
+      <actor>Bickle, Alex</actor>
+      <role>Football Fan</role>
+    </credit>
+    <credit>
+      <actor>Black, Chaz</actor>
+      <role>Jimmy Saxton</role>
+    </credit>
+    <credit>
+      <actor>Boland, Brian</actor>
+      <role>Cleveland Browns Asst. Coach</role>
+    </credit>
+    <credit>
+      <actor>Boseman, Chadwick</actor>
+      <role>Floyd Little</role>
+    </credit>
+    <credit>
+      <actor>Boughton, Daniel</actor>
+      <role>Football Player/Dancer/Student/Fan</role>
+    </credit>
+    <credit>
+      <actor>Brack, Suzy</actor>
+      <role>Syracuse Spectator</role>
+    </credit>
+    <credit>
+      <actor>Bradecich, Mike</actor>
+      <role>Tom Martin</role>
+    </credit>
+    <credit>
+      <actor>Brooks, Lonnie</actor>
+      <role>Singer</role>
+    </credit>
+    <credit>
+      <actor>Brookstien, Charlotte</actor>
+      <role>Football Fan/Heckler/Passerby</role>
+    </credit>
+    <credit>
+      <actor>Brown, Clancy (I)</actor>
+      <role>Roy Simmons Sr.</role>
+    </credit>
+    <credit>
+      <actor>Brown, Rob (VI)</actor>
+      <role>Ernie Davis</role>
+    </credit>
+    <credit>
+      <actor>Canipe, Ridge</actor>
+      <role>Gang Leader</role>
+    </credit>
+    <credit>
+      <actor>Carnahan, Maggie</actor>
+      <role>Avid Fan of the Opposition</role>
+    </credit>
+    <credit>
+      <actor>Cesario, Louie</actor>
+      <role>Gang Member #2</role>
+    </credit>
+    <credit>
+      <actor>Christian, Jeff (II)</actor>
+      <role>Syracuse Trainer</role>
+    </credit>
+    <credit>
+      <actor>Clevenger, Kelli</actor>
+      <role>Game spectator</role>
+    </credit>
+    <credit>
+      <actor>Cole, Victor (I)</actor>
+      <role>Hotel Worker</role>
+    </credit>
+    <credit>
+      <actor>Constantine, Evyenia</actor>
+      <role>Syracuse student</role>
+    </credit>
+    <credit>
+      <actor>Coppock, Chet</actor>
+      <role>PA Announcer</role>
+    </credit>
+    <credit>
+      <actor>Cowan, Chris (VI)</actor>
+      <role>Boston College Linebacker</role>
+    </credit>
+    <credit>
+      <actor>Cullent, Robert</actor>
+      <role>Petie</role>
+    </credit>
+    <credit>
+      <actor>Darlow, David</actor>
+      <role>Cotton Bowl Official</role>
+    </credit>
+    <credit>
+      <actor>Derence, Sam</actor>
+      <role>Sports Reporter</role>
+    </credit>
+    <credit>
+      <actor>Dick, William (I)</actor>
+      <role>Heisman Man in Suit</role>
+    </credit>
+    <credit>
+      <actor>Drew, Kenya</actor>
+      <role>Pretty Girl</role>
+    </credit>
+    <credit>
+      <actor>Dutton, Charles S.</actor>
+      <role>Willie 'Pops' Davis</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Aunjanue</actor>
+      <role>Marie Davis</role>
+    </credit>
+    <credit>
+      <actor>Ellis, Nelsan</actor>
+      <role>Will Davis, Jr.</role>
+    </credit>
+    <credit>
+      <actor>Ellman, Lucas</actor>
+      <role>Squirrel</role>
+    </credit>
+    <credit>
+      <actor>Farrell, Chris (III)</actor>
+      <role>W. Virginia Sportswriter</role>
+    </credit>
+    <credit>
+      <actor>Feinberg, Shoshi</actor>
+      <role>Avid Fan of the Opposition</role>
+    </credit>
+    <credit>
+      <actor>Flannery, Dan</actor>
+      <role>Hot Shot</role>
+    </credit>
+    <credit>
+      <actor>Fliesler, Ellen</actor>
+      <role>Spectator, Passerby</role>
+    </credit>
+    <credit>
+      <actor>Frederick, Jason (VI)</actor>
+      <role>Football Player - Syracuse #67</role>
+    </credit>
+    <credit>
+      <actor>Gelker, Garth</actor>
+      <role>Holy Cross Linebacker</role>
+    </credit>
+    <credit>
+      <actor>Gil, Alex</actor>
+      <role>Football Game Spectator</role>
+    </credit>
+    <credit>
+      <actor>Gjokaj, Enver</actor>
+      <role>Dave Sarette</role>
+    </credit>
+    <credit>
+      <actor>Graf, Allan</actor>
+      <role>W. Virginia Referee</role>
+    </credit>
+    <credit>
+      <actor>Graf, Derek</actor>
+      <role>Maury Youmans</role>
+    </credit>
+    <credit>
+      <actor>Grimm, Tim</actor>
+      <role>W. Virginia Coach</role>
+    </credit>
+    <credit>
+      <actor>Grush, Stephen Louis</actor>
+      <role>Gang Member #1</role>
+    </credit>
+    <credit>
+      <actor>Hargrove, Michael</actor>
+      <role>Arthur</role>
+    </credit>
+    <credit>
+      <actor>Hartford, Ryan</actor>
+      <role>Syracuse Cheerleader</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Laroyce</actor>
+      <role>Art Baker</role>
+    </credit>
+    <credit>
+      <actor>Hawkins, Ronald A.</actor>
+      <role>Syracuse Announcer</role>
+    </credit>
+    <credit>
+      <actor>Hawksley, Craig</actor>
+      <role>George Marshall</role>
+    </credit>
+    <credit>
+      <actor>Heilmann, Naomi</actor>
+      <role>Majorette</role>
+    </credit>
+    <credit>
+      <actor>Henson, Darrin Dewitt</actor>
+      <role>Jim Brown</role>
+    </credit>
+    <credit>
+      <actor>Henzel, Richard</actor>
+      <role>W. Virginia Booster</role>
+    </credit>
+    <credit>
+      <actor>Hillman, Kyle</actor>
+      <role>Syracuse Player #57</role>
+    </credit>
+    <credit>
+      <actor>Hodges, Jordon</actor>
+      <role>Weisman - Syracuse Football Player</role>
+    </credit>
+    <credit>
+      <actor>Holmes, J. Alec</actor>
+      <role>Sportscaster/Reporter</role>
+    </credit>
+    <credit>
+      <actor>House, Leonard</actor>
+      <role>Alan Touissant</role>
+    </credit>
+    <credit>
+      <actor>Houston, Gary</actor>
+      <role>Marty Harrigan</role>
+    </credit>
+    <credit>
+      <actor>Howard, Walker</actor>
+      <role>Robert Field</role>
+    </credit>
+    <credit>
+      <actor>Hoyles, Regina</actor>
+      <role>Sister</role>
+    </credit>
+    <credit>
+      <actor>James, Doug (II)</actor>
+      <role>CBS Announcer</role>
+    </credit>
+    <credit>
+      <actor>Jarchow, Bruce</actor>
+      <role>Dr. Hewlett</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Howie</actor>
+      <role>W. Virginia Heckler #1</role>
+    </credit>
+    <credit>
+      <actor>Jones, Evan (I)</actor>
+      <role>Roger 'Hound Dog' Davis</role>
+    </credit>
+    <credit>
+      <actor>Jones, Justin (XII)</actor>
+      <role>Young Will</role>
+    </credit>
+    <credit>
+      <actor>Kaliebe, Bob</actor>
+      <role>Reporter - Syracuse Daily News</role>
+    </credit>
+    <credit>
+      <actor>Keiser, Mark</actor>
+      <role>Syracuse Spectator</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Kevin R.</actor>
+      <role>Man in Dark Suit</role>
+    </credit>
+    <credit>
+      <actor>Klinzing, Guy</actor>
+      <role>Chancellor Tully</role>
+    </credit>
+    <credit>
+      <actor>Kluge, Sharon</actor>
+      <role>Wealthy wife of alumni</role>
+    </credit>
+    <credit>
+      <actor>Kolessar, Jacqueleen</actor>
+      <role>Student</role>
+    </credit>
+    <credit>
+      <actor>Kosik, Thomas</actor>
+      <role>Assistant coach</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Robert (V)</actor>
+      <role>Heckler</role>
+    </credit>
+    <credit>
+      <actor>Kress, Don</actor>
+      <role>Times Reporter/Photographer</role>
+    </credit>
+    <credit>
+      <actor>Krueger, Tim (I)</actor>
+      <role>Reporter - Look Magazine</role>
+    </credit>
+    <credit>
+      <actor>Kupferer, Keith</actor>
+      <role>Small Fry Coach</role>
+    </credit>
+    <credit>
+      <actor>Labus, Michael</actor>
+      <role>Cleveland Browns Quarterback</role>
+    </credit>
+    <credit>
+      <actor>Larsen-Silva, Liz</actor>
+      <role>West Virginia Fan</role>
+    </credit>
+    <credit>
+      <actor>Larson, Laurie</actor>
+      <role>Proprietor</role>
+    </credit>
+    <credit>
+      <actor>Law, Maximilian</actor>
+      <role>Narrator</role>
+    </credit>
+    <credit>
+      <actor>Lisson, Stu</actor>
+      <role>Man in a Suit</role>
+    </credit>
+    <credit>
+      <actor>Louachai, Jamie</actor>
+      <role>Cheerleader</role>
+    </credit>
+    <credit>
+      <actor>Lyubomirova, Angelina</actor>
+      <role>Band Member</role>
+    </credit>
+    <credit>
+      <actor>Mahoney, Brian (I)</actor>
+      <role>Buffalo Doctor</role>
+    </credit>
+    <credit>
+      <actor>Malczyk, Mike</actor>
+      <role>Penn State Linebacker</role>
+    </credit>
+    <credit>
+      <actor>Mann, Alexandra (II)</actor>
+      <role>Syracuse Fan</role>
+    </credit>
+    <credit>
+      <actor>Martin, Justin (III)</actor>
+      <role>Young Ernie Davis</role>
+    </credit>
+    <credit>
+      <actor>Martino, J.R.</actor>
+      <role>Syracuse Football Player (#86)</role>
+    </credit>
+    <credit>
+      <actor>Mazurk, Joseph</actor>
+      <role>Reporter in Cotton Bowl press box</role>
+    </credit>
+    <credit>
+      <actor>McCarthy, Danny (III)</actor>
+      <role>Bill Bell</role>
+    </credit>
+    <credit>
+      <actor>McEnany, Krista</actor>
+      <role>Texas Fan</role>
+    </credit>
+    <credit>
+      <actor>Miller, Omar Benson</actor>
+      <role>Jack Buckley</role>
+    </credit>
+    <credit>
+      <actor>Naebig, Kurt</actor>
+      <role>Reporter #2 (Team Bus)</role>
+    </credit>
+    <credit>
+      <actor>Odor, Josh</actor>
+      <role>Darrell Royal</role>
+    </credit>
+    <credit>
+      <actor>Osinski, Maximilian</actor>
+      <role>Gerhard Schwedes</role>
+    </credit>
+    <credit>
+      <actor>Perry Jr., Ernest</actor>
+      <role>Preacher</role>
+    </credit>
+    <credit>
+      <actor>Quaid, Dennis</actor>
+      <role>Ben Schwartzwalder</role>
+    </credit>
+    <credit>
+      <actor>Queen, Chad (II)</actor>
+      <role>Syracuse Player</role>
+    </credit>
+    <credit>
+      <actor>Ross, Chelcie</actor>
+      <role>Lew Andreas</role>
+    </credit>
+    <credit>
+      <actor>Roth, F. David</actor>
+      <role>Photographer</role>
+    </credit>
+    <credit>
+      <actor>Rubinek, Saul</actor>
+      <role>Art Modell</role>
+    </credit>
+    <credit>
+      <actor>Sandifer, Henry</actor>
+      <role>Syracuse Student</role>
+    </credit>
+    <credit>
+      <actor>Scafidi, Mark</actor>
+      <role>Syracuse/Cleveland Browns Football Player</role>
+    </credit>
+    <credit>
+      <actor>Schmidtke, Ned</actor>
+      <role>Bill Clark</role>
+    </credit>
+    <credit>
+      <actor>Sedlock, Gary</actor>
+      <role>Photographer/News reel camera operator</role>
+    </credit>
+    <credit>
+      <actor>Settle, Matthew (I)</actor>
+      <role>President Kennedy</role>
+    </credit>
+    <credit>
+      <actor>Shelley, Tom</actor>
+      <role>Texas/Syracuse Football Player</role>
+    </credit>
+    <credit>
+      <actor>Sinopoli, Joe</actor>
+      <role>Gang Member</role>
+    </credit>
+    <credit>
+      <actor>Skewes, Michael</actor>
+      <role>Cotton Bowl Referee</role>
+    </credit>
+    <credit>
+      <actor>Smaron, Ed</actor>
+      <role>Play-by-Play Announcer</role>
+    </credit>
+    <credit>
+      <actor>Smith Jr., Eddie Bo</actor>
+      <role>Dallas Bellhop</role>
+    </credit>
+    <credit>
+      <actor>Smith, Philip Rayburn</actor>
+      <role>Business Lawyer</role>
+    </credit>
+    <credit>
+      <actor>Sogliuzzo, André</actor>
+      <role>President Kennedy</role>
+    </credit>
+    <credit>
+      <actor>Stark, Kevin (I)</actor>
+      <role>Reporter #1 (Team Bus)</role>
+    </credit>
+    <credit>
+      <actor>Stevens, Chad L.</actor>
+      <role>Peter Logan</role>
+    </credit>
+    <credit>
+      <actor>Still, Jeff</actor>
+      <role>Al Malette</role>
+    </credit>
+    <credit>
+      <actor>Stolte, Christian</actor>
+      <role>Dan Boyle</role>
+    </credit>
+    <credit>
+      <actor>Stults, Geoff</actor>
+      <role>Bob Lundy</role>
+    </credit>
+    <credit>
+      <actor>Styx, Jimmy</actor>
+      <role>Syracuse Player</role>
+    </credit>
+    <credit>
+      <actor>Sullivan, Christopher (III)</actor>
+      <role>Assistant All-Star Coach</role>
+    </credit>
+    <credit>
+      <actor>Szaflik, Kevin</actor>
+      <role>Texas Fan - Reporter</role>
+    </credit>
+    <credit>
+      <actor>Thirus, Keir</actor>
+      <role>Bob Ferguson</role>
+    </credit>
+    <credit>
+      <actor>Thurner, John</actor>
+      <role>Reporter - Life Magazine</role>
+    </credit>
+    <credit>
+      <actor>Tolli, Barry</actor>
+      <role>Elmira Free Academy Quarterback</role>
+    </credit>
+    <credit>
+      <actor>Trissel, Matt</actor>
+      <role>Clay Taylor</role>
+    </credit>
+    <credit>
+      <actor>Turika, Adrian</actor>
+      <role>Boston college football player</role>
+    </credit>
+    <credit>
+      <actor>Turner, Paul (II)</actor>
+      <role>Longhorn Scout</role>
+    </credit>
+    <credit>
+      <actor>Uecker, Rick</actor>
+      <role>Middle-Aged Man</role>
+    </credit>
+    <credit>
+      <actor>Ullrich, Mike (II)</actor>
+      <role>Franklin</role>
+    </credit>
+    <credit>
+      <actor>Van Lear, Phillip Edward</actor>
+      <role>NAACP Member</role>
+    </credit>
+    <credit>
+      <actor>Vogel, Torrey</actor>
+      <role>Brokaw</role>
+    </credit>
+    <credit>
+      <actor>Wagner, Chuck (III)</actor>
+      <role>Syracuse Strength Coach</role>
+    </credit>
+    <credit>
+      <actor>Walker, Edwin M.</actor>
+      <role>Segregated Syracuse Student</role>
+    </credit>
+    <credit>
+      <actor>Warren, Darryl</actor>
+      <role>Heisman Official</role>
+    </credit>
+    <credit>
+      <actor>Weiner, Aaron Roman</actor>
+      <role>Opposing Coach</role>
+    </credit>
+    <credit>
+      <actor>Welsh, Jeff (II)</actor>
+      <role>Texas Quarterback</role>
+    </credit>
+    <credit>
+      <actor>Whyte, Mike</actor>
+      <role>Reporter</role>
+    </credit>
+    <credit>
+      <actor>Wolff, Kris (I)</actor>
+      <role>Groundskeeper</role>
+    </credit>
+    <credit>
+      <actor>Young, Robert A.</actor>
+      <role>Assistant Syracuse Football Coach</role>
+    </credit>
+    <credit>
+      <actor>Zabrin, Jeffrey</actor>
+      <role>Small Fry QB</role>
+    </credit>
+    <credit>
+      <actor>Zahrn, Will</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Zaideman, Kevin</actor>
+      <role>Sideline Fan</role>
+    </credit>
+  </cast>
+<plot>This biopic focuses on the relationship of Ernie Davis (1939-1963), a gifted African-American athlete, and his coach from 1958 to 1962 at Syracuse University, Ben Schwartzwalder (1909-1993). Schwartzwalder recruits Davis with the help of All-American running back, Jim Brown. The civil rights movement is gaining steam; Davis experiences prejudice on campus, in town, and on the field, sometimes from teammates. How he handles it and how he challenges Schwartzwalder to stand up for his players provide a counterpoint to several great seasons that lead first to a national championship and then to the Heismann Trophy.</plot><url>http://localhost:8983/solr/movie.html?556103</url></doc>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="594130">
+  <docid>594130</docid>
+  <title>The Subway Symphony</title>
+  <year>1932</year>
+  <type>movie</type>
+  <genres>
+    <genre>Short</genre>
+    <genre>Music</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <runningtimes>
+    <runningtime country="default">18</runningtime>
+  </runningtimes>
+  <cast>
+    <credit>
+      <actor>Abbott, Joan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bennington, Charles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hazard, Frank</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Langford, Frances</actor>
+      <role>Frances Langford</role>
+    </credit>
+  </cast>
+<plot>New York City's subway has added a new feature to its service. A subway ride now includes musical performances by various New Yorker entertainers on the platforms and the wagons.</plot><url>http://localhost:8983/solr/movie.html?594130</url></doc>

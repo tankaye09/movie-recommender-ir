@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="220678">
+  <docid>220678</docid>
+  <title>Gosford Park</title>
+  <year>2001</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Squyres, Tim</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Mystery</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>illegitimate-son</keyword>
+    <keyword>servant</keyword>
+    <keyword>financial-problem</keyword>
+    <keyword>unfaithfulness</keyword>
+    <keyword>valet</keyword>
+    <keyword>gay-slur</keyword>
+    <keyword>reference-to-charlie-chan</keyword>
+    <keyword>hunting</keyword>
+    <keyword>domestic-servant</keyword>
+    <keyword>manor</keyword>
+    <keyword>constable</keyword>
+    <keyword>scottish</keyword>
+    <keyword>lap-dog</keyword>
+    <keyword>adultery</keyword>
+    <keyword>cucumber</keyword>
+    <keyword>poison</keyword>
+    <keyword>snobbery</keyword>
+    <keyword>kitchen</keyword>
+    <keyword>benefactor</keyword>
+    <keyword>master-servant-relationship</keyword>
+    <keyword>illegitimate-child</keyword>
+    <keyword>dinner</keyword>
+    <keyword>country-home</keyword>
+    <keyword>class-differences</keyword>
+    <keyword>jealousy</keyword>
+    <keyword>estate</keyword>
+    <keyword>england</keyword>
+    <keyword>police-inspector</keyword>
+    <keyword>american</keyword>
+    <keyword>sister-sister-relationship</keyword>
+    <keyword>social-class</keyword>
+    <keyword>scottish-accent</keyword>
+    <keyword>knife</keyword>
+    <keyword>cook</keyword>
+    <keyword>upstairs-downstairs</keyword>
+    <keyword>actor</keyword>
+    <keyword>fake-identity</keyword>
+    <keyword>murder-investigation</keyword>
+    <keyword>movie-producer</keyword>
+    <keyword>housekeeper</keyword>
+    <keyword>murder</keyword>
+    <keyword>autumn</keyword>
+    <keyword>atmosphere</keyword>
+    <keyword>country-house</keyword>
+    <keyword>rich-snob</keyword>
+    <keyword>1930s</keyword>
+    <keyword>upper-class</keyword>
+    <keyword>shooting-party</keyword>
+    <keyword>comedy-of-manners</keyword>
+    <keyword>long-lost-relative</keyword>
+    <keyword>house-party</keyword>
+    <keyword>high-society</keyword>
+    <keyword>ensemble-cast</keyword>
+    <keyword>chambermaid</keyword>
+    <keyword>orphanage</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>glass-of-milk</keyword>
+    <keyword>class-system</keyword>
+    <keyword>butler</keyword>
+    <keyword>heavy-rain</keyword>
+    <keyword>fake-accent</keyword>
+    <keyword>unwanted-kiss</keyword>
+    <keyword>ensemble-film</keyword>
+    <keyword>maid</keyword>
+    <keyword>police-investigation</keyword>
+    <keyword>blackmail</keyword>
+    <keyword>investigation</keyword>
+    <keyword>money</keyword>
+    <keyword>whodunit</keyword>
+    <keyword>false-identity</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Italy</country>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">7</certificate>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">16</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Netherlands">AL</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="UK">15</certificate>
+    <certificate country="Singapore">NC-16</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Iceland">L</certificate>
+    <certificate country="South Korea">15</certificate>
+    <certificate country="Spain">7</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">14</certificate>
+    <certificate country="Norway">11</certificate>
+    <certificate country="Canada">14A</certificate>
+    <certificate country="Finland">K-11</certificate>
+    <certificate country="USA">TV-MA</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">6 September 2002</releasedate>
+    <releasedate country="South Africa">6 September 2002</releasedate>
+    <releasedate country="Peru">28 March 2002</releasedate>
+    <releasedate country="Argentina">7 March 2002</releasedate>
+    <releasedate country="Portugal">22 March 2002</releasedate>
+    <releasedate country="Brazil">8 March 2002</releasedate>
+    <releasedate country="Netherlands">7 March 2002</releasedate>
+    <releasedate country="Japan">26 October 2002</releasedate>
+    <releasedate country="Israel">28 February 2002</releasedate>
+    <releasedate country="UK">1 February 2002</releasedate>
+    <releasedate country="Taiwan">4 October 2002</releasedate>
+    <releasedate country="Singapore">13 June 2002</releasedate>
+    <releasedate country="Romania">25 October 2002</releasedate>
+    <releasedate country="Greece">22 February 2002</releasedate>
+    <releasedate country="Germany">13 June 2002</releasedate>
+    <releasedate country="Belgium">27 March 2002</releasedate>
+    <releasedate country="France">20 March 2002</releasedate>
+    <releasedate country="Hungary">29 August 2002</releasedate>
+    <releasedate country="Hong Kong">9 May 2002</releasedate>
+    <releasedate country="Czech Republic">9 May 2002</releasedate>
+    <releasedate country="Mexico">2 May 2002</releasedate>
+    <releasedate country="South Korea">12 April 2002</releasedate>
+    <releasedate country="Poland">10 May 2002</releasedate>
+    <releasedate country="Spain">8 March 2002</releasedate>
+    <releasedate country="Australia">14 March 2002</releasedate>
+    <releasedate country="Switzerland">21 March 2002</releasedate>
+    <releasedate country="Norway">15 March 2002</releasedate>
+    <releasedate country="Canada">26 December 2001</releasedate>
+    <releasedate country="Russia">8 July 2002</releasedate>
+    <releasedate country="Austria">14 June 2002</releasedate>
+    <releasedate country="Italy">8 March 2002</releasedate>
+    <releasedate country="New Zealand">11 April 2002</releasedate>
+    <releasedate country="USA">4 January 2002</releasedate>
+    <releasedate country="Denmark">8 February 2002</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">137</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Altman, Robert (I)</director>
+  </directors>
+  <producers>
+    <producer>Fellowes, Julian</producer>
+    <producer>Astrachan, Joshua</producer>
+    <producer>Frazer, Jane</producer>
+    <producer>Barclay, Jane</producer>
+    <producer>Harel, Sharon</producer>
+    <producer>Jones, Robert (IV)</producer>
+    <producer>Leader, Hannah</producer>
+    <producer>Altman, Robert (I)</producer>
+    <producer>Balaban, Bob</producer>
+    <producer>Levy, David (II)</producer>
+  </producers>
+  <writers>
+    <writer>Altman, Robert (I)</writer>
+    <writer>Balaban, Bob</writer>
+    <writer>Fellowes, Julian</writer>
+  </writers>
+  <composers>
+    <composer>Doyle, Patrick (I)</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Atkins, Eileen</actor>
+      <role>Mrs. Croft</role>
+    </credit>
+    <credit>
+      <actor>Atterbury, John</actor>
+      <role>Merriman</role>
+    </credit>
+    <credit>
+      <actor>Balaban, Bob</actor>
+      <role>Morris Weissman</role>
+    </credit>
+    <credit>
+      <actor>Bates, Alan (I)</actor>
+      <role>Jennings</role>
+    </credit>
+    <credit>
+      <actor>Beer, Will</actor>
+      <role>Albert</role>
+    </credit>
+    <credit>
+      <actor>Bill, Leo</actor>
+      <role>Jim</role>
+    </credit>
+    <credit>
+      <actor>Blakley, Claudie</actor>
+      <role>Mabel Nesbitt</role>
+    </credit>
+    <credit>
+      <actor>Bland, Alan</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Buckley, Emma (I)</actor>
+      <role>May</role>
+    </credit>
+    <credit>
+      <actor>Champion, Peter</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Churcher, Teresa</actor>
+      <role>Bertha</role>
+    </credit>
+    <credit>
+      <actor>Cohu, Lucy</actor>
+      <role>Lottie</role>
+    </credit>
+    <credit>
+      <actor>Cox, John (XI)</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Dance, Charles (I)</actor>
+      <role>Lord Raymond Stockbridge</role>
+    </credit>
+    <credit>
+      <actor>Danks-Smith, Natalie</actor>
+      <role>American Actress</role>
+    </credit>
+    <credit>
+      <actor>Davies, Ken (II)</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Davies, Tony (II)</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Devereux, Robin</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Double, Geoff</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Flind, Sarah</actor>
+      <role>Ellen</role>
+    </credit>
+    <credit>
+      <actor>Ford, Trent</actor>
+      <role>Jeremy Blond</role>
+    </credit>
+    <credit>
+      <actor>Fountain, John (I)</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Fox, Laurence</actor>
+      <role>Rupert Standish</role>
+    </credit>
+    <credit>
+      <actor>Fry, Stephen (I)</actor>
+      <role>Inspector Thompson</role>
+    </credit>
+    <credit>
+      <actor>Gamble, Richard (II)</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Gambon, Michael</actor>
+      <role>William McCordle</role>
+    </credit>
+    <credit>
+      <actor>Gerrard, Tilly (I)</actor>
+      <role>Maud</role>
+    </credit>
+    <credit>
+      <actor>Grant, Richard E.</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Harling, Laura</actor>
+      <role>Ethel</role>
+    </credit>
+    <credit>
+      <actor>Henderson-Begg, Gregor</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Hollander, Tom</actor>
+      <role>Anthony Meredith</role>
+    </credit>
+    <credit>
+      <actor>Jacobi, Derek</actor>
+      <role>Probert</role>
+    </credit>
+    <credit>
+      <actor>Low, Frances</actor>
+      <role>Sarah</role>
+    </credit>
+    <credit>
+      <actor>Macdonald, Kelly</actor>
+      <role>Mary Maceachran</role>
+    </credit>
+    <credit>
+      <actor>Markham, Steve</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Maude, Joanna</actor>
+      <role>Renee</role>
+    </credit>
+    <credit>
+      <actor>Mirren, Helen</actor>
+      <role>Mrs. Wilson</role>
+    </credit>
+    <credit>
+      <actor>Northam, Jeremy</actor>
+      <role>Ivor Novello</role>
+    </credit>
+    <credit>
+      <actor>Owen, Clive</actor>
+      <role>Robert Parks</role>
+    </credit>
+    <credit>
+      <actor>Phillippe, Ryan</actor>
+      <role>Henry Denton</role>
+    </credit>
+    <credit>
+      <actor>Preater, Adrian</actor>
+      <role>McCordle's Loader</role>
+    </credit>
+    <credit>
+      <actor>Puttock, Ron</actor>
+      <role>Strutt</role>
+    </credit>
+    <credit>
+      <actor>Rumsey, Brian (I)</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Scarborough, Adrian</actor>
+      <role>Barnes</role>
+    </credit>
+    <credit>
+      <actor>Sherman, George (II)</actor>
+      <role>Beater</role>
+    </credit>
+    <credit>
+      <actor>Sturmey, Terry</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Such, Julian</actor>
+      <role>Loader</role>
+    </credit>
+    <credit>
+      <actor>Swift, Jeremy</actor>
+      <role>Arthur</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Frank (I)</actor>
+      <role>Mr. Burkett</role>
+    </credit>
+    <credit>
+      <actor>Webster, Ron (I)</actor>
+      <role>Constable Dexter</role>
+    </credit>
+    <credit>
+      <actor>Widget</actor>
+      <role>Pip the Dog</role>
+    </credit>
+    <credit>
+      <actor>Wilby, James</actor>
+      <role>Freddie Nesbitt</role>
+    </credit>
+  </cast>
+<plot>Set in the 1930's the story takes place in an old fashioned English country house where a family has invited many of their friends up for a weekend shooting party. The story centers around the McCordle family, particularly the man of the house, William McCordle. Getting on in years William has become benefactor to many of his relatives and friends. As the weekend goes on and secrets are revealed, it seems everyone, above stairs and below, wants a piece of William and his money, but how far will they go to get it?</plot><url>http://localhost:8983/solr/movie.html?220678</url></doc>

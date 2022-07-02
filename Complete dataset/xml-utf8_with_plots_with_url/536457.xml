@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="536457">
+  <docid>536457</docid>
+  <title>Test Day</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Allen, Taylor (III)</editor>
+    <editor>Fabelo, David</editor>
+  </editors>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">4 April 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+    <runningtime country="USA">4</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fabelo, David</director>
+  </directors>
+  <producers>
+    <producer>Berry, James (IX)</producer>
+    <producer>Franzese, Derek</producer>
+    <producer>Logan, Andrew (V)</producer>
+  </producers>
+  <writers>
+    <writer>Fabelo, David</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Davis, Audrey (III)</actor>
+      <role>Mrs. Sheedy</role>
+    </credit>
+    <credit>
+      <actor>Garza, Adrian</actor>
+      <role>Samuel</role>
+    </credit>
+    <credit>
+      <actor>Maldonado, Jacob</actor>
+      <role>Anthony Valledor</role>
+    </credit>
+    <credit>
+      <actor>Reck, Cervantes</actor>
+      <role>Mr. Valledor</role>
+    </credit>
+    <credit>
+      <actor>Soza, Zachary</actor>
+      <role>Vito</role>
+    </credit>
+  </cast>
+<plot>"Be sure to read over every option carefully and pick the best possible answer." For Anthony Valledor, this advice applies to more than the section of the test he will be graded on. As a child of mixed heritage, Anthony encounters many options for his identity, but by choosing any one, is he neglecting what makes him truly unique?</plot><url>http://localhost:8983/solr/movie.html?536457</url></doc>

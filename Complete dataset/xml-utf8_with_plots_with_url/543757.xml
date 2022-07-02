@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="543757">
+  <docid>543757</docid>
+  <title>The Big O</title>
+  <year>1999</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Tsurubuchi, Tomoaki</editor>
+  </editors>
+  <genres>
+    <genre>Animation</genre>
+    <genre>Adventure</genre>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <keywords>
+    <keyword>robot</keyword>
+    <keyword>anime</keyword>
+    <keyword>artificial-intelligence</keyword>
+    <keyword>giant-robot</keyword>
+    <keyword>android</keyword>
+    <keyword>futuristic</keyword>
+    <keyword>piloted-giant-robot</keyword>
+    <keyword>domed-city</keyword>
+  </keywords>
+  <languages>
+    <language>Japanese</language>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>Japan</country>
+  </countries>
+  <certificates>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Australia">M</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Japan">15 December 2000</releasedate>
+    <releasedate country="USA">2 April 2001</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Katayama, Kazuyoshi</director>
+    <director>Kitahata, Toru</director>
+    <director>Konaka, Chiaki</director>
+    <director>Sato, Ikuro</director>
+  </directors>
+  <producers>
+    <producer>Furuya, Sawako</producer>
+    <producer>Kanuma, Satoshi (I)</producer>
+  </producers>
+  <writers>
+    <writer>Akahoshi, Masanao</writer>
+    <writer>Hasegawa, Kei'ichi (I)</writer>
+    <writer>Konaka, Chiaki</writer>
+    <writer>Watanabe, Tetsuya (IV)</writer>
+    <writer>Yatate, Hajime</writer>
+    <writer>Yoshida, Shin (I)</writer>
+  </writers>
+  <composers>
+    <composer>Sahashi, Toshihiko</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alan, Jane</actor>
+      <role>Announcer/Vice President (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Areno, Steve</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Austin, Matthew (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Axelrod, Robert</actor>
+      <role>Beck Gold (English version) (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Barnes, Richard (V)</actor>
+      <role>Norman Burg</role>
+    </credit>
+    <credit>
+      <actor>Blum, Steve (IX)</actor>
+      <role>Roger Smith</role>
+    </credit>
+    <credit>
+      <actor>Blum, Steve (IX)</actor>
+      <role>Roger Smith</role>
+    </credit>
+    <credit>
+      <actor>Buchholz, Bob</actor>
+      <role>Jason Beck</role>
+    </credit>
+    <credit>
+      <actor>Buck, Frank (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Buckley, Ivan</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Cerdal, Frédéric</actor>
+      <role>Norman Burg</role>
+    </credit>
+    <credit>
+      <actor>Davies, Stephen (I)</actor>
+      <role>Jim McGoean (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Doyle, Peter (IV)</actor>
+      <role>Police Officer, Senior Officer (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Elias-Fahn, Dorothy</actor>
+      <role>Louise Ferry</role>
+    </credit>
+    <credit>
+      <actor>Fahn, Tom</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Florek, Dave (I)</actor>
+      <role>Policeman (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Forest, Michael (I)</actor>
+      <role>Alex Rosewater</role>
+    </credit>
+    <credit>
+      <actor>Freeman, Crispin</actor>
+      <role>Alan Gabriel (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Futamata, Issei</actor>
+      <role>Alan Gabriel</role>
+    </credit>
+    <credit>
+      <actor>Gee, Jessica</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Genda, Tesshô</actor>
+      <role>Major Dan Dastun</role>
+    </credit>
+    <credit>
+      <actor>Gilborn, Steven</actor>
+      <role>Old Man (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Guest, Nicholas</actor>
+      <role>Army Police (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Hatch, W.T.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Henderson, Alyss</actor>
+      <role>Florist (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Hennesy, Carolyn (I)</actor>
+      <role>Vera Ronstadt (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Hori, Katsunosuke</actor>
+      <role>Schwarzwald/Michael Seebach</role>
+    </credit>
+    <credit>
+      <actor>Hull, Susan (I)</actor>
+      <role>Citizen (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Ishizuka, Unshô</actor>
+      <role>Alex Rosewater</role>
+    </credit>
+    <credit>
+      <actor>Jones, Eddie (I)</actor>
+      <role>Sam (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Kiyokawa, Motomu</actor>
+      <role>Norman Burg</role>
+    </credit>
+    <credit>
+      <actor>Kiyokawa, Motomu</actor>
+      <role>Norman Burg</role>
+    </credit>
+    <credit>
+      <actor>Knight, William (III)</actor>
+      <role>Gordon Rosewater</role>
+    </credit>
+    <credit>
+      <actor>Kramer, Steve (I)</actor>
+      <role>Bonnie Frazier</role>
+    </credit>
+    <credit>
+      <actor>LaPayote, Mason</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Lee, Wendee</actor>
+      <role>Patricia 'Angel' Lovejoy</role>
+    </credit>
+    <credit>
+      <actor>Lindsay, Michael (II)</actor>
+      <role>Chief Engineer (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Lurie, Peter</actor>
+      <role>Major Dan Dastun</role>
+    </credit>
+    <credit>
+      <actor>Lynn, Sherry (I)</actor>
+      <role>Tami (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Mager, Jad</actor>
+      <role>Policeman (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Mona (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McCarty, Michael (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>McConnohie, Michael</actor>
+      <role>Schwarzwald/Michael Seebach</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Matthew (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Dean (II)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Michaels, Gary</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Mirman, Edie</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Miyajima, Eri</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Miyamoto, Mitsuru</actor>
+      <role>Roger Smith</role>
+    </credit>
+    <credit>
+      <actor>Miyamoto, Mitsuru</actor>
+      <role>Roger Smith</role>
+    </credit>
+    <credit>
+      <actor>Montell, Cherly</actor>
+      <role>Citizen (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Naya, Gorô</actor>
+      <role>Gordon Rosewater</role>
+    </credit>
+    <credit>
+      <actor>Oliver, Tony (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Oppenheimer, Alan</actor>
+      <role>Norman Burg</role>
+    </credit>
+    <credit>
+      <actor>Osborne, Jonathan C.</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Papenbrook, Bob</actor>
+      <role>Roscoe Fitzgerald (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Peter, Eric (I)</actor>
+      <role>Major Dan Dastun</role>
+    </credit>
+    <credit>
+      <actor>Pinkham, Guy</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Plantagenet, Richard</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Pope, Tony</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Prescott, Simon</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Price, Jamieson</actor>
+      <role>Big Ear</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Elliot</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Mike (I)</actor>
+      <role>Sven Marisky</role>
+    </credit>
+    <credit>
+      <actor>Roggé, Ron (I)</actor>
+      <role>Citizen (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Romersa, Joe</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Sanders, Fred (I)</actor>
+      <role>Citizen (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Seth, Joshua</actor>
+      <role>Cop</role>
+    </credit>
+    <credit>
+      <actor>Slade, Jim (III)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Spellos, Peter</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stigler, Barry</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Stone, Doug (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Strauss, Kim</actor>
+      <role>R. Frederick O'Reilly (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Strong, Sam (I)</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Swell, Phil</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Taggert, Jim</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Ethan</actor>
+      <role>Additional Voices</role>
+    </credit>
+    <credit>
+      <actor>Thornton, Kirk</actor>
+      <role>R. Instro</role>
+    </credit>
+    <credit>
+      <actor>Tsuji, Shinpachi</actor>
+      <role>Big Ear</role>
+    </credit>
+    <credit>
+      <actor>Weisz, Ezra (III)</actor>
+      <role>Norman Burg/Phil</role>
+    </credit>
+    <credit>
+      <actor>White, Gregory (I)</actor>
+      <role>Store Owner (Season 2)</role>
+    </credit>
+    <credit>
+      <actor>Ôtsuka, Hôchû</actor>
+      <role>Jason Beck</role>
+    </credit>
+  </cast>
+<plot>Roger Smith acts as a negotiator in a city where everyone has lost their memories and keep it that way. When he isn't helping hostage situations, he's saving the day in a giant robot known as Big O. Although Roger has no idea why the "megadeus" (Big O) responds to his commands or why his butler seems to be a master at fixing the high tech machine, he starts to question the forgotten past after the events started by an unsual case involving an android called R Dorothy. While he and Dorothy begin a Henry Higgins/Eliza Dolittle style of friendship, villains and mysterious characters enter with clues leading up to something that may bring out an emotion Roger has tried to fight all of his known life - fear.</plot><url>http://localhost:8983/solr/movie.html?543757</url></doc>

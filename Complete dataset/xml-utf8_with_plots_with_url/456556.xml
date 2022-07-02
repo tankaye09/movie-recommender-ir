@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="456556">
+  <docid>456556</docid>
+  <title>Razor</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Aydemir, Selcuk</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Australia</country>
+    <country>Turkey</country>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Australia">28 November 2008</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Australia">12</runningtime>
+    <runningtime country="Turkey">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Linton, Gee Malik</director>
+    <director>Mehicevic, Al</director>
+  </directors>
+  <producers>
+    <producer>Cobbs, Bill</producer>
+  </producers>
+  <writers>
+    <writer>Behmoaras, Hemi</writer>
+    <writer>Linton, Gee Malik</writer>
+  </writers>
+  <composers>
+    <composer>Dee, Robee</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Bai, Ling</actor>
+      <role>Mary Wong</role>
+    </credit>
+    <credit>
+      <actor>Cardello, Melissa Mercedes</actor>
+      <role>Bev</role>
+    </credit>
+    <credit>
+      <actor>Duncan, Colin (II)</actor>
+      <role>Richard Stevenson</role>
+    </credit>
+    <credit>
+      <actor>Magden, Ekim</actor>
+      <role>Man</role>
+    </credit>
+  </cast>
+<plot>During the global financial crisis Richard Dick Stevenson is running his private detention center. His only prisoner, an afghan asylum seeker, Jusuf, becomes his best companion. A sudden government decision to cut the funding for the center breaks this unusual relationship. In their surreal world Richard's dream becomes Jusuf's nightmare</plot><url>http://localhost:8983/solr/movie.html?456556</url></doc>

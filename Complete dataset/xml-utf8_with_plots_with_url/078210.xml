@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="078210">
+  <docid>078210</docid>
+  <title>Bollywood Hero</title>
+  <year>2009</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>de Groot, Moek</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <languages>
+    <language>Hindi</language>
+    <language>English</language>
+    <language>Dutch</language>
+  </languages>
+  <countries>
+    <country>Netherlands</country>
+  </countries>
+  <certificates>
+    <certificate country="Netherlands">12</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">19 March 2009</releasedate>
+    <releasedate country="France">May 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">85</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Van Rooijen, Diederik</director>
+  </directors>
+  <producers>
+    <producer>Visser, Eva</producer>
+    <producer>Niens, Hanneke</producer>
+    <producer>Smit, Anton</producer>
+  </producers>
+  <writers>
+    <writer>Van Rooijen, Diederik</writer>
+  </writers>
+  <composers>
+    <composer>Westerlaken, Bart</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Ali, Rubina</actor>
+      <role>Begging girl</role>
+    </credit>
+    <credit>
+      <actor>Bose-Bhattacharya, Ishwari</actor>
+      <role>Sita</role>
+    </credit>
+    <credit>
+      <actor>Dang, Kanika</actor>
+      <role>Sita's Mother</role>
+    </credit>
+    <credit>
+      <actor>Kadam, Vijay (I)</actor>
+      <role>Aman</role>
+    </credit>
+    <credit>
+      <actor>Kumar, Akhilesh</actor>
+      <role>Prem</role>
+    </credit>
+    <credit>
+      <actor>Pathak, Jay</actor>
+      <role>Anil</role>
+    </credit>
+    <credit>
+      <actor>Weeber, Egbert Jan</actor>
+      <role>Nick</role>
+    </credit>
+  </cast>
+<plot>A young actor (Nick) goes to Mumbai for a role as a colonial in a Bollywood costume film. While he records video messages for his senile father in Holland, he also tries to right several social wrongs in Mumbai that cross his path.</plot><url>http://localhost:8983/solr/movie.html?078210</url></doc>

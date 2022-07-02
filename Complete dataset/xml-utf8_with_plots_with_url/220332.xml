@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="220332">
+  <docid>220332</docid>
+  <title>Goofy Movies Number One</title>
+  <year>1933</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>narration</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="USA">Approved</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="USA">23 December 1933</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">8</runningtime>
+  </runningtimes>
+  <directors>
+    <director>White, Jules (I)</director>
+  </directors>
+  <producers>
+    <producer>Smith, Pete (I)</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Smith, Pete (I)</actor>
+      <role>Narrator</role>
+    </credit>
+  </cast>
+<plot>The first part of this short is a "Metrophony" newsreel. It contains actual newsreel footage with humorous commentary (e.g., a flotilla of gondolas is parodied as being the Harvard/Yale regatta). The second part parodies silent movies with a film called "Minnie the Pretzel Twister" starring 'Cynthia Goosefeather.'</plot><url>http://localhost:8983/solr/movie.html?220332</url></doc>

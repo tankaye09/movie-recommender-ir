@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="137070">
+  <docid>137070</docid>
+  <title>Deployment Strategy</title>
+  <year>2007</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">1 October 2007</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cheng, Mark (II)</director>
+  </directors>
+  <writers>
+    <writer>Cheng, Mark (II)</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Arbaiza, Anthony</actor>
+      <role>Chavez</role>
+    </credit>
+    <credit>
+      <actor>Barbagallo, Joe</actor>
+      <role>Warnock</role>
+    </credit>
+    <credit>
+      <actor>Bune, Rey Oliver</actor>
+      <role>Lee</role>
+    </credit>
+    <credit>
+      <actor>Faudree, Nathan</actor>
+      <role>Major Huron</role>
+    </credit>
+    <credit>
+      <actor>Mason, Robert (XI)</actor>
+      <role>Combact Mech</role>
+    </credit>
+    <credit>
+      <actor>Pomirchy, Dmitry</actor>
+      <role>The programmer</role>
+    </credit>
+    <credit>
+      <actor>Stone, Damon</actor>
+      <role>Daniel Richards - the programmer</role>
+    </credit>
+  </cast>
+<plot>In 2055, artificial intelligence is possible. The government tries desperately to control the use and abuse of cybernetic beings while society struggles to accept them. Software hackers are both highly coveted resources and enemies of the state. Lt. James Lee, computer psychologist, embarks on his first assignment. His wits and training will be put to the test. But what about his beliefs? In a time of self-aware software, who exactly is endowed by their Creator with certain inalienable rights? Man? Machine?</plot><url>http://localhost:8983/solr/movie.html?137070</url></doc>

@@ -1,0 +1,443 @@
+{
+    "doc": {
+        "@id": "375972",
+        "docid": "375972",
+        "title": "Monsieur Vincent",
+        "year": "1947",
+        "type": "movie",
+        "colorinfos": {
+            "colorinfo": "Black and White"
+        },
+        "editors": {
+            "editor": "Feyte, Jean"
+        },
+        "genres": {
+            "genre": [
+                "Drama",
+                "History",
+                "Biography"
+            ]
+        },
+        "keywords": {
+            "keyword": [
+                "misery",
+                "door-knocker",
+                "wealth",
+                "village",
+                "megaphone",
+                "soup",
+                "poverty",
+                "servant",
+                "tutor",
+                "arrest",
+                "crossing-self",
+                "needlework",
+                "death",
+                "mother-superior",
+                "fight",
+                "humanitarian",
+                "missionary",
+                "coffin",
+                "cobweb",
+                "vignette-form",
+                "vow-of-poverty",
+                "prayer",
+                "embroidery",
+                "reflection-on-life",
+                "scar",
+                "catholic",
+                "begging",
+                "montage",
+                "galley",
+                "volunteering",
+                "hurdy-gurdy",
+                "duchess",
+                "wig",
+                "food",
+                "pipe-smoking",
+                "dead-baby",
+                "crucifix",
+                "whipping",
+                "hanging",
+                "public-welfare",
+                "classism",
+                "chaplain",
+                "stretcher",
+                "cat",
+                "one-legged-man",
+                "snobbery",
+                "revolt",
+                "peg-leg",
+                "eviction",
+                "church-tower",
+                "suffering",
+                "burial",
+                "deafness",
+                "religion",
+                "inner-city",
+                "old-woman",
+                "eating",
+                "uncle-niece-relationship",
+                "drum",
+                "france",
+                "rowboat",
+                "barge",
+                "subjective-camera",
+                "stoning",
+                "children",
+                "crutches",
+                "coughing",
+                "volunteer",
+                "illness",
+                "bread",
+                "church-state-enmeshment",
+                "resolution",
+                "confessor",
+                "inheritance",
+                "church-reform",
+                "death-threat",
+                "gossip",
+                "order-of-sisters-of-charity",
+                "ex-slave",
+                "refugee",
+                "spiritual-crisis",
+                "fire",
+                "religious-conviction",
+                "muzzle",
+                "paris-france",
+                "street-life",
+                "wine",
+                "drummer",
+                "soup-kitchen",
+                "whip",
+                "father-daughter-relationship",
+                "hammer",
+                "mercy",
+                "hospital",
+                "christianity",
+                "catholic-church-history",
+                "baby",
+                "plague",
+                "god",
+                "mother-daughter-relationship",
+                "church",
+                "priest",
+                "cattle",
+                "graveyard",
+                "candle",
+                "church-bell",
+                "crying",
+                "public-health-care",
+                "patient",
+                "catholic-priest",
+                "visionary",
+                "judgment-day",
+                "nurse",
+                "altar",
+                "beggar",
+                "sleeping-on-floor",
+                "rower",
+                "french-revolution",
+                "charity",
+                "innocence",
+                "chicken",
+                "countess",
+                "quill",
+                "cemetery",
+                "dysfunctional-society",
+                "rowing",
+                "horse-and-wagon",
+                "mother-son-relationship",
+                "leg-wound",
+                "oar",
+                "royalty",
+                "bed",
+                "goat",
+                "self-doubt",
+                "patience",
+                "nun",
+                "family-relationships",
+                "old-man",
+                "husband-wife-relationship",
+                "demonstration",
+                "women's-auxillary",
+                "weaver",
+                "male-female-relationship",
+                "catholic-church",
+                "fan",
+                "milk-maid",
+                "baby-left-on-church-step",
+                "confession",
+                "humility",
+                "political-corruption",
+                "dying",
+                "amputee",
+                "insanity",
+                "curse",
+                "wife-beater",
+                "maid",
+                "pince-nez",
+                "shovel",
+                "homeless-shelter",
+                "queen-of-france",
+                "whistle",
+                "dead-body",
+                "1600s",
+                "abbey",
+                "character-name-in-title",
+                "sin",
+                "greed",
+                "money",
+                "boat",
+                "hunger",
+                "st-vincent-de-paul",
+                "mission",
+                "conscience",
+                "party",
+                "cross",
+                "fencing",
+                "heart-attack",
+                "telescope",
+                "whip-lash",
+                "snow",
+                "endowment",
+                "fireplace"
+            ]
+        },
+        "languages": {
+            "language": "French"
+        },
+        "soundmixes": {
+            "soundmix": "Mono"
+        },
+        "countries": {
+            "country": "France"
+        },
+        "certificates": {
+            "certificate": {
+                "@country": "Finland",
+                "#text": "K-12"
+            }
+        },
+        "releasedates": {
+            "releasedate": [
+                {
+                    "@country": "Sweden",
+                    "#text": "20 September 1948"
+                },
+                {
+                    "@country": "West Germany",
+                    "#text": "1949"
+                },
+                {
+                    "@country": "Japan",
+                    "#text": "12 July 1949"
+                },
+                {
+                    "@country": "France",
+                    "#text": "5 November 1947"
+                },
+                {
+                    "@country": "Finland",
+                    "#text": "6 January 1950"
+                },
+                {
+                    "@country": "Austria",
+                    "#text": "6 May 1949"
+                },
+                {
+                    "@country": "USA",
+                    "#text": "20 December 1948"
+                }
+            ]
+        },
+        "runningtimes": {
+            "runningtime": {
+                "@country": "default",
+                "#text": "111"
+            }
+        },
+        "directors": {
+            "director": "Cloche, Maurice"
+        },
+        "producers": {
+            "producer": "de la Grandiere, Viscount George"
+        },
+        "writers": {
+            "writer": [
+                "Cloche, Maurice",
+                "Anouilh, Jean",
+                "Bernard-Luc, Jean"
+            ]
+        },
+        "composers": {
+            "composer": "Gr\u00c3\u00bcnenwald, Jean-Jacques"
+        },
+        "cast": {
+            "credit": [
+                {
+                    "actor": "Bouquet, Michel",
+                    "role": "Le tuberculeux"
+                },
+                {
+                    "actor": "Carmet, Jean",
+                    "role": "L'abb\u00c3\u00a9 Pontail"
+                },
+                {
+                    "actor": "Cerf, Georges",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Clariond, Aim\u00c3\u00a9",
+                    "role": "Le cardinal de Richelieu"
+                },
+                {
+                    "actor": "Claudie, Yvonne",
+                    "role": "Herself"
+                },
+                {
+                    "actor": "Debucourt, Jean",
+                    "role": "Philippe-Emmanuel de Gondi, comte de Joigny"
+                },
+                {
+                    "actor": "Delamare, Lise",
+                    "role": "Fran\u00c3\u00a7oise Marguerite de Silly, comtesse de Joigny"
+                },
+                {
+                    "actor": "Demange, Paul",
+                    "role": "Un sacristain"
+                },
+                {
+                    "actor": "Dermoz, Germaine",
+                    "role": "La reine Anne d'Autriche"
+                },
+                {
+                    "actor": "Dorziat, Gabrielle",
+                    "role": "La pr\u00c3\u00a9sidente Groussault"
+                },
+                {
+                    "actor": "Dumas, Andr\u00c3\u00a9",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Dux, Pierre",
+                    "role": "Le chancelier S\u00c3\u00a9guier"
+                },
+                {
+                    "actor": "Faivre, Paul",
+                    "role": "Un sacristain"
+                },
+                {
+                    "actor": "Favi\u00c3\u00a8res, Guy",
+                    "role": "Un mendiant"
+                },
+                {
+                    "actor": "Favre-Bertin, Jean",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Fontan, Gabrielle",
+                    "role": "La vieille sourde du presbyt\u00c3\u00a8re de Ch\u00c3\u00a2tillon"
+                },
+                {
+                    "actor": "Fresnay, Pierre",
+                    "role": "Vincent de Paul"
+                },
+                {
+                    "actor": "Gaubert, Ginette",
+                    "role": "Une des dames bienfaitrices"
+                },
+                {
+                    "actor": "Gaudeau, Yvonne",
+                    "role": "Louise de Marillac"
+                },
+                {
+                    "actor": "G\u00c3\u00a9rard, Charles",
+                    "role": "Un gal\u00c3\u00a9rien"
+                },
+                {
+                    "actor": "Hardeyn, Jeanne",
+                    "role": "Herself"
+                },
+                {
+                    "actor": "Harry-Max",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Janin, Jo\u00c3\u00ablle",
+                    "role": "Herself"
+                },
+                {
+                    "actor": "Marceau, Maurice",
+                    "role": "Un pauvre"
+                },
+                {
+                    "actor": "Marly, Mich\u00c3\u00a8le",
+                    "role": "Herself"
+                },
+                {
+                    "actor": "Maximilienne",
+                    "role": "Une d\u00c3\u00a9vote"
+                },
+                {
+                    "actor": "Mellot, Marthe",
+                    "role": "Herminie, une pauvresse"
+                },
+                {
+                    "actor": "Morel, Genevi\u00c3\u00a8ve",
+                    "role": "Marguerite Nazeau"
+                },
+                {
+                    "actor": "Murzeau, Robert",
+                    "role": "Monsieur B\u00c3\u00a9nier"
+                },
+                {
+                    "actor": "Nicot, Claude",
+                    "role": "Un page"
+                },
+                {
+                    "actor": "P\u00c3\u00a9r\u00c3\u00a8s, Marcel",
+                    "role": "La Fouille"
+                },
+                {
+                    "actor": "Renoir, Paul",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Rogerys, Max",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Rougerie, Jean",
+                    "role": "Un pauvre"
+                },
+                {
+                    "actor": "Stern, Ren\u00c3\u00a9",
+                    "role": "Un pr\u00c3\u00aatre"
+                },
+                {
+                    "actor": "Taffin, Tony",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Tennberg, Jean-Marc",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Vall\u00c3\u00a9e, Marcel",
+                    "role": "L'administrateur des hospices"
+                },
+                {
+                    "actor": "Vina, Victor",
+                    "role": "Himself"
+                },
+                {
+                    "actor": "Vitray, Georges",
+                    "role": "Le comte de Ch\u00c3\u00a2tillon"
+                }
+            ]
+        },
+        "plot": "St. Vincent de Paul struggles to bring about peace and harmony among the peasant and the nobles in the midst of the Black Death in Europe, carrying on his charitable work in the face of all obstacles.",
+        "url": "http://localhost:8983/solr/movie.html?375972"
+    }
+}

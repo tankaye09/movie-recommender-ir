@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="392466">
+  <docid>392466</docid>
+  <title>Neighbors</title>
+  <year>1920</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Comedy</genre>
+    <genre>Romance</genre>
+  </genres>
+  <keywords>
+    <keyword>silent-film</keyword>
+    <keyword>marriage</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Argentina">Atp</certificate>
+    <certificate country="Spain">T</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Finland">25 February 1923</releasedate>
+    <releasedate country="USA">22 December 1920</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">18</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Cline, Edward F.</director>
+    <director>Keaton, Buster</director>
+  </directors>
+  <writers>
+    <writer>Cline, Edward F.</writer>
+    <writer>Keaton, Buster</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Cline, Edward F.</actor>
+      <role>The Cop</role>
+    </credit>
+    <credit>
+      <actor>Duffy, James (I)</actor>
+      <role>The Judge</role>
+    </credit>
+    <credit>
+      <actor>Flying Escalantes, The</actor>
+      <role>Themselves</role>
+    </credit>
+    <credit>
+      <actor>Fox, Virginia</actor>
+      <role>The Girl</role>
+    </credit>
+    <credit>
+      <actor>Keaton, Buster</actor>
+      <role>The Boy</role>
+    </credit>
+    <credit>
+      <actor>Keaton, Joe</actor>
+      <role>His Father</role>
+    </credit>
+    <credit>
+      <actor>Roberts, Joe (I)</actor>
+      <role>Her Father</role>
+    </credit>
+  </cast>
+<plot>The Romeo and Juliet story played out in a tenement neighborhood with Buster and Virginia's families hating each other over the fence separating their buildings.</plot><url>http://localhost:8983/solr/movie.html?392466</url></doc>

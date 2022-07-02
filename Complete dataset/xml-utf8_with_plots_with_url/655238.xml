@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="655238">
+  <docid>655238</docid>
+  <title>Who Wants to Be a Millionaire</title>
+  <year>1998</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Game-Show</genre>
+  </genres>
+  <keywords>
+    <keyword>cash-prize</keyword>
+    <keyword>non-fiction</keyword>
+    <keyword>general-knowledge</keyword>
+    <keyword>quiz</keyword>
+    <keyword>quiz-show</keyword>
+    <keyword>tension</keyword>
+    <keyword>money</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <releasedates>
+    <releasedate country="UK">31 January 2009</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Bullen, Jonathan</director>
+    <director>Hamilton, Ian (II)</director>
+    <director>Kirrage, Paul</director>
+    <director>Michel, Claire (I)</director>
+    <director>Mordecai, Patricia</director>
+  </directors>
+  <producers>
+    <producer>Davies, Bethan</producer>
+    <producer>Rogers, Melinda</producer>
+  </producers>
+  <writers>
+    <writer>Knight, Steven (I)</writer>
+  </writers>
+  <composers>
+    <composer>Strachan, Keith</composer>
+    <composer>Strachan, Matthew</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Adams, Kaye</actor>
+      <role>Herself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Alcock, Victoria</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Amy, Susie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ancona, Ronni</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ansell, Jonathan (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ashman, Kevin</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Austin, Mark (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Baddiel, David</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ball, Michael (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bannatyne, Duncan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beadle, Jeremy (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Beesley, Max</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bell, Martin (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bellingham, Lynda</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Biggins, Christopher (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bond, Jennie (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Boothroyd, Betty</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brand, Jo</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Brandreth, Gyles</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bremner, Rory</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Britton, Fern</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bruce, Fiona</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Buerk, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Bunton, Emma</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Burley, Kay</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Bush, Victoria</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Castle, Andrew (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Chalmers, Judith</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Clifford, Max</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Coe, Sebastian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Collins, Joan</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Collins, Michelle (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Cotton, Antony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Cowell, Simon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Currie, Edwina</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Davidson, Jim (V)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Matt (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Dean, Christopher (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Derham, Katie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Draper, Derek (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Durden-Smith, Mark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Sheila</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Fisher, Connie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Forsyth, Frederick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fox, Neil</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Helen (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Fry, Stephen (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gaddas, James</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gallacher, Kirsty</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Gallagher, Sean (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gardiner, Jason</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Garraway, Kate</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Garrett, Lesley</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Gibson, Percy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Goldman, Jane (I)</actor>
+      <role>Herself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Grant, Rob (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Grant, Russell (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Gray, Andy (I)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Greenwood, Will</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hadley, Tony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Christine (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hamilton, Neil (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hancock, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Healey, Austin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hesmondhalgh, Julie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hewson, Sherrie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Higson, Charlie</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Holmes, Eamonn</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Hunniford, Gloria</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Hyde, Connie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Ingram, Charles (IV)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Ingram, Diana</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Liz (V)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Johnson, Martin (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Hilary</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Jones, Suranne</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Kay, Peter (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Keating, Ronan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Keeble, John (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kelly, Ross (I)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Kemp, Gary (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kemp, Martin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kennedy, Charles (III)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kenny, Darren (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Kenwright, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Keppel, Judith</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Keppel, Judith</actor>
+      <role>Herself - Phone a Friend</role>
+    </credit>
+    <credit>
+      <actor>Kerrigan, Jonathan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Keys, Richard (I)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Kristensen, Lea</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lancaster, Penny</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lancel, Andrew</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Langford, Bonnie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Laud, Derek</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Josie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lawson, Nigella</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Lineker, Gary</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lloyd, Siân</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Logan, Gabby</actor>
+      <role>Herself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Lucy, Gary (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Lynam, Desmond</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>MacKenzie, Aggie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Jackie (II)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Maxwell, Lisa (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McAlpine, Jennie</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McAndrew, Nell</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McCoist, Ally</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>McCutcheon, Martine</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McEnery, Kate</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McGiffin, Carol</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McGlinn, Clare</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>McGowan, Alistair</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McGuinness, Patrick (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>McLean, Andrea (II)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Messenger, Melinda</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Michael, George (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Mirylees, Kika</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Moore, Jane (I)</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Piers</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Morrissey, Neil (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Murnaghan, Dermot</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nail, Jimmy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Neilson, David</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Nri, Cyril</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Connor, Des</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Grady, Paul (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>O'Leary, Dermot</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>O'Leary, Sean (II)</actor>
+      <role>Himself - Contestant/Dermot's Dad</role>
+    </credit>
+    <credit>
+      <actor>Oddie, Bill</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Parsons, Adam (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Pearson, Neil (I)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Purchase, Zac</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Redmond, James (II)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Reynolds, Phil (III)</actor>
+      <role>Himself - Potential Contestant</role>
+    </credit>
+    <credit>
+      <actor>Ross, Jonathan (I)</actor>
+      <role>Himself - Contestant</role>
+    </credit>
+    <credit>
+      <actor>Ross, Nick</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Schofield, Phillip</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sessions, John</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Skinner, Frank (II)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Slattery, Tony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Snow, Dan (III)</actor>
+      <role>Himself - Phone a Friend</role>
+    </credit>
+    <credit>
+      <actor>Snow, Jon</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Starke, Michael</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Alastair</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Sugar, Alan</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tarbuck, Jimmy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tarrant, Chris</actor>
+      <role>Himself - Host</role>
+    </credit>
+    <credit>
+      <actor>Tarrant, Chris</actor>
+      <role>Himself - Host</role>
+    </credit>
+    <credit>
+      <actor>Theakston, Jamie</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Tomlinson, Ricky</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Turnbull, Bill (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vaughan, Johnny (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vine, Jeremy</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Vine, Tim (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Waite, Ian</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Walsh, Louis</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Weston, Simon (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whately, Kevin (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whiteley, Richard</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Whittock, Tecwen</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Williams, Steve (XXXII)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wilson, Sean (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wingett, Mark</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Winstone, Ray (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Wogan, Terry</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Worrall Thompson, Antony</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Young, Will</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>du Beke, Anton</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Öpik, Lembit</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>The original British version of the quiz show that's become a worldwide hit. Host Chris Tarrant asks hopeful contestants a series of questions, each more difficult than the last. As the questions get harder, the prize money increases, until at last the lucky (or smart) contestant reaches the million-pound prize.</plot><url>http://localhost:8983/solr/movie.html?655238</url></doc>

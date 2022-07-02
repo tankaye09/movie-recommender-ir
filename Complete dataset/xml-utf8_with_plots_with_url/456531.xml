@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="456531">
+  <docid>456531</docid>
+  <title>Razhda</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>Bulgarian</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Bulgaria</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Bulgaria">10 March 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="Bulgaria">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Vasilev, Ventzislav</director>
+  </directors>
+  <writers>
+    <writer>Vasilev, Ventzislav</writer>
+  </writers>
+  <composers>
+    <composer>Petkov, Bozhidar</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Atanasova, Elena</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Dimitrov, Plamen (I)</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Varbanov, Nikolay</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>Somewhere where oblivion has grasped the ancient relics of another era, boredom has overwhelmed three young people. Milio has a girlfriend in the neighboring village and no other entertainment, so a small business deal seems enticing, even if he has to share his girlfriend with an old friend in return. But soon he is overcome by jealousy and regret. Is it too late?</plot><url>http://localhost:8983/solr/movie.html?456531</url></doc>

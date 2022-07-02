@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="375088">
+  <docid>375088</docid>
+  <title>Mon chien</title>
+  <year>1955</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>French</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+  </countries>
+  <releasedates>
+    <releasedate country="France">1955</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">25</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Franju, Georges</director>
+  </directors>
+  <writers>
+    <writer>Franju, Georges</writer>
+    <writer>Prévert, Jacques</writer>
+  </writers>
+  <composers>
+    <composer>Crolla, Henri</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Lemaire, Jacqueline</actor>
+      <role>Herself</role>
+    </credit>
+    <credit>
+      <actor>Pigaut, Roger</actor>
+      <role>Récitant/Narrator</role>
+    </credit>
+  </cast>
+<plot>A Parisian family on their way to the French Riviera. The father decides to get rid of the family dog that he abandons in a forest. His young daughter cries bitterly but nothing doing. The poor dog manages to find his way back to his masters'villa but as it is closed has no other choice but wander aimlessly in the streets of the capital. The animal is caught, sent to the city pound and gassed after the legal delay is expired.</plot><url>http://localhost:8983/solr/movie.html?375088</url></doc>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="582004">
+  <docid>582004</docid>
+  <title>The People vs. John Doe</title>
+  <year>1916</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+  </genres>
+  <keywords>
+    <keyword>propaganda</keyword>
+    <keyword>capital-punishment</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">10 December 1916</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="USA">60</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Weber, Lois</director>
+  </directors>
+  <producers>
+    <producer>Weber, Lois</producer>
+  </producers>
+  <writers>
+    <writer>Weber, Lois</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Baird, Leah (I)</actor>
+      <role>Woman Lawyer</role>
+    </credit>
+    <credit>
+      <actor>Berrell, George</actor>
+      <role>Wealthy Farmer</role>
+    </credit>
+    <credit>
+      <actor>De More, Harry</actor>
+      <role>John Doe</role>
+    </credit>
+    <credit>
+      <actor>George, Maude</actor>
+      <role>His Sister</role>
+    </credit>
+    <credit>
+      <actor>Mailes, Charles Hill</actor>
+      <role>Detective</role>
+    </credit>
+    <credit>
+      <actor>Marks, Willis</actor>
+      <role>Doe's Brother</role>
+    </credit>
+    <credit>
+      <actor>Smith, R. Cecil</actor>
+      <role>Prominent Lawyer</role>
+    </credit>
+  </cast>
+<plot>A fictionalized composite of several celebrated murder cases, particularly the Stielow case, in which an innocent man is convicted and sentenced to death on purely speculative evidence.</plot><url>http://localhost:8983/solr/movie.html?582004</url></doc>

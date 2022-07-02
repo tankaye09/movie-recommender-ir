@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="567284">
+  <docid>567284</docid>
+  <title>The Jeep</title>
+  <year>1938</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Animation</genre>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>invisibility</keyword>
+    <keyword>popeye</keyword>
+    <keyword>levitation</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Mono</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">15 July 1938</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">7</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Fleischer, Dave (I)</director>
+  </directors>
+  <producers>
+    <producer>Fleischer, Max</producer>
+  </producers>
+  <composers>
+    <composer>Timberg, Sammy</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Hines, Margie</actor>
+      <role>Olive Oyl</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Jack</actor>
+      <role>Popeye</role>
+    </credit>
+  </cast>
+<plot>Olive Oyl has a tough time putting Swee'pea (who keeps on going outside on a wire) for a nap. When Popeye visits Olive, he shows her the Jeep - a dog that can disappear. When Swee'pea disappears again, both Popeye and the Jeep look for him.</plot><url>http://localhost:8983/solr/movie.html?567284</url></doc>

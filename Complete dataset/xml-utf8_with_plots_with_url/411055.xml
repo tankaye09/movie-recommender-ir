@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="411055">
+  <docid>411055</docid>
+  <title>On the Buses</title>
+  <year>1969</year>
+  <type>TelevisionSeries</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Comedy</genre>
+  </genres>
+  <keywords>
+    <keyword>working-class-family</keyword>
+    <keyword>bus-conductor</keyword>
+    <keyword>bus</keyword>
+    <keyword>bus-driver</keyword>
+    <keyword>marriage</keyword>
+    <keyword>working-man</keyword>
+    <keyword>working-class</keyword>
+    <keyword>mother-son-relationship</keyword>
+    <keyword>bachelor</keyword>
+    <keyword>inspector</keyword>
+    <keyword>christmas</keyword>
+    <keyword>working-conditions</keyword>
+    <keyword>sitcom</keyword>
+  </keywords>
+  <languages>
+    <language>English</language>
+  </languages>
+  <countries>
+    <country>UK</country>
+  </countries>
+  <certificates>
+    <certificate country="Australia">G</certificate>
+    <certificate country="Canada">14A</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Netherlands">11 October 1970</releasedate>
+    <releasedate country="UK">29 April 1973</releasedate>
+    <releasedate country="Belgium">22 September 1971</releasedate>
+    <releasedate country="East Germany">7 July 1976</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">30</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Allen, Stuart (I)</director>
+    <director>Goodwin, Derrick</director>
+    <director>Izzard, Bryan</director>
+    <director>Ross, Howard (II)</director>
+  </directors>
+  <producers>
+    <producer>Allen, Stuart (I)</producer>
+    <producer>Goodwin, Derrick</producer>
+    <producer>Izzard, Bryan</producer>
+  </producers>
+  <writers>
+    <writer>Chesney, Ronald (I)</writer>
+    <writer>Wolfe, Ronald</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Ashton, Marcia</actor>
+      <role>Elsie</role>
+    </credit>
+    <credit>
+      <actor>Ashton, Pat</actor>
+      <role>Doreen</role>
+    </credit>
+    <credit>
+      <actor>Avon, Roger</actor>
+      <role>The Policeman</role>
+    </credit>
+    <credit>
+      <actor>Baptiste, Austin</actor>
+      <role>Tabla Player</role>
+    </credit>
+    <credit>
+      <actor>Bayntun, Amelia</actor>
+      <role>Woman</role>
+    </credit>
+    <credit>
+      <actor>Birch, Samantha</actor>
+      <role>The Assistant Traffic Manager</role>
+    </credit>
+    <credit>
+      <actor>Black, Eunice</actor>
+      <role>Gladys</role>
+    </credit>
+    <credit>
+      <actor>Black, Eunice</actor>
+      <role>Rosie</role>
+    </credit>
+    <credit>
+      <actor>Black, Eunice</actor>
+      <role>Rosie</role>
+    </credit>
+    <credit>
+      <actor>Black, Eunice</actor>
+      <role>The Traffic Warden</role>
+    </credit>
+    <credit>
+      <actor>Bond, Sue (I)</actor>
+      <role>Clippie</role>
+    </credit>
+    <credit>
+      <actor>Brady, Pete</actor>
+      <role>Disc Jockey</role>
+    </credit>
+    <credit>
+      <actor>Braemar, Winifred</actor>
+      <role>Winnie</role>
+    </credit>
+    <credit>
+      <actor>Braemar, Winifred</actor>
+      <role>Winnie</role>
+    </credit>
+    <credit>
+      <actor>Braemar, Winifred</actor>
+      <role>Winnie</role>
+    </credit>
+    <credit>
+      <actor>Breck, Julia</actor>
+      <role>Canteen Girl</role>
+    </credit>
+    <credit>
+      <actor>Bree, James</actor>
+      <role>Dr. Clark</role>
+    </credit>
+    <credit>
+      <actor>Breeze, Olivia</actor>
+      <role>Janet</role>
+    </credit>
+    <credit>
+      <actor>Briggs, Johnny</actor>
+      <role>Window Cleaner</role>
+    </credit>
+    <credit>
+      <actor>Brown, Gaye</actor>
+      <role>Molly</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Sandra</actor>
+      <role>Sandra</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Sandra</actor>
+      <role>Sandra</role>
+    </credit>
+    <credit>
+      <actor>Bryant, Sandra</actor>
+      <role>Sandra</role>
+    </credit>
+    <credit>
+      <actor>Bush, Maurice</actor>
+      <role>Basher</role>
+    </credit>
+    <credit>
+      <actor>Bux, Ishaq</actor>
+      <role>Ahmed</role>
+    </credit>
+    <credit>
+      <actor>Caldicot, Richard</actor>
+      <role>Doctor Clark</role>
+    </credit>
+    <credit>
+      <actor>Carby, Fanny</actor>
+      <role>Gladys</role>
+    </credit>
+    <credit>
+      <actor>Carnell, Mike</actor>
+      <role>The Milkman</role>
+    </credit>
+    <credit>
+      <actor>Carpenter, Derek</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Casson, Maxine</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>Clapton, Patricia</actor>
+      <role>Edna</role>
+    </credit>
+    <credit>
+      <actor>Clapton, Patricia</actor>
+      <role>Edna</role>
+    </credit>
+    <credit>
+      <actor>Clare, Elyse</actor>
+      <role>The Clippie</role>
+    </credit>
+    <credit>
+      <actor>Cockburn, Peter</actor>
+      <role>TV Commentator</role>
+    </credit>
+    <credit>
+      <actor>Connor, Patrick (I)</actor>
+      <role>Nobby</role>
+    </credit>
+    <credit>
+      <actor>Cook, Jacqui (I)</actor>
+      <role>Clippie in Canteen</role>
+    </credit>
+    <credit>
+      <actor>Costello, Deirdre</actor>
+      <role>Molly</role>
+    </credit>
+    <credit>
+      <actor>Courtneidge, Cicely</actor>
+      <role>Mum</role>
+    </credit>
+    <credit>
+      <actor>Crocker, John (I)</actor>
+      <role>2nd Judge</role>
+    </credit>
+    <credit>
+      <actor>Cunningham, Pauline</actor>
+      <role>Birgit</role>
+    </credit>
+    <credit>
+      <actor>Cunningham, Pauline</actor>
+      <role>Frieda</role>
+    </credit>
+    <credit>
+      <actor>Curtis, Alan (II)</actor>
+      <role>Mr. Stewart</role>
+    </credit>
+    <credit>
+      <actor>Dalby, Lynn</actor>
+      <role>Janet</role>
+    </credit>
+    <credit>
+      <actor>Davenport, Claire</actor>
+      <role>Mrs. Webb</role>
+    </credit>
+    <credit>
+      <actor>Davenport, Claire</actor>
+      <role>Mrs. Webb</role>
+    </credit>
+    <credit>
+      <actor>Davidson, Peter (I)</actor>
+      <role>Tough Passenger</role>
+    </credit>
+    <credit>
+      <actor>Dawkins, Paul (I)</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Denton, Geoffrey</actor>
+      <role>Old Gentleman</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Sally</actor>
+      <role>Clippie</role>
+    </credit>
+    <credit>
+      <actor>Douglas, Sally</actor>
+      <role>Eileen</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Terry</actor>
+      <role>Irate Passenger</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Terry</actor>
+      <role>Shopkeeper</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Terry</actor>
+      <role>The Painter</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Terry</actor>
+      <role>The Passenger</role>
+    </credit>
+    <credit>
+      <actor>Duggan, Terry</actor>
+      <role>The Taxi Driver</role>
+    </credit>
+    <credit>
+      <actor>Dunbar, Philip</actor>
+      <role>The Barman</role>
+    </credit>
+    <credit>
+      <actor>Dunbar, Philip</actor>
+      <role>The Bus Driver</role>
+    </credit>
+    <credit>
+      <actor>Dyer, Hal</actor>
+      <role>Mary</role>
+    </credit>
+    <credit>
+      <actor>East, John M. (I)</actor>
+      <role>Lofty</role>
+    </credit>
+    <credit>
+      <actor>East, John M. (I)</actor>
+      <role>The Mechanic</role>
+    </credit>
+    <credit>
+      <actor>Edwards, Percy</actor>
+      <role>Bird Sounds</role>
+    </credit>
+    <credit>
+      <actor>Flynn, Kenneth</actor>
+      <role>Child</role>
+    </credit>
+    <credit>
+      <actor>Francis, Eric (I)</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Francis, Eric (I)</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Fraser, Helen (I)</actor>
+      <role>Linda</role>
+    </credit>
+    <credit>
+      <actor>Fullerton, Shiranee</actor>
+      <role>Mrs. Sharma</role>
+    </credit>
+    <credit>
+      <actor>Garrod, Keith (II)</actor>
+      <role>Child</role>
+    </credit>
+    <credit>
+      <actor>Gaynor, Avril (I)</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Gilbert, Kenneth (II)</actor>
+      <role>Chemist</role>
+    </credit>
+    <credit>
+      <actor>Gillies, Carol</actor>
+      <role>Eunice</role>
+    </credit>
+    <credit>
+      <actor>Godfrey, Tommy</actor>
+      <role>Wilfred</role>
+    </credit>
+    <credit>
+      <actor>Graham, Laura (II)</actor>
+      <role>The Clippie</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Bob (I)</actor>
+      <role>Jack Harper</role>
+    </credit>
+    <credit>
+      <actor>Grant, Tiberius</actor>
+      <role>Tibbles</role>
+    </credit>
+    <credit>
+      <actor>Gray, Ian (I)</actor>
+      <role>Charlie - The Cleaner</role>
+    </credit>
+    <credit>
+      <actor>Grellis, Brian</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Griffiths, Lucy (I)</actor>
+      <role>Old Lady</role>
+    </credit>
+    <credit>
+      <actor>Guy, Jennifer (I)</actor>
+      <role>Iris</role>
+    </credit>
+    <credit>
+      <actor>Hall, Cheryl (I)</actor>
+      <role>Eileen</role>
+    </credit>
+    <credit>
+      <actor>Hall, Frederick</actor>
+      <role>The Manager</role>
+    </credit>
+    <credit>
+      <actor>Hare, Betty</actor>
+      <role>Aunt Maud</role>
+    </credit>
+    <credit>
+      <actor>Hare, Doris</actor>
+      <role>Mum</role>
+    </credit>
+    <credit>
+      <actor>Hare, Doris</actor>
+      <role>Mum</role>
+    </credit>
+    <credit>
+      <actor>Hare, Doris</actor>
+      <role>Mum</role>
+    </credit>
+    <credit>
+      <actor>Hare, Doris</actor>
+      <role>Mum</role>
+    </credit>
+    <credit>
+      <actor>Heath, Suzanne</actor>
+      <role>Suzy</role>
+    </credit>
+    <credit>
+      <actor>Henrix, Folker</actor>
+      <role>Finalist</role>
+    </credit>
+    <credit>
+      <actor>Herrington, Doreen</actor>
+      <role>Betty</role>
+    </credit>
+    <credit>
+      <actor>Herrington, Doreen</actor>
+      <role>Eileen</role>
+    </credit>
+    <credit>
+      <actor>Hobbs, Nick (I)</actor>
+      <role>Finalist</role>
+    </credit>
+    <credit>
+      <actor>Holden, Ruth</actor>
+      <role>The Lady Passenger</role>
+    </credit>
+    <credit>
+      <actor>Howard, Charlotte (I)</actor>
+      <role>Stella</role>
+    </credit>
+    <credit>
+      <actor>Hoye, Janice</actor>
+      <role>Beryl</role>
+    </credit>
+    <credit>
+      <actor>Jane, Melanie</actor>
+      <role>Canteen Girl</role>
+    </credit>
+    <credit>
+      <actor>Jane, Melanie</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Jennings, Ernest C.</actor>
+      <role>Rag &amp; Bone Man</role>
+    </credit>
+    <credit>
+      <actor>Joyce, Yootha</actor>
+      <role>Jessie</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Karen, Anna (I)</actor>
+      <role>Olive Rudge</role>
+    </credit>
+    <credit>
+      <actor>Kerr, Fraser</actor>
+      <role>T.V. Interviewer</role>
+    </credit>
+    <credit>
+      <actor>Kerr, Fraser</actor>
+      <role>The Pilot</role>
+    </credit>
+    <credit>
+      <actor>Kessler, Catherine</actor>
+      <role>The Nurse</role>
+    </credit>
+    <credit>
+      <actor>Kettlewell, Ruth</actor>
+      <role>Nurse On Bus</role>
+    </credit>
+    <credit>
+      <actor>Kettlewell, Ruth</actor>
+      <role>The Nurse</role>
+    </credit>
+    <credit>
+      <actor>Land, Mary (II)</actor>
+      <role>Susy</role>
+    </credit>
+    <credit>
+      <actor>Lawrence, Andrea (I)</actor>
+      <role>Suzy</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lewis, Stephen (I)</actor>
+      <role>Inspector Cyril 'Blakey' Blake</role>
+    </credit>
+    <credit>
+      <actor>Lind, Gillian</actor>
+      <role>Mrs. Rudge</role>
+    </credit>
+    <credit>
+      <actor>Lovegrove, Arthur</actor>
+      <role>Harry</role>
+    </credit>
+    <credit>
+      <actor>Lyons, John (IV)</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Lyons, John (IV)</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Lyons, John (IV)</actor>
+      <role>Bill</role>
+    </credit>
+    <credit>
+      <actor>Lyons, John (IV)</actor>
+      <role>Sid</role>
+    </credit>
+    <credit>
+      <actor>Makunda, Vemu</actor>
+      <role>Vina Player</role>
+    </credit>
+    <credit>
+      <actor>Marshall, Alex (I)</actor>
+      <role>Beryl</role>
+    </credit>
+    <credit>
+      <actor>Martyn, Larry</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Martyn, Larry</actor>
+      <role>Fred</role>
+    </credit>
+    <credit>
+      <actor>Maxted, Mary</actor>
+      <role>Iris's Mum</role>
+    </credit>
+    <credit>
+      <actor>McGarry, Parnell</actor>
+      <role>Trainee Clippie</role>
+    </credit>
+    <credit>
+      <actor>McKillop, Don</actor>
+      <role>Harry</role>
+    </credit>
+    <credit>
+      <actor>McNab, Bob</actor>
+      <role>Bob</role>
+    </credit>
+    <credit>
+      <actor>Mendez, Julie</actor>
+      <role>Fatima</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Olive</actor>
+      <role>The Woman Passenger</role>
+    </credit>
+    <credit>
+      <actor>Miller, Sandra (III)</actor>
+      <role>Sally</role>
+    </credit>
+    <credit>
+      <actor>Mills, Madeleine (I)</actor>
+      <role>Christine</role>
+    </credit>
+    <credit>
+      <actor>Mills, Madeleine (I)</actor>
+      <role>Sally</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Norman (I)</actor>
+      <role>Nobby</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Edna</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Iris</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Joyce</role>
+    </credit>
+    <credit>
+      <actor>Mohan, Ursula</actor>
+      <role>Liz</role>
+    </credit>
+    <credit>
+      <actor>Moore, Kevin (I)</actor>
+      <role>T.V. Newsman</role>
+    </credit>
+    <credit>
+      <actor>Morgan, Garfield</actor>
+      <role>Mr. Stilton</role>
+    </credit>
+    <credit>
+      <actor>Morris, Aubrey</actor>
+      <role>Marriage Counsellor</role>
+    </credit>
+    <credit>
+      <actor>Moses, Albert (II)</actor>
+      <role>Alf</role>
+    </credit>
+    <credit>
+      <actor>Mullins, Bartlett</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Brian</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Busman</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>Busman</role>
+    </credit>
+    <credit>
+      <actor>Norrish, Keith</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Parkinson, Robin</actor>
+      <role>The Vicar</role>
+    </credit>
+    <credit>
+      <actor>Parolini, Gianfranco</actor>
+      <role>The Commissionaire</role>
+    </credit>
+    <credit>
+      <actor>Peisley, Frederick</actor>
+      <role>Doctor</role>
+    </credit>
+    <credit>
+      <actor>Peters, Arnold</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Powell, Nosher</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Powell, Nosher</actor>
+      <role>Bert</role>
+    </credit>
+    <credit>
+      <actor>Powell, Nosher</actor>
+      <role>Vic</role>
+    </credit>
+    <credit>
+      <actor>Richardson, David (V)</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Michael (I)</actor>
+      <role>Arthur Rudge</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Michael (I)</actor>
+      <role>Arthur Rudge</role>
+    </credit>
+    <credit>
+      <actor>Robbins, Michael (I)</actor>
+      <role>Arthur Rudge</role>
+    </credit>
+    <credit>
+      <actor>Russell, Sheridan Earl</actor>
+      <role>Child</role>
+    </credit>
+    <credit>
+      <actor>Salter, Ivor</actor>
+      <role>Policeman</role>
+    </credit>
+    <credit>
+      <actor>Shamsi, Mohammad</actor>
+      <role>Mr. Sharma</role>
+    </credit>
+    <credit>
+      <actor>Sheard, Michael</actor>
+      <role>1st Judge</role>
+    </credit>
+    <credit>
+      <actor>Sheard, Michael</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Sheard, Michael</actor>
+      <role>Manager</role>
+    </credit>
+    <credit>
+      <actor>Singer, Campbell</actor>
+      <role>Mr. Nichols</role>
+    </credit>
+    <credit>
+      <actor>Slater, Michael (IV)</actor>
+      <role>Family Man</role>
+    </credit>
+    <credit>
+      <actor>Slater, Michael (IV)</actor>
+      <role>Joe</role>
+    </credit>
+    <credit>
+      <actor>Slater, Michael (IV)</actor>
+      <role>T.V. Newsman</role>
+    </credit>
+    <credit>
+      <actor>Slater, Michael (IV)</actor>
+      <role>The Maintenance Man</role>
+    </credit>
+    <credit>
+      <actor>Slater, Michael (IV)</actor>
+      <role>The Mechanic</role>
+    </credit>
+    <credit>
+      <actor>Soblosky, Perry</actor>
+      <role>Finalist</role>
+    </credit>
+    <credit>
+      <actor>Stewart, Reginald</actor>
+      <role>Alf</role>
+    </credit>
+    <credit>
+      <actor>Todd, Bob (II)</actor>
+      <role>Mr. Simpson</role>
+    </credit>
+    <credit>
+      <actor>Varney, Reg</actor>
+      <role>Stan Butler</role>
+    </credit>
+    <credit>
+      <actor>Walker, Rudolph (I)</actor>
+      <role>George</role>
+    </credit>
+    <credit>
+      <actor>Waller, Kenneth</actor>
+      <role>Busman</role>
+    </credit>
+    <credit>
+      <actor>Walters, Hugh</actor>
+      <role>Bill</role>
+    </credit>
+    <credit>
+      <actor>Walters, Jules</actor>
+      <role>Chalkie</role>
+    </credit>
+    <credit>
+      <actor>Whitter, Glen</actor>
+      <role>Chalkie</role>
+    </credit>
+    <credit>
+      <actor>Whitter, Glen</actor>
+      <role>Chalkie</role>
+    </credit>
+    <credit>
+      <actor>Whitter, Glen</actor>
+      <role>Chalkie</role>
+    </credit>
+    <credit>
+      <actor>Whitter, Glen</actor>
+      <role>Chalkie</role>
+    </credit>
+    <credit>
+      <actor>Whitter, Glen</actor>
+      <role>Chalkie</role>
+    </credit>
+  </cast>
+<plot>The trials and tribulations of bus driver Stan and his conductor Jack unfold in this weekly comedy. The bain of their working life is Inspector Blake who'll do anything to make their lives a misery... and does. Stan and Jack are a couple of "jack-the-lads" who are not averse to clocking a bit of crumpet here and there, but "Blakey" is constantly dampening their ardor.</plot><url>http://localhost:8983/solr/movie.html?411055</url></doc>

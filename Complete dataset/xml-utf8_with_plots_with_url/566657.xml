@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="566657">
+  <docid>566657</docid>
+  <title>The Interpreter</title>
+  <year>2005</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <editors>
+    <editor>Steinkamp, William (I)</editor>
+  </editors>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Thriller</genre>
+    <genre>Crime</genre>
+  </genres>
+  <keywords>
+    <keyword>new-york-city</keyword>
+    <keyword>twist-in-the-end</keyword>
+    <keyword>explosion</keyword>
+    <keyword>bomb</keyword>
+    <keyword>assassin</keyword>
+    <keyword>fbi</keyword>
+    <keyword>bus</keyword>
+    <keyword>witness-protection</keyword>
+    <keyword>political</keyword>
+    <keyword>machine-gun</keyword>
+    <keyword>shot-to-death</keyword>
+    <keyword>based-on-novel</keyword>
+    <keyword>freeze-frame</keyword>
+    <keyword>manhattan</keyword>
+    <keyword>genocide</keyword>
+    <keyword>brother-sister-relationship</keyword>
+    <keyword>manhattan-new-york</keyword>
+    <keyword>interpreter</keyword>
+    <keyword>murder</keyword>
+    <keyword>assassination-attempt</keyword>
+    <keyword>interrogation</keyword>
+    <keyword>suicide</keyword>
+    <keyword>fbi-agent</keyword>
+    <keyword>united-nations</keyword>
+    <keyword>political-thriller</keyword>
+    <keyword>flashback-sequence</keyword>
+    <keyword>pistol</keyword>
+    <keyword>secret-service</keyword>
+    <keyword>drunk-scene</keyword>
+    <keyword>fictional-country</keyword>
+    <keyword>dictator</keyword>
+    <keyword>unsubtitled-foreign-language</keyword>
+    <keyword>suspense</keyword>
+    <keyword>bodyguard</keyword>
+    <keyword>car-chase</keyword>
+    <keyword>africa</keyword>
+    <keyword>hospice</keyword>
+    <keyword>title-spoken-by-character</keyword>
+    <keyword>loss-of-brother</keyword>
+  </keywords>
+  <languages>
+    <language>French</language>
+    <language>Portuguese</language>
+    <language>Aboriginal</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>SDDS</soundmix>
+    <soundmix>DTS</soundmix>
+    <soundmix>Dolby Digital</soundmix>
+  </soundmixes>
+  <countries>
+    <country>France</country>
+    <country>UK</country>
+    <country>USA</country>
+  </countries>
+  <certificates>
+    <certificate country="Sweden">15</certificate>
+    <certificate country="Peru">14</certificate>
+    <certificate country="Argentina">13</certificate>
+    <certificate country="Portugal">M/12</certificate>
+    <certificate country="Netherlands">12</certificate>
+    <certificate country="Brazil">14</certificate>
+    <certificate country="UK">12A</certificate>
+    <certificate country="Taiwan">PG-12</certificate>
+    <certificate country="Singapore">PG</certificate>
+    <certificate country="Germany">12</certificate>
+    <certificate country="France">U</certificate>
+    <certificate country="Malaysia">U</certificate>
+    <certificate country="Hong Kong">IIA</certificate>
+    <certificate country="Ireland">12A</certificate>
+    <certificate country="Iceland">16</certificate>
+    <certificate country="South Korea">12</certificate>
+    <certificate country="Australia">M</certificate>
+    <certificate country="Switzerland">12</certificate>
+    <certificate country="Norway">15</certificate>
+    <certificate country="Canada">G</certificate>
+    <certificate country="Finland">K-15</certificate>
+    <certificate country="Philippines">PG-13</certificate>
+    <certificate country="USA">PG-13</certificate>
+    <certificate country="Denmark">11</certificate>
+  </certificates>
+  <releasedates>
+    <releasedate country="Sweden">15 April 2005</releasedate>
+    <releasedate country="Peru">2 June 2005</releasedate>
+    <releasedate country="Argentina">28 April 2005</releasedate>
+    <releasedate country="Portugal">14 April 2005</releasedate>
+    <releasedate country="Turkey">22 April 2005</releasedate>
+    <releasedate country="Brazil">21 April 2005</releasedate>
+    <releasedate country="Netherlands">14 April 2005</releasedate>
+    <releasedate country="Japan">21 May 2005</releasedate>
+    <releasedate country="Croatia">21 April 2005</releasedate>
+    <releasedate country="Slovenia">12 April 2005</releasedate>
+    <releasedate country="Israel">21 April 2005</releasedate>
+    <releasedate country="UK">15 April 2005</releasedate>
+    <releasedate country="Taiwan">15 April 2005</releasedate>
+    <releasedate country="Bulgaria">3 June 2005</releasedate>
+    <releasedate country="Thailand">21 April 2005</releasedate>
+    <releasedate country="United Arab Emirates">20 April 2005</releasedate>
+    <releasedate country="Singapore">21 April 2005</releasedate>
+    <releasedate country="Greece">8 April 2005</releasedate>
+    <releasedate country="Germany">21 April 2005</releasedate>
+    <releasedate country="Belgium">1 June 2005</releasedate>
+    <releasedate country="France">8 June 2005</releasedate>
+    <releasedate country="Hungary">14 April 2005</releasedate>
+    <releasedate country="Hong Kong">21 April 2005</releasedate>
+    <releasedate country="China">22 April 2005</releasedate>
+    <releasedate country="Estonia">29 April 2005</releasedate>
+    <releasedate country="Czech Republic">14 July 2005</releasedate>
+    <releasedate country="Iceland">15 April 2005</releasedate>
+    <releasedate country="Mexico">22 April 2005</releasedate>
+    <releasedate country="South Korea">22 April 2005</releasedate>
+    <releasedate country="Poland">15 April 2005</releasedate>
+    <releasedate country="Spain">15 April 2005</releasedate>
+    <releasedate country="Egypt">20 April 2005</releasedate>
+    <releasedate country="Australia">4 April 2005</releasedate>
+    <releasedate country="Switzerland">1 June 2005</releasedate>
+    <releasedate country="Lithuania">15 April 2005</releasedate>
+    <releasedate country="Norway">15 April 2005</releasedate>
+    <releasedate country="Finland">15 April 2005</releasedate>
+    <releasedate country="Republic of Macedonia">15 April 2005</releasedate>
+    <releasedate country="Austria">22 April 2005</releasedate>
+    <releasedate country="Italy">28 October 2005</releasedate>
+    <releasedate country="Philippines">20 April 2005</releasedate>
+    <releasedate country="USA">22 April 2005</releasedate>
+    <releasedate country="Kuwait">24 May 2005</releasedate>
+    <releasedate country="Venezuela">3 June 2005</releasedate>
+    <releasedate country="Georgia">21 July 2005</releasedate>
+    <releasedate country="Denmark">27 May 2005</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">128</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Pollack, Sydney</director>
+  </directors>
+  <producers>
+    <producer>Chasin, Liza</producer>
+    <producer>Hayward, Debra</producer>
+    <producer>Perrow, Nicci</producer>
+    <producer>Steele, Michael E.</producer>
+    <producer>Brown, G. Mac</producer>
+    <producer>Minghella, Anthony</producer>
+    <producer>Pollack, Sydney</producer>
+    <producer>Thomas, Jennifer J.</producer>
+    <producer>Bevan, Tim (I)</producer>
+    <producer>Fellner, Eric</producer>
+    <producer>Misher, Kevin</producer>
+  </producers>
+  <writers>
+    <writer>Frank, Scott (I)</writer>
+    <writer>Randolph, Charles (II)</writer>
+    <writer>Stellman, Martin</writer>
+    <writer>Ward, Brian (I)</writer>
+    <writer>Zaillian, Steven</writer>
+  </writers>
+  <composers>
+    <composer>Howard, James Newton</composer>
+  </composers>
+  <cast>
+    <credit>
+      <actor>Alexis, Ernest</actor>
+      <role>United Nations Protester</role>
+    </credit>
+    <credit>
+      <actor>Anderson, James P.</actor>
+      <role>Yugoslavian Delegate</role>
+    </credit>
+    <credit>
+      <actor>Archer, Trevor</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Ashton-Lewis, Monty</actor>
+      <role>Young Simon</role>
+    </credit>
+    <credit>
+      <actor>Attal, Yvan</actor>
+      <role>Philippe</role>
+    </credit>
+    <credit>
+      <actor>Bibic, Vladimir (I)</actor>
+      <role>G.A. President</role>
+    </credit>
+    <credit>
+      <actor>Byrne, Gerry Robert</actor>
+      <role>U.N. Tourist</role>
+    </credit>
+    <credit>
+      <actor>Cameron, Earl (I)</actor>
+      <role>Zuwanie</role>
+    </credit>
+    <credit>
+      <actor>Chang, Wayne (I)</actor>
+      <role>Secret Service Agent</role>
+    </credit>
+    <credit>
+      <actor>Chin, Tsai</actor>
+      <role>Luan</role>
+    </credit>
+    <credit>
+      <actor>Christensen, Jesper (I)</actor>
+      <role>Nils Lud</role>
+    </credit>
+    <credit>
+      <actor>Citer, Leonid</actor>
+      <role>Russian Interpreter</role>
+    </credit>
+    <credit>
+      <actor>Clohessy, Robert</actor>
+      <role>FBI Agent King</role>
+    </credit>
+    <credit>
+      <actor>Cook, Curtiss</actor>
+      <role>Ajene Xola</role>
+    </credit>
+    <credit>
+      <actor>D'Agostino, Greg</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Dawson, Andrew (V)</actor>
+      <role>UN Secret Service</role>
+    </credit>
+    <credit>
+      <actor>De Sousa, Paul</actor>
+      <role>Portuguese Janitor</role>
+    </credit>
+    <credit>
+      <actor>Deragon, Lynne</actor>
+      <role>American Ambassador Davis</role>
+    </credit>
+    <credit>
+      <actor>Di Benedetto, John</actor>
+      <role>Mechanic</role>
+    </credit>
+    <credit>
+      <actor>Dobbins, Mike</actor>
+      <role>U.N. Protestor</role>
+    </credit>
+    <credit>
+      <actor>Doerksen, Bridget L.</actor>
+      <role>Stripper</role>
+    </credit>
+    <credit>
+      <actor>Dolinsky, Joe</actor>
+      <role>Peruvian Diplomat</role>
+    </credit>
+    <credit>
+      <actor>Elliott, Martha</actor>
+      <role>Woman on Bus</role>
+    </credit>
+    <credit>
+      <actor>Eskelson, Dana</actor>
+      <role>Secret Service Agent #1</role>
+    </credit>
+    <credit>
+      <actor>Factora, Marshall</actor>
+      <role>Prime Minister at Strip Club</role>
+    </credit>
+    <credit>
+      <actor>Faragallah, Ramsey</actor>
+      <role>Polygraph Technician</role>
+    </credit>
+    <credit>
+      <actor>Ferguson, Lou</actor>
+      <role>Matoban Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Fortt, Guy A.</actor>
+      <role>UN Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Galtieri, Tony</actor>
+      <role>United Nations Delegate</role>
+    </credit>
+    <credit>
+      <actor>Garcia, Edwin David</actor>
+      <role>Papua New Guinea Delegate</role>
+    </credit>
+    <credit>
+      <actor>Gatewood, Yusuf</actor>
+      <role>Doug</role>
+    </credit>
+    <credit>
+      <actor>Gonzales, Pietro</actor>
+      <role>Chilean Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Graham, Enid</actor>
+      <role>Jenny</role>
+    </credit>
+    <credit>
+      <actor>Harris, Eli</actor>
+      <role>Secretary of Staff</role>
+    </credit>
+    <credit>
+      <actor>Harris, George (II)</actor>
+      <role>Kuman-Kuman</role>
+    </credit>
+    <credit>
+      <actor>Higgins, Sandi</actor>
+      <role>French Delegate</role>
+    </credit>
+    <credit>
+      <actor>Ingino, Diane</actor>
+      <role>U.N. Delegate - Republic of San Marino</role>
+    </credit>
+    <credit>
+      <actor>Jei, Julie</actor>
+      <role>Japanese Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Jinaro, Jossara</actor>
+      <role>Voice</role>
+    </credit>
+    <credit>
+      <actor>Jobrani, Maz</actor>
+      <role>Mo</role>
+    </credit>
+    <credit>
+      <actor>Joshi, Satish (I)</actor>
+      <role>Secretary General</role>
+    </credit>
+    <credit>
+      <actor>Jude, Christopher</actor>
+      <role>Tourist/Protester</role>
+    </credit>
+    <credit>
+      <actor>Keener, Catherine</actor>
+      <role>Dot Woods</role>
+    </credit>
+    <credit>
+      <actor>Keenleyside, Eric</actor>
+      <role>Rory Robb</role>
+    </credit>
+    <credit>
+      <actor>Kidman, Nicole</actor>
+      <role>Silvia Broome</role>
+    </credit>
+    <credit>
+      <actor>Kiernan, Pat</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Knox, John (II)</actor>
+      <role>Fred Jameson</role>
+    </credit>
+    <credit>
+      <actor>Kusatsu, Clyde</actor>
+      <role>Police Chief Lee Wu</role>
+    </credit>
+    <credit>
+      <actor>Landrieu, Nelson</actor>
+      <role>Spanish Speaking Interpreter</role>
+    </credit>
+    <credit>
+      <actor>Litto</actor>
+      <role>African Boy</role>
+    </credit>
+    <credit>
+      <actor>Lovari (I)</actor>
+      <role>Cook</role>
+    </credit>
+    <credit>
+      <actor>Luckey, Shawn</actor>
+      <role>U.N. Delegate</role>
+    </credit>
+    <credit>
+      <actor>Lupetti, Arthur</actor>
+      <role>United Nations delegate</role>
+    </credit>
+    <credit>
+      <actor>Lupo, Ana Maria</actor>
+      <role>Stripper</role>
+    </credit>
+    <credit>
+      <actor>Malta, Todd</actor>
+      <role>Sgt. Luper</role>
+    </credit>
+    <credit>
+      <actor>Marks, Dirk</actor>
+      <role>Delegate</role>
+    </credit>
+    <credit>
+      <actor>Martinez, Adrian (I)</actor>
+      <role>Roland</role>
+    </credit>
+    <credit>
+      <actor>Mawele, Manuel</actor>
+      <role>African Boy</role>
+    </credit>
+    <credit>
+      <actor>McGrath, Michael (I)</actor>
+      <role>Jonathan Ferris</role>
+    </credit>
+    <credit>
+      <actor>McKeown, Denis</actor>
+      <role>Delegate from Luxembourg</role>
+    </credit>
+    <credit>
+      <actor>McKinney, Chris (I)</actor>
+      <role>Forensic Officer</role>
+    </credit>
+    <credit>
+      <actor>Mercer, Tanda</actor>
+      <role>U.N. Staff</role>
+    </credit>
+    <credit>
+      <actor>Mitchell, Kirby</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Mulima, Dino</actor>
+      <role>African Boy</role>
+    </credit>
+    <credit>
+      <actor>Myers, Robert (IX)</actor>
+      <role>U.N. Delegate</role>
+    </credit>
+    <credit>
+      <actor>O'Reilly, Harry</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Okpokwasili, Okwui</actor>
+      <role>Tour Guide</role>
+    </credit>
+    <credit>
+      <actor>Onipede Blunt, Ed</actor>
+      <role>News Reporter</role>
+    </credit>
+    <credit>
+      <actor>Papas, Loukas</actor>
+      <role>United Nations VIP Defense Delegate</role>
+    </credit>
+    <credit>
+      <actor>Penn, Sean (I)</actor>
+      <role>Tobin Keller</role>
+    </credit>
+    <credit>
+      <actor>Pollack, Sydney</actor>
+      <role>Jay Pettigrew</role>
+    </credit>
+    <credit>
+      <actor>Presciutti, Americo</actor>
+      <role>U.N. Security</role>
+    </credit>
+    <credit>
+      <actor>Prichett, Harry</actor>
+      <role>News Reporter</role>
+    </credit>
+    <credit>
+      <actor>Qureshi, Eliyas</actor>
+      <role>Indian Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Saillant, Antonio</actor>
+      <role>UN Official</role>
+    </credit>
+    <credit>
+      <actor>Sebag, Jacques</actor>
+      <role>French Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Serpico, Terry</actor>
+      <role>FBI Agent Lewis</role>
+    </credit>
+    <credit>
+      <actor>Speer, Hugo</actor>
+      <role>Simon Broome</role>
+    </credit>
+    <credit>
+      <actor>Ssenjovu, Patrick</actor>
+      <role>Jad Jamal</role>
+    </credit>
+    <credit>
+      <actor>Sylvers, Ronald</actor>
+      <role>Passenger on Bus</role>
+    </credit>
+    <credit>
+      <actor>Utley, Byron</actor>
+      <role>Jean Gamba</role>
+    </credit>
+    <credit>
+      <actor>Walker, Ricardo</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Ward, Jim (IV)</actor>
+      <role>U.N. Security Officer</role>
+    </credit>
+    <credit>
+      <actor>Weisz, Steven</actor>
+      <role>Libyan Ambassador</role>
+    </credit>
+    <credit>
+      <actor>Welch, Christopher Evan</actor>
+      <role>Jonathan Williams</role>
+    </credit>
+    <credit>
+      <actor>Wissler, Joe</actor>
+      <role>Uzbeki Delegate</role>
+    </credit>
+    <credit>
+      <actor>Wolos-Fonteno, David</actor>
+      <role>Phillip Ostroff</role>
+    </credit>
+    <credit>
+      <actor>Wright, Michael (I)</actor>
+      <role>Marcus</role>
+    </credit>
+    <credit>
+      <actor>Yannick, Scott</actor>
+      <role>U.N. Security- Advanced Team</role>
+    </credit>
+    <credit>
+      <actor>Zayas, David</actor>
+      <role>Charlie Russell</role>
+    </credit>
+  </cast>
+<plot>Escalating events begin when U.N. interpreter Silvia Broome alleges that she has overheard a death threat against an African head of state, spoken in a rare dialect few people other than Silvia can understand. With the words "The Teacher will never leave this room alive," in an instant, Silvia's life is turned upside down as she becomes a hunted target of the killers. Placed under the protection of federal agent Tobin Keller, Silvia's world only grows more nightmarish. As Keller digs deeper into his eyewitnesses' past and her secretive world of global connections, the more suspicious he becomes that she herself might be involved in the conspiracy. With every step of the way, he finds more reasons to mistrust her. Is Sylvia a victim? A suspect? Or something else entirely? And can Tobin, coping with his own personal heartache, keep her safe? Though they must depend on one another, Silvia and Tobin couldn't be more different. Silvia's strengths are words, diplomacy and the subtleties of meaning, while Tobin is all about instinct, action and reading into the most primal human behaviors. Now, as the danger of a major assassination on U.S. soil grows and Silvia's life hangs in the balance, Silvia and Tobin play out a gripping dance of evasion and revelation that keeps them both guessing as they race to stop a terrifying international crisis before it's too late.</plot><url>http://localhost:8983/solr/movie.html?566657</url></doc>

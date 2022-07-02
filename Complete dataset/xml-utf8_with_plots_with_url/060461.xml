@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="060461">
+  <docid>060461</docid>
+  <title>Bashful Whirlwind</title>
+  <year>1925</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Short</genre>
+    <genre>Western</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Silent</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="USA">30 August 1930</releasedate>
+  </releasedates>
+  <runningtimes>
+    <runningtime country="default">23</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Laemmle, Ernst</director>
+  </directors>
+  <writers>
+    <writer>Gooden, Arthur Henry</writer>
+    <writer>Krusada, Carl</writer>
+  </writers>
+  <cast>
+    <credit>
+      <actor>Cobb, Edmund</actor>
+      <role>Bob Evans</role>
+    </credit>
+    <credit>
+      <actor>Comstock, Clark</actor>
+      <role>Sheriff Denton</role>
+    </credit>
+    <credit>
+      <actor>Hughes, Roy (I)</actor>
+      <role>Clyde Walling</role>
+    </credit>
+    <credit>
+      <actor>Milford, Mary Beth</actor>
+      <role>Gladys Denton</role>
+    </credit>
+  </cast>
+<plot>Bob Evans is the bashful foreman of the Denton ranch. He reads books and dreams of being a hero. He gets his chance when Gladys overhears Walling planning to smuggle stolen diamonds across the border. Finding Gladys' note, he sets out after Walling.</plot><url>http://localhost:8983/solr/movie.html?060461</url></doc>

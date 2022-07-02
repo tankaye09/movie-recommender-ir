@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="413091">
+  <docid>413091</docid>
+  <title>One-Minute Movies</title>
+  <year>2000</year>
+  <type>movie</type>
+  <genres>
+    <genre>Short</genre>
+  </genres>
+  <keywords>
+    <keyword>interactive</keyword>
+  </keywords>
+  <languages>
+    <language>Danish</language>
+  </languages>
+  <countries>
+    <country>Denmark</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Denmark">7 November 2000</releasedate>
+  </releasedates>
+  <directors>
+    <director>Schjødt, Morten</director>
+  </directors>
+  <cast>
+    <credit>
+      <actor>Botoft, Rasmus</actor>
+      <role>Himself</role>
+    </credit>
+    <credit>
+      <actor>Carmohn, Kenneth</actor>
+      <role>Himself</role>
+    </credit>
+  </cast>
+<plot>"Table Tennis Tournament for Incompatible Personalities. An interactive film project for the internet created for n2art (a curatored exhibition venue for nordic netart. http://n2art.nu). One-minute movies consist of small one-minute films where two people meet in a table tennis match. To watch a movie the user has to select a personality profile. An opponent is randomly selected among other users and this choise determines what film is played. Each movie then confronts two persons from the real world, represented by personality types in the fictive universe of the game. The characters act according to pre-defined templates, and the meetings are played through in many different dramatic and visual versions. Altogether the project contains more than 100 possible compositions created as one-minute movies.";</plot><url>http://localhost:8983/solr/movie.html?413091</url></doc>

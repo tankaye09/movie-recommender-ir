@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="453684">
+  <docid>453684</docid>
+  <title>Rage</title>
+  <year>2008</year>
+  <type>movie</type>
+  <colorinfos>
+    <colorinfo>Black and White</colorinfo>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Drama</genre>
+    <genre>Short</genre>
+  </genres>
+  <languages>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Dolby SR</soundmix>
+  </soundmixes>
+  <countries>
+    <country>Ireland</country>
+    <country>Canada</country>
+  </countries>
+  <certificates>
+    <certificate country="Ireland">16</certificate>
+  </certificates>
+  <runningtimes>
+    <runningtime country="default">9</runningtime>
+  </runningtimes>
+  <directors>
+    <director>Boyle, Patrick (II)</director>
+    <director>Corcoran, John (II)</director>
+  </directors>
+  <producers>
+    <producer>Boyle, Patrick (II)</producer>
+    <producer>Timothy, Paul</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Desmond, Joe</actor>
+      <role>Richard</role>
+    </credit>
+    <credit>
+      <actor>Hopkin, James D.</actor>
+      <role>Friend</role>
+    </credit>
+    <credit>
+      <actor>Wafer, Brian</actor>
+      <role>Doctor Payne</role>
+    </credit>
+  </cast>
+<plot>The film centers around the thoughts and emotions experienced by Rosa as she awaits news of a pregnancy test. In this pivotal moment of her life she reflects on the relationship she had with her own mother and whether this will have a detrimental effect on her own trip into motherhood.</plot><url>http://localhost:8983/solr/movie.html?453684</url></doc>

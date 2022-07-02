@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="509000">
+  <docid>509000</docid>
+  <title>SpacePod</title>
+  <year>2004</year>
+  <type>VideoGame</type>
+  <colorinfos>
+    <colorinfo>Color</colorinfo>
+  </colorinfos>
+  <genres>
+    <genre>Sci-Fi</genre>
+  </genres>
+  <languages>
+    <language>Spanish</language>
+    <language>German</language>
+    <language>English</language>
+  </languages>
+  <soundmixes>
+    <soundmix>Stereo</soundmix>
+  </soundmixes>
+  <countries>
+    <country>USA</country>
+  </countries>
+  <releasedates>
+    <releasedate country="Netherlands">1 July 2004</releasedate>
+  </releasedates>
+  <producers>
+    <producer>McGrath, David (III)</producer>
+    <producer>Purvis, Bill</producer>
+  </producers>
+  <cast>
+    <credit>
+      <actor>Croteau, Jeff</actor>
+      <role>Astronaut</role>
+    </credit>
+    <credit>
+      <actor>Matlock, Jennifer</actor>
+      <role>Scientist</role>
+    </credit>
+    <credit>
+      <actor>McGrath, David (III)</actor>
+      <role>Control Tower</role>
+    </credit>
+  </cast>
+<plot>Indigo, the worldwide space weapons system has gone into overdrive, and cannot be shut down. All attempts to stop it have been met with destruction or astronaut capture. You must now command a tiny SpacePod, take over the system by constructing larger spacecraft, and eventually destroy Indigo. Players start from simple skirmishes in our own time, to epic battles with gigantic space stations and defending spacecraft, in a future time that must be destroyed to save present-day earth.</plot><url>http://localhost:8983/solr/movie.html?509000</url></doc>
