@@ -27,7 +27,7 @@ class CosineSimilarity:
     def tf_idf_matrix(self) -> pd.DataFrame:
         tf_idf_matrix = {}
         for _, document in self.data.iterrows():
-            docId = document["id"]
+            docId = document["docid"]
             plot = document["plot"]
             for token in plot.split(" "):
                 if token in tf_idf_matrix:
@@ -50,12 +50,15 @@ class CosineSimilarity:
         Get movie recommendations for a movie
         '''
         tf_idf_matrix = self.tf_idf_matrix()
+        # print(tf_idf_matrix)
         indices = pd.Series(self.data.index, index=self.data["title"])
-        
+        # print(indices)
         try:
             idx = indices[title]
+            # print("idx",idx)
         except:
             return "Movie not found"
+
 
         movie_vector = tf_idf_matrix.loc[idx]
         similarities = []
@@ -65,7 +68,7 @@ class CosineSimilarity:
         similarities = sorted(similarities, key=lambda x: x[1], reverse=True);
         similarities = similarities[:10]
         movie_indices = [i[0] for i in similarities]
-        # print(movie_indices)
+        print("indices", movie_indices)
         return self.data["title"].loc[movie_indices]
 
 
@@ -75,9 +78,17 @@ fake_data = {
     "plot": ["Two imprisoned mothers", "Two imprisoned fathers", "Two imprisoned fathers part two", "Batman strikes fathers again", "angry fathers"],
 }
 
-fake_data_df = pd.DataFrame(fake_data, index=fake_data["id"])
+# fake_data_df = pd.DataFrame(fake_data, index=fake_data["id"])
 
-cosine_similarity = CosineSimilarity(fake_data_df)
+# cosine_similarity = CosineSimilarity(fake_data_df)
 
 # print(cosine_similarity.tf_idf_matrix())
-print(cosine_similarity.get_movie_recommendations("The Godfather"))
+# print(cosine_similarity.get_movie_recommendations("The Godfather"))
+
+data = pd.read_csv("processed_data.csv")
+data.index=data.docid
+# data.drop(columns="docid", inplace=True)
+print(data)
+# print(data["title"])
+cosine_similarity = CosineSimilarity(data)
+print(cosine_similarity.get_movie_recommendations("$"))

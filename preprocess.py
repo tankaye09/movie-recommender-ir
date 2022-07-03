@@ -7,13 +7,14 @@ import nltk
 from nltk.corpus import stopwords, wordnet2021
 from nltk.stem import WordNetLemmatizer
 
+nltk.download('wordnet')
 nltk.download("stopwords")
 nltk.download("omw-1.4")
 
 # directory = r"complete_dataset\xml-utf8_with_plots_with_url"
 
 # Using for testing
-directory = r"partial_dataset\xml-utf8_with_plots_with_url"
+directory = r"partial_dataset/xml-utf8_with_plots_with_url"
 
 cachedStopWords = stopwords.words("english")
 lemm = WordNetLemmatizer()
@@ -22,7 +23,7 @@ for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
     # checking if it is a file
     if os.path.isfile(f):
-        file_path = directory + "\\" + filename
+        file_path = directory + "/" + filename
         with open(file_path) as xml_file:
             data_dict = xmltodict.parse(xml_file.read(), encoding="utf-8")
             xml_file.close()
