@@ -85,10 +85,8 @@ fake_data = {
 # print(cosine_similarity.tf_idf_matrix())
 # print(cosine_similarity.get_movie_recommendations("The Godfather"))
 
-data = pd.read_csv("processed_data.csv")
-data.index=data.docid
-# data.drop(columns="docid", inplace=True)
-print(data)
-# print(data["title"])
-cosine_similarity = CosineSimilarity(data)
-print(cosine_similarity.get_movie_recommendations("$"))
+# data = pd.read_csv("processed_data_partial.csv")
+# data.index=data.docid
+# print(data)
+# cosine_similarity = CosineSimilarity(data)
+# print(cosine_similarity.get_movie_recommendations("1, 2, 3 whiteout"))

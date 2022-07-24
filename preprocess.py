@@ -11,10 +11,15 @@ nltk.download('wordnet')
 nltk.download("stopwords")
 nltk.download("omw-1.4")
 
+"""
+Toggle True to change to the smaller test set when testing
+"""
+testing = True
+
 # directory = r"complete_dataset\xml-utf8_with_plots_with_url"
 
 # Using for testing
-directory = r"partial_dataset/xml-utf8_with_plots_with_url"
+directory = r"partial_dataset/xml-utf8_with_plots_with_url" if testing else r"complete_dataset/xml-utf8_with_plots_with_url"
 
 cachedStopWords = stopwords.words("english")
 lemm = WordNetLemmatizer()
@@ -24,7 +29,7 @@ for filename in os.listdir(directory):
     # checking if it is a file
     if os.path.isfile(f):
         file_path = directory + "/" + filename
-        with open(file_path) as xml_file:
+        with open(file_path, encoding="utf8") as xml_file:
             data_dict = xmltodict.parse(xml_file.read(), encoding="utf-8")
             xml_file.close()
 
@@ -77,4 +82,4 @@ for filename in os.listdir(directory):
         data_list.append(new_json_data)
 
 df = pd.DataFrame(data_list)
-df.to_csv("processed_data.csv", encoding="utf-8")
+df.to_csv("processed_data_partial.csv" if testing else "processed_data_complete.csv", encoding="utf-8")

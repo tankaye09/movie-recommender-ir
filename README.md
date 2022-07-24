@@ -4,7 +4,7 @@
 
 On git bash
 
-`source .venv\Scripts\activate`
+`source .venv/Scripts/activate`
 
 On other windows terminals
 

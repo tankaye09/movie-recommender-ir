@@ -86,8 +86,8 @@ class OkapiBM25:
         print("indices", movie_indices)
         return self.data["title"].loc[movie_indices]
 
-data = pd.read_csv("processed_data.csv")
-data.index=data.docid
-print(data)
-okapiBM25 = OkapiBM25(data)
-print(okapiBM25.get_movie_recommendations("$"))
+# data = pd.read_csv("processed_data.csv")
+# data.index=data.docid
+# print(data)
+# okapiBM25 = OkapiBM25(data)
+# print(okapiBM25.get_movie_recommendations("$"))
