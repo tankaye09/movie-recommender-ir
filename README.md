@@ -17,3 +17,7 @@ On mac
 ## Install requirements
 
 `pip3 install -r requirements.txt`
+
+## To run
+
+`FLASK_ENV=development flask run`
