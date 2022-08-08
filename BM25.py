@@ -127,7 +127,7 @@ class BM25Okapi(BM25):
         return score.tolist()
 
 
-corpus = pd.read_csv("movie_lens_dataset\movies_metadata_processed_id_title_overview.csv")
+corpus = pd.read_csv("movie_lens_dataset/movies_metadata_processed_id_title_overview.csv")
 
 overview = corpus['overview']
 tokenized_corpus = [doc.split(" ") for doc in overview]
