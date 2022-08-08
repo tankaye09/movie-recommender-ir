@@ -22,14 +22,11 @@ knn_model.fit(user_to_movie_sparse_df)
 
 ## create a new user row from movies they like
 
-# movies = ['Air Bud', 'Air Force One', 'Beverly Hills Ninja', 'Booty Call', 'Bulletproof', 'Conspiracy Theory', 'Fargo', 'Jack', 'Jungle2Jungle', 'Liar Liar', 'Love Jones', "McHale's Navy", 'Men in Black', 'Mimic', 'Money Talks', 'Murder at 1600', 'Private Parts', 'Scream', 'Thin Line Between Love and Hate, A']
-
 def new_user_from_movies(movies):
     user_id_list = [-1] * len(movies)
     rating_list = [4.5] * len(movies)
     keys = refined_dataset.columns
     values = [user_id_list, movies, rating_list]
-    # dic = {key: value for key in keys for value in values}
     dic = {}
     for col_index in range(len(keys)):
         dic[keys[col_index]] = values[col_index]
@@ -37,7 +34,7 @@ def new_user_from_movies(movies):
 
 #  Giving Input as User id, Number of similar Users to be considered, Number of top movie we want to recommend
 
-def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, user_to_movie_df, knn_model):
+def new_recommender_system(user_df, n_similar_users, n_movies): #, user_to_movie_df, knn_model):
   
   print("Movie seen by the User:")
   print(list(user_df["movie title"]))
@@ -46,8 +43,8 @@ def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, use
 
   # def get_similar_users(user, user_to_movie_df, knn_model, n = 5):
   def get_similar_users(n = 5):
-
-    knn_input_array = np.array([4.5 if col in user_df["movie title"] else 0 for col in user_to_movie_df.columns])
+    movies = list(user_df["movie title"])
+    knn_input_array = np.array([4.5 if col in movies else 0 for col in user_to_movie_df.columns])
     
     knn_input = np.asarray([knn_input_array])
     
@@ -80,9 +77,8 @@ def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, use
       if count == n:
         break
     if count == 0:
-      return "There are no movies left which are not seen by the input users and seen by similar users. May be increasing the number of similar users who are to be considered may give a chance of suggesting an unseen good movie."
+      print("There are no movies left which are not seen by the input users and seen by similar users. May be increasing the number of similar users who are to be considered may give a chance of suggesting an unseen good movie.")
     else:
-    #   print("Final list: ", final_movie_list)  
       return final_movie_list
 
   similar_user_list, distance_list = get_similar_users(n_similar_users)
@@ -92,21 +88,24 @@ def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, use
   weightage_list = weightage_list[:,np.newaxis] + np.zeros(len(movies_list))
   new_rating_matrix = weightage_list*mov_rtngs_sim_users
   mean_rating_list = new_rating_matrix.sum(axis =0)
-#   print("")
-#   print("Movies recommended based on similar users are: ")
-#   print("")
-  return(filtered_movie_recommendations(n_movies))
-
+  print("")
+  print("Movies recommended based on similar users are: ")
+  print("")
+  return filtered_movie_recommendations(n_movies)    
+  
 def collaborative_recommender(movies):
     new_user_dataset = new_user_from_movies(movies)
-    # new_user_dataset.head()
-    titles = new_recommender_system(new_user_dataset, 15,15)
+    titles = new_recommender_system(new_user_dataset, 5,15)
     return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]]
 
-# test_movies = ["The Matrix",
-# "The Dark Knight",
-# "Toy Story",
-# "The Avengers"]
-# print("Recommended movies: ", collaborative_recommender(test_movies))
+test_movies_guy = ["The Matrix",
+"The Dark Knight",
+"Toy Story",
+"The Avengers"]
 
-# title, poster_path
+test_movies_girl = ["The Devil Wears Prada",
+"Mean Girls",
+"Sex and the City",]
+
+
+print("Recommended movies: ", collaborative_recommender(test_movies_girl))
