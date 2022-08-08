@@ -55,17 +55,6 @@ class BM25:
         top_n = np.argsort(scores)[::-1][:n]
         return [documents[i] for i in top_n]
 
-    def get_top_n_titles(self, query, documents, n=5):
-
-        assert self.data_size == len(documents), "The documents given don't match the index data!"
-
-        overview = documents[query]
-        tokenized_overview = overview.split(" ")
-
-        scores = self.get_scores(tokenized_overview)
-        top_n = np.argsort(scores)[::-1][:n]
-        return [documents[i] for i in top_n]
-
 
 class BM25Okapi(BM25):
     def __init__(self, data, k1 = 1.5, b = 0.75, epsilon=0):
@@ -115,7 +104,7 @@ class BM25Okapi(BM25):
 
 corpus = pd.read_csv("movie_lens_dataset\movies_metadata_processed_no_stopwords.csv")
 
-def top_related_movies(query_title, corpus):
+def top_related_movies(query_title, corpus, n=10):
     overview = corpus['overview']
     tokenized_corpus = [doc.split(" ") for doc in overview]
     bm25 = BM25Okapi(tokenized_corpus)
@@ -123,12 +112,12 @@ def top_related_movies(query_title, corpus):
     query = corpus.loc[corpus['original_title'] == query_title, 'overview'].item()
     tokenized_query = query.split(" ")
 
-    doc_scores = bm25.get_top_n(tokenized_query, overview, n=10)
-
-    top_titles = []
-    for i in doc_scores:
-        top_titles.append(corpus.loc[corpus['overview'] == i, 'original_title'].item())
-    
-    return top_titles
+    doc_scores = bm25.get_top_n(tokenized_query, overview, n)
+    scores = bm25.get_scores(tokenized_query)
+    df = pd.DataFrame({"original_title": corpus['original_title'], "release_date": corpus['release_date'], "poster_path": corpus['poster_path'], "rsv_score": scores})
+    top_indices = df.sort_values(by="rsv_score", ascending=False)[1:11].index
+    output = df[['original_title', 'release_date', 'poster_path', 'rsv_score']].iloc[top_indices]
+       
+    return output
 
 print(top_related_movies("Toy Story", corpus))

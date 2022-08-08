@@ -22,7 +22,7 @@ knn_model.fit(user_to_movie_sparse_df)
 
 ## create a new user row from movies they like
 
-movies = ['Air Bud', 'Air Force One', 'Beverly Hills Ninja', 'Booty Call', 'Bulletproof', 'Conspiracy Theory', 'Fargo', 'Jack', 'Jungle2Jungle', 'Liar Liar', 'Love Jones', "McHale's Navy", 'Men in Black', 'Mimic', 'Money Talks', 'Murder at 1600', 'Private Parts', 'Scream', 'Thin Line Between Love and Hate, A']
+# movies = ['Air Bud', 'Air Force One', 'Beverly Hills Ninja', 'Booty Call', 'Bulletproof', 'Conspiracy Theory', 'Fargo', 'Jack', 'Jungle2Jungle', 'Liar Liar', 'Love Jones', "McHale's Navy", 'Men in Black', 'Mimic', 'Money Talks', 'Murder at 1600', 'Private Parts', 'Scream', 'Thin Line Between Love and Hate, A']
 
 def new_user_from_movies(movies):
     user_id_list = [-1] * len(movies)
@@ -47,7 +47,7 @@ def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, use
   # def get_similar_users(user, user_to_movie_df, knn_model, n = 5):
   def get_similar_users(n = 5):
 
-    knn_input_array = np.array([4.5 if col in movies else 0 for col in user_to_movie_df.columns])
+    knn_input_array = np.array([4.5 if col in user_df["movie title"] else 0 for col in user_to_movie_df.columns])
     
     knn_input = np.asarray([knn_input_array])
     
@@ -99,10 +99,14 @@ def new_recommender_system(user_df, n_similar_users = 15, n_movies = 10): #, use
 
 def collaborative_recommender(movies):
     new_user_dataset = new_user_from_movies(movies)
-    new_user_dataset.head()
+    # new_user_dataset.head()
     titles = new_recommender_system(new_user_dataset, 15,15)
     return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]]
 
-# print("Recommended movies: ", collaborative_recommender(movies))
+# test_movies = ["The Matrix",
+# "The Dark Knight",
+# "Toy Story",
+# "The Avengers"]
+# print("Recommended movies: ", collaborative_recommender(test_movies))
 
 # title, poster_path
