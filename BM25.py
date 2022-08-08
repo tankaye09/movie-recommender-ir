@@ -14,24 +14,24 @@ class BM25:
         self._calc_idf(tf)
 
     def cal_tf(self, data):
-        tf = {}  # word -> number of documents with word
+        tf = {}  # term -> number of documents with term
         num_doc = 0
         for document in data:
             self.doc_len.append(len(document))
             num_doc += len(document)
 
             frequencies = {}
-            for word in document:
-                if word not in frequencies:
-                    frequencies[word] = 0
-                frequencies[word] += 1
+            for term in document:
+                if term not in frequencies:
+                    frequencies[term] = 0
+                frequencies[term] += 1
             self.doc_freqs.append(frequencies)
 
-            for word, freq in frequencies.items():
+            for term, freq in frequencies.items():
                 try:
-                    tf[word]+=1
+                    tf[term]+=1
                 except KeyError:
-                    tf[word] = 1
+                    tf[term] = 1
 
             self.data_size += 1
 
@@ -75,36 +75,25 @@ class BM25Okapi(BM25):
         super().__init__(data)
 
     def _calc_idf(self, tf):
-        """
-        Calculates frequencies of terms in documents and in data.
-        This algorithm sets a floor on the idf values to eps * average_idf
-        """
-        # collect idf sum to calculate an average idf for epsilon value
-        idf_sum = 0
+        # collect idf sum to calculate an average idf for epsilon value, default floor of idf is set to 0
         # collect words with negative idf to set them a special epsilon value.
-        # idf can be negative if word is contained in more than half of documents
+        # idf can be negative if term is contained in more than half of documents
+        idf_sum = 0
         negative_idfs = []
-        for word, freq in tf.items():
+        for term, freq in tf.items():
             # freq is document frequency
             idf = math.log(self.data_size) - math.log(freq)
-            self.idf[word] = idf
+            self.idf[term] = idf
             idf_sum += idf
             if idf < 0:
-                negative_idfs.append(word)
+                negative_idfs.append(term)
         self.average_idf = idf_sum / len(self.idf)
 
         eps = self.epsilon * self.average_idf
-        for word in negative_idfs:
-            self.idf[word] = eps
+        for term in negative_idfs:
+            self.idf[term] = eps
 
     def get_scores(self, query):
-        """
-        The ATIRE BM25 variant uses an idf function which uses a log(idf) score. To prevent negative idf scores,
-        this algorithm also adds a floor to the idf value of epsilon.
-        See [Trotman, A., X. Jia, M. Crane, Towards an Efficient and Effective Search Engine] for more info
-        :param query:
-        :return:
-        """
         score = np.zeros(self.data_size)
         doc_len = np.array(self.doc_len)
         for q in query:
@@ -114,9 +103,6 @@ class BM25Okapi(BM25):
         return score
 
     def get_batch_scores(self, query, doc_ids):
-        """
-        Calculate bm25 scores between query and subset of all docs
-        """
         assert all(di < len(self.doc_freqs) for di in doc_ids)
         score = np.zeros(len(doc_ids))
         doc_len = np.array(self.doc_len)[doc_ids]
@@ -127,20 +113,22 @@ class BM25Okapi(BM25):
         return score.tolist()
 
 
-corpus = pd.read_csv("movie_lens_dataset/movies_metadata_processed_id_title_overview.csv")
+corpus = pd.read_csv("movie_lens_dataset\movies_metadata_processed_no_stopwords.csv")
 
-overview = corpus['overview']
-tokenized_corpus = [doc.split(" ") for doc in overview]
-bm25 = BM25Okapi(tokenized_corpus)
+def top_related_movies(query_title, corpus):
+    overview = corpus['overview']
+    tokenized_corpus = [doc.split(" ") for doc in overview]
+    bm25 = BM25Okapi(tokenized_corpus)
+    
+    query = corpus.loc[corpus['original_title'] == query_title, 'overview'].item()
+    tokenized_query = query.split(" ")
 
-title = "Toy Story"
-query = corpus.loc[corpus['original_title'] == title, 'overview'].item()
+    doc_scores = bm25.get_top_n(tokenized_query, overview, n=10)
 
-tokenized_query = query.split(" ")
+    top_titles = []
+    for i in doc_scores:
+        top_titles.append(corpus.loc[corpus['overview'] == i, 'original_title'].item())
+    
+    return top_titles
 
-doc_scores = bm25.get_top_n(tokenized_query, overview, n=5)
-
-top_titles = []
-for i in doc_scores:
-    top_titles.append(corpus.loc[corpus['overview'] == i, 'original_title'].item())
-print(top_titles)
+print(top_related_movies("Toy Story", corpus))
