@@ -18,14 +18,16 @@ On mac
 
 `pip3 install -r requirements.txt`
 
+## Build the web app
+
+`npm run build`
+
 ## To run flask server
 
 `python -m flask run`
+or
 `FLASK_ENV=development flask run`
 
-## To run web app
+## To access webapp
 
-```
-cd client
-npm start
-```
+Got to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)

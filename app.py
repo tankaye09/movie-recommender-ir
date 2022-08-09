@@ -4,7 +4,7 @@ import BERT
 import collaborative
 
 # Initialize Flask app
-app = Flask(__name__)
+app = Flask(__name__, static_folder='./client/build', static_url_path='/')
 CORS(app) 
 
 # BERT Cosine Similarity
@@ -30,18 +30,9 @@ def collab():
         return "An error occured", 400
     return res
 
-# Testing
-@app.route("/", methods=['GET'])
-def hello():
-    return "Hello!"
-
-# @app.route("/")
-# @app.route("/home")
-# def home():
-#     suggestions = get_suggestions()
-#     return render_template('home.html',suggestions=suggestions)
-
-
+@app.route("/")
+def home():
+    return app.send_static_file('index.html')
 
 if __name__=='__main__':
     app.run(port = 5000, debug = True)
