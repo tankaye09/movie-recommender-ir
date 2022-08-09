@@ -20,9 +20,14 @@ On mac
 
 ## Build the web app
 
-`npm run build`
+```
+cd client
+npm run build
+```
 
 ## To run flask server
+
+From root
 
 `python -m flask run`
 or
