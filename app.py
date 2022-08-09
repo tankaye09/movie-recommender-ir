@@ -1,33 +1,38 @@
-from flask import Flask,request,jsonify,render_template
+from flask import Flask,request,render_template
 from flask_cors import CORS
-from cosine_similarity import CosineSimilarity
-from okapiBM25 import OkapiBM25
-import pandas as pd
+import BERT
+import collaborative
 
-datafile =  "processed_data.csv"
-data = pd.read_csv("processed_data.csv")
-
-# Cosine Similarity
-data.index=data.docid
-cosine_similarity = CosineSimilarity(data)
-
-# OkapiBM25
-
-
-
-def get_suggestions():
-    data = pd.read_csv('processed_data_partial.csv')
-    return list(data['title'].str.capitalize())
-
-app = Flask(__name__)
+# Initialize Flask app
+app = Flask(__name__, static_folder='./client/build', static_url_path='/')
 CORS(app) 
 
+# BERT Cosine Similarity
+@app.route("/search", methods=['GET'])
+def search():
+    print("Searching for movie...")
+    args = request.args
+    query = args.get("query")
+    try: 
+        res = BERT.getBertRecommendations(query)
+    except:
+        return "Movie not found", 400
+    return res
+
+@app.route("/collab", methods=['GET'])
+def collab():
+    args = request.args
+    query = args.get("query")
+    query = query.split(",")
+    try:
+        res = collaborative.collaborative_recommender(query)
+    except:
+        return "An error occured", 400
+    return res
 
 @app.route("/")
-@app.route("/home")
 def home():
-    suggestions = get_suggestions()
-    return render_template('home.html',suggestions=suggestions)
+    return app.send_static_file('index.html')
 
 if __name__=='__main__':
     app.run(port = 5000, debug = True)

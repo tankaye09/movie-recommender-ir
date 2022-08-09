@@ -1,5 +1,6 @@
 import math
 import pandas as pd
+from tqdm import tqdm
 
 class OkapiBM25:
     def __init__(self, data: pd.DataFrame) -> None:
@@ -43,15 +44,18 @@ class OkapiBM25:
 
     def okapiBM25_matrix(self) -> pd.DataFrame:
         okapiBM25_matrix = {}
-        for _, document in self.data.iterrows():
-            docId = document["docid"]
-            plot = document["plot"]
+        for _, document in tqdm(self.data.iterrows()):
+            docId = document["id"]
+            plot = document["overview"]
             for token in plot.split(" "):
                 if token in okapiBM25_matrix:
-                    okapiBM25_matrix[token][docId] = self.okapiBM25(token, plot, self.data["plot"].tolist())
+                    okapiBM25_matrix[token][docId] = self.okapiBM25(token, plot, self.data["overview"].tolist())
                 else:
-                    okapiBM25_matrix[token] = {docId: self.okapiBM25(token, plot, self.data["plot"].tolist())}
-        return pd.DataFrame(okapiBM25_matrix).fillna(0)
+                    okapiBM25_matrix[token] = {docId: self.okapiBM25(token, plot, self.data["overview"].tolist())}
+        # save df file as a csv
+        df = pd.DataFrame(okapiBM25_matrix).fillna(0)
+        df.to_csv('BM25_matrix.csv', encoding='utf-8', index=False)
+        return ("csv for BM25 saved!")
 
     def cosine_similarity(self, vector1: list, vector2: list) -> float:
         '''
@@ -86,8 +90,11 @@ class OkapiBM25:
         print("indices", movie_indices)
         return self.data["title"].loc[movie_indices]
 
-# data = pd.read_csv("processed_data.csv")
-# data.index=data.docid
+
+
+data = pd.read_csv("movie_lens_dataset\movies_metadata_processed_id_overview_pair.csv", dtype={"user_id": int, "username": "string"})
+data.index = data['id']
 # print(data)
-# okapiBM25 = OkapiBM25(data)
+okapiBM25 = OkapiBM25(data)
+print(okapiBM25.okapiBM25_matrix())
 # print(okapiBM25.get_movie_recommendations("$"))
