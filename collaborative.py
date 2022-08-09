@@ -1,7 +1,5 @@
-import os
 import numpy as np
 import pandas as pd
-import pickle
 from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 
@@ -100,5 +98,10 @@ test_movies_girl = ["The Devil Wears Prada",
 "Sex and the City",
 "Frozen"]
 
+<<<<<<< HEAD
+print("Recommended movies: ", collaborative_recommender(test_movies_guy))
+=======
+# print("Recommended movies: ", collaborative_recommender(test_movies_girl))
+>>>>>>> 981d3c64c57ccf81a325daa5f9f57ded605cdcbb
 
 print("Recommended movies: ", collaborative_recommender(test_movies_guy))
