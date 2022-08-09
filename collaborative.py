@@ -9,16 +9,8 @@ from sklearn.neighbors import NearestNeighbors
 
 user_to_movie_df = pd.read_pickle('pickle/user_to_movie.pickle')
 refined_dataset = pd.read_pickle('pickle/refined_dataset.pickle')
+knn_model = pickle.load(open("pickle/knn_model.pickle", "rb"))
 dataset = pd.read_csv('movie_lens_dataset/movies_metadata_processed.csv', encoding='latin-1')
-
-# transform matrix to scipy sparse matrix
-
-user_to_movie_sparse_df = csr_matrix(user_to_movie_df.values)
-
-# Fitting KNN model to scipy sparse matrix
-
-knn_model = NearestNeighbors(metric='cosine', algorithm='brute')
-knn_model.fit(user_to_movie_sparse_df)
 
 ## create a new user row from movies they like
 
@@ -95,7 +87,7 @@ def new_recommender_system(user_df, n_similar_users, n_movies): #, user_to_movie
   
 def collaborative_recommender(movies):
     new_user_dataset = new_user_from_movies(movies)
-    titles = new_recommender_system(new_user_dataset, 5,15)
+    titles = new_recommender_system(new_user_dataset, 5,10)
     return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]]
 
 test_movies_guy = ["The Matrix",
@@ -105,7 +97,8 @@ test_movies_guy = ["The Matrix",
 
 test_movies_girl = ["The Devil Wears Prada",
 "Mean Girls",
-"Sex and the City",]
+"Sex and the City",
+"Frozen"]
 
 
-print("Recommended movies: ", collaborative_recommender(test_movies_girl))
+print("Recommended movies: ", collaborative_recommender(test_movies_guy))
