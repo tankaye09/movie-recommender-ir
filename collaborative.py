@@ -1,7 +1,5 @@
-import os
 import numpy as np
 import pandas as pd
-import pickle
 from scipy.sparse import csr_matrix
 from sklearn.neighbors import NearestNeighbors
 
@@ -95,8 +93,8 @@ def new_recommender_system(user_df, n_similar_users, n_movies): #, user_to_movie
   
 def collaborative_recommender(movies):
     new_user_dataset = new_user_from_movies(movies)
-    titles = new_recommender_system(new_user_dataset, 5,15)
-    return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]]
+    titles = new_recommender_system(new_user_dataset, 5,10)
+    return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]].to_json(orient='records')
 
 test_movies_guy = ["The Matrix",
 "The Dark Knight",
@@ -108,4 +106,4 @@ test_movies_girl = ["The Devil Wears Prada",
 "Sex and the City",]
 
 
-print("Recommended movies: ", collaborative_recommender(test_movies_girl))
+# print("Recommended movies: ", collaborative_recommender(test_movies_girl))
