@@ -19,6 +19,7 @@ def search():
         return "Movie not found", 400
     return res
 
+# Collaborative Filtering KNN
 @app.route("/collab", methods=['GET'])
 def collab():
     args = request.args
@@ -30,6 +31,7 @@ def collab():
         return "An error occured", 400
     return res
 
+# Serving React app
 @app.route("/")
 def home():
     return app.send_static_file('index.html')
