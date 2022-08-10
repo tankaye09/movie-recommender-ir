@@ -142,7 +142,7 @@ function App() {
                 {movie.title}
               </Text>
               <Text mt="md" align="center">
-                {movie.release_date}
+                {dayjs(movie.release_date).format("MMM DD, YYYY")}
               </Text>
             </Stack>
           </Card>
