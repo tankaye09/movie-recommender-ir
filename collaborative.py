@@ -87,7 +87,7 @@ def new_recommender_system(user_df, n_similar_users, n_movies): #, user_to_movie
 def collaborative_recommender(movies):
     new_user_dataset = new_user_from_movies(movies)
     titles = new_recommender_system(new_user_dataset, 5,10)
-    return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]]
+    return dataset[dataset["title"].isin(titles)][["title", "poster_path", "release_date"]].to_json(orient='records')
 
 test_movies_guy = ["The Matrix",
 "The Dark Knight",
