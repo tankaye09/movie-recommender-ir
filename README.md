@@ -20,6 +20,10 @@ On mac
 
 `pip3 install -r requirements.txt`
 
+## Create directories and run ipynb files to generate pickle files
+
+Create a pickle directory
+
 ## Build the web app
 
 ```
